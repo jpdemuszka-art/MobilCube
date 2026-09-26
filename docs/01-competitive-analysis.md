@@ -14,12 +14,12 @@ Source: mobilcube.com (FR + EN), crawled 2026-09-26.
 | Rent, on-site | Liberté (no commitment) **350 $/mo**. Avantage 3 mo **300 $**, 6 mo **270 $**, 12 mo **220 $**, 24 mo **180 $** per month. |
 | Rent, warehouse | 369.75 $ · 319.75 $ · 289.75 $ · 239.75 $ · 199.75 $ (same terms, +19.75 $). |
 | Transport | **300 $ per movement**, first 15 km from Boucherville included, then **2 $/km**. Empty return = same as delivery. (The delivery page also shows an older block saying 395 $ and 3 $/km — **remove it**, it contradicts the booking page.) |
-| Other fees | Deposit 200 $ (refunded 2–3 days after inspection). Failed delivery 250 $. Date change: free >72 h, 50 $ (48–71 h), 150 $ (24–47 h), 250 $ (<24 h). Accessories: lock 20 $, 6 blankets 46 $, 3 straps 45 $, dolly 100 $, "Pack Tranquillité" 149 $. |
+| Other fees | Deposit 200 $ (refunded 2–3 days after inspection). Early termination of an Avantage plan: fixed 150 $ fee. Failed delivery 250 $. Date change: free >72 h, 50 $ (48–71 h), 150 $ (24–47 h), 250 $ (<24 h). Accessories: lock 20 $, 6 blankets 46 $, 3 straps 45 $, dolly 100 $, "Pack Tranquillité" 149 $. |
 | Booking | "Obtenir mon prix en moins de 60 s" → partner booking platform, price shown without an account, card or bank transfer. |
 | Segments on site | Residential (moving, renovation), Commercial (inventory, seasonal — home page image literally shows Longueuil restaurant staff loading terrace furniture), Industrial/jobsite, Film production, Post-disaster, Seasonal (tires, bikes, garden furniture). Pricing-page hero shows a collector car being stored in a unit. |
 | Warehouse rule | FAQ: when a unit is stored in the Boucherville warehouse it is **strictly forbidden** to store flammables (fuels, solvents, gas cylinders), toxics, perishables. This means **vehicles with fuel can be stored on-site (your driveway) but need a fuel/battery policy before we promise warehouse vehicle storage.** |
 | Tracking | GTM-K3G9FKRW and GA4 G-640H58NDHN are installed. **No Google Ads conversion tag (AW-) and no call tracking** were found in the page source. |
-| Site quality | Fully bilingual, French default, consistent CTA, clear prices (rare in this market). Weak spots: the 148 vs 160 sq ft inconsistency, the 300 vs 395 $ delivery inconsistency, phone number only in the top bar (no sticky mobile call button), no dedicated pages for vehicles or terraces, "fireproof/airtight" style claims should be softened to what is provable (welded CORTEN steel, watertight). |
+| Site quality | Fully bilingual, French default, consistent CTA, clear prices (rare in this market). Weak spots: the 148 vs 160 sq ft inconsistency, the 300 vs 395 $ delivery inconsistency, the home page's "20 000 lb" capacity versus the 10 000 lb transport limit on the capacities page, the home-page word "ignifuge" (fireproof), phone number only in the top bar (no sticky mobile call button), no dedicated pages for vehicles or terraces, "fireproof/airtight" style claims should be softened to what is provable (welded CORTEN steel, watertight). |
 
 **What MobilCube has that no Montreal mobile competitor has:** published all-in prices, one big 20 ft unit (Cubeit 16 ft, PODS 8–16 ft, GoCube 5×8 ft cubes), a heated warehouse on the South Shore, delivery anywhere in Quebec, 24/7 on-site access, online booking in 60 seconds, a French-first site. What it lacks: reviews at scale, call tracking, segment landing pages, a vehicle policy.
 
@@ -29,7 +29,7 @@ Source: mobilcube.com (FR + EN), crawled 2026-09-26.
 Sources: cubeit.ca/quebec/montreal, cubeit.ca/fr, cubeit.ca/deals, rental agreement PDF, GTM container GTM-5LNBCKT.
 
 - **Offer:** one 8×8×16 ft container ("128 feet of space"), not heated, 4-week prepaid cycles, minimum four weeks, rent **not published** (quote by postal code). Third-party comparison confirms rent + delivery + pickup + optional yard fee. Yard is in **Vaudreuil-Dorion** (far west, off-island).
-- **Promo:** "Free local delivery" on all markets **until 2026-09-30**, within 25 km of a Cubeit location. Costco, Perkopolis, military and 100 $ referral programs.
+- **Promo:** "Free local delivery" on all markets **until 2026-09-30**, within 25 km of a Cubeit location (the 25 km condition appears on the French page, not on /deals). Perkopolis, military and 100 $ referral programs on /deals; a Costco member program on its own page.
 - **Vehicles:** rental agreement forbids "vehicles, motorcycles, engines" and flammables; 4,750 lb load, 5,000 $ value cap. **They cannot serve the winter-vehicle market.**
 - **Commercial:** generic retail/construction pages; no restaurant or terrace page.
 - **Marketing machine:** 4 Google Ads conversion IDs, Google call tracking, Bing UET, Meta, LinkedIn, GA4, Google Optimize on the estimator, six tracking phone numbers. They **are** bidding and optimising on calls.
@@ -41,7 +41,7 @@ Sources: pods.ca (EN/FR Montreal page, /promo, /winter-car-storage, /business), 
 
 - **Offer:** 8, 12, 16 ft containers, month-to-month, first 30 days included, rent **not published** (quote drawer needs email). Third-party estimate for Montreal: C$240–370/month plus C$100–200 delivery (moving-calculator.net, March 2026, directional only). Laval storage centre (1975 rue John-Molson). Extended delivery charges beyond ~32 km of the centre.
 - **Promo:** site-wide countdown code LAST30 / DERNIERE30 (up to 30 % off first month and delivery fees, expiring 2026-09-29); 3/6/12-month bundles with free delivery and 15–25 % off; EN promo page says 25 %, FR says 30 % (inconsistent).
-- **Vehicles:** a real **Winter Car Storage** program in 8 Canadian cities including Montreal — **drop-off only at the Laval centre, cars only** (FAQ bans motorcycles, ATVs, watercraft, anything with fuel), stored in a heated facility, dedicated line (855) 715-3361, no price shown.
+- **Vehicles:** a real **Winter Car Storage** program in 8 Canadian cities including Montreal — **drop-off only at the Laval centre, cars only** (FAQ bans motorcycles, dirt bikes, "off-highway vehicles", watercraft, and anything with fuel or oil), stored in a heated facility, phone (855) 706-4758 on the page, no price shown.
 - **Commercial:** restaurant/hotel/retail pages in English that already talk about patio heaters and outdoor furniture.
 - **Marketing machine:** two Google Ads conversion IDs, website-call conversion tracking, remarketing, Floodlight, Bing, Meta, TikTok, LinkedIn; per-page tracking numbers. National TV/digital budget.
 - **Trust:** 4.7/5 on ~800 reviews (Laval).
@@ -114,7 +114,11 @@ From the initial scan: Depotium runs a "Montreal car storage" page (no prices vi
 | Hidden fees (29 $ + 18 $/mo, 4-week prepaid cycles) | "Aucun frais d'administration mensuel. Dépôt remboursé." |
 | English-first or English-only | French-first everything; English campaign for the West Island |
 
-## 6. Sources
+## 6. Verification
+
+Eight decision-critical claims from this document were re-checked against their primary pages by a separate fact-checking pass on 2026-09-26: six confirmed, two partially correct (PODS phone number, corrected above; Google's Local Services Ads category page is the US version, so Canadian eligibility for "Storage" still has to be confirmed in the account), none refuted. Full log: `docs/07-verification-log.md`.
+
+## 7. Sources
 - mobilcube.com/fr/ (home, prix-location, livraison-conteneur, capacites-stockage, foire-aux-questions, services-entreposage, formulaire-reservation, contactez-nous), crawled 2026-09-26
 - cubeit.ca/quebec/montreal, cubeit.ca/fr, cubeit.ca/deals, cubeit.ca/off-site-container-storage, static.cubeit.ca rental agreement (Feb 2019), googletagmanager.com/gtm.js?id=GTM-5LNBCKT
 - pods.ca/locations/canada/quebec/montreal, pods.ca/fr/, pods.ca/promo, pods.ca/fr/promo, pods.ca/winter-car-storage, pods.ca/faqs/containers-and-storage, moving-calculator.net/ca/pods-canada-cost

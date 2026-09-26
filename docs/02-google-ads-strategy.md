@@ -116,7 +116,7 @@ One PMax campaign, seasonal asset groups (Véhicules, Terrasses, Général), Gem
 
 ## 10. Local Services Ads / pay-per-lead
 
-Google lists **"Storage"** and **"Moving services"** among eligible Local Services Ads categories, and Local Services Ads are migrating into Performance Max with pay-per-lead goals from August 2026. Check eligibility for Boucherville in Google Ads → Local Services; if eligible, this is the cheapest call channel of all (pay per valid call, not per click). Requires business verification and insurance documents.
+Google's Local Services Ads category list (the US help page) includes **"Storage"** and **"Moving services"**, and Local Services Ads are migrating into Performance Max with pay-per-lead goals from August 2026. Canadian eligibility for those two categories is not confirmed by that page: check it for Boucherville in Google Ads → Local Services. If eligible, this is the cheapest call channel of all (pay per valid call, not per click). Requires business verification and insurance documents.
 
 ## 11. First 30 days checklist
 

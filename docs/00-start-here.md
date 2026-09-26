@@ -30,6 +30,7 @@
 
 ## Decisions only MobilCube can make (blocking for some ads)
 
+0. **Site fixes.** One square-footage number (148 or 160), one delivery price (300 $ + 2 $/km, remove the 395 $ block), one load figure (10 000 lb transport limit, not "20 000 lb"), and replace "ignifuge/fireproof" and "airtight" with "acier CORTEN soudé, étanche".
 1. **Vehicle policy.** On-site (driveway) storage of a car, motorcycle, ATV or snowmobile is safe to advertise now. Warehouse storage of anything with a fuel tank conflicts with the FAQ's ban on flammables; either exclude it or publish a rule (tank ≤ ¼, battery disconnected) before any "entrepôt chauffé" vehicle ad runs.
 2. **Seasonal offer.** The ads quote the real plans (270 $/mo on 6 months, 300 $ delivery). A packaged "Forfait hiver" (6 months + delivery + pickup at one price) would convert better and is easy to add to the booking platform.
 3. **Terrace dates.** Confirm the 2026 dismantling deadline for the boroughs your restaurant clients are in and put the date in the ad ("avant le 15 novembre").
@@ -37,7 +38,9 @@
 
 ## What was verified and what was not
 
-Verified on primary sources on 2026-09-26: MobilCube prices and fees; Cubeit, PODS, BigSteelBox and Montreal Mini-Storage offers, promos and contract terms; Google's September 2026 removal of language targeting for Search; Google's list of Local Services Ads categories (includes "Storage" and "Moving services"); Gemini image model IDs and prices; Google image-asset specs; OQLF June 2025 signage rule.
+A separate fact-checking pass re-fetched the primary pages for eight decision-critical claims: six confirmed, two partially correct and corrected, none refuted (`docs/07-verification-log.md`).
+
+Verified on primary sources on 2026-09-26: MobilCube prices and fees; Cubeit, PODS, BigSteelBox and Montreal Mini-Storage offers, promos and contract terms; Google's September 2026 removal of language targeting for Search; Google's US list of Local Services Ads categories (includes "Storage" and "Moving services"; Canadian eligibility to confirm); Gemini image model IDs and prices; Google image-asset specs; OQLF June 2025 signage rule.
 
 Estimated, to validate in Keyword Planner and with two weeks of data: every search volume and CPC; conversion rates; the budget forecast.
 
