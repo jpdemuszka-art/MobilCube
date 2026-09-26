@@ -1,0 +1,9 @@
+﻿Campaign,Header,Values
+FR | Search | Vehicules hiver,Services,Auto;Moto;VTT;Terrasse;Déménagement;Rénovation;Chantier
+FR | Search | Terrasse commercial,Services,Auto;Moto;VTT;Terrasse;Déménagement;Rénovation;Chantier
+FR | Search | Entreposage mobile,Services,Auto;Moto;VTT;Terrasse;Déménagement;Rénovation;Chantier
+EN | Search | Winter vehicle,Services,Car;Motorcycle;ATV;Patio;Moving;Renovation;Jobsite
+EN | Search | Commercial patio,Services,Car;Motorcycle;ATV;Patio;Moving;Renovation;Jobsite
+EN | Search | Mobile storage,Services,Car;Motorcycle;ATV;Patio;Moving;Renovation;Jobsite
+FR+EN | Search | Marque,Services,Auto;Moto;VTT;Terrasse;Déménagement;Rénovation;Chantier
+FR+EN | Search | Concurrents,Services,Auto;Moto;VTT;Terrasse;Déménagement;Rénovation;Chantier

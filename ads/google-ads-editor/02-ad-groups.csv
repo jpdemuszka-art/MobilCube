@@ -1,0 +1,33 @@
+﻿Campaign,Ad Group,Ad Group Type,Max CPC,Ad Group Status
+FR | Search | Entreposage mobile,Entreposage mobile,Standard,3.60,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,Standard,3.60,Enabled
+FR | Search | Entreposage mobile,Cube d'entreposage,Standard,3.60,Enabled
+FR | Search | Vehicules hiver,Auto hiver,Standard,2.80,Enabled
+FR | Search | Vehicules hiver,Voiture collection,Standard,2.80,Enabled
+FR | Search | Vehicules hiver,"Bateau (test, pausé)",Standard,2.80,Paused
+FR | Search | Vehicules hiver,Moto hiver,Standard,2.80,Enabled
+FR | Search | Vehicules hiver,VTT,Standard,2.80,Enabled
+FR | Search | Vehicules hiver,Motoneige,Standard,2.80,Enabled
+FR | Search | Vehicules hiver,Remorque & équipement,Standard,2.80,Enabled
+FR | Search | Vehicules hiver,Motomarine & petit bateau,Standard,2.80,Enabled
+FR | Search | Terrasse commercial,Mobilier de terrasse,Standard,2.40,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,Standard,2.40,Enabled
+FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,Standard,2.40,Enabled
+FR | Search | Terrasse commercial,Paysagiste & équipement,Standard,2.40,Enabled
+FR | Search | Terrasse commercial,Hôtel & condo,Standard,2.40,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,Standard,3.60,Enabled
+FR | Search | Entreposage mobile,Montréal & Laval (géo),Standard,3.60,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),Standard,3.60,Enabled
+EN | Search | Mobile storage,Mobile storage,Standard,4.80,Enabled
+EN | Search | Mobile storage,Portable container,Standard,4.80,Enabled
+EN | Search | Mobile storage,"Self storage alternative (test, paused)",Standard,4.80,Paused
+EN | Search | Mobile storage,West Island & geo,Standard,4.80,Enabled
+EN | Search | Winter vehicle,Winter car storage,Standard,4.80,Enabled
+EN | Search | Winter vehicle,Motorcycle & ATV,Standard,4.80,Enabled
+EN | Search | Winter vehicle,"Boat (test, paused)",Standard,4.80,Paused
+EN | Search | Winter vehicle,Boat & PWC,Standard,4.80,Enabled
+EN | Search | Commercial patio,Patio furniture,Standard,4.00,Enabled
+EN | Search | Commercial patio,Business seasonal,Standard,4.00,Enabled
+FR+EN | Search | Concurrents,Competitors EN,Standard,2.00,Enabled
+FR+EN | Search | Marque,MobilCube,Standard,1.60,Enabled
+FR+EN | Search | Concurrents,Concurrents FR,Standard,2.00,Enabled

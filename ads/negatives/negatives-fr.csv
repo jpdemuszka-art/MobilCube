@@ -1,0 +1,172 @@
+﻿negative keyword,category,suggested match type,why
+emploi,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+emplois,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+job,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+jobs,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+carrière,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+carrières,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+salaire,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+offre d'emploi,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+recrutement,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+embauche,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+cariste,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+commis d'entrepôt,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+technicien,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+poste,Emploi / RH,phrase,"Job seekers ('commis entreposage', 'emploi entrepôt')"
+gratuit,Gratuit,phrase,No-budget intent
+gratuite,Gratuit,phrase,No-budget intent
+gratuitement,Gratuit,phrase,No-budget intent
+don,Gratuit,phrase,No-budget intent
+donner,Gratuit,phrase,No-budget intent
+à vendre,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+a vendre,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+vente,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+acheter,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+achat,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+usagé,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+usagée,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+occasion,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+kijiji,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+lespac,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+marketplace,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+facebook marketplace,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+conteneur maritime,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+container maritime,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+conteneur 20 pieds,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+conteneur 40 pieds,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+conteneur sea can,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+seacan,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+prix d'un conteneur,Achat de conteneur / petites annonces,phrase,"Wants to BUY a shipping container or a used item, not rent storage"
+ikea,Détaillants (produits de rangement),phrase,"Retail product searches (bacs, étagères)"
+canadian tire,Détaillants (produits de rangement),phrase,"Retail product searches (bacs, étagères)"
+costco,Détaillants (produits de rangement),phrase,"Retail product searches (bacs, étagères)"
+home depot,Détaillants (produits de rangement),phrase,"Retail product searches (bacs, étagères)"
+rona,Détaillants (produits de rangement),phrase,"Retail product searches (bacs, étagères)"
+walmart,Détaillants (produits de rangement),phrase,"Retail product searches (bacs, étagères)"
+amazon,Détaillants (produits de rangement),phrase,"Retail product searches (bacs, étagères)"
+wayfair,Détaillants (produits de rangement),phrase,"Retail product searches (bacs, étagères)"
+structube,Détaillants (produits de rangement),phrase,"Retail product searches (bacs, étagères)"
+bureau en gros,Détaillants (produits de rangement),phrase,"Retail product searches (bacs, étagères)"
+plan,DIY,phrase,"Wants to build a shed/rack, not rent"
+plans,DIY,phrase,"Wants to build a shed/rack, not rent"
+diy,DIY,phrase,"Wants to build a shed/rack, not rent"
+fabriquer,DIY,phrase,"Wants to build a shed/rack, not rent"
+construire,DIY,phrase,"Wants to build a shed/rack, not rent"
+construction d'un,DIY,phrase,"Wants to build a shed/rack, not rent"
+soi-même,DIY,phrase,"Wants to build a shed/rack, not rent"
+bricolage,DIY,phrase,"Wants to build a shed/rack, not rent"
+tutoriel,DIY,phrase,"Wants to build a shed/rack, not rent"
+comment faire,DIY,phrase,"Wants to build a shed/rack, not rent"
+définition,Informationnel / académique,phrase,"Dictionary, training, legal research"
+signification,Informationnel / académique,phrase,"Dictionary, training, legal research"
+synonyme,Informationnel / académique,phrase,"Dictionary, training, legal research"
+traduction,Informationnel / académique,phrase,"Dictionary, training, legal research"
+anglais,Informationnel / académique,phrase,"Dictionary, training, legal research"
+c'est quoi,Informationnel / académique,phrase,"Dictionary, training, legal research"
+wikipedia,Informationnel / académique,phrase,"Dictionary, training, legal research"
+cours,Informationnel / académique,phrase,"Dictionary, training, legal research"
+formation,Informationnel / académique,phrase,"Dictionary, training, legal research"
+loi,Informationnel / académique,phrase,"Dictionary, training, legal research"
+règlement,Informationnel / académique,phrase,"Dictionary, training, legal research"
+normes,Informationnel / académique,phrase,"Dictionary, training, legal research"
+norme,Informationnel / académique,phrase,"Dictionary, training, legal research"
+code du bâtiment,Informationnel / académique,phrase,"Dictionary, training, legal research"
+toronto,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+ottawa,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+gatineau,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+ville de québec,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+québec city,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+quebec city,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+lévis,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+sherbrooke,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+trois-rivières,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+saguenay,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+chicoutimi,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+rimouski,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+drummondville,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+granby,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+france,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+paris,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+belgique,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+lyon,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+marseille,Géo hors zone,phrase,Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')
+logiciel,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+système de gestion,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+wms,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+gestion d'inventaire,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+données,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+cloud,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+nuage,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+informatique,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+disque dur,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+stockage de données,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+batterie,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+stockage d'énergie,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+énergie,Techno / stockage de données,phrase,'Stockage' and 'entreposage inventaire' software intent
+logistique,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+3pl,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+palettes,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+palettisation,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+distribution,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+entrepôt frigorifique,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+réfrigéré,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+congelé,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+chambre froide,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+sous douane,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+douane,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+industriel à louer,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+entrepôt à louer,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+entrepôt à vendre,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+pi2 à louer,Logistique / immobilier industriel,phrase,"Warehouse leasing and 3PL, not self-storage"
+rangement,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+étagère,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+étagères,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+garde-robe,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+armoire,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+bac,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+bacs,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+boîte de rangement,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+cabanon,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+remise à vendre,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+abri tempo,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+abri d'auto,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+housse,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+bâche,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+toile,Produits de rangement / abris,phrase,"Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+moteur,Hivernage = service mécanique,phrase,Winterization service intent under 'hivernage bateau/moto'
+antigel,Hivernage = service mécanique,phrase,Winterization service intent under 'hivernage bateau/moto'
+entoilage,Hivernage = service mécanique,phrase,Winterization service intent under 'hivernage bateau/moto'
+mise au rancart,Hivernage = service mécanique,phrase,Winterization service intent under 'hivernage bateau/moto'
+changement d'huile,Hivernage = service mécanique,phrase,Winterization service intent under 'hivernage bateau/moto'
+mécanique,Hivernage = service mécanique,phrase,Winterization service intent under 'hivernage bateau/moto'
+réparation,Hivernage = service mécanique,phrase,Winterization service intent under 'hivernage bateau/moto'
+enchère,Divertissement,phrase,TV shows and auctions
+enchères,Divertissement,phrase,TV shows and auctions
+encan,Divertissement,phrase,TV shows and auctions
+storage wars,Divertissement,phrase,TV shows and auctions
+guerre des entrepôts,Divertissement,phrase,TV shows and auctions
+reddit,Divertissement,phrase,TV shows and auctions
+youtube,Divertissement,phrase,TV shows and auctions
+film,Divertissement,phrase,TV shows and auctions
+série,Divertissement,phrase,TV shows and auctions
+assurance,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+réclamation,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+faillite,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+avis de recherche,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+vin,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+cave à vin,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+armes,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+chien,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+chat,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+garderie,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+pneus,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+entreposage de pneus,Hors offre,phrase,"Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+u-haul,Marques concurrentes (optionnel),exact/phrase - optional,Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor
+uhaul,Marques concurrentes (optionnel),exact/phrase - optional,Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor
+cubeit,Marques concurrentes (optionnel),exact/phrase - optional,Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor
+gocube,Marques concurrentes (optionnel),exact/phrase - optional,Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor
+go cube,Marques concurrentes (optionnel),exact/phrase - optional,Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor
+pods,Marques concurrentes (optionnel),exact/phrase - optional,Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor
+public storage,Marques concurrentes (optionnel),exact/phrase - optional,Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor
+depotium,Marques concurrentes (optionnel),exact/phrase - optional,Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor
+entrepôt public,Marques concurrentes (optionnel),exact/phrase - optional,Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor

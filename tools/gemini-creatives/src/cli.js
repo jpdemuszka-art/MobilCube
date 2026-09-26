@@ -25,7 +25,7 @@ const opt = (name) => {
   return i >= 0 ? args[i + 1] : undefined;
 };
 
-const model = process.env.GEMINI_IMAGE_MODEL || 'gemini-2.5-flash-image';
+const model = process.env.GEMINI_IMAGE_MODEL || 'gemini-3.1-flash-image';
 const outDir = path.resolve(root, process.env.OUT_DIR || './out');
 const scenes = YAML.parse(await readFile(path.join(root, 'prompts/scenes.yaml'), 'utf8')).scenes;
 

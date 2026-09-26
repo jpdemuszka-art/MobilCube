@@ -1,0 +1,99 @@
+﻿negative keyword,reason,negative match type
+storage box,product (plastic bins/boxes),phrase
+storage bin,product,phrase
+storage bins,product,phrase
+plastic,product,broad
+tote,product,broad
+totes,product,broad
+ikea,product/retail,broad
+walmart,retail,broad
+canadian tire,retail,phrase
+home depot,retail,phrase
+amazon,retail,broad
+costco,retail,broad
+shelf,product,broad
+shelving,product,broad
+cabinet,product,broad
+closet,product,broad
+organizer,product,broad
+deck box,product,phrase
+storage bench,product,phrase
+patio cover,product,phrase
+furniture cover,product,phrase
+shed,product (garden sheds),broad
+sheds,product,broad
+garage kit,product,phrase
+carport,product,broad
+cloud,tech,broad
+icloud,tech,broad
+google drive,tech,phrase
+iphone,tech,broad
+android,tech,broad
+phone,tech,broad
+gb,tech,broad
+tb,tech,broad
+ssd,tech,broad
+hard drive,tech,phrase
+nas,tech,broad
+dropbox,tech,broad
+battery storage,tech (energy),phrase
+solar,tech (energy),broad
+for sale,purchase intent,phrase
+buy,purchase intent,broad
+used,purchase intent,broad
+sea can,shipping-container sales,phrase
+seacan,shipping-container sales,broad
+conex,shipping-container sales,broad
+shipping container home,irrelevant,phrase
+container home,irrelevant,phrase
+container house,irrelevant,phrase
+40 ft,oversize (MobilCube is 20 ft),phrase
+40ft,oversize,broad
+flat pack,different product,phrase
+jobs,employment,broad
+job,employment,broad
+careers,employment,broad
+hiring,employment,broad
+salary,employment,broad
+diy,informational,broad
+how to build,informational,phrase
+plans,informational,broad
+ideas,informational,broad
+reddit,informational,broad
+wiki,informational,broad
+definition,informational,broad
+moving truck,truck rental,phrase
+truck rental,truck rental,phrase
+van rental,truck rental,phrase
+movers,full-service movers (unless partnership),broad
+moving company,full-service movers,phrase
+packers,full-service movers,broad
+junk removal,disposal,phrase
+dumpster,disposal,broad
+auction,storage auctions,broad
+auctions,storage auctions,broad
+storage wars,TV show,phrase
+parking,street/monthly parking (keep for car-storage campaign only as review),broad
+marina,boat slips/marinas (review per campaign),broad
+dock,boat docks,broad
+boat lift,boat equipment,phrase
+winterization,"service, not storage (review)",broad
+shrink wrap,boat service,phrase
+detailing,auto service,broad
+mechanic,auto service,broad
+ontario,out of area,broad
+toronto,out of area,broad
+ottawa,out of area,broad
+quebec city,out of area,phrase
+vancouver,out of area,broad
+calgary,out of area,broad
+kirkland wa,geo confusion,phrase
+washington,geo confusion,broad
+hudson ny,geo confusion,phrase
+hudson ohio,geo confusion,phrase
+usa,out of area,broad
+free,freebie seekers (keep 'free delivery' via exact positive keywords if promo runs),broad
+cheapest,"low-value (test, do not add day 1)",broad
+craigslist,classifieds,broad
+kijiji,classifieds,broad
+facebook marketplace,classifieds,phrase

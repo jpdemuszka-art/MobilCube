@@ -1,0 +1,1790 @@
+{
+ "topic": "English keyword universe for MobilCube Google Ads (Montreal anglophone market: West Island, downtown, NDG, Westmount, Lachine, Vaudreuil-Hudson, anglophone South Shore)",
+ "summary": "English is a real but secondary market for MobilCube: Statistics Canada's 2021 census counts 867,685 people whose first official language spoken (FOLS) is English in the Montréal CMA (20.4% of 4,246,065) plus 284,025 (6.7%) 'English and French'; the standard FOLS derivation (English + half of 'both') gives ~23.8%, which validates the ~20-25% planning assumption. That English demand is geographically concentrated: English FOLS is 65-68% in Dollard-Des Ormeaux (31,455 of 48,200), Pointe-Claire (22,130 of 33,000), Beaconsfield (12,890 of 19,110), Kirkland (13,095 of 19,385) and Westmount (13,250 of 19,445), so English campaigns should be geo-targeted to those municipalities plus NDG, Lachine, Vaudreuil-Hudson and Greenfield Park/Saint-Lambert rather than run CMA-wide. No keyword tool with Canadian volumes was reachable in this session (Parallel Search rate-limited, Google Keyword Planner requires an account), so every monthly volume below is an ESTIMATE built from US Ahrefs anchors (storage units near me 445,000; self storage near me 82,000; RV storage 33,000; boat storage 30,000, pulled 2026-03-02 per StoragePug) scaled to the Montreal English-FOLS pool (~1.0M people, ~0.30% of the US population) and adjusted for seasonality; CPCs are ranges in CAD derived from published USD benchmarks (LocalIQ 2026: Home & Home Improvement $8.33, Business Services $5.87, Industrial & Commercial $5.87, Automotive Repair/Service $4.35, Real Estate $3.22; self-storage $3.80 average and $4-15 in dense metros; a Vancouver container-rental niche at $3) converted at an assumed 1.37 CAD/USD. The English universe splits into four clusters: (A) mobile/portable storage core terms where PODS, Cubeit, U-Haul U-Box and GoCube compete and CPCs are highest (est. 5-11 CAD); (B) winter vehicle storage terms (car, classic car, motorcycle, boat, ATV, trailer) with strong Sep-Nov seasonality and cheaper clicks (est. 2.50-7 CAD) where competitors are self-storage chains (Depotium, Public Storage Canada) and marinas, and PODS Montreal explicitly sells 'winter car storage'; (C) commercial/seasonal terms (patio furniture, restaurant terrace, business inventory, jobsite) with very low English volume but high B2B value (est. 6-13 CAD); (D) competitor brand terms. Google's Trademarks policy does not restrict trademark use as keywords, so bidding on 'pods montreal', 'cubeit', 'gocube', 'u-box' and 'bigsteelbox' is permitted, but those marks must not appear in ad text (only resellers/informational sites are exempted), and Google will act on complaints from trademark owners in countries where they hold rights, including Canada. Negative keywords do not match close variants, so plurals/misspellings must be listed explicitly; the 100+ item English negative list below covers product confusion (bins, sheds, deck boxes), tech storage (cloud, iPhone, GB), buy-vs-rent (for sale, sea can, 40 ft), jobs, adjacent services (movers, truck rental, marinas) and geo confusion (Kirkland WA, Hudson NY, Ontario).",
+ "findings": [
+  {
+   "claim": "English is roughly 20-24% of the Montréal CMA, concentrated in the West Island and Westmount.",
+   "detail": "2021 census FOLS for Montréal CMA: English 867,685 (20.4%), French 3,028,175 (71.3%), both 284,025 (6.7%), neither 66,180 (1.6%); total 4,246,065. English + half of 'both' = 1,009,698 = 23.8%. Municipal FOLS (English count / total of four categories): Dollard-Des Ormeaux 31,455/48,200 = 65%; Pointe-Claire 22,130/33,000 = 67%; Beaconsfield 12,890/19,110 = 67%; Kirkland 13,095/19,385 = 68%; Westmount 13,250/19,445 = 68%.",
+   "confidence": "high",
+   "sources": [
+    "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021S0503462&objectId=8",
+    "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021A00052466142&objectId=8",
+    "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021A00052466097&objectId=8",
+    "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021A00052466107&objectId=8",
+    "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021A00052466102&objectId=8",
+    "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021A00052466032&objectId=8"
+   ]
+  },
+  {
+   "claim": "No Canadian keyword-volume dataset was obtainable; all volumes are modelled estimates and must be validated in Google Keyword Planner (location: Montréal CMA, language: English) before launch.",
+   "detail": "Parallel Search MCP hit its free-tier rate limit on the first call and the WebSearch budget (200) was exhausted mid-task; Semrush/SE Ranking free checkers are JS apps not readable here. US anchors (Ahrefs, pulled 2026-03-02, monthly US searches): 'storage units near me' 445,000; 'self storage near me' 82,000; 'RV storage' 33,000; 'boat storage' 30,000. Scaling factor used: Montreal English-FOLS pool ~1.01M / US ~335M = 0.30%, then adjusted up for Montreal's winter-storage seasonality and down for terms with low English share.",
+   "confidence": "medium",
+   "sources": [
+    "https://www.storagepug.com/blog/running-google-ad-campaigns",
+    "https://support.google.com/google-ads/answer/7337243?hl=en"
+   ]
+  },
+  {
+   "claim": "Published CPC benchmarks put relevant categories at USD 3.22-8.33 per click (2026), with self-storage specifically at USD ~3.80 average and USD 4-15 in dense metros.",
+   "detail": "LocalIQ 2026 search benchmarks (published 2026-06-01, USD): Real Estate CPC $3.22 / CVR 3.70% / CPL $102.51; Business Services $5.87 / 4.85% / $93.69; Home & Home Improvement $8.33 / 8.05% / $90.92; Automotive Repair, Service & Parts $4.35 / 15.51% / $29.96; Industrial & Commercial $5.87 / 8.20% / $75.19; all-industry avg CPC $5.42, CVR 8.18%, CPL $66.69. Self-storage: ~$3.80 average CPC (BlogBuster 2025); $4-15/click for 'self storage near me'/'storage units [city]' in dense metros (StorIQ); Inside Self-Storage (2025-05-28) cites $10-40/click in the most contested US markets. Salt Water Digital (2024-09-24) documented a Vancouver container niche ('flat pack storage container') at 500 searches/mo, $3 CPC, $30 cost/conversion. Canadian CPCs are typically below US; an assumed 1.37 CAD/USD conversion is used in the tables (assumption, not sourced).",
+   "confidence": "medium",
+   "sources": [
+    "https://localiq.com/blog/search-advertising-benchmarks/",
+    "https://www.blogbuster.so/cpc-by-industry/Storage-Facilities-seo-blog-tool",
+    "https://www.storiq.ai/blog/self-storage-google-ads",
+    "https://www.insideselfstorage.com/marketing/paid-search-primarily-google-ads-your-not-so-secret-weapon-in-today-s-self-storage-marketing-battle",
+    "https://www.saltwaterdigital.com/self-storage-ppc/"
+   ]
+  },
+  {
+   "claim": "Google permits bidding on competitor trademarks as keywords but restricts them in ad text; trademark owners can file complaints for countries where they hold rights.",
+   "detail": "Google Ads Trademarks policy: 'Google does not restrict trademark use' as keywords or in the second-level domain of a display URL; restrictions apply to trademarks in ad text used by competitors or 'in a confusing, deceptive, or misleading way'; exceptions for reseller sites (landing page primarily dedicated to selling the trademarked product with commercial info) and informational sites; complaints are accepted 'within the countries and industries in which trademark owners have demonstrated trademark rights'. Practical rule for MobilCube: keywords 'pods', 'cubeit', 'gocube', 'u-box', 'bigsteelbox' are allowed; never place these words in headlines/descriptions/sitelinks/display path; avoid 'PODS' even generically in copy (use 'storage container', 'storage cube'). Canadian courts have not settled keyword-bidding liability; industry commentary notes liability turns on likelihood of confusion, so keep copy clearly MobilCube-branded.",
+   "confidence": "high",
+   "sources": [
+    "https://support.google.com/adspolicy/answer/6118?hl=en",
+    "https://www.brandverity.com/blog/google-ads-trademark-rules-101",
+    "https://globallawexperts.com/can-using-competitor-trademarks-in-google-ads-keywords-lead-to-legal-trouble/"
+   ]
+  },
+  {
+   "claim": "Competitor English presence in Montreal: PODS, Cubeit, U-Haul U-Box and GoCube are active; BigSteelBox has no Quebec location.",
+   "detail": "PODS Montreal page (pods.ca) sells 8', 12', 16' containers, 'portable container'/'moving container' wording, and 'Winter car storage: keep your car warm and clean all winter long in one of our safe, heated facilities'; no price shown, phone (855) 706-4758. Cubeit: 8x8x16 ft container, Quebec locations Montreal, Longueuil, Boucherville, Brossard, Laval, Gatineau; 'Free local delivery in all markets' within 25 km, valid through 2026-09-30; phone 1-844-897-3811; no vehicle storage. U-Haul U-Box: 8'x5'x7.6' container ('fits about a room and a half'), offered at Montréal-Ouest, Montréal-Nord, Centre-Ville (2000 Notre-Dame E), Crémazie Ouest and other Montreal centres. GoCube: 5x8x7 ft cube, 'storage cube', 'mobile storage', 'cube rental' wording, from $95/month (3 cubes x 5 months, transport excluded), 30% off 2+ cubes promo valid before 2026-03-31, 514-738-6843, serves Montreal + South & North Shore, no vehicle storage. BigSteelBox: 8', 10', 20' containers, 'from $484-$834' for a 1-month 20' rental incl. delivery/pickup (MovingWaldo, updated 2026-02-25), but locations page lists no Quebec store (Ottawa is easternmost).",
+   "confidence": "high",
+   "sources": [
+    "https://www.pods.ca/locations/canada/quebec/montreal",
+    "https://cubeit.ca/",
+    "https://cubeit.ca/locations/",
+    "https://cubeit.ca/deals/",
+    "https://www.uhaul.com/Locations/UBox-Containers-near-Montreal-QC-H4X1N1/844053/",
+    "https://www.uhaul.com/Locations/UBox-Containers-near-Montreal-QC-H2K2N3/844025/",
+    "https://gocube.com/en/storage-montreal/",
+    "https://www.bigsteelbox.com/locations/",
+    "https://www.bigsteelbox.com/moving/",
+    "https://www.movingwaldo.com/local-movers/best-moving-container-companies-canada/"
+   ]
+  },
+  {
+   "claim": "Montreal winter car storage market prices seen: $150-$200/month indoor with 4-5 month minimums; Sentinel (Hwy 40, West Island) described by users as overpriced.",
+   "detail": "Kijiji Greater Montréal car-storage listings: St-Leonard indoor garage $160/month, 5-month minimum; Ville St-Laurent indoor garage $200/month, 4-month minimum; secure heated spots at $150. Rennlist forum thread (Porsche owners) names Sentinel on Hwy 40 as 'overpriced'. Depotium and Public Storage Canada run dedicated 'Car Storage Montreal' / 'Winter Boat Storage in Montreal' / Dorval pages but show no price in the fetched content (not_found). MobilCube's only public prices: Advantage 'up to $180/month' (with commitment) and Freedom '$350/month' (no commitment).",
+   "confidence": "medium",
+   "sources": [
+    "https://www.kijiji.ca/b-grand-montreal/winter-car-storage/k0l80002",
+    "https://rennlist.com/forums/rennlist-canada/377852-looking-for-indoor-winter-parking-montreal-area.html",
+    "https://www.depotium.com/en/self-storage/montreal-car-storage/",
+    "https://www.depotium.com/en/self-storage/montreal-boat-storage/",
+    "https://publicstoragecanada.com/self-storage-dorval/?vehicle=car",
+    "https://www.mobilcube.com/en/"
+   ]
+  },
+  {
+   "claim": "Google negative keywords do not match close variants, so plurals, misspellings and synonyms must be added explicitly; match types are meaning-based.",
+   "detail": "Negative keyword help: 'Negative keywords won't match to close variants or other expansions'; negative match types are broad (all terms, any order), phrase (exact sequence), exact (whole query). Keyword match types: broad = searches related to the keyword (may not contain its meaning); phrase = searches that include the meaning; exact = same meaning or intent. Implication: keep positive keywords in phrase/exact for launch, and list both 'storage bin' and 'storage bins', 'shed' and 'sheds', etc. in negatives.",
+   "confidence": "high",
+   "sources": [
+    "https://support.google.com/google-ads/answer/2453972?hl=en",
+    "https://support.google.com/google-ads/answer/7478529?hl=en"
+   ]
+  },
+  {
+   "claim": "Self-storage PPC practitioners recommend exact-match launches and negatives for product/tote confusion, truck rental and jobs.",
+   "detail": "StoragePug (2026-07-01) recommends starting with exact match so 'storage containers' (plastic totes) searches don't trigger ads and uploading a customer-match exclusion list. Inside Self-Storage (2025-05-28) recommends negatives 'moving truck rental', 'jobs', 'careers', 'free' and keyword themes 'moving storage', 'business storage', 'climate-controlled storage', 'RV storage'. StorIQ notes self-storage buyers search within a 3-5 mile radius, supporting municipality-level geo bids for English.",
+   "confidence": "medium",
+   "sources": [
+    "https://www.storagepug.com/blog/running-google-ad-campaigns",
+    "https://www.insideselfstorage.com/marketing/paid-search-primarily-google-ads-your-not-so-secret-weapon-in-today-s-self-storage-marketing-battle",
+    "https://www.storiq.ai/blog/self-storage-google-ads"
+   ]
+  },
+  {
+   "claim": "Terminology differs by competitor and should be mirrored in ad groups: 'portable storage container' (PODS/Cubeit/U-Haul), 'moving container' (PODS/U-Box/BigSteelBox), 'storage cube' (GoCube, and MobilCube's own brand), 'mobile storage' (GoCube/MobilCube).",
+   "detail": "U-Haul SERP titles: 'Portable Storage & Moving Containers Near Montreal, QC'; PODS: 'portable container', 'moving container'; Cubeit: 'portable storage containers'; GoCube: 'storage cube', 'cube rental', 'mobile storage', 'removal container'; MobilCube EN homepage: 'mobile storage', 'container', 'unit', '160 sq. ft.', '20 feet of CORTEN steel', 'Rent. Store at your place or ours.'",
+   "confidence": "high",
+   "sources": [
+    "https://www.uhaul.com/Locations/UBox-Containers-near-Montreal-QC/Results/",
+    "https://www.pods.ca/locations/canada/quebec/montreal",
+    "https://cubeit.ca/",
+    "https://gocube.com/en/storage-montreal/",
+    "https://www.mobilcube.com/en/"
+   ]
+  }
+ ],
+ "recommendations": [
+  "Structure English search as 4 campaigns: EN-Core Mobile Storage (cluster A), EN-Vehicle Winter (cluster B, budget-weighted Sep 26-Nov 30), EN-Commercial Seasonal (cluster C, small budget + call-only ads, weekdays 8-18h), EN-Competitor (cluster D, separate campaign with its own low CPA target and no trademark words in copy).",
+  "Geo-target English campaigns to municipalities with >50% English FOLS (Pointe-Claire, Beaconsfield, Kirkland, DDO, Baie-D'Urfé, Senneville, Hudson, Westmount, Montreal West, Hampstead, Côte-Saint-Luc, Greenfield Park/Saint-Lambert) plus NDG/Lachine/Vaudreuil radius, and set language targeting to English only; run the rest of the CMA in the French campaigns. Apply bid adjustments (+15-25%) on West Island and Westmount for vehicle-storage ad groups.",
+  "Launch with phrase + exact only; reserve broad match for a single 'self storage alternative delivered' test ad group with Smart Bidding once >30 conversions/month exist. Import the full negative list at account level on day 1 (Google negatives do not catch plurals/close variants, so keep both singular and plural).",
+  "Validate every estimated volume/CPC in Google Keyword Planner (location Montréal CMA, language English, 12-month history) before setting budgets; treat the tables here as prioritisation, not forecasts. Re-forecast after the first 14 days using actual search-term reports.",
+  "Vehicle ad copy: lead with 'heated, secure facility', 'from $X/month' (only if a real vehicle price is set — the site currently shows Advantage 'up to $180/month' and Freedom '$350/month' for the cube, not a vehicle rate), and a fit qualifier ('cars, motorcycles, ATVs, PWCs, small boats/trailers up to 20 ft') to filter RV/large-boat clicks; add 'rv', 'motorhome', 'camper' and 'pontoon' as negatives unless MobilCube confirms outdoor yard parking.",
+  "Commercial cluster: English volume is tiny (est. <20/mo per term), so bid aggressively on exact terms ('restaurant patio furniture storage', 'business storage montreal', 'commercial storage container rental montreal') with a dedicated B2B landing page and call extension; complement with Meta/LinkedIn targeting of restaurant/hotel managers rather than expecting search volume.",
+  "Competitor campaign: bid on 'pods montreal', 'cubeit', 'gocube', 'u-box', 'bigsteelbox montreal' at low max CPC (est. 1.50-5 CAD); headline angle 'Delivered storage cube — price shown online, book in 60 seconds' exploits PODS' quote-only pricing and BigSteelBox's absence from Quebec. Expect low Quality Score (3-5) and cap spend at ~10% of English budget.",
+  "Mirror competitor terminology in ad groups and RSAs: separate ad groups for 'portable storage container', 'moving container', 'storage pod', 'storage cube', 'mobile storage' so headlines echo the query; always include 'Montreal' or the municipality in Headline 1-2 for geo terms.",
+  "Use seasonal budget pacing: cluster B spend should start now (late Sept) and taper after mid-November; cluster A moving-container terms peak May-July (Quebec July 1 moving day) — keep evergreen at a lower budget through winter; snowmobile/tire terms return in April.",
+  "Track calls as conversions (call extension + website call tracking) since the client's goal is phone calls; use LocalIQ 2026 benchmarks (CVR 4.85-8.20%, CPL USD 75-94 for Business/Industrial; CPL USD 29.96 for Automotive services) as initial CPA guardrails until MobilCube's own data accrues."
+ ],
+ "data_tables": [
+  {
+   "title": "English keyword universe (all monthly volumes and CPCs are ESTIMATES unless a source is named in the notes; volumes = Montreal English-language searches per month; CPC in CAD)",
+   "columns": [
+    "keyword",
+    "cluster",
+    "recommended match type",
+    "intent",
+    "est. monthly volume (Montreal EN)",
+    "est. CPC (CAD)",
+    "notes / source or reasoning"
+   ],
+   "rows": [
+    [
+     "mobile storage montreal",
+     "A-core mobile storage",
+     "phrase + exact",
+     "commercial-high",
+     "150-300",
+     "5.00-9.00 CAD",
+     "EST; MobilCube/GoCube category term; low-competition niche vs PODS branding"
+    ],
+    [
+     "mobile storage",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-mid",
+     "300-600 (Montreal geo-targeted)",
+     "4.50-8.50 CAD",
+     "EST; broad meaning incl. phone storage -> needs negatives (iphone, android, phone, gb)"
+    ],
+    [
+     "portable storage montreal",
+     "A-core mobile storage",
+     "phrase + exact",
+     "commercial-high",
+     "100-250",
+     "5.50-9.50 CAD",
+     "EST; PODS/Cubeit primary category term; expect PODS & Cubeit in auction"
+    ],
+    [
+     "portable storage containers",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-high",
+     "200-450 (Montreal geo)",
+     "5.50-10.00 CAD",
+     "EST; U-Haul SERP titles use exactly this phrase; exclude 'for sale' variants"
+    ],
+    [
+     "portable storage container rental",
+     "A-core mobile storage",
+     "phrase + exact",
+     "commercial-high",
+     "60-150",
+     "6.00-10.00 CAD",
+     "EST; rental modifier = strongest intent"
+    ],
+    [
+     "storage container rental montreal",
+     "A-core mobile storage",
+     "phrase + exact",
+     "commercial-high",
+     "100-250",
+     "6.00-10.50 CAD",
+     "EST; also attracts shipping-container yard buyers (Northern Container Sales) -> negatives: buy, for sale, used, shipping container prices"
+    ],
+    [
+     "storage container rental",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-high",
+     "250-500 (Montreal geo)",
+     "5.50-10.00 CAD",
+     "EST"
+    ],
+    [
+     "rent storage container",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-high",
+     "80-180",
+     "5.50-9.50 CAD",
+     "EST"
+    ],
+    [
+     "storage container delivered to your home",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-high",
+     "20-60",
+     "5.00-9.00 CAD",
+     "EST; long-tail, very high intent"
+    ],
+    [
+     "storage container delivery",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-mid",
+     "40-100",
+     "4.50-8.50 CAD",
+     "EST"
+    ],
+    [
+     "moving containers montreal",
+     "A-core mobile storage",
+     "phrase + exact",
+     "commercial-high",
+     "80-200",
+     "6.00-11.00 CAD",
+     "EST; PODS/U-Box/Cubeit all use 'moving containers'; peaks May-July (July 1 moving day) more than winter"
+    ],
+    [
+     "moving container rental",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-high",
+     "100-250 (Montreal geo)",
+     "6.00-11.00 CAD",
+     "EST"
+    ],
+    [
+     "moving and storage containers",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-mid",
+     "60-150",
+     "5.50-10.00 CAD",
+     "EST"
+    ],
+    [
+     "storage pods montreal",
+     "A-core mobile storage",
+     "phrase + exact",
+     "commercial-high",
+     "50-150",
+     "5.00-9.00 CAD",
+     "EST; generic use of 'pods' (genericized) — allowed as keyword, do NOT write 'PODS' in ad copy"
+    ],
+    [
+     "storage pod rental",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-high",
+     "60-150 (Montreal geo)",
+     "5.00-9.00 CAD",
+     "EST"
+    ],
+    [
+     "storage pods",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-mid",
+     "150-350 (Montreal geo)",
+     "4.50-8.50 CAD",
+     "EST; ambiguous (garden pods, sleeping pods) -> negatives"
+    ],
+    [
+     "storage cube rental",
+     "A-core mobile storage",
+     "phrase + exact",
+     "commercial-high",
+     "30-90",
+     "4.00-8.00 CAD",
+     "EST; GoCube's term; MobilCube brand-adjacent — own this term"
+    ],
+    [
+     "storage cube montreal",
+     "A-core mobile storage",
+     "phrase + exact",
+     "commercial-high",
+     "20-70",
+     "4.00-8.00 CAD",
+     "EST"
+    ],
+    [
+     "storage cube delivered",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-high",
+     "10-40",
+     "4.00-7.50 CAD",
+     "EST"
+    ],
+    [
+     "on site storage container",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-mid",
+     "30-80",
+     "5.00-9.00 CAD",
+     "EST; renovation/jobsite intent"
+    ],
+    [
+     "storage container in driveway",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-mid",
+     "10-40",
+     "4.00-8.00 CAD",
+     "EST"
+    ],
+    [
+     "temporary storage container renovation",
+     "A-core mobile storage",
+     "phrase",
+     "commercial-mid",
+     "20-60",
+     "5.00-9.00 CAD",
+     "EST; renovation is a year-round driver"
+    ],
+    [
+     "self storage alternative delivered",
+     "A-core mobile storage",
+     "broad (with audience signals)",
+     "commercial-mid",
+     "10-30",
+     "4.00-7.00 CAD",
+     "EST; use in a small broad-match test ad group only"
+    ],
+    [
+     "storage units near me",
+     "A-core self storage (competitive)",
+     "exact only, low bid",
+     "commercial-high",
+     "1,000-1,600 (Montreal English)",
+     "6.00-14.00 CAD",
+     "EST scaled from 445,000 US (Ahrefs/StoragePug 2026-03-02); Public Storage/StorageMart/Depotium bid heavily; bid low or skip"
+    ],
+    [
+     "self storage montreal",
+     "A-core self storage (competitive)",
+     "exact only, low bid",
+     "commercial-high",
+     "300-700",
+     "6.00-14.00 CAD",
+     "EST; dense-metro self-storage CPC $4-15 USD (StorIQ); MobilCube is a substitute, expect lower CTR/QS"
+    ],
+    [
+     "storage montreal",
+     "A-core self storage (competitive)",
+     "phrase",
+     "commercial-mid",
+     "800-1,500",
+     "5.00-12.00 CAD",
+     "EST; very broad; many negatives needed (cloud, iphone, data)"
+    ],
+    [
+     "heated storage montreal",
+     "A-core self storage (competitive)",
+     "phrase + exact",
+     "commercial-high",
+     "80-200",
+     "5.00-10.00 CAD",
+     "EST; MobilCube facility is heated — direct feature match"
+    ],
+    [
+     "storage west island",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "100-250",
+     "5.00-10.00 CAD",
+     "EST; West Island English-FOLS 65-68% (StatCan 2021 for Pointe-Claire, Beaconsfield, DDO, Kirkland)"
+    ],
+    [
+     "mobile storage west island",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "10-40",
+     "4.50-8.50 CAD",
+     "EST"
+    ],
+    [
+     "storage pointe claire",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "40-120",
+     "5.00-9.50 CAD",
+     "EST; Pointe-Claire has physical self-storage (Hymus Blvd) -> competitive"
+    ],
+    [
+     "storage dollard des ormeaux",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "30-90",
+     "4.50-9.00 CAD",
+     "EST; also add 'storage ddo' exact"
+    ],
+    [
+     "storage kirkland",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "20-60",
+     "4.50-9.00 CAD",
+     "EST; ambiguous with Kirkland WA — enforce location targeting + negative 'washington', 'wa'"
+    ],
+    [
+     "storage beaconsfield",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "10-40",
+     "4.50-9.00 CAD",
+     "EST"
+    ],
+    [
+     "storage westmount",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "20-60",
+     "5.00-10.00 CAD",
+     "EST; Westmount English-FOLS 68% (StatCan 2021); high-income, likely classic-car segment"
+    ],
+    [
+     "storage ndg",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "20-60",
+     "5.00-9.50 CAD",
+     "EST; also 'storage notre dame de grace'"
+    ],
+    [
+     "storage lachine",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "20-60",
+     "4.50-9.00 CAD",
+     "EST"
+    ],
+    [
+     "storage vaudreuil",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "40-100",
+     "4.50-9.00 CAD",
+     "EST; Depotium Vaudreuil-Dorion offers boat/RV storage -> competitive"
+    ],
+    [
+     "storage hudson quebec",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "10-30",
+     "4.00-8.00 CAD",
+     "EST; must include 'quebec' or geo-target; 'hudson' alone matches Hudson NY/OH"
+    ],
+    [
+     "storage laval",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "100-250 (English share small; Laval mostly French)",
+     "5.00-10.00 CAD",
+     "EST; run mostly in FR campaign; EN exact only"
+    ],
+    [
+     "storage south shore montreal",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "30-90",
+     "4.50-9.00 CAD",
+     "EST; MobilCube HQ in Boucherville — home turf, cheapest delivery"
+    ],
+    [
+     "storage brossard",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "40-100",
+     "4.50-9.00 CAD",
+     "EST"
+    ],
+    [
+     "storage downtown montreal",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "60-150",
+     "6.00-12.00 CAD",
+     "EST; StorageMart Rue du Shannon/Public Storage compete; condo dwellers lack driveways -> lower fit, cap bids"
+    ],
+    [
+     "storage container rental west island",
+     "A-geo",
+     "phrase + exact",
+     "commercial-high",
+     "10-30",
+     "5.00-9.00 CAD",
+     "EST; very high intent"
+    ],
+    [
+     "winter car storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "300-700 (Sep-Nov peak; ~50/mo off-season)",
+     "3.50-7.00 CAD",
+     "EST; Kijiji shows $150-200/mo indoor offers (St-Leonard $160/mo 5-mo min; Ville St-Laurent $200/mo 4-mo min) -> value anchor for ad copy; PODS Montreal page explicitly sells 'winter car storage' in heated facilities"
+    ],
+    [
+     "winter car storage",
+     "B-vehicle winter",
+     "phrase",
+     "commercial-high",
+     "600-1,200 (Montreal geo, Oct peak)",
+     "3.00-6.50 CAD",
+     "EST; Auto Repair/Service CPC benchmark $4.35 USD (LocalIQ 2026)"
+    ],
+    [
+     "car storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "250-500",
+     "3.50-7.00 CAD",
+     "EST; Public Storage Canada and Depotium have dedicated 'Car Storage Montreal' pages"
+    ],
+    [
+     "indoor car storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "100-250",
+     "3.50-7.00 CAD",
+     "EST"
+    ],
+    [
+     "heated car storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "40-120",
+     "3.50-7.00 CAD",
+     "EST"
+    ],
+    [
+     "classic car storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "40-120",
+     "3.50-7.50 CAD",
+     "EST; Westmount/West Island high-income; Rennlist forum shows Porsche owners seeking indoor winter parking"
+    ],
+    [
+     "car storage west island",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "40-120",
+     "3.50-7.00 CAD",
+     "EST; Kijiji thread flags 'Sentinel' on Hwy 40 as overpriced -> price-led ad copy opportunity"
+    ],
+    [
+     "vehicle storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "100-250",
+     "3.50-7.00 CAD",
+     "EST; umbrella term also used by Depotium"
+    ],
+    [
+     "winter vehicle storage near me",
+     "B-vehicle winter",
+     "phrase",
+     "commercial-high",
+     "80-200 (Oct peak)",
+     "3.00-6.50 CAD",
+     "EST"
+    ],
+    [
+     "motorcycle winter storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "80-200 (Oct-Nov peak)",
+     "2.50-5.50 CAD",
+     "EST; small-footprint vehicle fits a 160 sq ft cube with room for gear"
+    ],
+    [
+     "motorcycle storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "60-150",
+     "2.50-5.50 CAD",
+     "EST"
+    ],
+    [
+     "boat storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "100-250 (Sep-Oct peak)",
+     "3.00-6.50 CAD",
+     "EST scaled from 30,000 US (Ahrefs/StoragePug); Depotium 'Winter Boat Storage in Montreal' page; marinas (Clark's, Desjardins Sport) compete"
+    ],
+    [
+     "winter boat storage",
+     "B-vehicle winter",
+     "phrase",
+     "commercial-high",
+     "150-350 (Montreal geo)",
+     "3.00-6.50 CAD",
+     "EST; fit constraint: only small boats/PWC fit in a 20ft cube — qualify in ad copy (length limit) to avoid wasted clicks"
+    ],
+    [
+     "boat storage west island",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "20-60",
+     "3.00-6.00 CAD",
+     "EST; Lac Saint-Louis boaters (Pointe-Claire, Beaconsfield yacht clubs)"
+    ],
+    [
+     "jet ski storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "20-60",
+     "2.50-5.00 CAD",
+     "EST; also 'sea doo storage' (brand-generic; keyword OK, avoid in copy)"
+    ],
+    [
+     "atv storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "20-60",
+     "2.50-5.00 CAD",
+     "EST; English 'ATV' vs French 'VTT' — separate campaigns"
+    ],
+    [
+     "snowmobile storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-mid",
+     "10-40 (spring peak, not fall)",
+     "2.50-5.00 CAD",
+     "EST; counter-seasonal (stored Apr-Nov); include for shoulder-season revenue"
+    ],
+    [
+     "rv storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "80-200 (Sep-Oct peak)",
+     "3.50-7.00 CAD",
+     "EST scaled from 33,000 US; most RVs do NOT fit a 20ft cube -> only add if MobilCube offers yard parking; otherwise negative"
+    ],
+    [
+     "trailer storage montreal",
+     "B-vehicle winter",
+     "phrase + exact",
+     "commercial-high",
+     "40-120",
+     "3.00-6.00 CAD",
+     "EST; utility/small trailers fit; qualify length"
+    ],
+    [
+     "winter storage for car near me",
+     "B-vehicle winter",
+     "phrase",
+     "commercial-high",
+     "60-150 (Oct peak)",
+     "3.00-6.50 CAD",
+     "EST"
+    ],
+    [
+     "where to store car for winter montreal",
+     "B-vehicle winter",
+     "phrase",
+     "informational-commercial",
+     "20-60",
+     "2.50-5.50 CAD",
+     "EST; question query — good for a blog/landing page + RSA"
+    ],
+    [
+     "car storage cost per month montreal",
+     "B-vehicle winter",
+     "phrase",
+     "commercial-high (price shopper)",
+     "20-50",
+     "3.00-6.00 CAD",
+     "EST; show price in ad ('from $X/month') — MobilCube Advantage offer 'up to $180/month' and Freedom '$350/month' are the site's only public prices"
+    ],
+    [
+     "tire storage montreal",
+     "B-vehicle winter",
+     "exact, low bid",
+     "commercial-mid",
+     "100-250 (Oct/Apr peaks)",
+     "2.00-4.50 CAD",
+     "EST; MobilCube homepage lists tires under seasonal storage; low ticket — cap CPC"
+    ],
+    [
+     "patio furniture storage montreal",
+     "C-commercial seasonal",
+     "phrase + exact",
+     "commercial-high",
+     "30-90 (Sep-Nov peak)",
+     "4.00-8.00 CAD",
+     "EST; MobilCube homepage already names patio furniture as seasonal storage"
+    ],
+    [
+     "patio furniture storage",
+     "C-commercial seasonal",
+     "phrase",
+     "commercial-mid",
+     "100-250 (Montreal geo)",
+     "3.50-7.50 CAD",
+     "EST; also attracts DIY 'how to store' & 'storage bench' product searches -> negatives (box, bench, cover, deck box, ideas)"
+    ],
+    [
+     "restaurant terrace storage",
+     "C-commercial seasonal",
+     "phrase + broad test",
+     "commercial-high (B2B)",
+     "5-20",
+     "6.00-12.00 CAD",
+     "EST; Business Services CPC $5.87 USD (LocalIQ 2026); ultra-low volume, high value — pair with LinkedIn/Meta and direct outreach"
+    ],
+    [
+     "restaurant patio furniture storage",
+     "C-commercial seasonal",
+     "phrase",
+     "commercial-high (B2B)",
+     "5-20",
+     "6.00-12.00 CAD",
+     "EST"
+    ],
+    [
+     "commercial seasonal storage montreal",
+     "C-commercial seasonal",
+     "phrase + exact",
+     "commercial-high (B2B)",
+     "5-20",
+     "6.00-12.00 CAD",
+     "EST"
+    ],
+    [
+     "seasonal storage montreal",
+     "C-commercial seasonal",
+     "phrase + exact",
+     "commercial-mid",
+     "30-90",
+     "4.00-8.00 CAD",
+     "EST"
+    ],
+    [
+     "business storage montreal",
+     "C-commercial seasonal",
+     "phrase + exact",
+     "commercial-high (B2B)",
+     "40-120",
+     "6.00-12.00 CAD",
+     "EST; Cubeit/PODS both market 'business storage'"
+    ],
+    [
+     "commercial storage container rental montreal",
+     "C-commercial seasonal",
+     "phrase + exact",
+     "commercial-high (B2B)",
+     "20-60",
+     "6.50-13.00 CAD",
+     "EST; Industrial & Commercial CPC $5.87 USD (LocalIQ 2026)"
+    ],
+    [
+     "inventory storage montreal",
+     "C-commercial seasonal",
+     "phrase + exact",
+     "commercial-high (B2B)",
+     "20-60",
+     "6.00-12.00 CAD",
+     "EST; MobilCube lists 'inventory management' for commercial"
+    ],
+    [
+     "storage container for business",
+     "C-commercial seasonal",
+     "phrase",
+     "commercial-high (B2B)",
+     "30-90 (Montreal geo)",
+     "6.00-12.00 CAD",
+     "EST"
+    ],
+    [
+     "jobsite storage container rental montreal",
+     "C-commercial seasonal",
+     "phrase + exact",
+     "commercial-high (B2B)",
+     "20-60",
+     "6.50-13.00 CAD",
+     "EST; contractors; Home & Home Improvement CPC $8.33 USD (LocalIQ 2026) is highest relevant benchmark"
+    ],
+    [
+     "landscaping equipment winter storage",
+     "C-commercial seasonal",
+     "phrase",
+     "commercial-high (B2B)",
+     "5-20 (Nov peak)",
+     "5.00-10.00 CAD",
+     "EST; landscapers named in brief"
+    ],
+    [
+     "hotel patio storage winter",
+     "C-commercial seasonal",
+     "phrase",
+     "commercial-high (B2B)",
+     "<10",
+     "5.00-10.00 CAD",
+     "EST; near-zero volume — use as RSA/landing-page theme rather than a bid target"
+    ],
+    [
+     "condo storage container rental",
+     "C-commercial seasonal",
+     "phrase",
+     "commercial-mid (B2B)",
+     "5-20",
+     "5.00-9.00 CAD",
+     "EST; condo boards storing terrace/pool furniture"
+    ],
+    [
+     "store patio heaters winter",
+     "C-commercial seasonal",
+     "phrase",
+     "informational",
+     "5-20",
+     "3.00-6.00 CAD",
+     "EST"
+    ],
+    [
+     "film production storage container montreal",
+     "C-commercial seasonal",
+     "phrase",
+     "commercial-high (B2B)",
+     "<10",
+     "5.00-10.00 CAD",
+     "EST; MobilCube lists film logistics; niche"
+    ],
+    [
+     "office renovation storage container",
+     "C-commercial seasonal",
+     "phrase",
+     "commercial-mid (B2B)",
+     "5-20",
+     "5.00-10.00 CAD",
+     "EST"
+    ],
+    [
+     "pods montreal",
+     "D-competitor brand",
+     "exact + phrase (separate campaign)",
+     "navigational-commercial",
+     "150-350",
+     "2.00-5.00 CAD",
+     "EST; brand CPC usually lower than generic but Quality Score will be low (ad relevance) -> effective CPC can be higher; PODS is a registered mark — do not use in ad text"
+    ],
+    [
+     "pods storage montreal",
+     "D-competitor brand",
+     "exact",
+     "navigational-commercial",
+     "40-120",
+     "2.00-5.00 CAD",
+     "EST"
+    ],
+    [
+     "pods cost montreal",
+     "D-competitor brand",
+     "exact",
+     "commercial-high (price shopper)",
+     "20-60",
+     "2.50-5.50 CAD",
+     "EST; PODS shows no public price on its Montreal page ('Get a quote') -> MobilCube can show a price"
+    ],
+    [
+     "cubeit montreal",
+     "D-competitor brand",
+     "exact",
+     "navigational-commercial",
+     "40-120",
+     "1.50-4.00 CAD",
+     "EST; Cubeit serves Montreal, Laval, Longueuil, Brossard, Boucherville; 'free local delivery' promo through 2026-09-30"
+    ],
+    [
+     "cubeit storage",
+     "D-competitor brand",
+     "exact",
+     "navigational",
+     "60-150 (Montreal geo)",
+     "1.50-4.00 CAD",
+     "EST"
+    ],
+    [
+     "gocube montreal",
+     "D-competitor brand",
+     "exact",
+     "navigational-commercial",
+     "100-250",
+     "1.50-4.00 CAD",
+     "EST; GoCube is the closest local rival (cube rental, from $95/mo for 3 cubes x 5 months, 30% off 2+ cubes promo to 2026-03-31)"
+    ],
+    [
+     "go cube storage",
+     "D-competitor brand",
+     "exact + phrase",
+     "navigational",
+     "80-200",
+     "1.50-4.00 CAD",
+     "EST; also matches generic 'go cube' — watch search terms"
+    ],
+    [
+     "u-box montreal",
+     "D-competitor brand",
+     "exact",
+     "navigational-commercial",
+     "40-120",
+     "1.50-4.00 CAD",
+     "EST; U-Haul U-Box available at 5+ Montreal U-Haul centres"
+    ],
+    [
+     "uhaul storage containers",
+     "D-competitor brand",
+     "exact",
+     "navigational-commercial",
+     "60-150 (Montreal geo)",
+     "1.50-4.00 CAD",
+     "EST"
+    ],
+    [
+     "bigsteelbox montreal",
+     "D-competitor brand",
+     "exact",
+     "navigational-commercial",
+     "10-40",
+     "1.00-3.00 CAD",
+     "EST; BigSteelBox lists NO Quebec location (ON is easternmost) — searchers get no local answer -> cheap conquest"
+    ],
+    [
+     "depotium car storage",
+     "D-competitor brand",
+     "exact",
+     "navigational-commercial",
+     "20-60",
+     "2.00-4.50 CAD",
+     "EST; Depotium has dedicated Montreal car & boat storage pages"
+    ],
+    [
+     "public storage montreal car storage",
+     "D-competitor brand",
+     "exact",
+     "navigational-commercial",
+     "20-60",
+     "2.50-5.50 CAD",
+     "EST"
+    ]
+   ]
+  },
+  {
+   "title": "English negative keyword list (apply at account level; add both singular and plural since negatives do not match close variants)",
+   "columns": [
+    "negative keyword",
+    "reason",
+    "negative match type"
+   ],
+   "rows": [
+    [
+     "storage box",
+     "product (plastic bins/boxes)",
+     "phrase"
+    ],
+    [
+     "storage bin",
+     "product",
+     "phrase"
+    ],
+    [
+     "storage bins",
+     "product",
+     "phrase"
+    ],
+    [
+     "plastic",
+     "product",
+     "broad"
+    ],
+    [
+     "tote",
+     "product",
+     "broad"
+    ],
+    [
+     "totes",
+     "product",
+     "broad"
+    ],
+    [
+     "ikea",
+     "product/retail",
+     "broad"
+    ],
+    [
+     "walmart",
+     "retail",
+     "broad"
+    ],
+    [
+     "canadian tire",
+     "retail",
+     "phrase"
+    ],
+    [
+     "home depot",
+     "retail",
+     "phrase"
+    ],
+    [
+     "amazon",
+     "retail",
+     "broad"
+    ],
+    [
+     "costco",
+     "retail",
+     "broad"
+    ],
+    [
+     "shelf",
+     "product",
+     "broad"
+    ],
+    [
+     "shelving",
+     "product",
+     "broad"
+    ],
+    [
+     "cabinet",
+     "product",
+     "broad"
+    ],
+    [
+     "closet",
+     "product",
+     "broad"
+    ],
+    [
+     "organizer",
+     "product",
+     "broad"
+    ],
+    [
+     "deck box",
+     "product",
+     "phrase"
+    ],
+    [
+     "storage bench",
+     "product",
+     "phrase"
+    ],
+    [
+     "patio cover",
+     "product",
+     "phrase"
+    ],
+    [
+     "furniture cover",
+     "product",
+     "phrase"
+    ],
+    [
+     "shed",
+     "product (garden sheds)",
+     "broad"
+    ],
+    [
+     "sheds",
+     "product",
+     "broad"
+    ],
+    [
+     "garage kit",
+     "product",
+     "phrase"
+    ],
+    [
+     "carport",
+     "product",
+     "broad"
+    ],
+    [
+     "cloud",
+     "tech",
+     "broad"
+    ],
+    [
+     "icloud",
+     "tech",
+     "broad"
+    ],
+    [
+     "google drive",
+     "tech",
+     "phrase"
+    ],
+    [
+     "iphone",
+     "tech",
+     "broad"
+    ],
+    [
+     "android",
+     "tech",
+     "broad"
+    ],
+    [
+     "phone",
+     "tech",
+     "broad"
+    ],
+    [
+     "gb",
+     "tech",
+     "broad"
+    ],
+    [
+     "tb",
+     "tech",
+     "broad"
+    ],
+    [
+     "ssd",
+     "tech",
+     "broad"
+    ],
+    [
+     "hard drive",
+     "tech",
+     "phrase"
+    ],
+    [
+     "nas",
+     "tech",
+     "broad"
+    ],
+    [
+     "dropbox",
+     "tech",
+     "broad"
+    ],
+    [
+     "battery storage",
+     "tech (energy)",
+     "phrase"
+    ],
+    [
+     "solar",
+     "tech (energy)",
+     "broad"
+    ],
+    [
+     "for sale",
+     "purchase intent",
+     "phrase"
+    ],
+    [
+     "buy",
+     "purchase intent",
+     "broad"
+    ],
+    [
+     "used",
+     "purchase intent",
+     "broad"
+    ],
+    [
+     "sea can",
+     "shipping-container sales",
+     "phrase"
+    ],
+    [
+     "seacan",
+     "shipping-container sales",
+     "broad"
+    ],
+    [
+     "conex",
+     "shipping-container sales",
+     "broad"
+    ],
+    [
+     "shipping container home",
+     "irrelevant",
+     "phrase"
+    ],
+    [
+     "container home",
+     "irrelevant",
+     "phrase"
+    ],
+    [
+     "container house",
+     "irrelevant",
+     "phrase"
+    ],
+    [
+     "40 ft",
+     "oversize (MobilCube is 20 ft)",
+     "phrase"
+    ],
+    [
+     "40ft",
+     "oversize",
+     "broad"
+    ],
+    [
+     "flat pack",
+     "different product",
+     "phrase"
+    ],
+    [
+     "jobs",
+     "employment",
+     "broad"
+    ],
+    [
+     "job",
+     "employment",
+     "broad"
+    ],
+    [
+     "careers",
+     "employment",
+     "broad"
+    ],
+    [
+     "hiring",
+     "employment",
+     "broad"
+    ],
+    [
+     "salary",
+     "employment",
+     "broad"
+    ],
+    [
+     "diy",
+     "informational",
+     "broad"
+    ],
+    [
+     "how to build",
+     "informational",
+     "phrase"
+    ],
+    [
+     "plans",
+     "informational",
+     "broad"
+    ],
+    [
+     "ideas",
+     "informational",
+     "broad"
+    ],
+    [
+     "reddit",
+     "informational",
+     "broad"
+    ],
+    [
+     "wiki",
+     "informational",
+     "broad"
+    ],
+    [
+     "definition",
+     "informational",
+     "broad"
+    ],
+    [
+     "moving truck",
+     "truck rental",
+     "phrase"
+    ],
+    [
+     "truck rental",
+     "truck rental",
+     "phrase"
+    ],
+    [
+     "van rental",
+     "truck rental",
+     "phrase"
+    ],
+    [
+     "movers",
+     "full-service movers (unless partnership)",
+     "broad"
+    ],
+    [
+     "moving company",
+     "full-service movers",
+     "phrase"
+    ],
+    [
+     "packers",
+     "full-service movers",
+     "broad"
+    ],
+    [
+     "junk removal",
+     "disposal",
+     "phrase"
+    ],
+    [
+     "dumpster",
+     "disposal",
+     "broad"
+    ],
+    [
+     "auction",
+     "storage auctions",
+     "broad"
+    ],
+    [
+     "auctions",
+     "storage auctions",
+     "broad"
+    ],
+    [
+     "storage wars",
+     "TV show",
+     "phrase"
+    ],
+    [
+     "parking",
+     "street/monthly parking (keep for car-storage campaign only as review)",
+     "broad"
+    ],
+    [
+     "marina",
+     "boat slips/marinas (review per campaign)",
+     "broad"
+    ],
+    [
+     "dock",
+     "boat docks",
+     "broad"
+    ],
+    [
+     "boat lift",
+     "boat equipment",
+     "phrase"
+    ],
+    [
+     "winterization",
+     "service, not storage (review)",
+     "broad"
+    ],
+    [
+     "shrink wrap",
+     "boat service",
+     "phrase"
+    ],
+    [
+     "detailing",
+     "auto service",
+     "broad"
+    ],
+    [
+     "mechanic",
+     "auto service",
+     "broad"
+    ],
+    [
+     "ontario",
+     "out of area",
+     "broad"
+    ],
+    [
+     "toronto",
+     "out of area",
+     "broad"
+    ],
+    [
+     "ottawa",
+     "out of area",
+     "broad"
+    ],
+    [
+     "quebec city",
+     "out of area",
+     "phrase"
+    ],
+    [
+     "vancouver",
+     "out of area",
+     "broad"
+    ],
+    [
+     "calgary",
+     "out of area",
+     "broad"
+    ],
+    [
+     "kirkland wa",
+     "geo confusion",
+     "phrase"
+    ],
+    [
+     "washington",
+     "geo confusion",
+     "broad"
+    ],
+    [
+     "hudson ny",
+     "geo confusion",
+     "phrase"
+    ],
+    [
+     "hudson ohio",
+     "geo confusion",
+     "phrase"
+    ],
+    [
+     "usa",
+     "out of area",
+     "broad"
+    ],
+    [
+     "free",
+     "freebie seekers (keep 'free delivery' via exact positive keywords if promo runs)",
+     "broad"
+    ],
+    [
+     "cheapest",
+     "low-value (test, do not add day 1)",
+     "broad"
+    ],
+    [
+     "craigslist",
+     "classifieds",
+     "broad"
+    ],
+    [
+     "kijiji",
+     "classifieds",
+     "broad"
+    ],
+    [
+     "facebook marketplace",
+     "classifieds",
+     "phrase"
+    ]
+   ]
+  },
+  {
+   "title": "Competitor brand terms and trademark-policy notes",
+   "columns": [
+    "brand term",
+    "owner / Montreal presence",
+    "bid as keyword?",
+    "use in ad text?",
+    "notes",
+    "source"
+   ],
+   "rows": [
+    [
+     "pods, pods storage, pods montreal, pods cost",
+     "PODS Enterprises (pods.ca); Montreal page, 8/12/16 ft containers, sells winter car storage, quote-only pricing, (855) 706-4758",
+     "Yes — Google does not restrict trademark use as keywords",
+     "No — registered mark; competitor use in ad text is restricted; a complaint from PODS would get the ad disapproved",
+     "Note 'pods' is used generically by consumers; keep generic 'storage pod' keywords but never write PODS in headlines/descriptions/paths",
+     "https://support.google.com/adspolicy/answer/6118?hl=en; https://www.pods.ca/locations/canada/quebec/montreal"
+    ],
+    [
+     "cubeit, cubeit storage, cubeit montreal",
+     "Cubeit (cubeit.ca); Montreal, Laval, Longueuil, Brossard, Boucherville; 8x8x16 container; free local delivery within 25 km through 2026-09-30; 1-844-897-3811",
+     "Yes",
+     "No",
+     "Counter their 'free delivery' promo with MobilCube's price transparency and 24/7 on-site access",
+     "https://cubeit.ca/locations/; https://cubeit.ca/deals/"
+    ],
+    [
+     "gocube, go cube, gocube montreal",
+     "GoCube (gocube.com); Montreal + North/South Shore; 5x8x7 ft cube; from $95/mo (3 cubes x 5 months, transport excluded); 30% off 2+ cubes to 2026-03-31; 514-738-6843",
+     "Yes",
+     "No",
+     "Closest local rival on 'cube' wording; 'go cube' may also match generic queries — monitor search terms; MobilCube cube is 160 sq ft vs GoCube 40 sq ft — lead with 'one big cube, not three small ones'",
+     "https://gocube.com/en/storage-montreal/"
+    ],
+    [
+     "u-box, ubox, uhaul containers, u-haul u-box montreal",
+     "U-Haul (uhaul.com); 5+ Montreal centres; 8'x5'x7.6' container",
+     "Yes",
+     "No — 'U-Haul' and 'U-Box' are registered marks",
+     "Angle: larger unit, driveway delivery, ground-level loading vs U-Box's trailer/forklift handling",
+     "https://www.uhaul.com/Locations/UBox-Containers-near-Montreal-QC-H4X1N1/844053/"
+    ],
+    [
+     "bigsteelbox, big steel box montreal",
+     "BigSteelBox; NO Quebec location listed (Ottawa easternmost); 8/10/20 ft; 'from $484-$834' for 1-month 20' rental per MovingWaldo",
+     "Yes — cheap conquest, searchers find no local supplier",
+     "No",
+     "Low volume (est. 10-40/mo) but near-zero competition; ad copy: 'Steel storage container delivered in Montreal'",
+     "https://www.bigsteelbox.com/locations/; https://www.movingwaldo.com/local-movers/best-moving-container-companies-canada/"
+    ],
+    [
+     "depotium car storage, public storage car storage montreal",
+     "Depotium (250+ QC sites, dedicated Montreal car/boat storage pages); Public Storage Canada (Montreal, Dorval car/boat pages)",
+     "Yes (vehicle campaign only)",
+     "No",
+     "These are self-storage brands; their pages show no public vehicle price (not_found) — MobilCube can win with a visible price",
+     "https://www.depotium.com/en/self-storage/montreal-car-storage/; https://publicstoragecanada.com/self-storage-montreal/?vehicle=car"
+    ]
+   ]
+  },
+  {
+   "title": "Language demographics used for English geo-targeting (StatCan 2021 census, first official language spoken; % = English / sum of four categories)",
+   "columns": [
+    "geography",
+    "English",
+    "French",
+    "English and French",
+    "Neither",
+    "English share"
+   ],
+   "rows": [
+    [
+     "Montréal CMA",
+     "867,685",
+     "3,028,175",
+     "284,025",
+     "66,180",
+     "20.4% (23.8% incl. half of 'both')"
+    ],
+    [
+     "Dollard-Des Ormeaux",
+     "31,455",
+     "10,140",
+     "5,560",
+     "1,045",
+     "65.3%"
+    ],
+    [
+     "Pointe-Claire",
+     "22,130",
+     "7,765",
+     "2,585",
+     "520",
+     "67.1%"
+    ],
+    [
+     "Beaconsfield",
+     "12,890",
+     "4,555",
+     "1,405",
+     "260",
+     "67.5%"
+    ],
+    [
+     "Kirkland",
+     "13,095",
+     "3,950",
+     "1,935",
+     "405",
+     "67.6%"
+    ],
+    [
+     "Westmount",
+     "13,250",
+     "4,555",
+     "1,430",
+     "210",
+     "68.1%"
+    ]
+   ]
+  },
+  {
+   "title": "CPC / conversion benchmarks used to derive CAD estimates (USD, LocalIQ 2026 unless noted)",
+   "columns": [
+    "category",
+    "avg CPC (USD)",
+    "avg CTR",
+    "avg CVR",
+    "avg CPL (USD)",
+    "source / date"
+   ],
+   "rows": [
+    [
+     "Home & Home Improvement",
+     "8.33",
+     "6.47%",
+     "8.05%",
+     "90.92",
+     "LocalIQ, 2026-06-01"
+    ],
+    [
+     "Business Services",
+     "5.87",
+     "6.10%",
+     "4.85%",
+     "93.69",
+     "LocalIQ, 2026-06-01"
+    ],
+    [
+     "Industrial & Commercial",
+     "5.87",
+     "6.57%",
+     "8.20%",
+     "75.19",
+     "LocalIQ, 2026-06-01"
+    ],
+    [
+     "Automotive Repair, Service & Parts",
+     "4.35",
+     "5.56%",
+     "15.51%",
+     "29.96",
+     "LocalIQ, 2026-06-01"
+    ],
+    [
+     "Real Estate",
+     "3.22",
+     "7.61%",
+     "3.70%",
+     "102.51",
+     "LocalIQ, 2026-06-01"
+    ],
+    [
+     "All industries",
+     "5.42",
+     "6.64%",
+     "8.18%",
+     "66.69",
+     "LocalIQ, 2026-06-01"
+    ],
+    [
+     "Self-storage (average)",
+     "3.80",
+     "n/a",
+     "n/a",
+     "n/a",
+     "BlogBuster CPC by industry, 2025"
+    ],
+    [
+     "Self-storage, dense metros ('self storage near me', 'storage units [city]')",
+     "4-15",
+     "n/a",
+     "n/a",
+     "n/a",
+     "StorIQ self-storage Google Ads guide"
+    ],
+    [
+     "Self-storage, most contested US markets",
+     "10-40",
+     "n/a",
+     "n/a",
+     "n/a",
+     "Inside Self-Storage, 2025-05-28"
+    ],
+    [
+     "Container niche, Vancouver ('flat pack storage container')",
+     "3.00 (500 searches/mo, $30/conversion)",
+     "n/a",
+     "n/a",
+     "n/a",
+     "Salt Water Digital, 2024-09-24"
+    ]
+   ]
+  },
+  {
+   "title": "US search-volume anchors used for scaling (Ahrefs via StoragePug, pulled 2026-03-02) and implied Montreal-English estimates",
+   "columns": [
+    "keyword",
+    "US monthly searches",
+    "Montreal EN estimate (x0.30%, before seasonality)"
+   ],
+   "rows": [
+    [
+     "storage units near me",
+     "445,000",
+     "~1,340"
+    ],
+    [
+     "self storage near me",
+     "82,000",
+     "~250"
+    ],
+    [
+     "RV storage",
+     "33,000",
+     "~100"
+    ],
+    [
+     "boat storage",
+     "30,000",
+     "~90"
+    ]
+   ]
+  }
+ ],
+ "open_questions": [
+  "Actual Keyword Planner volumes/CPCs for Montréal CMA English (12-month) — needed to replace every estimate here before budgeting.",
+  "Does MobilCube offer outdoor yard parking for RVs/large boats, or only what fits inside a 20 ft cube? Determines whether 'rv storage'/'pontoon' are keywords or negatives.",
+  "Does MobilCube have a dedicated vehicle-storage price (per month, 5-month winter package)? The site shows only cube prices (Advantage up to $180/mo, Freedom $350/mo).",
+  "Are the Kijiji indoor rates ($150-$200/mo, 4-5 month minimums) representative of West Island facilities (Sentinel, Public Storage Dorval)? Prices for those were not_found.",
+  "Whether PODS/Cubeit/GoCube currently run English Google Ads in Montreal (Ads Transparency Center could not be rendered in this session) — check manually at https://adstransparency.google.com/?region=CA&domain=pods.ca, cubeit.ca, gocube.com.",
+  "Which English negative terms (parking, marina, winterization, movers) should stay positive for specific campaigns — e.g., 'winter parking' may be a valid car-storage synonym in Montreal English.",
+  "FOLS shares for NDG (part of Montréal CSD), Hudson, Vaudreuil-Dorion, Greenfield Park and Saint-Lambert were not fetched; confirm before finalising municipality bid adjustments."
+ ],
+ "sources": [
+  "https://www.mobilcube.com/en/",
+  "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021S0503462&objectId=8",
+  "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021A00052466142&objectId=8",
+  "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021A00052466097&objectId=8",
+  "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021A00052466107&objectId=8",
+  "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021A00052466102&objectId=8",
+  "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/alternative.cfm?topic=6&lang=E&dguid=2021A00052466032&objectId=8",
+  "https://support.google.com/adspolicy/answer/6118?hl=en",
+  "https://support.google.com/google-ads/answer/7478529?hl=en",
+  "https://support.google.com/google-ads/answer/2453972?hl=en",
+  "https://localiq.com/blog/search-advertising-benchmarks/",
+  "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+  "https://www.storagepug.com/blog/running-google-ad-campaigns",
+  "https://www.storiq.ai/blog/self-storage-google-ads",
+  "https://www.blogbuster.so/cpc-by-industry/Storage-Facilities-seo-blog-tool",
+  "https://www.insideselfstorage.com/marketing/paid-search-primarily-google-ads-your-not-so-secret-weapon-in-today-s-self-storage-marketing-battle",
+  "https://www.saltwaterdigital.com/self-storage-ppc/",
+  "https://www.brandverity.com/blog/google-ads-trademark-rules-101",
+  "https://globallawexperts.com/can-using-competitor-trademarks-in-google-ads-keywords-lead-to-legal-trouble/",
+  "https://www.pods.ca/locations/canada/quebec/montreal",
+  "https://cubeit.ca/",
+  "https://cubeit.ca/locations/",
+  "https://cubeit.ca/deals/",
+  "https://gocube.com/en/storage-montreal/",
+  "https://gocube.com/en/",
+  "https://www.uhaul.com/Locations/UBox-Containers-near-Montreal-QC-H4X1N1/844053/",
+  "https://www.uhaul.com/Locations/UBox-Containers-near-Montreal-QC-H2K2N3/844025/",
+  "https://www.uhaul.com/Locations/UBox-Containers-near-Montreal-QC/Results/",
+  "https://www.bigsteelbox.com/locations/",
+  "https://www.bigsteelbox.com/moving/",
+  "https://www.movingwaldo.com/local-movers/best-moving-container-companies-canada/",
+  "https://www.kijiji.ca/b-grand-montreal/winter-car-storage/k0l80002",
+  "https://rennlist.com/forums/rennlist-canada/377852-looking-for-indoor-winter-parking-montreal-area.html",
+  "https://www.depotium.com/en/self-storage/montreal-car-storage/",
+  "https://www.depotium.com/en/self-storage/montreal-boat-storage/",
+  "https://publicstoragecanada.com/self-storage-montreal/?vehicle=car",
+  "https://publicstoragecanada.com/self-storage-dorval/?vehicle=car",
+  "https://www.storage-mart.com/montreal",
+  "https://northerncontainersales.ca/shipping-container-prices/montreal-qc/",
+  "https://www.cbc.ca/news/canada/montreal/statistics-canada-language-census-2021-1.6553939"
+ ]
+}

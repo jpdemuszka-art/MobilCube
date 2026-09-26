@@ -1,0 +1,115 @@
+﻿Campaign,Keyword,Criterion Type
+FR | Search | Vehicules hiver,vr,Negative Phrase
+FR | Search | Vehicules hiver,roulotte,Negative Phrase
+FR | Search | Vehicules hiver,roulottes,Negative Phrase
+FR | Search | Vehicules hiver,motorisé,Negative Phrase
+FR | Search | Vehicules hiver,motorisés,Negative Phrase
+FR | Search | Vehicules hiver,caravane,Negative Phrase
+FR | Search | Vehicules hiver,camping-car,Negative Phrase
+FR | Search | Vehicules hiver,ponton,Negative Phrase
+FR | Search | Vehicules hiver,pontons,Negative Phrase
+FR | Search | Vehicules hiver,voilier,Negative Phrase
+FR | Search | Vehicules hiver,yacht,Negative Phrase
+FR | Search | Vehicules hiver,rv,Negative Phrase
+FR | Search | Vehicules hiver,motorhome,Negative Phrase
+FR | Search | Vehicules hiver,camper,Negative Phrase
+FR | Search | Vehicules hiver,pontoon,Negative Phrase
+FR | Search | Vehicules hiver,sailboat,Negative Phrase
+FR | Search | Vehicules hiver,fifth wheel,Negative Phrase
+FR | Search | Vehicules hiver,stationnement,Negative Phrase
+FR | Search | Vehicules hiver,parking,Negative Phrase
+FR | Search | Vehicules hiver,garage à louer,Negative Phrase
+FR | Search | Vehicules hiver,garage for rent,Negative Phrase
+FR | Search | Vehicules hiver,saaq,Negative Phrase
+FR | Search | Vehicules hiver,assurance,Negative Phrase
+FR | Search | Vehicules hiver,insurance,Negative Phrase
+FR | Search | Vehicules hiver,pneus d'hiver,Negative Phrase
+FR | Search | Vehicules hiver,winter tires,Negative Phrase
+FR | Search | Vehicules hiver,antigel,Negative Phrase
+FR | Search | Vehicules hiver,huile,Negative Phrase
+FR | Search | Vehicules hiver,mécanique,Negative Phrase
+FR | Search | Vehicules hiver,mechanic,Negative Phrase
+EN | Search | Winter vehicle,vr,Negative Phrase
+EN | Search | Winter vehicle,roulotte,Negative Phrase
+EN | Search | Winter vehicle,roulottes,Negative Phrase
+EN | Search | Winter vehicle,motorisé,Negative Phrase
+EN | Search | Winter vehicle,motorisés,Negative Phrase
+EN | Search | Winter vehicle,caravane,Negative Phrase
+EN | Search | Winter vehicle,camping-car,Negative Phrase
+EN | Search | Winter vehicle,ponton,Negative Phrase
+EN | Search | Winter vehicle,pontons,Negative Phrase
+EN | Search | Winter vehicle,voilier,Negative Phrase
+EN | Search | Winter vehicle,yacht,Negative Phrase
+EN | Search | Winter vehicle,rv,Negative Phrase
+EN | Search | Winter vehicle,motorhome,Negative Phrase
+EN | Search | Winter vehicle,camper,Negative Phrase
+EN | Search | Winter vehicle,pontoon,Negative Phrase
+EN | Search | Winter vehicle,sailboat,Negative Phrase
+EN | Search | Winter vehicle,fifth wheel,Negative Phrase
+EN | Search | Winter vehicle,stationnement,Negative Phrase
+EN | Search | Winter vehicle,parking,Negative Phrase
+EN | Search | Winter vehicle,garage à louer,Negative Phrase
+EN | Search | Winter vehicle,garage for rent,Negative Phrase
+EN | Search | Winter vehicle,saaq,Negative Phrase
+EN | Search | Winter vehicle,assurance,Negative Phrase
+EN | Search | Winter vehicle,insurance,Negative Phrase
+EN | Search | Winter vehicle,pneus d'hiver,Negative Phrase
+EN | Search | Winter vehicle,winter tires,Negative Phrase
+EN | Search | Winter vehicle,antigel,Negative Phrase
+EN | Search | Winter vehicle,huile,Negative Phrase
+EN | Search | Winter vehicle,mécanique,Negative Phrase
+EN | Search | Winter vehicle,mechanic,Negative Phrase
+FR | Search | Terrasse commercial,achat,Negative Phrase
+FR | Search | Terrasse commercial,acheter,Negative Phrase
+FR | Search | Terrasse commercial,à vendre,Negative Phrase
+FR | Search | Terrasse commercial,a vendre,Negative Phrase
+FR | Search | Terrasse commercial,vente,Negative Phrase
+FR | Search | Terrasse commercial,buy,Negative Phrase
+FR | Search | Terrasse commercial,for sale,Negative Phrase
+FR | Search | Terrasse commercial,ikea,Negative Phrase
+FR | Search | Terrasse commercial,costco,Negative Phrase
+FR | Search | Terrasse commercial,canadian tire,Negative Phrase
+FR | Search | Terrasse commercial,rona,Negative Phrase
+FR | Search | Terrasse commercial,housse,Negative Phrase
+FR | Search | Terrasse commercial,cover,Negative Phrase
+FR | Search | Terrasse commercial,toile,Negative Phrase
+FR | Search | Terrasse commercial,construction de terrasse,Negative Phrase
+FR | Search | Terrasse commercial,deck builder,Negative Phrase
+FR | Search | Terrasse commercial,permis,Negative Phrase
+FR | Search | Terrasse commercial,permit,Negative Phrase
+FR | Search | Terrasse commercial,emploi,Negative Phrase
+FR | Search | Terrasse commercial,job,Negative Phrase
+EN | Search | Commercial patio,achat,Negative Phrase
+EN | Search | Commercial patio,acheter,Negative Phrase
+EN | Search | Commercial patio,à vendre,Negative Phrase
+EN | Search | Commercial patio,a vendre,Negative Phrase
+EN | Search | Commercial patio,vente,Negative Phrase
+EN | Search | Commercial patio,buy,Negative Phrase
+EN | Search | Commercial patio,for sale,Negative Phrase
+EN | Search | Commercial patio,ikea,Negative Phrase
+EN | Search | Commercial patio,costco,Negative Phrase
+EN | Search | Commercial patio,canadian tire,Negative Phrase
+EN | Search | Commercial patio,rona,Negative Phrase
+EN | Search | Commercial patio,housse,Negative Phrase
+EN | Search | Commercial patio,cover,Negative Phrase
+EN | Search | Commercial patio,toile,Negative Phrase
+EN | Search | Commercial patio,construction de terrasse,Negative Phrase
+EN | Search | Commercial patio,deck builder,Negative Phrase
+EN | Search | Commercial patio,permis,Negative Phrase
+EN | Search | Commercial patio,permit,Negative Phrase
+EN | Search | Commercial patio,emploi,Negative Phrase
+EN | Search | Commercial patio,job,Negative Phrase
+FR | Search | Vehicules hiver,mobilcube,Negative Exact
+FR | Search | Vehicules hiver,mobil cube,Negative Exact
+FR | Search | Terrasse commercial,mobilcube,Negative Exact
+FR | Search | Terrasse commercial,mobil cube,Negative Exact
+FR | Search | Entreposage mobile,mobilcube,Negative Exact
+FR | Search | Entreposage mobile,mobil cube,Negative Exact
+EN | Search | Winter vehicle,mobilcube,Negative Exact
+EN | Search | Winter vehicle,mobil cube,Negative Exact
+EN | Search | Commercial patio,mobilcube,Negative Exact
+EN | Search | Commercial patio,mobil cube,Negative Exact
+EN | Search | Mobile storage,mobilcube,Negative Exact
+EN | Search | Mobile storage,mobil cube,Negative Exact
+FR+EN | Search | Concurrents,mobilcube,Negative Exact
+FR+EN | Search | Concurrents,mobil cube,Negative Exact

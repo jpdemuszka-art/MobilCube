@@ -1,0 +1,9 @@
+﻿Campaign,Campaign Type,Networks,Budget,Budget type,Bid Strategy Type,Max CPC bid limit,Location,Ad Schedule,Campaign Status
+FR | Search | Vehicules hiver,Search,Google search,85.00,Daily,Maximize clicks,3.50,set in UI (see docs/02 §3),Mon-Sun 06:00-23:00,Paused
+FR | Search | Terrasse commercial,Search,Google search,50.00,Daily,Maximize clicks,3.00,set in UI (see docs/02 §3),Mon-Sun 06:00-23:00,Paused
+FR | Search | Entreposage mobile,Search,Google search,60.00,Daily,Maximize clicks,4.50,set in UI (see docs/02 §3),Mon-Sun 06:00-23:00,Paused
+EN | Search | Winter vehicle,Search,Google search,25.00,Daily,Maximize clicks,6.00,set in UI (see docs/02 §3),Mon-Sun 06:00-23:00,Paused
+EN | Search | Commercial patio,Search,Google search,15.00,Daily,Maximize clicks,5.00,set in UI (see docs/02 §3),Mon-Sun 06:00-23:00,Paused
+EN | Search | Mobile storage,Search,Google search,20.00,Daily,Maximize clicks,6.00,set in UI (see docs/02 §3),Mon-Sun 06:00-23:00,Paused
+FR+EN | Search | Marque,Search,Google search,5.00,Daily,Maximize clicks,2.00,set in UI (see docs/02 §3),Mon-Sun 06:00-23:00,Paused
+FR+EN | Search | Concurrents,Search,Google search,15.00,Daily,Maximize clicks,2.50,set in UI (see docs/02 §3),Mon-Sun 06:00-23:00,Paused

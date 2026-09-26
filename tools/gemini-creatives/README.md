@@ -27,13 +27,17 @@ Outputs land in `out/<scene>/`:
 
 | File | Size | Used for |
 |---|---|---|
-| `landscape_1200x628.jpg` | 1.91:1 | Search image assets, PMax, Demand Gen, Display |
-| `square_1200x1200.jpg` | 1:1 | Search image assets, PMax, Demand Gen |
+| `landscape_1200x628.jpg` | 1.91:1 | Search image assets (optional but recommended), PMax, Demand Gen, Display |
+| `square_1200x1200.jpg` | 1:1 | Search image assets (required ratio), PMax, Demand Gen |
 | `portrait_960x1200.jpg` | 4:5 | PMax, Demand Gen (mobile feeds) |
 | `logo_1200x1200.png` and `logo_1200x300.png` | 1:1 and 4:1 | PMax logos (drop your own logo here, not generated) |
 | `master_16x9.png`, `master_1x1.png` | native | archive |
 
 `npm run check` validates every exported file against Google's size, aspect and 5 MB limits before you upload.
+
+## Cost
+
+At the default model (`gemini-3.1-flash-image`, 2K) a scene costs two generations, about US$0.20; the whole 14-scene library is under US$3. Prices from ai.google.dev/gemini-api/docs/pricing on 2026-09-26.
 
 ## Rules baked in
 

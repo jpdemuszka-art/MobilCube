@@ -1,0 +1,2872 @@
+{
+ "topic": "French (Quebec French) Google Ads keyword universe for MobilCube - mobile self-storage, Montreal area (fall/winter 2026-2027)",
+ "summary": "This angle builds a 130+ keyword French universe across six clusters (mobile storage/container/cube; winter car storage; boats, powersports, RV and trailers; terrace furniture, commercial and seasonal storage; moving/renovation; geo modifiers) plus a 130-term French negative list. No public keyword tool exposed Quebec-level volumes during this session (Semrush/Ahrefs/Ubersuggest previews require login, the Parallel search tool hit its rate limit and the WebSearch budget was exhausted), so EVERY volume and CPC in the tables is an explicitly reasoned estimate flagged 'estimate', calibrated from (a) published US self-storage volumes ('storage units near me' 445k/mo, 'RV storage' 33k, 'boat storage' 30k - StoragePug, 2026-07-01), scaled to the Montreal CMA and its French-language share, (b) Canadian CPC benchmarks (home services CAD 6-25, Brand Butter 2026-04-15; US self-storage USD 4-15 in dense metros, StoragePug) and (c) the documented 20-40% French-vs-English CPC discount (ScaleMarketer, 2026-05-07). The client must validate volumes in Google Keyword Planner (Location = Montréal CMA + Laval + Longueuil + Laurentides/Lanaudière/Montérégie; Language = French AND All) before setting budgets. Key terminology finding: the category is called 'entreposage mobile' (GoCube, Cubeit, Location Conteneur Montréal), 'conteneur d'entreposage' (Cubeit, GoCube titles), 'cube d'entreposage' (GoCube, MobilCube) and 'entrepôt mobile' (Syldave); the dominant generic Quebec self-storage term is 'mini entrepôt', not 'garde-meuble' or 'box' (France). Winter vehicle terms are 'entreposage voiture/auto hiver', 'remisage' and, for boats, 'hivernage' (which also means winterization, so it needs mechanical negatives). Terrace-furniture storage ('entreposage mobilier de terrasse', 'entreposage terrasse restaurant') has almost no PPC competition - only 1215 Mini-Entrepôts (Rive-Sud) publishes a dedicated page - so MobilCube can own it cheaply. Google Ads treats accents (entrepôt/entrepot), singular/plural, stemming (hiver/hivernal), misspellings and function words (de, d', à) as close variants for exact and phrase match with no opt-out, and Keyword Planner reports one pooled volume for a keyword and its close variants; however, NEGATIVE keywords do not expand to plurals or synonyms (only casing and misspellings), so negatives must be entered in singular AND plural. Expected French CPCs: CAD 3.50-6.00 for generic 'entreposage montréal'/'près de moi' head terms, CAD 2.50-5.00 for mobile-container terms, CAD 1.50-3.50 for winter-vehicle and boat terms, CAD 1.50-3.00 for terrace/commercial long-tail.",
+ "findings": [
+  {
+   "claim": "Google Ads exact and phrase match automatically cover accents, plurals, stemming and misspellings; there is no opt-out.",
+   "detail": "Google's close-variant definition for exact and phrase match lists 'misspellings, singular or plural forms, stemmings, abbreviations, or accents', reordered words, added/removed function words, implied words, synonyms/paraphrases and same intent, and states 'By default, all keyword match types are eligible to match to close variants. There's no way to opt out.' Practical consequence: [entrepôt mobile] serves 'entrepot mobile', 'entrepots mobiles' and 'entrepôt-mobile'; [entreposage voiture hiver] can serve 'entreposage hivernal auto' via stemming + synonym.",
+   "confidence": "high",
+   "sources": [
+    "https://support.google.com/google-ads/answer/9342105?hl=en",
+    "https://support.google.com/google-ads/answer/7478529?hl=en"
+   ]
+  },
+  {
+   "claim": "Negative keywords do NOT expand to plurals or synonyms - only casing and misspellings - so French negatives must be entered in both singular and plural forms.",
+   "detail": "Google: 'Negative keywords automatically account for casing and misspellings, so you don't need to add those separately' and 'you'll need to add synonyms and singular or plural versions if you want to exclude them.' Allowed symbols in negatives are ampersand, accent marks and asterisk, so accented negatives (e.g. 'à vendre') are valid; because misspellings are covered, the unaccented 'a vendre' is also caught, but the negative table still lists both for safety.",
+   "confidence": "high",
+   "sources": [
+    "https://support.google.com/google-ads/answer/2453972?hl=en"
+   ]
+  },
+  {
+   "claim": "Keyword Planner reports one pooled 'average monthly searches' figure for a keyword and its close variants, so accented/unaccented and singular/plural French spellings should be treated as one keyword for volume.",
+   "detail": "Keyword Planner defines average monthly searches as 'the average number of times people have searched for a keyword and its close variants', averaged over 12 months 'regardless of language', and warns that volumes are rounded so multi-location sums may not add up. Seasonal keywords (entreposage voiture hiver) therefore show a 12-month average that understates the October-November peak by roughly 3-5x; use the monthly breakdown.",
+   "confidence": "high",
+   "sources": [
+    "https://support.google.com/google-ads/answer/3022575?hl=en"
+   ]
+  },
+  {
+   "claim": "Historically (2010) Google did treat 'credit' and 'crédit' as different keywords; that is no longer true for exact/phrase since close variants were expanded, but French practitioners still recommend adding both spellings for reporting clarity.",
+   "detail": "Oseox (2010-01-03) wrote that buying only 'credit' would not show on 'crédit' except in broad match, and that accent typos are 'légion'. Today's close-variant rules make duplicate accented keywords unnecessary; if both are added, Google serves the one with the identical spelling first, and the pair simply splits reporting. Recommendation: keep the accented form as the canonical keyword, add unaccented duplicates only where you want separate search-term reporting.",
+   "confidence": "medium",
+   "sources": [
+    "http://oseox.fr/blog/index.php/782-google-accents",
+    "https://support.google.com/google-ads/answer/9342105?hl=en",
+    "https://support.google.com/google-ads/thread/1776076?hl=fr"
+   ]
+  },
+  {
+   "claim": "French-language auctions in Canada carry CPCs roughly 20-40% below English equivalents, and French campaigns show lower CAC.",
+   "detail": "ScaleMarketer (2026-05-07): 'CPCs in French are typically 20-40% lower than their English equivalents' and 'French campaigns deliver 20-35% lower CAC'; Brand Butter (2026-04-15): 'French campaigns often have lower CPCs and higher conversion rates in Quebec and bilingual markets.' This is the main reason the French keyword universe should carry the majority of MobilCube's budget.",
+   "confidence": "medium",
+   "sources": [
+    "https://www.scalemarketer.com/blog/canadian-google-ads-english-french-success-story",
+    "https://www.brandbutter.ca/insights/google-ads-canada-cost-strategy-2026"
+   ]
+  },
+  {
+   "claim": "Self-storage CPC benchmarks: USD 4-15 per click in dense US metros; Canadian home-services CPCs CAD 6-25; Canadian CPCs 'often run somewhat lower than US averages'.",
+   "detail": "StoragePug (2026-07-01) reports 'self storage near me' and 'storage units [city]' clear USD 4-15 where REITs bid; Brand Butter lists Home services CAD 6-25 and Real estate CAD 3-12; Little Dragon (2026-08-26) notes Canadian CPCs run somewhat below US and that secondary Canadian cities are 15-30% cheaper than Toronto. Applying the 20-40% French discount to a CAD 5-8 English Montreal storage CPC yields the CAD 3.50-6.00 head-term estimate used in the tables.",
+   "confidence": "medium",
+   "sources": [
+    "https://www.storagepug.com/blog/running-google-ad-campaigns",
+    "https://www.brandbutter.ca/insights/google-ads-canada-cost-strategy-2026",
+    "https://littledragon.ca/google-ads-pricing-costs-breakdown-what-to-expect/"
+   ]
+  },
+  {
+   "claim": "Published US volumes used as scaling anchors: 'storage units near me' 445k/mo, 'self storage near me' 82k, 'RV storage' 33k, 'boat storage' 30k.",
+   "detail": "StoragePug (2026-07-01). Scaling logic (estimate): Canada ~ 1/8.5 of US population; Quebec ~23% of Canada (ScaleMarketer); Montreal CMA ~ half of Quebec; ~65-75% of Montreal-area storage searches are in French. 445k -> ~52k Canada -> ~12k Quebec -> ~6k Montreal CMA -> ~4k French, spread across 'entreposage montréal', 'entreposage près de moi', 'mini entrepôt montréal', 'entreposage laval/longueuil' etc. This is how the 1,000-1,900 estimate for 'entreposage montréal' was derived.",
+   "confidence": "low",
+   "sources": [
+    "https://www.storagepug.com/blog/running-google-ad-campaigns",
+    "https://www.scalemarketer.com/blog/canadian-google-ads-english-french-success-story"
+   ]
+  },
+  {
+   "claim": "Competitors name the category 'entreposage mobile', 'conteneur d'entreposage (mobile)', 'cube d'entreposage' and 'entrepôt mobile'; MobilCube's own French site uses 'Entreposage Mobile Premium', 'conteneur' and 'unité'.",
+   "detail": "GoCube: title 'Entreposage mobile - Location conteneur mobile', H1 'Service d'entreposage mobile simplifié', H2 'Vous avez besoin d'un cube d'entreposage si...'; Cubeit Montréal: title 'Louez des conteneurs d'entreposage mobile à Montréal', H1 'Entreposage mobile à Montreal'; Location Conteneur Montréal: H1 'Location de conteneur pour entreposage mobile', mentions 'cube d'entreposage'; Syldave: 'Entrepôt mobile Laval', 'Entrepôt mobile Montreal', 'Entreposage mobile Montréal'; MobilCube FR: title 'MobilCube | Entreposage Mobile Premium Rive-Sud & Montréal', H1 'Louez & Entreposez', plans 'Offre Avantage jusqu'à 180 $/mois' and 'Offre Liberté 350 $/mois'.",
+   "confidence": "high",
+   "sources": [
+    "https://gocube.com/entreposage-mobile/",
+    "https://cubeit.ca/fr/quebec/montreal",
+    "https://www.locationconteneurmontreal.ca/location-de-conteneur-pour-entreposage-mobile/",
+    "https://syldave.com/fr/conteneurs/65-services-en-transport-syldave-2016-2017/24159-entrepot-mobile-laval-rive-nord.html",
+    "https://www.mobilcube.com/fr/"
+   ]
+  },
+  {
+   "claim": "'Mini entrepôt' (not 'garde-meuble' or 'box') is the dominant Quebec generic for self-storage and is heavily targeted organically.",
+   "detail": "Domains built on the term: minientrepotmontreal.ca, minientrepotjaune.ca, 1215mini-entrepots.com, montrealministorage.com. GoCube even positions the cube against 'mini-entrepôt'. Recommend a low-bid phrase-match test group so MobilCube captures 'mini entrepôt montréal/laval/longueuil' searchers with 'le mini-entrepôt livré chez vous' copy.",
+   "confidence": "high",
+   "sources": [
+    "https://www.minientrepotmontreal.ca/entreposage-auto-a-montreal/",
+    "https://minientrepotjaune.ca/",
+    "https://www.1215mini-entrepots.com/fr/services/entreposage-commercial/entreposage-de-votre-mobilier-de-terrasse-restauration",
+    "https://gocube.com/entreposage-mobile/"
+   ]
+  },
+  {
+   "claim": "Winter car storage searches use 'entreposage voiture/auto hiver', 'remisage' and 'hivernage'; Montreal-area pricing anchors are CAD 225-720/winter and CAD 450-625/season for heated indoor.",
+   "detail": "Prix-Achat: prices 'pourraient débuter à 225$ (petit véhicule, pour l'hiver) et grimper aux alentours de 720$'; other listings 450-475 $/mois and a Nov 1-Apr 30 lease at 625 $ plus taxes; Joliette Récréatif from 199 $ moto, 299 $ Spyder/motoneige, 599 $ auto per season; Sport Collette (Varennes) 20 $/ft boats, 26 $/ft pontoons. MobilCube's 'Offre Avantage jusqu'à 180 $/mois' with a 5-month winter (~900 $) is above dealer seasonal pricing for motos/snowmobiles but competitive for heated car storage delivered to the driveway - ad copy should stress 'chargez dans votre entrée, on entrepose au chaud'.",
+   "confidence": "medium",
+   "sources": [
+    "https://www.prix-achat.ca/prix-entreposage-voiture.html",
+    "https://www.jolietterecreatif.ca/fr/entrepot-vehicule-recreatif/",
+    "https://www.sportcollette.com/service/entreposage-bateau-hiver/",
+    "https://soumissionsentreposage.ca/entreposage-vehicules/",
+    "https://www.mobilcube.com/fr/"
+   ]
+  },
+  {
+   "claim": "'Hivernage' is ambiguous (winterization service vs winter storage) and needs mechanical negatives.",
+   "detail": "soumissionsentreposage.ca uses 'hivernage/hivernation' for winterization and 'remisage' for seasonal storage. Run 'hivernage bateau' as phrase with negatives moteur, antigel, entoilage, changement d'huile, mécanique.",
+   "confidence": "medium",
+   "sources": [
+    "https://soumissionsentreposage.ca/entreposage-vehicules/"
+   ]
+  },
+  {
+   "claim": "Terrace-furniture storage is an under-served keyword niche with a single organic competitor page on the South Shore.",
+   "detail": "1215 Mini-Entrepôts page 'Entreposage de votre mobilier de terrasse - restauration' lists tables, chaises, luminaires, bars, jardinières, 25-200 sq ft units 'à partir de 60$ par mois'. No mobile-storage competitor (GoCube, Cubeit, Syldave) has a terrace/restaurant page. Volumes are tiny (10-50/mo per term, estimate) but B2B value per lead is high, so bid to top position and rely on phrase match plus DSA to harvest long-tail.",
+   "confidence": "medium",
+   "sources": [
+    "https://www.1215mini-entrepots.com/fr/services/entreposage-commercial/entreposage-de-votre-mobilier-de-terrasse-restauration",
+    "https://gocube.com/entreposage-mobile/",
+    "https://cubeit.ca/fr/quebec/montreal"
+   ]
+  },
+  {
+   "claim": "Mobile-storage rental price anchors in Quebec (for CPC/CPA math): GoCube 99-319 $/month (1 month) or 79-279 $/month (4 months), delivery 139-169 $ per trip; generic range 150-300 $/month.",
+   "detail": "soumissionsdemenageurs.ca 'Prix pour Entreposage Mobile, Cube & Conteneur d'Entreposage au Québec'. With a 5-month winter contract worth roughly 900-1,500 $, a CAD 3-5 CPC and a 5-8% landing conversion yields a CAD 40-100 cost per lead - viable.",
+   "confidence": "medium",
+   "sources": [
+    "https://soumissionsdemenageurs.ca/prix-entreposage-mobile/",
+    "https://selfstoragemaps.com/en/how-much-should-you-spend-on-google-ads-for-a-self-storage-facility/"
+   ]
+  },
+  {
+   "claim": "Google is removing campaign-level language targeting for Search in September 2026; ads will match on the language of the ad itself, which makes separate FR and EN campaigns with fully French ad copy essential.",
+   "detail": "Language-targeting help page notes the upcoming change ('campaign-level language targeting will be removed... automatically match based on the language of your ads'). Brand Butter also reports that running un-translated English copy in Quebec raises CPC ~25% and halves conversion rate.",
+   "confidence": "medium",
+   "sources": [
+    "https://support.google.com/google-ads/answer/1722078?hl=en",
+    "https://www.brandbutter.ca/insights/google-ads-canada-cost-strategy-2026"
+   ]
+  },
+  {
+   "claim": "RVs, most travel trailers and 3-tube pontoons do not physically fit a ~160 sq ft cube; those clusters should be paused or re-angled toward contents/gear storage.",
+   "detail": "Cube is ~160 sq ft (MobilCube brief) vs. typical GoCube 5x8x7 ft and Cubeit/Syldave 16x8x8 ft containers. 'Entreposage VR' (400-800/mo est.) and 'entreposage roulotte' (300-600/mo est.) are high-volume but low-fit; keep only exact-match gear angles and make the size limit explicit in ad copy to avoid wasted clicks.",
+   "confidence": "medium",
+   "sources": [
+    "https://soumissionsdemenageurs.ca/prix-entreposage-mobile/",
+    "https://www.kijiji.ca/b-quebec/entreposage-roulotte/k0l9001"
+   ]
+  }
+ ],
+ "recommendations": [
+  "Validate every volume in Google Keyword Planner before launch: Location = Montréal (CMA) + Laval + Longueuil + Terrebonne + Vaudreuil + Saint-Jérôme radius, Language = French, then re-run with Language = All to see the pooled figure; export the monthly breakdown for Oct-Nov peaks.",
+  "Campaign structure (French): (1) Entreposage mobile / conteneur / cube [exact+phrase, highest bids]; (2) Entreposage hiver véhicules (auto, moto, VTT, motoneige, bateau, remorque, motomarine) [phrase+exact, seasonal budget Sep 15-Nov 30]; (3) Terrasse / commercial / saisonnier [phrase, top-of-page bid, call-only ad variant]; (4) Déménagement / rénovation / temporaire [phrase]; (5) Géo long-tail (Laval, Longueuil, Brossard, Rive-Sud, Rive-Nord, Terrebonne, Repentigny, Boucherville, Vaudreuil, West Island, Laurentides, Saint-Jérôme) [exact]; (6) low-bid 'mini entrepôt' test group; (7) optional competitor conquest (GoCube, Cubeit, U-Box).",
+  "Keep the accented spelling as the canonical keyword (entrepôt, près, véhicule, motoneige, réno). Do not duplicate unaccented versions except for reporting; Google's close variants already cover them.",
+  "Enter negatives in both singular and plural and with accent (à vendre / a vendre, emploi / emplois); apply the shared negative list at account level, and add cluster-specific negatives (moteur/antigel for hivernage; logiciel/gestion for inventaire; industriel/palettes/logistique for commercial).",
+  "Never add the bare word 'québec' as a negative (it blocks 'entreposage mobile québec'); negate 'ville de québec', 'québec city', 'lévis' instead.",
+  "Bid ranges to start (CAD): head generic 3.50-6.00 (cap at 6), mobile-container 2.50-5.00, vehicle-winter 1.50-3.50, terrace/commercial 1.50-3.00 but target top-of-page impression share, geo long-tail 2.50-5.00. Move to Maximize Conversions with tCPA once 30+ calls/forms are recorded.",
+  "Write French RSAs that repeat the exact query terms: 'Conteneur d'entreposage livré chez vous', 'Cube d'entreposage - 160 pi2', 'Entreposage hiver auto - chargez dans votre entrée', 'Mobilier de terrasse entreposé au chaud jusqu'au printemps', 'Rive-Sud, Montréal, Laval - livraison 24-48h'. Add call extensions with 450-641-6498 and location extension for Boucherville.",
+  "Pause or restrict 'entreposage VR', 'entreposage roulotte' and 'entreposage ponton' to exact-match gear/contents angles; the cube cannot hold the vehicle itself.",
+  "Add a Dynamic Search Ads ad group over the French site's terrasse/commercial and véhicules pages to harvest ultra-long-tail (parasols, chauffe-terrasse, jardinières, équipement de paysagement) that Keyword Planner shows as <10/mo.",
+  "Use the search-terms report weekly in October-November to promote new French phrasings (e.g. 'entreposage char hiver', 'entreposage 4 roues', 'remisage side by side') into exact match."
+ ],
+ "data_tables": [
+  {
+   "title": "French keyword universe - MobilCube (volumes and CPCs are Montreal-area ESTIMATES unless a source URL is named; validate in Keyword Planner)",
+   "columns": [
+    "keyword",
+    "cluster",
+    "recommended match type",
+    "intent",
+    "est. monthly searches Montreal area",
+    "est. CPC CAD",
+    "priority",
+    "source / reasoning"
+   ],
+   "rows": [
+    [
+     "entreposage mobile",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase + exact",
+     "commercial (service, high fit)",
+     "300-600",
+     "3.00-5.00",
+     "core",
+     "estimate: category term used by GoCube, Cubeit, Location Conteneur Montréal, Syldave as H1/title; Montreal-area share of a Quebec-wide term; low bidder count vs. generic 'entreposage'"
+    ],
+    [
+     "[entreposage mobile montréal]",
+     "A. Entreposage mobile / conteneur / cube",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "3.50-5.50",
+     "core",
+     "estimate: geo long-tail of the category term; competitors publish dedicated pages (gocube.com/entreposage-montreal/, cubeit.ca/fr/quebec/montreal) which signals real query demand"
+    ],
+    [
+     "conteneur d'entreposage",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "mixed (rental vs. purchase)",
+     "300-600",
+     "2.50-4.50",
+     "core",
+     "estimate: high-volume term but polluted by 'conteneur maritime à vendre' purchase intent; pair with purchase negatives"
+    ],
+    [
+     "location conteneur entreposage",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase + exact",
+     "transactional",
+     "200-400",
+     "3.00-5.00",
+     "core",
+     "estimate: 'location' qualifier removes purchase intent; H1 at locationconteneurmontreal.ca; Keyword Planner pools 'location de conteneur d'entreposage' and 'location conteneur d'entreposage' as close variants"
+    ],
+    [
+     "location de conteneur d'entreposage",
+     "A. Entreposage mobile / conteneur / cube",
+     "exact",
+     "transactional",
+     "(pooled with above)",
+     "3.00-5.00",
+     "core",
+     "Function words (de, d') are close variants; Keyword Planner reports one pooled volume (support.google.com/google-ads/answer/3022575)"
+    ],
+    [
+     "conteneur entreposage montréal",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "transactional (local)",
+     "100-200",
+     "3.50-5.50",
+     "core",
+     "estimate: geo variant; competitor page titles 'Conteneur Montréal' (miniconteneursrivesud.com) confirm demand"
+    ],
+    [
+     "cube d'entreposage",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase + exact",
+     "commercial (high fit, brand-adjacent)",
+     "100-250",
+     "2.50-4.50",
+     "core",
+     "estimate: term popularized by GoCube ('cube d'entreposage' H2 on gocube.com/entreposage-mobile/); MobilCube's own naming makes it the best QS keyword"
+    ],
+    [
+     "cube entreposage",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "commercial",
+     "(pooled with above)",
+     "2.50-4.50",
+     "core",
+     "Dropping the apostrophe/function word is a close variant; one pooled volume"
+    ],
+    [
+     "location cube entreposage",
+     "A. Entreposage mobile / conteneur / cube",
+     "exact",
+     "transactional",
+     "30-80",
+     "3.00-5.00",
+     "core",
+     "estimate: long-tail of 'cube d'entreposage'"
+    ],
+    [
+     "cube de rangement mobile",
+     "A. Entreposage mobile / conteneur / cube",
+     "exact",
+     "commercial (low)",
+     "10-30",
+     "1.50-3.00",
+     "core",
+     "estimate: 'rangement' is mostly furniture/organizer intent; keep only the 'mobile' long-tail"
+    ],
+    [
+     "entrepôt mobile",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase + exact",
+     "commercial",
+     "150-350",
+     "2.50-4.50",
+     "core",
+     "estimate: used as H1 by Syldave ('Entrepôt mobile Laval/Montreal'); accented and unaccented ('entrepot mobile') are pooled by Keyword Planner and matched as close variants"
+    ],
+    [
+     "entrepot mobile",
+     "A. Entreposage mobile / conteneur / cube",
+     "exact (optional duplicate)",
+     "commercial",
+     "(pooled with above)",
+     "2.50-4.50",
+     "core",
+     "Accent-less spelling; Google treats accents as close variants (support.google.com/google-ads/answer/9342105) so a separate keyword is not required, but harmless for reporting"
+    ],
+    [
+     "location entrepôt mobile",
+     "A. Entreposage mobile / conteneur / cube",
+     "exact",
+     "transactional",
+     "30-80",
+     "3.00-5.00",
+     "core",
+     "estimate: long-tail"
+    ],
+    [
+     "mini entrepôt mobile",
+     "A. Entreposage mobile / conteneur / cube",
+     "exact",
+     "commercial",
+     "20-60",
+     "2.50-4.00",
+     "core",
+     "estimate: hybrid of the dominant Quebec term 'mini entrepôt' and 'mobile'"
+    ],
+    [
+     "entreposage livré à domicile",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "transactional",
+     "20-50",
+     "2.00-3.50",
+     "core",
+     "estimate: descriptive long-tail; 'livré à votre porte' appears in competitor H2s (locationconteneurmontreal.ca) so searchers copy the phrasing"
+    ],
+    [
+     "conteneur d'entreposage livré",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "transactional",
+     "20-50",
+     "2.50-4.00",
+     "core",
+     "estimate: long-tail"
+    ],
+    [
+     "entreposage à domicile",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "commercial (ambiguous)",
+     "50-150",
+     "2.00-3.50",
+     "core",
+     "estimate: can mean 'storage at my home' (fit) or home-based storage business; monitor search terms"
+    ],
+    [
+     "conteneur de rangement extérieur location",
+     "A. Entreposage mobile / conteneur / cube",
+     "exact",
+     "commercial",
+     "10-30",
+     "1.50-3.00",
+     "core",
+     "estimate: low volume, moderate fit"
+    ],
+    [
+     "entreposage montréal",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "commercial (generic, high volume)",
+     "1,000-1,900",
+     "3.50-6.00",
+     "core",
+     "estimate: head term; US 'storage units near me' 445k/mo (StoragePug) scaled to Montreal CMA and French share gives ~1-2k; most-contested auction (Public Storage, Depotium, Entrepôt Public bid here) so highest CPC"
+    ],
+    [
+     "entreposage près de moi",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "transactional (near-me)",
+     "500-1,000",
+     "3.50-6.00",
+     "core",
+     "estimate: French near-me; Google also matches 'entreposage proche' as close variant"
+    ],
+    [
+     "entreposage près de chez moi",
+     "A. Entreposage mobile / conteneur / cube",
+     "exact",
+     "transactional (near-me)",
+     "(pooled with above)",
+     "3.50-6.00",
+     "core",
+     "Paraphrase close variant of 'près de moi'"
+    ],
+    [
+     "service d'entreposage montréal",
+     "A. Entreposage mobile / conteneur / cube",
+     "exact",
+     "commercial",
+     "100-200",
+     "3.00-5.00",
+     "core",
+     "estimate: long-tail of the head term"
+    ],
+    [
+     "location d'entreposage",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "commercial",
+     "300-600",
+     "3.00-5.00",
+     "core",
+     "estimate: generic; keep phrase to inherit geo long-tails"
+    ],
+    [
+     "espace d'entreposage à louer",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "commercial",
+     "200-400",
+     "3.00-5.00",
+     "core",
+     "estimate: generic; add 'commercial' and 'industriel' negatives to avoid warehouse leases"
+    ],
+    [
+     "mini entrepôt montréal",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase (test, low bid)",
+     "commercial (traditional self-storage)",
+     "800-1,500",
+     "3.50-6.00",
+     "core",
+     "estimate: dominant Quebec term for self-storage (minientrepotmontreal.ca, minientrepotjaune.ca, 1215mini-entrepots.com); searchers want a unit, MobilCube can convert them with 'on livre le mini-entrepôt chez vous' copy; test at low bid"
+    ],
+    [
+     "entreposage sécurisé chauffé",
+     "A. Entreposage mobile / conteneur / cube",
+     "phrase",
+     "commercial",
+     "50-120",
+     "2.50-4.00",
+     "core",
+     "estimate: feature term matching MobilCube's heated facility"
+    ],
+    [
+     "entreposage voiture hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase + exact",
+     "transactional (seasonal Oct-Nov peak)",
+     "300-700 (Oct-Nov peak; <100 Apr-Aug)",
+     "1.50-3.50",
+     "core",
+     "estimate: many Quebec pages target it (storageauto.ca, minientrepotmontreal.ca, prix-achat.ca, groupegp.com); bidders are mostly small garages/dealers so CPC well under generic storage"
+    ],
+    [
+     "entreposage auto hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase + exact",
+     "transactional (seasonal)",
+     "200-400",
+     "1.50-3.50",
+     "core",
+     "estimate: 'auto' is the Quebec colloquial form; storageauto.ca product URL 'entreposage-auto-hiver' confirms the exact phrasing"
+    ],
+    [
+     "entreposage hivernal voiture",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "exact",
+     "transactional",
+     "(largely pooled: stemming hiver/hivernal)",
+     "1.50-3.50",
+     "core",
+     "Stemming is a close variant; Keyword Planner may or may not pool 'hivernal' with 'hiver'; keep as exact for reporting"
+    ],
+    [
+     "entreposage véhicule hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase",
+     "transactional",
+     "50-150",
+     "1.50-3.00",
+     "core",
+     "estimate: formal variant"
+    ],
+    [
+     "entreposage voiture montréal",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase",
+     "transactional (local)",
+     "200-400",
+     "2.00-4.00",
+     "core",
+     "estimate: publicstoragecanada.com/fr/entreposage-montreal/?vehicle=car and minientrepotmontreal.ca/entreposage-auto-a-montreal/ target it"
+    ],
+    [
+     "entreposage auto montréal",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase",
+     "transactional (local)",
+     "150-300",
+     "2.00-4.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage voiture laval",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "2.00-3.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage voiture rive-sud",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "2.00-3.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage auto chauffé",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase",
+     "transactional",
+     "50-150",
+     "2.00-3.50",
+     "core",
+     "estimate: storageauto.ca sells 'entreposage d'auto chauffé pour l'hiver'"
+    ],
+    [
+     "entreposage intérieur voiture",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase",
+     "transactional",
+     "50-120",
+     "2.00-3.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage voiture de collection",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase",
+     "transactional (high value)",
+     "50-120",
+     "2.00-4.00",
+     "core",
+     "estimate: collector cars are a heated-storage niche; low bidder count"
+    ],
+    [
+     "entreposage auto de collection hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "exact",
+     "transactional",
+     "10-30",
+     "2.00-4.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage voiture ancienne",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "exact",
+     "transactional",
+     "10-30",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "remisage voiture hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase",
+     "transactional",
+     "50-150",
+     "1.50-3.00",
+     "core",
+     "estimate: 'remisage' is the term used by soumissionsentreposage.ca and prix-achat.ca ('entreposage et remisage de voiture')"
+    ],
+    [
+     "remisage auto",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "exact",
+     "transactional",
+     "30-80",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "garage à louer hiver voiture",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase",
+     "transactional (adjacent)",
+     "100-250",
+     "1.50-3.00",
+     "core",
+     "estimate: many searchers look for a rented garage; MobilCube cube is a substitute; watch for Kijiji-type intent"
+    ],
+    [
+     "où entreposer sa voiture l'hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase",
+     "informational-commercial",
+     "50-120",
+     "1.00-2.50",
+     "core",
+     "estimate: question query, good for RSA with FAQ landing"
+    ],
+    [
+     "prix entreposage voiture hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "phrase",
+     "transactional (price)",
+     "50-150",
+     "2.00-3.50",
+     "core",
+     "estimate: prix-achat.ca page 'Prix pour entreposage et remisage de voiture' shows demand"
+    ],
+    [
+     "entreposage décapotable hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "exact",
+     "transactional",
+     "10-30",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage voiture sport hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "exact",
+     "transactional",
+     "10-30",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage VUS hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "exact",
+     "transactional",
+     "10-30",
+     "1.50-3.00",
+     "core",
+     "estimate: storageauto.ca product 'entreposage-vus-hiver' exists"
+    ],
+    [
+     "entreposage camion hiver",
+     "B. Entreposage hiver voiture / auto / véhicule / collection",
+     "exact",
+     "transactional",
+     "10-30",
+     "1.50-3.00",
+     "core",
+     "estimate: fits a 160 sq ft cube only for pickups; test"
+    ],
+    [
+     "entreposage bateau",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase",
+     "commercial (seasonal Sep-Nov)",
+     "300-600",
+     "1.50-3.50",
+     "core",
+     "estimate: US 'boat storage' 30k/mo (StoragePug) scaled; Quebec is boat-heavy; Montreal-area share only"
+    ],
+    [
+     "entreposage bateau hiver",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase + exact",
+     "transactional (seasonal)",
+     "200-400",
+     "1.50-3.50",
+     "core",
+     "estimate: sportcollette.com/service/entreposage-bateau-hiver/ targets it"
+    ],
+    [
+     "entreposage bateau intérieur",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "50-120",
+     "1.50-3.50",
+     "core",
+     "estimate: fits small boats only (cube ~16 ft); qualify in ad copy"
+    ],
+    [
+     "entreposage bateau rive-sud",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "2.00-3.50",
+     "core",
+     "estimate: Sport Collette (Varennes) charges $20/ft boats, $26/ft pontoons (sportcollette.com)"
+    ],
+    [
+     "entreposage bateau montréal",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "2.00-3.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "hivernage bateau",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase (monitor)",
+     "mixed (winterization service vs storage)",
+     "300-600",
+     "1.50-3.00",
+     "core",
+     "estimate: 'hivernage' means winterization (engine, shrink-wrap) as much as storage; run phrase with 'moteur, antigel, entoilage' negatives"
+    ],
+    [
+     "hivernage bateau entreposage",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "20-60",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage ponton",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase",
+     "transactional",
+     "50-120",
+     "1.50-3.00",
+     "core",
+     "estimate: pontoons rarely fit a cube; keep for trailer-less small pontoons only or pause"
+    ],
+    [
+     "entreposage moto hiver",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase + exact",
+     "transactional (seasonal Oct-Nov)",
+     "200-400",
+     "1.50-3.00",
+     "core",
+     "estimate: Joliette Récréatif from $199/season (jolietterecreatif.ca) and Motoplex Mirabel show dealer competition at low bids"
+    ],
+    [
+     "entreposage moto montréal",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase",
+     "transactional (local)",
+     "100-200",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "remisage moto",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "30-80",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage motocyclette",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "10-30",
+     "1.50-3.00",
+     "core",
+     "estimate: formal synonym; Google may already match it as synonym close variant"
+    ],
+    [
+     "entreposage VTT",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase",
+     "transactional",
+     "50-120",
+     "1.00-2.50",
+     "core",
+     "estimate: Quebec term (quad); soumissionsentreposage.ca lists VTT"
+    ],
+    [
+     "entreposage VTT hiver",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "20-60",
+     "1.00-2.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage quad",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "10-30",
+     "1.00-2.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage côte à côte",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "10-30",
+     "1.00-2.50",
+     "core",
+     "estimate: side-by-side UTV; 'entreposage side by side' variant"
+    ],
+    [
+     "entreposage motoneige",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase",
+     "transactional (spring peak Mar-Apr, also fall)",
+     "100-200",
+     "1.00-2.50",
+     "core",
+     "estimate: Joliette Récréatif $299/season anchors dealer pricing"
+    ],
+    [
+     "entreposage motoneige été",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional (counter-seasonal)",
+     "30-80",
+     "1.00-2.50",
+     "core",
+     "estimate: counter-season demand keeps cubes rented Apr-Oct"
+    ],
+    [
+     "entreposage VR",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase",
+     "commercial",
+     "400-800",
+     "1.50-3.00",
+     "core",
+     "estimate: US 'RV storage' 33k/mo (StoragePug) scaled; RVs mostly do NOT fit a cube - use only for gear/contents or pause; roulotte.ca and soumissionsdemenageurs.ca/entreposage-vr/ target it"
+    ],
+    [
+     "entreposage VR hiver",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "100-200",
+     "1.50-3.00",
+     "core",
+     "estimate: low fit for the cube itself; consider 'entreposez l'équipement de votre VR' angle only"
+    ],
+    [
+     "entreposage roulotte",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase",
+     "commercial",
+     "300-600",
+     "1.50-3.00",
+     "core",
+     "estimate: Kijiji has a dedicated 'entreposage roulotte' listing category (kijiji.ca/b-quebec/entreposage-roulotte/k0l9001); most trailers exceed cube size - low fit"
+    ],
+    [
+     "entreposage remorque",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase",
+     "transactional",
+     "50-120",
+     "1.50-3.00",
+     "core",
+     "estimate: small utility trailers can fit; cube is 160 sq ft"
+    ],
+    [
+     "entreposage remorque hiver",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "20-60",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage motomarine",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "30-80",
+     "1.50-3.00",
+     "core",
+     "estimate: jet-ski on trailer fits; soumissionsentreposage.ca lists $300-650/season for kayak/jet ski indoor"
+    ],
+    [
+     "entreposage kayak hiver",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional",
+     "20-60",
+     "1.00-2.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage véhicule récréatif",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "phrase",
+     "commercial",
+     "100-200",
+     "1.50-3.00",
+     "core",
+     "estimate: formal; jolietterecreatif.ca 'entrepôt véhicule récréatif'"
+    ],
+    [
+     "entreposage véhicules récréatifs montréal",
+     "C. Bateau / ponton / moto / VTT / motoneige / VR / roulotte / remorque / hivernage",
+     "exact",
+     "transactional (local)",
+     "20-60",
+     "2.00-3.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage mobilier de terrasse",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "transactional (B2B, Sep-Nov)",
+     "20-50",
+     "1.50-3.00",
+     "core",
+     "estimate: only 1215 Mini-Entrepôts has a dedicated page (1215mini-entrepots.com ... entreposage-de-votre-mobilier-de-terrasse-restauration) - near-zero PPC competition"
+    ],
+    [
+     "entreposage terrasse restaurant",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "transactional (B2B)",
+     "10-30",
+     "1.50-3.00",
+     "core",
+     "estimate: very low volume, very high value; bid to position 1"
+    ],
+    [
+     "entreposage terrasse hiver",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "transactional",
+     "20-50",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage mobilier extérieur",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "transactional (B2C+B2B)",
+     "20-50",
+     "1.50-3.00",
+     "core",
+     "estimate: 1215 Mini-Entrepôts 'mobilier de jardin' page and lebalconier.com blog show the phrasing"
+    ],
+    [
+     "entreposage meubles de patio",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "transactional",
+     "20-50",
+     "1.50-3.00",
+     "core",
+     "estimate: 'patio' is the Quebec colloquial for terrasse at home"
+    ],
+    [
+     "entreposage mobilier de jardin",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "exact",
+     "transactional",
+     "10-30",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage parasols chauffe-terrasse",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "exact",
+     "transactional (B2B)",
+     "<10",
+     "1.50-3.00",
+     "core",
+     "estimate: ultra-long-tail; include for search-term discovery only"
+    ],
+    [
+     "entreposage commercial montréal",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "commercial (B2B)",
+     "100-250",
+     "3.00-5.00",
+     "core",
+     "estimate: contested by self-storage chains ('entreposage commercial' pages at 1215mini-entrepots.com, montrealministorage.com); add 'industriel, palettes, logistique' negatives"
+    ],
+    [
+     "entreposage pour entreprise",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "commercial (B2B)",
+     "50-120",
+     "2.50-4.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage pour restaurant",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "transactional (B2B)",
+     "20-50",
+     "2.00-3.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage saisonnier",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "commercial",
+     "100-200",
+     "2.00-3.50",
+     "core",
+     "estimate: lesentrepotssaisonniers.com brands on it; also matches 'biens saisonniers' consumer intent (GoCube use-case)"
+    ],
+    [
+     "entreposage saisonnier commercial",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "exact",
+     "transactional (B2B)",
+     "10-30",
+     "2.00-3.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage inventaire",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "commercial (B2B)",
+     "30-80",
+     "2.50-4.00",
+     "core",
+     "estimate: add 'logiciel, gestion, système' negatives (inventory software)"
+    ],
+    [
+     "entreposage inventaire commerce de détail",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "exact",
+     "transactional (B2B)",
+     "<10",
+     "2.50-4.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "conteneur entreposage commercial",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "transactional (B2B)",
+     "30-80",
+     "2.50-4.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "conteneur entreposage chantier",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "phrase",
+     "transactional (B2B construction)",
+     "30-80",
+     "2.50-4.50",
+     "core",
+     "estimate: Cubeit markets 'équipement de construction' use case"
+    ],
+    [
+     "entreposage équipement paysagement",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "exact",
+     "transactional (B2B landscapers)",
+     "<10",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage matériel événementiel",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "exact",
+     "transactional (B2B)",
+     "<10",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage hôtel mobilier",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "exact",
+     "transactional (B2B)",
+     "<10",
+     "1.50-3.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage condo mobilier commun",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "exact",
+     "transactional (B2B)",
+     "<10",
+     "1.50-3.00",
+     "core",
+     "estimate: condo syndicates storing pool/terrace furniture"
+    ],
+    [
+     "entreposage archives documents montréal",
+     "D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire",
+     "exact",
+     "commercial (B2B)",
+     "30-80",
+     "3.00-5.00",
+     "core",
+     "estimate: contested by Iron Mountain-type vendors; optional"
+    ],
+    [
+     "déménagement et entreposage",
+     "E. Déménagement + entreposage / rénovation",
+     "phrase",
+     "commercial",
+     "200-400",
+     "3.00-5.00",
+     "core",
+     "estimate: contested by movers; GoCube H2 'solutions de déménagement et d'entreposage'"
+    ],
+    [
+     "entreposage déménagement montréal",
+     "E. Déménagement + entreposage / rénovation",
+     "phrase",
+     "transactional (local)",
+     "100-200",
+     "3.00-5.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "conteneur déménagement",
+     "E. Déménagement + entreposage / rénovation",
+     "phrase",
+     "transactional",
+     "200-400",
+     "2.50-4.50",
+     "core",
+     "estimate: Cubeit title 'Conteneurs d'entreposage et de déménagement'; July 1 Quebec moving day spike (May-Jun)"
+    ],
+    [
+     "conteneur de déménagement montréal",
+     "E. Déménagement + entreposage / rénovation",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "3.00-5.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage pendant rénovation",
+     "E. Déménagement + entreposage / rénovation",
+     "phrase",
+     "transactional",
+     "50-150",
+     "2.00-3.50",
+     "core",
+     "estimate: GoCube and Cubeit list 'rénovations' use case"
+    ],
+    [
+     "entreposage meubles rénovation",
+     "E. Déménagement + entreposage / rénovation",
+     "exact",
+     "transactional",
+     "20-60",
+     "2.00-3.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage temporaire",
+     "E. Déménagement + entreposage / rénovation",
+     "phrase",
+     "commercial",
+     "200-400",
+     "2.50-4.50",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage temporaire montréal",
+     "E. Déménagement + entreposage / rénovation",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "3.00-5.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage court terme",
+     "E. Déménagement + entreposage / rénovation",
+     "phrase",
+     "commercial",
+     "50-120",
+     "2.50-4.00",
+     "core",
+     "estimate"
+    ],
+    [
+     "entreposage meubles montréal",
+     "E. Déménagement + entreposage / rénovation",
+     "phrase",
+     "commercial",
+     "200-400",
+     "3.00-5.00",
+     "core",
+     "estimate: add 'ikea, à vendre, usagé' negatives"
+    ],
+    [
+     "entreposage entre deux déménagements",
+     "E. Déménagement + entreposage / rénovation",
+     "exact",
+     "transactional",
+     "10-30",
+     "2.00-3.50",
+     "core",
+     "estimate: GoCube use-case phrasing 'temporairement entre deux maisons'"
+    ],
+    [
+     "entreposage sinistre dégât d'eau",
+     "E. Déménagement + entreposage / rénovation",
+     "exact",
+     "transactional (insurance-driven)",
+     "10-30",
+     "2.00-3.50",
+     "core",
+     "estimate: GoCube lists 'sinistre'; insurers pay - high value"
+    ],
+    [
+     "entreposage laval",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "500-900",
+     "3.50-5.50",
+     "core",
+     "estimate: GoCube page 'Entreposage mobile Laval', Syldave 'Entrepôt mobile Laval'; Laval ~440k pop"
+    ],
+    [
+     "entreposage mobile laval",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "30-80",
+     "3.00-5.00",
+     "core",
+     "estimate: gocube.com/entreposage-mobile-laval/ exists"
+    ],
+    [
+     "entreposage longueuil",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "300-600",
+     "3.00-5.00",
+     "core",
+     "estimate: Longueuil ~250k; 1215 Mini-Entrepôts near Longueuil dominates organically"
+    ],
+    [
+     "entreposage brossard",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "150-300",
+     "3.00-5.00",
+     "core",
+     "estimate: Brossard ~90k, high income; MobilCube lists Brossard"
+    ],
+    [
+     "entreposage rive-sud",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "300-600",
+     "3.00-5.00",
+     "core",
+     "estimate: gocube.com/entreposage-rive-sud/ H1 'Entreposage Mobile Rive Sud'; hyphenated and unhyphenated pooled"
+    ],
+    [
+     "entreposage mobile rive-sud",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "20-60",
+     "3.00-5.00",
+     "core",
+     "estimate: MobilCube HQ Boucherville = home-turf term"
+    ],
+    [
+     "entreposage rive-nord",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "100-250",
+     "2.50-4.50",
+     "core",
+     "estimate: Syldave 'Laval Rive-Nord' page"
+    ],
+    [
+     "entreposage terrebonne",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "150-300",
+     "2.50-4.50",
+     "core",
+     "estimate: Terrebonne ~120k"
+    ],
+    [
+     "entreposage repentigny",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "100-250",
+     "2.50-4.50",
+     "core",
+     "estimate: Repentigny ~85k"
+    ],
+    [
+     "entreposage boucherville",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "100-200",
+     "3.00-5.00",
+     "core",
+     "estimate: MobilCube HQ city; GoCube lists Boucherville"
+    ],
+    [
+     "entreposage sainte-julie",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "30-80",
+     "2.50-4.50",
+     "core",
+     "estimate: MobilCube service city"
+    ],
+    [
+     "entreposage saint-hubert",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "2.50-4.50",
+     "core",
+     "estimate: Longueuil borough"
+    ],
+    [
+     "entreposage candiac",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "30-80",
+     "2.50-4.50",
+     "core",
+     "estimate: MobilCube service city"
+    ],
+    [
+     "entreposage châteauguay",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "100-200",
+     "2.50-4.50",
+     "core",
+     "estimate: Location Conteneur Montréal lists Châteauguay"
+    ],
+    [
+     "entreposage vaudreuil",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "100-250",
+     "2.50-4.50",
+     "core",
+     "estimate: Vaudreuil-Dorion ~45k fast-growing; 'vaudreuil-dorion' pooled"
+    ],
+    [
+     "entreposage west island",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "50-150",
+     "3.00-5.00",
+     "core",
+     "estimate: Bilingual area; French searchers still write 'west island'; run in FR campaign with bilingual RSA"
+    ],
+    [
+     "entreposage pointe-claire",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "3.00-5.00",
+     "core",
+     "estimate: West Island"
+    ],
+    [
+     "entreposage dollard-des-ormeaux",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "30-80",
+     "3.00-5.00",
+     "core",
+     "estimate: 'DDO' abbreviation is a close variant; add [entreposage ddo] exact"
+    ],
+    [
+     "entreposage kirkland",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "20-60",
+     "3.00-5.00",
+     "core",
+     "estimate: MobilCube lists Kirkland, Beaconsfield"
+    ],
+    [
+     "entreposage laurentides",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "100-250",
+     "2.00-4.00",
+     "core",
+     "estimate: gocube.com/entreposage-laurentides/ exists; chalet owners"
+    ],
+    [
+     "entreposage saint-jérôme",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "150-300",
+     "2.50-4.00",
+     "core",
+     "estimate: Saint-Jérôme ~80k; Location Conteneur Montréal lists it"
+    ],
+    [
+     "entreposage blainville",
+     "F. Géo (near-me & villes)",
+     "phrase",
+     "transactional (local)",
+     "100-200",
+     "2.50-4.50",
+     "core",
+     "estimate: Rive-Nord"
+    ],
+    [
+     "entreposage mascouche",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "2.50-4.00",
+     "core",
+     "estimate: Rive-Nord"
+    ],
+    [
+     "entreposage mirabel",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "50-120",
+     "2.00-4.00",
+     "core",
+     "estimate: Motoplex Mirabel competes on vehicle storage"
+    ],
+    [
+     "conteneur entreposage laval",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "30-80",
+     "3.00-5.00",
+     "core",
+     "estimate: Product+geo long-tail"
+    ],
+    [
+     "conteneur entreposage rive-sud",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "20-60",
+     "3.00-5.00",
+     "core",
+     "estimate: Product+geo long-tail"
+    ],
+    [
+     "entreposage hiver voiture laval",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "20-60",
+     "2.00-3.50",
+     "core",
+     "estimate: Season+geo long-tail"
+    ],
+    [
+     "entreposage bateau laval",
+     "F. Géo (near-me & villes)",
+     "exact",
+     "transactional (local)",
+     "20-60",
+     "2.00-3.50",
+     "core",
+     "estimate: Season+geo long-tail"
+    ]
+   ]
+  },
+  {
+   "title": "French negative keyword list (enter singular AND plural; accents allowed; misspellings auto-covered)",
+   "columns": [
+    "negative keyword",
+    "category",
+    "suggested match type",
+    "why"
+   ],
+   "rows": [
+    [
+     "emploi",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "emplois",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "job",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "jobs",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "carrière",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "carrières",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "salaire",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "offre d'emploi",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "recrutement",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "embauche",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "cariste",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "commis d'entrepôt",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "technicien",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "poste",
+     "Emploi / RH",
+     "phrase",
+     "Job seekers ('commis entreposage', 'emploi entrepôt')"
+    ],
+    [
+     "gratuit",
+     "Gratuit",
+     "phrase",
+     "No-budget intent"
+    ],
+    [
+     "gratuite",
+     "Gratuit",
+     "phrase",
+     "No-budget intent"
+    ],
+    [
+     "gratuitement",
+     "Gratuit",
+     "phrase",
+     "No-budget intent"
+    ],
+    [
+     "don",
+     "Gratuit",
+     "phrase",
+     "No-budget intent"
+    ],
+    [
+     "donner",
+     "Gratuit",
+     "phrase",
+     "No-budget intent"
+    ],
+    [
+     "à vendre",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "a vendre",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "vente",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "acheter",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "achat",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "usagé",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "usagée",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "occasion",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "kijiji",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "lespac",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "marketplace",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "facebook marketplace",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "conteneur maritime",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "container maritime",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "conteneur 20 pieds",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "conteneur 40 pieds",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "conteneur sea can",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "seacan",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "prix d'un conteneur",
+     "Achat de conteneur / petites annonces",
+     "phrase",
+     "Wants to BUY a shipping container or a used item, not rent storage"
+    ],
+    [
+     "ikea",
+     "Détaillants (produits de rangement)",
+     "phrase",
+     "Retail product searches (bacs, étagères)"
+    ],
+    [
+     "canadian tire",
+     "Détaillants (produits de rangement)",
+     "phrase",
+     "Retail product searches (bacs, étagères)"
+    ],
+    [
+     "costco",
+     "Détaillants (produits de rangement)",
+     "phrase",
+     "Retail product searches (bacs, étagères)"
+    ],
+    [
+     "home depot",
+     "Détaillants (produits de rangement)",
+     "phrase",
+     "Retail product searches (bacs, étagères)"
+    ],
+    [
+     "rona",
+     "Détaillants (produits de rangement)",
+     "phrase",
+     "Retail product searches (bacs, étagères)"
+    ],
+    [
+     "walmart",
+     "Détaillants (produits de rangement)",
+     "phrase",
+     "Retail product searches (bacs, étagères)"
+    ],
+    [
+     "amazon",
+     "Détaillants (produits de rangement)",
+     "phrase",
+     "Retail product searches (bacs, étagères)"
+    ],
+    [
+     "wayfair",
+     "Détaillants (produits de rangement)",
+     "phrase",
+     "Retail product searches (bacs, étagères)"
+    ],
+    [
+     "structube",
+     "Détaillants (produits de rangement)",
+     "phrase",
+     "Retail product searches (bacs, étagères)"
+    ],
+    [
+     "bureau en gros",
+     "Détaillants (produits de rangement)",
+     "phrase",
+     "Retail product searches (bacs, étagères)"
+    ],
+    [
+     "plan",
+     "DIY",
+     "phrase",
+     "Wants to build a shed/rack, not rent"
+    ],
+    [
+     "plans",
+     "DIY",
+     "phrase",
+     "Wants to build a shed/rack, not rent"
+    ],
+    [
+     "diy",
+     "DIY",
+     "phrase",
+     "Wants to build a shed/rack, not rent"
+    ],
+    [
+     "fabriquer",
+     "DIY",
+     "phrase",
+     "Wants to build a shed/rack, not rent"
+    ],
+    [
+     "construire",
+     "DIY",
+     "phrase",
+     "Wants to build a shed/rack, not rent"
+    ],
+    [
+     "construction d'un",
+     "DIY",
+     "phrase",
+     "Wants to build a shed/rack, not rent"
+    ],
+    [
+     "soi-même",
+     "DIY",
+     "phrase",
+     "Wants to build a shed/rack, not rent"
+    ],
+    [
+     "bricolage",
+     "DIY",
+     "phrase",
+     "Wants to build a shed/rack, not rent"
+    ],
+    [
+     "tutoriel",
+     "DIY",
+     "phrase",
+     "Wants to build a shed/rack, not rent"
+    ],
+    [
+     "comment faire",
+     "DIY",
+     "phrase",
+     "Wants to build a shed/rack, not rent"
+    ],
+    [
+     "définition",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "signification",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "synonyme",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "traduction",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "anglais",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "c'est quoi",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "wikipedia",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "cours",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "formation",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "loi",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "règlement",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "normes",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "norme",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "code du bâtiment",
+     "Informationnel / académique",
+     "phrase",
+     "Dictionary, training, legal research"
+    ],
+    [
+     "toronto",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "ottawa",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "gatineau",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "ville de québec",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "québec city",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "quebec city",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "lévis",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "sherbrooke",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "trois-rivières",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "saguenay",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "chicoutimi",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "rimouski",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "drummondville",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "granby",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "france",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "paris",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "belgique",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "lyon",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "marseille",
+     "Géo hors zone",
+     "phrase",
+     "Outside MobilCube delivery area (note: 'québec' alone must NOT be negated - it would block 'entreposage mobile québec')"
+    ],
+    [
+     "logiciel",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "système de gestion",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "wms",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "gestion d'inventaire",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "données",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "cloud",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "nuage",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "informatique",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "disque dur",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "stockage de données",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "batterie",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "stockage d'énergie",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "énergie",
+     "Techno / stockage de données",
+     "phrase",
+     "'Stockage' and 'entreposage inventaire' software intent"
+    ],
+    [
+     "logistique",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "3pl",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "palettes",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "palettisation",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "distribution",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "entrepôt frigorifique",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "réfrigéré",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "congelé",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "chambre froide",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "sous douane",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "douane",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "industriel à louer",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "entrepôt à louer",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "entrepôt à vendre",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "pi2 à louer",
+     "Logistique / immobilier industriel",
+     "phrase",
+     "Warehouse leasing and 3PL, not self-storage"
+    ],
+    [
+     "rangement",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "étagère",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "étagères",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "garde-robe",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "armoire",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "bac",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "bacs",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "boîte de rangement",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "cabanon",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "remise à vendre",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "abri tempo",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "abri d'auto",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "housse",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "bâche",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "toile",
+     "Produits de rangement / abris",
+     "phrase",
+     "Organizer products and car shelters (Tempo) are substitutes bought, not rented storage"
+    ],
+    [
+     "moteur",
+     "Hivernage = service mécanique",
+     "phrase",
+     "Winterization service intent under 'hivernage bateau/moto'"
+    ],
+    [
+     "antigel",
+     "Hivernage = service mécanique",
+     "phrase",
+     "Winterization service intent under 'hivernage bateau/moto'"
+    ],
+    [
+     "entoilage",
+     "Hivernage = service mécanique",
+     "phrase",
+     "Winterization service intent under 'hivernage bateau/moto'"
+    ],
+    [
+     "mise au rancart",
+     "Hivernage = service mécanique",
+     "phrase",
+     "Winterization service intent under 'hivernage bateau/moto'"
+    ],
+    [
+     "changement d'huile",
+     "Hivernage = service mécanique",
+     "phrase",
+     "Winterization service intent under 'hivernage bateau/moto'"
+    ],
+    [
+     "mécanique",
+     "Hivernage = service mécanique",
+     "phrase",
+     "Winterization service intent under 'hivernage bateau/moto'"
+    ],
+    [
+     "réparation",
+     "Hivernage = service mécanique",
+     "phrase",
+     "Winterization service intent under 'hivernage bateau/moto'"
+    ],
+    [
+     "enchère",
+     "Divertissement",
+     "phrase",
+     "TV shows and auctions"
+    ],
+    [
+     "enchères",
+     "Divertissement",
+     "phrase",
+     "TV shows and auctions"
+    ],
+    [
+     "encan",
+     "Divertissement",
+     "phrase",
+     "TV shows and auctions"
+    ],
+    [
+     "storage wars",
+     "Divertissement",
+     "phrase",
+     "TV shows and auctions"
+    ],
+    [
+     "guerre des entrepôts",
+     "Divertissement",
+     "phrase",
+     "TV shows and auctions"
+    ],
+    [
+     "reddit",
+     "Divertissement",
+     "phrase",
+     "TV shows and auctions"
+    ],
+    [
+     "youtube",
+     "Divertissement",
+     "phrase",
+     "TV shows and auctions"
+    ],
+    [
+     "film",
+     "Divertissement",
+     "phrase",
+     "TV shows and auctions"
+    ],
+    [
+     "série",
+     "Divertissement",
+     "phrase",
+     "TV shows and auctions"
+    ],
+    [
+     "assurance",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "réclamation",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "faillite",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "avis de recherche",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "vin",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "cave à vin",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "armes",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "chien",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "chat",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "garderie",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "pneus",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "entreposage de pneus",
+     "Hors offre",
+     "phrase",
+     "Unrelated services (tire storage at garages, wine cellars, pet boarding)"
+    ],
+    [
+     "u-haul",
+     "Marques concurrentes (optionnel)",
+     "exact/phrase - optional",
+     "Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor"
+    ],
+    [
+     "uhaul",
+     "Marques concurrentes (optionnel)",
+     "exact/phrase - optional",
+     "Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor"
+    ],
+    [
+     "cubeit",
+     "Marques concurrentes (optionnel)",
+     "exact/phrase - optional",
+     "Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor"
+    ],
+    [
+     "gocube",
+     "Marques concurrentes (optionnel)",
+     "exact/phrase - optional",
+     "Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor"
+    ],
+    [
+     "go cube",
+     "Marques concurrentes (optionnel)",
+     "exact/phrase - optional",
+     "Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor"
+    ],
+    [
+     "pods",
+     "Marques concurrentes (optionnel)",
+     "exact/phrase - optional",
+     "Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor"
+    ],
+    [
+     "public storage",
+     "Marques concurrentes (optionnel)",
+     "exact/phrase - optional",
+     "Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor"
+    ],
+    [
+     "depotium",
+     "Marques concurrentes (optionnel)",
+     "exact/phrase - optional",
+     "Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor"
+    ],
+    [
+     "entrepôt public",
+     "Marques concurrentes (optionnel)",
+     "exact/phrase - optional",
+     "Competitor brand terms: keep OUT of negatives if a conquest ad group is run; add if CPA is poor"
+    ]
+   ]
+  },
+  {
+   "title": "How Google Ads treats French spelling variants (positive vs negative keywords)",
+   "columns": [
+    "variant type",
+    "example",
+    "positive keyword (exact/phrase)",
+    "negative keyword",
+    "source"
+   ],
+   "rows": [
+    [
+     "Accents / diacritics",
+     "entrepôt mobile vs entrepot mobile; près de moi vs pres de moi",
+     "Matched automatically as close variant; one Keyword Planner volume",
+     "Accent marks allowed; unaccented typo treated as misspelling so covered",
+     "https://support.google.com/google-ads/answer/9342105 ; https://support.google.com/google-ads/answer/2453972"
+    ],
+    [
+     "Singular / plural",
+     "conteneur d'entreposage vs conteneurs d'entreposage",
+     "Matched automatically",
+     "NOT covered - add both forms",
+     "same"
+    ],
+    [
+     "Stemming",
+     "hiver vs hivernal; entreposage vs entreposer",
+     "Matched automatically (exact and phrase)",
+     "NOT covered - add each form",
+     "same"
+    ],
+    [
+     "Function words",
+     "location conteneur entreposage vs location de conteneur d'entreposage",
+     "Matched automatically (added/removed function words)",
+     "Word order/function words matter more; add the core noun instead",
+     "same"
+    ],
+    [
+     "Misspellings",
+     "entreposage vs entreposge; motonege",
+     "Matched automatically",
+     "Covered automatically",
+     "same"
+    ],
+    [
+     "Synonyms / paraphrases",
+     "auto vs voiture vs char (QC slang); VTT vs quad",
+     "Exact and phrase may match same-intent synonyms",
+     "NOT covered - add each synonym",
+     "same"
+    ],
+    [
+     "Abbreviations",
+     "DDO vs Dollard-des-Ormeaux; VR vs véhicule récréatif",
+     "Matched automatically",
+     "Add both",
+     "same"
+    ],
+    [
+     "Casing",
+     "Entreposage vs entreposage",
+     "Case-insensitive",
+     "Case-insensitive",
+     "same"
+    ]
+   ]
+  },
+  {
+   "title": "CPC calibration benchmarks used (with dates)",
+   "columns": [
+    "benchmark",
+    "value",
+    "currency",
+    "date",
+    "source"
+   ],
+   "rows": [
+    [
+     "US self-storage CPC, dense metros ('self storage near me', 'storage units [city]')",
+     "4-15",
+     "USD",
+     "2026-07-01",
+     "https://www.storagepug.com/blog/running-google-ad-campaigns"
+    ],
+    [
+     "Canada home services CPC",
+     "6-25",
+     "CAD",
+     "2026-04-15",
+     "https://www.brandbutter.ca/insights/google-ads-canada-cost-strategy-2026"
+    ],
+    [
+     "Canada real estate (residential) CPC",
+     "3-12",
+     "CAD",
+     "2026-04-15",
+     "https://www.brandbutter.ca/insights/google-ads-canada-cost-strategy-2026"
+    ],
+    [
+     "French vs English CPC discount, Canada",
+     "20-40% lower",
+     "n/a",
+     "2026-05-07",
+     "https://www.scalemarketer.com/blog/canadian-google-ads-english-french-success-story"
+    ],
+    [
+     "French vs English CAC",
+     "20-35% lower",
+     "n/a",
+     "2026-05-07",
+     "https://www.scalemarketer.com/blog/canadian-google-ads-english-french-success-story"
+    ],
+    [
+     "Un-translated English copy in Quebec",
+     "+25% CPC, conversion rate halved",
+     "n/a",
+     "2026-04-15",
+     "https://www.brandbutter.ca/insights/google-ads-canada-cost-strategy-2026"
+    ],
+    [
+     "Secondary Canadian cities vs Toronto CPC",
+     "15-30% cheaper",
+     "n/a",
+     "2026-08-26",
+     "https://littledragon.ca/google-ads-pricing-costs-breakdown-what-to-expect/"
+    ],
+    [
+     "UK self-storage CPC large city / London",
+     "3.00-4.50 / 4.00-7.00+",
+     "GBP",
+     "not_found (undated)",
+     "https://selfstoragemaps.com/en/how-much-should-you-spend-on-google-ads-for-a-self-storage-facility/"
+    ],
+    [
+     "Self-storage landing conversion rate (well built)",
+     "4-8%",
+     "n/a",
+     "not_found (undated)",
+     "https://selfstoragemaps.com/en/how-much-should-you-spend-on-google-ads-for-a-self-storage-facility/"
+    ],
+    [
+     "All-industry average CPC 2025",
+     "5.26",
+     "USD",
+     "2025",
+     "https://www.wordstream.com/blog/2025-google-ads-benchmarks"
+    ]
+   ]
+  },
+  {
+   "title": "Volume scaling anchors (US published -> Montreal French estimate)",
+   "columns": [
+    "US keyword",
+    "US monthly searches",
+    "Canada est. (/8.5)",
+    "Quebec est. (x0.23)",
+    "Montreal CMA est. (x0.5)",
+    "French share est. (x0.7)",
+    "source"
+   ],
+   "rows": [
+    [
+     "storage units near me",
+     "445,000",
+     "~52,000",
+     "~12,000",
+     "~6,000",
+     "~4,200 (spread over entreposage montréal / près de moi / mini entrepôt / geo terms)",
+     "https://www.storagepug.com/blog/running-google-ad-campaigns"
+    ],
+    [
+     "self storage near me",
+     "82,000",
+     "~9,600",
+     "~2,200",
+     "~1,100",
+     "~770",
+     "same"
+    ],
+    [
+     "RV storage",
+     "33,000",
+     "~3,900",
+     "~890",
+     "~450",
+     "~310 (Quebec over-indexes on VR; table uses 400-800)",
+     "same"
+    ],
+    [
+     "boat storage",
+     "30,000",
+     "~3,500",
+     "~810",
+     "~400",
+     "~280 (Quebec over-indexes on boats; table uses 300-600)",
+     "same"
+    ]
+   ]
+  },
+  {
+   "title": "Seasonality guidance for French clusters (estimate)",
+   "columns": [
+    "cluster",
+    "peak months",
+    "multiplier vs 12-month average",
+    "budget note"
+   ],
+   "rows": [
+    [
+     "Entreposage voiture/auto/moto hiver",
+     "Oct 1 - Nov 30",
+     "3-5x",
+     "Front-load 60% of vehicle budget in Oct-Nov"
+    ],
+    [
+     "Entreposage bateau / hivernage",
+     "Sep 15 - Nov 15",
+     "3-4x",
+     "Start Sep 15"
+    ],
+    [
+     "Entreposage motoneige / VTT",
+     "Mar 15 - Apr 30 (storage) and Oct (retrieval)",
+     "2-3x",
+     "Counter-season cube utilisation"
+    ],
+    [
+     "Mobilier de terrasse / restaurant",
+     "Oct 1 - Nov 15 (Montreal terrace permits end late Oct)",
+     "5x+ vs summer",
+     "B2B: run call-only ads weekday 9-17h"
+    ],
+    [
+     "Déménagement / conteneur déménagement",
+     "May 15 - Jul 15 (July 1 moving day)",
+     "2-3x",
+     "Separate spring budget"
+    ],
+    [
+     "Entreposage mobile / conteneur (generic)",
+     "flat with May-Jul and Sep-Oct bumps",
+     "1.3x",
+     "Always-on"
+    ]
+   ]
+  }
+ ],
+ "open_questions": [
+  "Exact Keyword Planner volumes for Montreal CMA in French were not retrievable in this session (no logged-in keyword tool; search budget exhausted) - all volumes are estimates and must be validated before budgets are set.",
+  "Does MobilCube accept vehicles in the cube (car, moto, VTT, motoneige on trailer)? The 160 sq ft cube fits a compact car in theory but loading at ground level implies ramp/clearance limits - confirm before bidding on 'entreposage voiture hiver'.",
+  "Does MobilCube deliver to Laurentides/Saint-Jérôme and Vaudreuil, or only Rive-Sud, Montréal, Laval and Couronne Nord? The FR site says 'Partout au Québec' but lists only South Shore/West Island cities.",
+  "Which French landing pages exist for véhicules and commercial/terrasse? Quality Score for those clusters depends on dedicated FR pages.",
+  "Actual auction CPCs for GoCube/Cubeit brand terms and whether conquest bidding is worth it.",
+  "Google's September 2026 removal of campaign-level language targeting: confirm the account's current behaviour so French RSAs are not served to English-only searchers."
+ ],
+ "sources": [
+  "https://support.google.com/google-ads/answer/9342105?hl=en",
+  "https://support.google.com/google-ads/answer/2453972?hl=en",
+  "https://support.google.com/google-ads/answer/7478529?hl=en",
+  "https://support.google.com/google-ads/answer/3022575?hl=en",
+  "https://support.google.com/google-ads/answer/1722078?hl=en",
+  "https://support.google.com/google-ads/thread/1776076?hl=fr",
+  "http://oseox.fr/blog/index.php/782-google-accents",
+  "https://www.scalemarketer.com/blog/canadian-google-ads-english-french-success-story",
+  "https://www.brandbutter.ca/insights/google-ads-canada-cost-strategy-2026",
+  "https://littledragon.ca/google-ads-pricing-costs-breakdown-what-to-expect/",
+  "https://www.storagepug.com/blog/running-google-ad-campaigns",
+  "https://selfstoragemaps.com/en/how-much-should-you-spend-on-google-ads-for-a-self-storage-facility/",
+  "https://www.wordstream.com/blog/2025-google-ads-benchmarks",
+  "https://www.storiq.ai/blog/self-storage-seo-keywords",
+  "https://www.mobilcube.com/fr/",
+  "https://gocube.com/entreposage-mobile/",
+  "https://gocube.com/entreposage-rive-sud/",
+  "https://gocube.com/entreposage-mobile-laval/",
+  "https://gocube.com/entreposage-laurentides/",
+  "https://gocube.com/entreposage-montreal/",
+  "https://cubeit.ca/fr/quebec/montreal",
+  "https://www.locationconteneurmontreal.ca/location-de-conteneur-pour-entreposage-mobile/",
+  "https://syldave.com/fr/conteneurs/65-services-en-transport-syldave-2016-2017/24159-entrepot-mobile-laval-rive-nord.html",
+  "https://www.syldave.com/fr/73-entreposage-mobile/24399-entreposage-mobile-montreal-entrepot-location-transport-rive-sud.html",
+  "https://www.miniconteneursrivesud.com/conteneur-montreal.php",
+  "https://soumissionsdemenageurs.ca/prix-entreposage-mobile/",
+  "https://soumissionsentreposage.ca/entreposage-vehicules/",
+  "https://www.prix-achat.ca/prix-entreposage-voiture.html",
+  "https://storageauto.ca/products/entreposage-auto-hiver",
+  "https://www.minientrepotmontreal.ca/entreposage-auto-a-montreal/",
+  "https://publicstoragecanada.com/fr/entreposage-montreal/?vehicle=car",
+  "https://www.jolietterecreatif.ca/fr/entrepot-vehicule-recreatif/",
+  "https://www.sportcollette.com/service/entreposage-bateau-hiver/",
+  "https://www.motoplexmirabel.ca/fr/entreposage/",
+  "https://www.kijiji.ca/b-quebec/entreposage-roulotte/k0l9001",
+  "https://www.1215mini-entrepots.com/fr/services/entreposage-commercial/entreposage-de-votre-mobilier-de-terrasse-restauration",
+  "https://www.1215mini-entrepots.com/fr/services/entreposage-residentiel/entreposage-de-votre-mobilier-de-jardin",
+  "https://minientrepotjaune.ca/",
+  "https://www.montrealministorage.com/fr/",
+  "https://lesentrepotssaisonniers.com/tarifs_chauffe.html"
+ ]
+}
