@@ -1,0 +1,20 @@
+{
+  "name": "gemini-ad-creatives",
+  "version": "1.0.0",
+  "description": "Generate Google Ads image assets (Search, Performance Max, Demand Gen) for a Montreal mobile self-storage business with the Gemini API, then resize/crop to every required ad size.",
+  "type": "module",
+  "private": true,
+  "bin": { "gen-creatives": "./src/cli.js" },
+  "scripts": {
+    "gen": "node src/cli.js",
+    "gen:all": "node src/cli.js --all",
+    "resize": "node src/resize.js",
+    "check": "node src/check.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.20.0",
+    "sharp": "^0.34.3",
+    "yaml": "^2.8.0"
+  },
+  "engines": { "node": ">=20" }
+}

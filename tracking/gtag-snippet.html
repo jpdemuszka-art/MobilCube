@@ -1,0 +1,28 @@
+<!-- ===== Google tag with Consent Mode v2 (Quebec Law 25) — paste as the FIRST thing inside <head> ===== -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  // 1. Default: everything denied until the visitor consents (Law 25). Consent Mode still models conversions.
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'denied',
+    'functionality_storage': 'granted',
+    'security_storage': 'granted',
+    'wait_for_update': 500
+  });
+  gtag('set', 'url_passthrough', true);   // keeps gclid in URLs so conversions can be attributed without cookies
+  gtag('set', 'ads_data_redaction', true);
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-XXXXXXXXXX"></script>
+<script>
+  gtag('js', new Date());
+  // 2. Google Ads + GA4 destinations
+  gtag('config', 'AW-XXXXXXXXXX');
+  gtag('config', 'G-XXXXXXXXXX', { 'send_page_view': true });
+  // 3. Website-call conversion: Google swaps the displayed number for a forwarding number for ad visitors.
+  //    Replace with the conversion label of "Call from website" and your real business number.
+  gtag('config', 'AW-XXXXXXXXXX/CALL_LABEL', { 'phone_conversion_number': '+1 514 000 0000' });
+</script>
+<!-- ===== end Google tag ===== -->

@@ -1,0 +1,116 @@
+# Prompt library for Google Ads image assets.
+# Every scene is text-free (Google image policy + Quebec French-language rules) and set in a
+# recognisably Montreal / Quebec environment. Segment tags map to campaigns in ads/google-ads-editor.
+scenes:
+  # ---------- Segment: mobile storage (general) ----------
+  - id: duplex-driveway-container
+    segment: mobile-general
+    title: Container delivered in front of a Plateau duplex
+    prompt: >
+      A clean white steel mobile storage container, about 16 feet long, placed neatly on the
+      driveway of a red-brick Montreal duplex with a wrought-iron exterior spiral staircase, maple
+      trees turning orange in late October, a flatbed delivery truck pulling away in the background,
+      a couple in their thirties carrying a box toward the open container door, soft afternoon light.
+  - id: alley-triplex-loading
+    segment: mobile-general
+    title: Loading a cube in a Montreal alley
+    prompt: >
+      A compact mobile storage cube on a small trailer parked in a narrow Montreal alley behind a
+      greystone triplex, its double doors open showing neatly stacked labelled moving boxes and a
+      bicycle, a person in a fleece jacket sliding a box inside, fallen leaves on the pavement,
+      overcast autumn sky.
+  - id: yard-secure-storage
+    segment: mobile-general
+    title: Secure fenced storage yard with rows of containers
+    prompt: >
+      Rows of identical white steel storage containers in a clean fenced yard with security cameras
+      on tall poles and bright LED lighting, a light dusting of first snow on the ground, one
+      container door open showing a covered sofa and boxes, blue hour, sense of order and safety.
+
+  # ---------- Segment: winter vehicle storage ----------
+  - id: winter-car-container
+    segment: vehicle
+    title: Sports car rolling into a container before winter
+    prompt: >
+      A dark grey convertible sports car being slowly driven up a short steel ramp into a large
+      white mobile storage container in front of a suburban bungalow on Montreal's South Shore,
+      the car's cover folded on the lawn, bare trees, grey November sky with the first snowflakes,
+      a person in a winter coat guiding the driver.
+  - id: boat-trailer-loading
+    segment: vehicle
+    title: Bowrider boat on trailer next to a container
+    prompt: >
+      A 20-foot white bowrider motorboat shrink-wrapped on its trailer, parked beside a large
+      steel storage container at a marina on the St. Lawrence River near Montreal, autumn colours
+      on the far shore, a worker in a hi-vis vest checking the trailer hitch, calm water, crisp
+      October morning light.
+  - id: atv-snowmobile-cube
+    segment: vehicle
+    title: ATVs and a snowmobile lined up inside a container
+    prompt: >
+      Two mud-splashed all-terrain vehicles and a snowmobile parked inside a bright, clean steel
+      storage container, doors wide open, a garage-style rubber floor, a helmet on a shelf, a Quebec
+      country house with a wooden porch visible outside, late autumn, frost on the grass.
+  - id: motorcycle-covered
+    segment: vehicle
+    title: Motorcycle under a cover in heated storage
+    prompt: >
+      A cruiser motorcycle with a fitted fabric cover partly pulled back, chrome gleaming, standing
+      in a dry heated indoor storage bay with concrete floor and soft overhead lighting, a battery
+      tender cable on the ground, other covered vehicles blurred in the background.
+  - id: rv-trailer-yard
+    segment: vehicle
+    title: Travel trailer parked in a secure winter yard
+    prompt: >
+      A white travel trailer and a small camper van parked in a gravel storage yard with a tall
+      security fence and gate, snow falling lightly, a floodlight glowing, evergreen trees at the
+      edge, a sense of a quiet, protected place for the winter.
+
+  # ---------- Segment: commercial terrace / seasonal ----------
+  - id: old-port-terrace-teardown
+    segment: commercial
+    title: Restaurant terrace being packed into a container
+    prompt: >
+      Staff in black aprons stacking black metal bistro chairs and folding tables from a
+      restaurant's sidewalk terrace into a white steel storage container parked at the curb of a
+      cobblestone street in Old Montreal, string lights being coiled, large planters with faded
+      summer flowers waiting on the sidewalk, cool morning light in early November.
+  - id: patio-heaters-umbrellas
+    segment: commercial
+    title: Patio heaters and umbrellas ready for winter storage
+    prompt: >
+      A row of tall stainless steel patio heaters, closed market umbrellas and stacked rattan
+      lounge chairs lined up on the empty rooftop terrace of a boutique hotel with the Montreal
+      skyline and Mount Royal in the background, a flatbed truck with a storage container waiting
+      in the street below, grey autumn afternoon.
+  - id: cafe-terrace-plateau
+    segment: commercial
+    title: Café owner closing the terrace on the Plateau
+    prompt: >
+      A café owner in a wool sweater rolling a large ceramic planter toward a compact storage cube
+      on a trailer in front of a colourful Plateau-Mont-Royal café with a painted wooden façade,
+      folded café tables leaning against the wall, orange leaves on the sidewalk, mid-morning.
+  - id: condo-building-summer-gear
+    segment: commercial
+    title: Condo building storing pool and garden furniture
+    prompt: >
+      A building superintendent wheeling stacked pool loungers and a barbecue on a dolly toward an
+      open steel storage container in the parking lot of a modern Montreal condo tower, the empty
+      pool covered with a tarp behind, cold clear autumn morning.
+
+  # ---------- Segment: brand / general trust ----------
+  - id: friendly-driver-handover
+    segment: brand
+    title: Driver handing keys to a customer
+    prompt: >
+      A friendly delivery driver in a clean uniform handing a padlock and keys to a smiling customer
+      beside a freshly delivered white storage container on a residential street in Laval, a
+      flatbed truck with a tilt-bed behind, houses with peaked roofs, warm autumn light, genuine
+      candid expressions, faces slightly turned away from the camera.
+  - id: spring-return
+    segment: brand
+    title: Container returned in spring, boat ready for the water
+    prompt: >
+      A white steel storage container being lowered by a tilt-bed truck onto a driveway in spring,
+      tulips blooming, a family unwrapping a boat on a trailer beside it, bright May sunshine in a
+      Quebec suburb, sense of relief and a season starting.
