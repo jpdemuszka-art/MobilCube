@@ -2,12 +2,12 @@
 
 A complete, import-ready Google Ads program for MobilCube (mobile self-storage, Boucherville / Greater Montreal), built on a competitive analysis of the Montreal storage market done on 2026-09-26.
 
-**Start with [`docs/00-start-here.md`](docs/00-start-here.md).** If you are in the Google Ads campaign wizard right now, go straight to [`docs/05-campaign-wizard-answers.md`](docs/05-campaign-wizard-answers.md).
+**Launching now? Read [`docs/08-launch-analysis-2026-09-30.md`](docs/08-launch-analysis-2026-09-30.md) first** (5,000 $/month plan, site blockers, competitor ad scan, verified keywords). Then [`docs/00-start-here.md`](docs/00-start-here.md). In the Google Ads campaign wizard, use [`docs/05-campaign-wizard-answers.md`](docs/05-campaign-wizard-answers.md).
 
 | Folder | What is inside |
 |---|---|
 | `docs/` | Competitive analysis with sources, the strategy, budget and forecast, seasonal calendar, wizard answers, Quebec compliance rules |
-| `ads/google-ads-editor/` | Nine CSVs to bulk-import 8 campaigns, 32 ad groups, 360 keywords, 32 responsive search ads, 269 shared negatives and all assets with Google Ads Editor |
+| `ads/google-ads-editor/` | Nine CSVs to bulk-import 8 campaigns, 32 ad groups, 482 keywords (405 enabled), 32 responsive search ads, 331 shared negatives and all assets with Google Ads Editor |
 | `ads/keywords/`, `ads/negatives/`, `ads/copy/` | Full keyword universe (FR + EN, with estimated volumes and CPCs), negative lists, the ad copy deck |
 | `ads/build_import.py` | Regenerates everything above and refuses copy that breaks Google's character limits |
 | `landing/` | Bilingual (French-first) landing pages per segment: winter vehicles, commercial terraces, mobile storage, plus hub, thank-you and Law 25 privacy pages |

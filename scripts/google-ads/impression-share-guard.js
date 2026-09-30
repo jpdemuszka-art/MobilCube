@@ -7,7 +7,8 @@
 var DRY_RUN = true;
 var MAX_LOST_IS_BUDGET = 0.20;    // 20 %
 var STEP = 1.15;                  // +15 % per day at most
-var HARD_CAP_DAILY = { 'FR | Search | Vehicules hiver': 140, 'FR | Search | Terrasse commercial': 90, 'EN | Search | Winter vehicle': 40, 'EN | Search | Commercial patio': 25 };
+// Ceilings for the 5,000 $/month launch (about 1.5x the launch daily budget). The pacer's monthly caps still apply.
+var HARD_CAP_DAILY = { 'FR | Search | Entreposage mobile': 75, 'FR | Search | Vehicules hiver': 70, 'FR | Search | Terrasse commercial': 20, 'EN | Search | Winter vehicle': 18, 'EN | Search | Commercial patio': 6 };
 var PEAK_WEEKS = ['2026-W42', '2026-W43', '2026-W44', '2026-W45', '2026-W46', '2026-W47', '2026-W48'];
 
 function isoWeek(d) {

@@ -97,7 +97,7 @@ Then upload the Gemini images from `tools/gemini-creatives/out/` (1200×1200 and
 | Conversion goals | Calls from ads, Website calls, Submit lead form (Quote form), Booking | Page views, clicks |
 | Campaign type | **Search** | Performance Max (the wizard pushes it; keep for phase 2) |
 | Ways to reach goal | Phone calls + Website visits | App |
-| Bidding | Clicks, with **max CPC bid limit** 3.50 $ (FR vehicle) / 4.50 $ (FR mobile) / 6.00 $ (EN) | Conversions (no data yet) |
+| Bidding | **Manual CPC** (on the bidding step, click "Or, select a bid strategy directly", then Manual CPC). Keyword bids come from the import file; ceilings: 3.50 $ FR mobile and terrace, 3.00 $ FR vehicles, 5.00 $ EN mobile, 4.00 $ EN vehicles and patio | Conversions (no data yet) |
 | Networks | Google Search only | Search partners, Display Network |
 | Locations | Add the municipalities in `02-google-ads-strategy.md` §3; option **Presence** | Radius around Canada, "presence or interest" |
 | Languages | leave as suggested; write ads in the campaign's language only | mixing FR and EN in one campaign |
@@ -106,6 +106,6 @@ Then upload the Gemini images from `tools/gemini-creatives/out/` (1200×1200 and
 | Keywords | paste from `ads/keywords/` in phrase and exact form | Google's suggested broad list |
 | Ads | paste the RSA for that ad group from `ads/copy/` | let Google generate |
 | Assets | sitelinks, callouts, call, location, price, images | skip |
-| Budget | 85 $/day vehicle FR, 50 $ terrace FR, 60 $ mobile FR, 25/15/20 $ EN | Google's "recommended" figure |
+| Budget (5,000 $/month plan) | 50 $/day FR mobile, 45 $ FR vehicles, 12 $ FR terrace, 15 $ EN mobile, 12 $ EN vehicle, 4 $ EN patio, 3 $ brand, 8 $ competitors | Google's "recommended" figure |
 
 Faster route: skip the wizard entirely, import `ads/google-ads-editor/*.csv` with Google Ads Editor, then only set conversions, locations and budgets in the web UI.

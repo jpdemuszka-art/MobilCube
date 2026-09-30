@@ -18,8 +18,6 @@ FR | Search | Vehicules hiver,sailboat,Negative Phrase
 FR | Search | Vehicules hiver,fifth wheel,Negative Phrase
 FR | Search | Vehicules hiver,stationnement,Negative Phrase
 FR | Search | Vehicules hiver,parking,Negative Phrase
-FR | Search | Vehicules hiver,garage à louer,Negative Phrase
-FR | Search | Vehicules hiver,garage for rent,Negative Phrase
 FR | Search | Vehicules hiver,saaq,Negative Phrase
 FR | Search | Vehicules hiver,assurance,Negative Phrase
 FR | Search | Vehicules hiver,insurance,Negative Phrase
@@ -29,6 +27,15 @@ FR | Search | Vehicules hiver,antigel,Negative Phrase
 FR | Search | Vehicules hiver,huile,Negative Phrase
 FR | Search | Vehicules hiver,mécanique,Negative Phrase
 FR | Search | Vehicules hiver,mechanic,Negative Phrase
+FR | Search | Vehicules hiver,chauffé,Negative Phrase
+FR | Search | Vehicules hiver,chauffée,Negative Phrase
+FR | Search | Vehicules hiver,chauffe,Negative Phrase
+FR | Search | Vehicules hiver,heated,Negative Phrase
+FR | Search | Vehicules hiver,intérieur chauffé,Negative Phrase
+FR | Search | Vehicules hiver,pneu,Negative Phrase
+FR | Search | Vehicules hiver,pneus,Negative Phrase
+FR | Search | Vehicules hiver,tire,Negative Phrase
+FR | Search | Vehicules hiver,tires,Negative Phrase
 EN | Search | Winter vehicle,vr,Negative Phrase
 EN | Search | Winter vehicle,roulotte,Negative Phrase
 EN | Search | Winter vehicle,roulottes,Negative Phrase
@@ -48,8 +55,6 @@ EN | Search | Winter vehicle,sailboat,Negative Phrase
 EN | Search | Winter vehicle,fifth wheel,Negative Phrase
 EN | Search | Winter vehicle,stationnement,Negative Phrase
 EN | Search | Winter vehicle,parking,Negative Phrase
-EN | Search | Winter vehicle,garage à louer,Negative Phrase
-EN | Search | Winter vehicle,garage for rent,Negative Phrase
 EN | Search | Winter vehicle,saaq,Negative Phrase
 EN | Search | Winter vehicle,assurance,Negative Phrase
 EN | Search | Winter vehicle,insurance,Negative Phrase
@@ -59,6 +64,15 @@ EN | Search | Winter vehicle,antigel,Negative Phrase
 EN | Search | Winter vehicle,huile,Negative Phrase
 EN | Search | Winter vehicle,mécanique,Negative Phrase
 EN | Search | Winter vehicle,mechanic,Negative Phrase
+EN | Search | Winter vehicle,chauffé,Negative Phrase
+EN | Search | Winter vehicle,chauffée,Negative Phrase
+EN | Search | Winter vehicle,chauffe,Negative Phrase
+EN | Search | Winter vehicle,heated,Negative Phrase
+EN | Search | Winter vehicle,intérieur chauffé,Negative Phrase
+EN | Search | Winter vehicle,pneu,Negative Phrase
+EN | Search | Winter vehicle,pneus,Negative Phrase
+EN | Search | Winter vehicle,tire,Negative Phrase
+EN | Search | Winter vehicle,tires,Negative Phrase
 FR | Search | Terrasse commercial,achat,Negative Phrase
 FR | Search | Terrasse commercial,acheter,Negative Phrase
 FR | Search | Terrasse commercial,à vendre,Negative Phrase
@@ -99,17 +113,17 @@ EN | Search | Commercial patio,permis,Negative Phrase
 EN | Search | Commercial patio,permit,Negative Phrase
 EN | Search | Commercial patio,emploi,Negative Phrase
 EN | Search | Commercial patio,job,Negative Phrase
+FR | Search | Entreposage mobile,mobilcube,Negative Exact
+FR | Search | Entreposage mobile,mobil cube,Negative Exact
 FR | Search | Vehicules hiver,mobilcube,Negative Exact
 FR | Search | Vehicules hiver,mobil cube,Negative Exact
 FR | Search | Terrasse commercial,mobilcube,Negative Exact
 FR | Search | Terrasse commercial,mobil cube,Negative Exact
-FR | Search | Entreposage mobile,mobilcube,Negative Exact
-FR | Search | Entreposage mobile,mobil cube,Negative Exact
+EN | Search | Mobile storage,mobilcube,Negative Exact
+EN | Search | Mobile storage,mobil cube,Negative Exact
 EN | Search | Winter vehicle,mobilcube,Negative Exact
 EN | Search | Winter vehicle,mobil cube,Negative Exact
 EN | Search | Commercial patio,mobilcube,Negative Exact
 EN | Search | Commercial patio,mobil cube,Negative Exact
-EN | Search | Mobile storage,mobilcube,Negative Exact
-EN | Search | Mobile storage,mobil cube,Negative Exact
 FR+EN | Search | Concurrents,mobilcube,Negative Exact
 FR+EN | Search | Concurrents,mobil cube,Negative Exact

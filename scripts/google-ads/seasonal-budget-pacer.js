@@ -8,17 +8,19 @@
  */
 var DRY_RUN = true;
 
-// Monthly cap per campaign name pattern (CAD). Campaign names come from ads/google-ads-editor.
+// Monthly cap per campaign (CAD) for the 5,000 $/month launch plan (docs/08 §7).
+// Caps are ~6 % above daily budget x 30.4 so the pacer can push peak weeks; the sum stays under 5,000 $.
+// Raise a cap only when that campaign's cost per lead is on target (docs/08 §7, scale rule).
 var MONTHLY_CAP = {
-  'FR | Search | Vehicules hiver': 2600,
-  'EN | Search | Winter vehicle': 700,
-  'FR | Search | Terrasse commercial': 1500,
-  'EN | Search | Commercial patio': 400,
-  'FR | Search | Entreposage mobile': 1800,
-  'EN | Search | Mobile storage': 600,
-  'FR+EN | Search | Marque': 150,
-  'FR+EN | Search | Concurrents': 400,
-  'FR+EN | PMax | Saisonnier': 1000,
+  'FR | Search | Entreposage mobile': 1600,
+  'FR | Search | Vehicules hiver': 1450,
+  'FR | Search | Terrasse commercial': 400,
+  'EN | Search | Mobile storage': 480,
+  'EN | Search | Winter vehicle': 400,
+  'EN | Search | Commercial patio': 130,
+  'FR+EN | Search | Marque': 100,
+  'FR+EN | Search | Concurrents': 260,
+  'FR+EN | PMax | Saisonnier': 0,
 };
 
 // ISO week weights (1.0 = average week of the month). Peak weeks push budget forward.

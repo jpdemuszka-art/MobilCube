@@ -15,7 +15,7 @@ Headlines:
 - Aucun trajet vers un entrepôt (29)
 - Accès 24/7 dans votre entrée (28)
 - Prix affichés, zéro surprise (28)
-- Réservez en ligne en 60 s (25)
+- Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
 - MobilCube | Entreposage mobile (30)
 - Rive-Sud, Montréal et Laval (27)
@@ -24,7 +24,7 @@ Headlines:
 
 Descriptions:
 - Conteneur d'acier de 20 pi livré chez vous : votre auto passe l'hiver à l'abri du sel. (86)
-- 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Prix exact en ligne en 60 s. (83)
+- 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (83)
 - Moto, VTT, motoneige, motomarine ou auto : chargez au sol, accès 24/7 chez vous. (80)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
@@ -43,7 +43,7 @@ Headlines:
 - Accès 24/7 dans votre entrée (28)
 - Avant le 1er décembre (21)
 - Prix affichés, zéro surprise (28)
-- Réservez en ligne en 60 s (25)
+- Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
 - MobilCube | Entreposage mobile (30)
 - Rive-Sud, Montréal et Laval (27)
@@ -52,7 +52,7 @@ Headlines:
 
 Descriptions:
 - Votre voiture de collection passe l'hiver dans un conteneur d'acier de 20 pi, chez vous. (88)
-- 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Prix exact en ligne en 60 s. (83)
+- 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (83)
 - Porte de 7 pi 5 po, plancher de bois marin, verrouillage renforcé. Chargez à votre rythme. (90)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
@@ -69,9 +69,9 @@ Headlines:
 - Coffre-fort d'acier de 20 pi (28)
 - 2 VTT et la remorque entrent (28)
 - Accès 24/7 dans votre entrée (28)
-- Chez vous ou à notre entrepôt (29)
+- Libérez votre garage (20)
 - Prix affichés, zéro surprise (28)
-- Réservez en ligne en 60 s (25)
+- Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
 - MobilCube | Entreposage mobile (30)
 - Rive-Sud, Montréal et Laval (27)
@@ -80,7 +80,7 @@ Headlines:
 
 Descriptions:
 - Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver. (88)
-- 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Prix exact en ligne en 60 s. (83)
+- 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (83)
 - 1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol. (84)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
@@ -100,7 +100,7 @@ Headlines:
 - Réservez avant la date limite (29)
 - Entrepôt chauffé, Boucherville (30)
 - Prix affichés, zéro surprise (28)
-- Réservez en ligne en 60 s (25)
+- Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
 - MobilCube | Entreposage mobile (30)
 - Rive-Sud, Montréal et Laval (27)
@@ -127,7 +127,7 @@ Headlines:
 - Entrepôt chauffé, Boucherville (30)
 - Surplus d'inventaire à l'abri (29)
 - Prix affichés, zéro surprise (28)
-- Réservez en ligne en 60 s (25)
+- Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
 - MobilCube | Entreposage mobile (30)
 - Rive-Sud, Montréal et Laval (27)
@@ -155,7 +155,7 @@ Headlines:
 - Entrepôt chauffé, Boucherville (30)
 - Accès 24/7 dans votre entrée (28)
 - Prix affichés, zéro surprise (28)
-- Réservez en ligne en 60 s (25)
+- Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
 - MobilCube | Entreposage mobile (30)
 - Rive-Sud, Montréal et Laval (27)
@@ -165,7 +165,7 @@ Headlines:
 Descriptions:
 - Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme. (85)
 - 350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $. (90)
-- Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Prix exact en 60 s. (87)
+- Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s. (87)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
 Path: /mobile/rive-sud
@@ -183,7 +183,7 @@ Headlines:
 - Le contenu d'un 5 ½ entier (26)
 - Dès 180 $/mois (24 mois) (24)
 - Prix affichés, zéro surprise (28)
-- Réservez en ligne en 60 s (25)
+- Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
 - MobilCube | Entreposage mobile (30)
 - Rive-Sud, Montréal et Laval (27)
@@ -211,7 +211,7 @@ Headlines:
 - Skip the Drive to a Facility (28)
 - 24/7 Access in Your Driveway (28)
 - Prices Published, No Surprises (30)
-- Book Online in 60 Seconds (25)
+- Get a Quote in 60 Seconds (25)
 - Delivery $300, 15 km Included (29)
 - MobilCube | Mobile Storage (26)
 - Montreal, West Island, Laval (28)
@@ -220,7 +220,7 @@ Headlines:
 
 Descriptions:
 - A 20 ft steel container delivered to your driveway: your car spends the winter inside. (86)
-- $270/mo on a 6-month plan, delivery $300 (15 km included). Exact price online in 60 s. (86)
+- $270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds. (86)
 - Motorcycle, ATV, snowmobile, jet ski or car: load at ground level, 24/7 access at home. (87)
 - Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer. (87)
 
@@ -237,9 +237,9 @@ Headlines:
 - Steel Vault on Your Driveway (28)
 - Two ATVs and the Trailer Fit (28)
 - 24/7 Access in Your Driveway (28)
-- At Home or in Our Warehouse (27)
+- Free Up Your Garage (19)
 - Prices Published, No Surprises (30)
-- Book Online in 60 Seconds (25)
+- Get a Quote in 60 Seconds (25)
 - Delivery $300, 15 km Included (29)
 - MobilCube | Mobile Storage (26)
 - Montreal, West Island, Laval (28)
@@ -248,7 +248,7 @@ Headlines:
 
 Descriptions:
 - Motorcycle, ATV, snowmobile, jet ski: 20 ft steel container delivered to you for winter. (88)
-- $270/mo on a 6-month plan, delivery $300 (15 km included). Exact price online in 60 s. (86)
+- $270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds. (86)
 - 1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace. (88)
 - Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer. (87)
 
@@ -268,7 +268,7 @@ Headlines:
 - Book Before the Deadline (24)
 - Heated Warehouse, South Shore (29)
 - Prices Published, No Surprises (30)
-- Book Online in 60 Seconds (25)
+- Get a Quote in 60 Seconds (25)
 - Delivery $300, 15 km Included (29)
 - MobilCube | Mobile Storage (26)
 - Montreal, West Island, Laval (28)
@@ -295,7 +295,7 @@ Headlines:
 - Heated Warehouse, South Shore (29)
 - 24/7 Access in Your Driveway (28)
 - Prices Published, No Surprises (30)
-- Book Online in 60 Seconds (25)
+- Get a Quote in 60 Seconds (25)
 - Delivery $300, 15 km Included (29)
 - MobilCube | Mobile Storage (26)
 - Montreal, West Island, Laval (28)
@@ -305,7 +305,7 @@ Headlines:
 Descriptions:
 - A 20 ft steel container (160 sq ft) delivered to you. Load at ground level, at your pace. (89)
 - $350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300. (82)
-- Keep it in your driveway or send it to our heated Boucherville warehouse. Price in 60 s. (88)
+- Keep it in your driveway or send it to our heated Boucherville warehouse. Quote in 60 s. (88)
 - Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer. (87)
 
 Path: /mobile/storage
@@ -323,7 +323,7 @@ Headlines:
 - Fits a Whole 5 ½ Apartment (26)
 - From $180/mo (24 Months) (24)
 - Prices Published, No Surprises (30)
-- Book Online in 60 Seconds (25)
+- Get a Quote in 60 Seconds (25)
 - Delivery $300, 15 km Included (29)
 - MobilCube | Mobile Storage (26)
 - Montreal, West Island, Laval (28)
@@ -344,14 +344,14 @@ Path: /moving/container
 **Pinned 2:** Réservez votre MobilCube
 
 Headlines:
-- Prix exact en 60 secondes (25)
+- Conteneur livré chez vous (25)
 - Conteneur de 20 pi livré (24)
 - Entrepôt chauffé, Boucherville (30)
 - Chez vous ou à notre entrepôt (29)
 - Accès 24/7 dans votre entrée (28)
 - Dès 180 $/mois (24 mois) (24)
 - Prix affichés, zéro surprise (28)
-- Réservez en ligne en 60 s (25)
+- Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
 - MobilCube | Entreposage mobile (30)
 - Rive-Sud, Montréal et Laval (27)
@@ -359,7 +359,7 @@ Headlines:
 - Appelez : réponse immédiate (27)
 
 Descriptions:
-- Site officiel MobilCube : prix affichés, réservation en ligne, livraison Grand Montréal. (88)
+- Site officiel MobilCube : prix affichés, soumission en ligne, livraison Grand Montréal. (87)
 - 350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $. (90)
 - Conteneur d'acier CORTEN de 20 pi, 160 pi². Chez vous ou dans notre entrepôt chauffé. (85)
 - Questions ? Appelez-nous : on répond en français et en anglais. (63)
@@ -379,7 +379,7 @@ Headlines:
 - Chez vous ou à notre entrepôt (29)
 - Dès 180 $/mois (24 mois) (24)
 - Prix affichés, zéro surprise (28)
-- Réservez en ligne en 60 s (25)
+- Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
 - MobilCube | Entreposage mobile (30)
 - Rive-Sud, Montréal et Laval (27)
@@ -390,7 +390,7 @@ Descriptions:
 - Avant de réserver ailleurs : prix affichés, conteneur de 20 pi et véhicule accepté. (83)
 - 350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus. (81)
 - Entreprise de Boucherville. Entrepôt chauffé sur la Rive-Sud, livraison Montréal et Laval. (90)
-- Prix exact et réservation en ligne en 60 secondes, sans créer de compte. (72)
+- Prix affichés sur le site et soumission en ligne en 60 secondes. (64)
 
 Path: /comparez/prix
 
@@ -407,7 +407,7 @@ Headlines:
 - At Home or in Our Warehouse (27)
 - From $180/mo (24 Months) (24)
 - Prices Published, No Surprises (30)
-- Book Online in 60 Seconds (25)
+- Get a Quote in 60 Seconds (25)
 - Delivery $300, 15 km Included (29)
 - MobilCube | Mobile Storage (26)
 - Montreal, West Island, Laval (28)
@@ -418,7 +418,7 @@ Descriptions:
 - Before you book elsewhere: prices published, a 20 ft container, and your car is welcome. (88)
 - $350/mo no commitment, $270/mo on 6 months. Delivery $300 per movement, 15 km included. (87)
 - Boucherville company. Heated South Shore warehouse, delivery across Montreal and Laval. (87)
-- Exact price and booking online in 60 seconds, no account needed. (64)
+- Prices published on our site and an online quote in 60 seconds. (63)
 
 Path: /compare/prices
 
@@ -426,17 +426,17 @@ Path: /compare/prices
 
 ### FR
 - Tarifs et offres — Liberté 350 $/mois / Avantage dès 180 $/mois → https://www.mobilcube.com/fr/prix-location/
-- Réserver en 60 s — Prix exact sans compte / Carte ou virement → https://www.mobilcube.com/fr/formulaire-reservation/
-- Entreposage de véhicules — Auto, moto, VTT, motoneige / Dans votre entrée → https://offres.mobilcube.com/vehicules-hiver.html
-- Terrasses et commerces — Restaurants, bars, condos / Retour au printemps → https://offres.mobilcube.com/terrasse-commerciale.html
-- Callouts: Entrepôt chauffé · Accès 24/7 sur place · Prix affichés · Dépôt remboursé · Rive-Sud, Montréal, Laval · Réservation en ligne
+- Soumission en 60 s — Formulaire rapide / On vous rappelle vite → https://www.mobilcube.com/fr/formulaire-reservation/
+- Entreposage de véhicules — Auto, moto, VTT, motoneige / Dans votre entrée → https://www.mobilcube.com/fr/prix-location/
+- Terrasses et commerces — Restaurants, bars, condos / Retour au printemps → https://www.mobilcube.com/fr/cas-usage/
+- Callouts: Entrepôt chauffé · Accès 24/7 sur place · Prix affichés · Dépôt remboursé · Rive-Sud, Montréal, Laval · Soumission en ligne
 - Snippet Services: Auto, Moto, VTT, Terrasse, Déménagement, Rénovation, Chantier
 
 ### EN
 - Rates and Offers — Freedom $350/mo / Advantage from $180/mo → https://www.mobilcube.com/en/pricing/
-- Book in 60 Seconds — Exact price, no account / Card or bank transfer → https://www.mobilcube.com/en/booking-form/
-- Vehicle Storage — Car, motorcycle, ATV / In your own driveway → https://offres.mobilcube.com/en/winter-vehicle-storage.html
-- Patios and Businesses — Restaurants, bars, condos / Delivered back in spring → https://offres.mobilcube.com/en/patio-storage.html
-- Callouts: Heated warehouse · 24/7 on-site access · Published prices · Deposit refunded · Greater Montreal delivery · Online booking
+- Quote in 60 Seconds — Short online form / We call you back fast → https://www.mobilcube.com/en/booking-form/
+- Vehicle Storage — Car, motorcycle, ATV / In your own driveway → https://www.mobilcube.com/en/pricing/
+- Patios and Businesses — Restaurants, bars, condos / Delivered back in spring → https://www.mobilcube.com/en/use-cases/
+- Callouts: Heated warehouse · 24/7 on-site access · Published prices · Deposit refunded · Greater Montreal delivery · Online quote
 - Snippet Services: Car, Motorcycle, ATV, Patio, Moving, Renovation, Jobsite
 
