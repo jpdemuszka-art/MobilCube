@@ -39,7 +39,8 @@ fr,FR | Search | Vehicules hiver,Auto hiver,entreposage voiture montréal,Phrase
 fr,FR | Search | Vehicules hiver,Auto hiver,entreposage auto montréal,Phrase,2.70,150-300,2.00-4.00,B. Entreposage hiver voiture / auto / véhicule / collection
 fr,FR | Search | Vehicules hiver,Auto hiver,entreposage voiture laval,Exact,2.48,50-120,2.00-3.50,B. Entreposage hiver voiture / auto / véhicule / collection
 fr,FR | Search | Vehicules hiver,Auto hiver,entreposage voiture rive-sud,Exact,2.48,50-120,2.00-3.50,B. Entreposage hiver voiture / auto / véhicule / collection
-fr,FR | Search | Vehicules hiver,Auto hiver,entreposage intérieur voiture,Phrase,2.48,50-120,2.00-3.50,B. Entreposage hiver voiture / auto / véhicule / collection
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto chauffé,Phrase,2.48,50-150,2.00-3.50,B. Entreposage hiver voiture / auto / véhicule / collection
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage intérieur voiture,Phrase,2.48,50-120,2.00-3.50,B. Entreposage hiver voiture / auto / véhicule / collection
 fr,FR | Search | Vehicules hiver,Voiture collection,entreposage voiture de collection,Phrase,2.70,50-120,2.00-4.00,B. Entreposage hiver voiture / auto / véhicule / collection
 fr,FR | Search | Vehicules hiver,Voiture collection,entreposage auto de collection hiver,Exact,2.70,10-30,2.00-4.00,B. Entreposage hiver voiture / auto / véhicule / collection
 fr,FR | Search | Vehicules hiver,Auto hiver,entreposage voiture ancienne,Exact,2.02,10-30,1.50-3.00,B. Entreposage hiver voiture / auto / véhicule / collection
@@ -211,8 +212,10 @@ en,EN | Search | Winter vehicle,Winter car storage,winter car storage montreal,E
 en,EN | Search | Winter vehicle,Winter car storage,winter car storage,Phrase,4.00,"600-1,200 (Montreal geo, Oct peak)",3.00-6.50 CAD,B-vehicle winter
 en,EN | Search | Winter vehicle,Winter car storage,car storage montreal,Phrase,4.00,250-500,3.50-7.00 CAD,B-vehicle winter
 en,EN | Search | Winter vehicle,Winter car storage,car storage montreal,Exact,4.00,250-500,3.50-7.00 CAD,B-vehicle winter
-en,EN | Search | Winter vehicle,Winter car storage,indoor car storage montreal,Phrase,4.00,100-250,3.50-7.00 CAD,B-vehicle winter
-en,EN | Search | Winter vehicle,Winter car storage,indoor car storage montreal,Exact,4.00,100-250,3.50-7.00 CAD,B-vehicle winter
+en,EN | Search | Winter vehicle,Heated car storage,indoor car storage montreal,Phrase,4.00,100-250,3.50-7.00 CAD,B-vehicle winter
+en,EN | Search | Winter vehicle,Heated car storage,indoor car storage montreal,Exact,4.00,100-250,3.50-7.00 CAD,B-vehicle winter
+en,EN | Search | Winter vehicle,Heated car storage,heated car storage montreal,Phrase,4.00,40-120,3.50-7.00 CAD,B-vehicle winter
+en,EN | Search | Winter vehicle,Heated car storage,heated car storage montreal,Exact,4.00,40-120,3.50-7.00 CAD,B-vehicle winter
 en,EN | Search | Winter vehicle,Winter car storage,classic car storage montreal,Phrase,4.00,40-120,3.50-7.50 CAD,B-vehicle winter
 en,EN | Search | Winter vehicle,Winter car storage,classic car storage montreal,Exact,4.00,40-120,3.50-7.50 CAD,B-vehicle winter
 en,EN | Search | Winter vehicle,Winter car storage,car storage west island,Phrase,4.00,40-120,3.50-7.00 CAD,B-vehicle winter
@@ -481,3 +484,64 @@ en,EN | Search | Winter vehicle,Winter car storage,winter car storage near me,Ph
 en,EN | Search | Winter vehicle,Winter car storage,winter car storage near me,Exact,3.20,,,hand-added
 en,EN | Search | Winter vehicle,Winter car storage,car storage south shore montreal,Phrase,3.20,,,hand-added
 en,EN | Search | Winter vehicle,Winter car storage,car storage south shore montreal,Exact,3.20,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto chauffé,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage voiture chauffé,Phrase,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage voiture chauffé,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé pour auto,Phrase,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé pour auto,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto hiver chauffé,Phrase,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto hiver chauffé,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage voiture intérieur,Phrase,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage voiture intérieur,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage intérieur voiture,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto intérieur chauffé,Phrase,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto intérieur chauffé,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé pour moto,Phrase,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé pour moto,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage moto chauffé,Phrase,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage moto chauffé,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé rive sud,Phrase,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé rive sud,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé,Phrase,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé,Exact,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,garage chauffé à louer hiver,Phrase,2.40,,,hand-added
+fr,FR | Search | Vehicules hiver,Auto hiver chauffé,garage chauffé à louer hiver,Exact,2.40,,,hand-added
+en,EN | Search | Winter vehicle,Heated car storage,heated car storage,Phrase,3.20,,,hand-added
+en,EN | Search | Winter vehicle,Heated car storage,heated car storage,Exact,3.20,,,hand-added
+en,EN | Search | Winter vehicle,Heated car storage,indoor winter car storage,Phrase,3.20,,,hand-added
+en,EN | Search | Winter vehicle,Heated car storage,indoor winter car storage,Exact,3.20,,,hand-added
+en,EN | Search | Winter vehicle,Heated car storage,heated winter car storage,Phrase,3.20,,,hand-added
+en,EN | Search | Winter vehicle,Heated car storage,heated winter car storage,Exact,3.20,,,hand-added
+en,EN | Search | Winter vehicle,Heated car storage,heated motorcycle storage,Phrase,3.20,,,hand-added
+en,EN | Search | Winter vehicle,Heated car storage,heated motorcycle storage,Exact,3.20,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur à louer pour entreposage,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur à louer pour entreposage,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,louer un conteneur prix,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,louer un conteneur prix,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,location container prix,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,location container prix,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur déménagement,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur déménagement,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur déménagement prix,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur déménagement prix,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,entrepot mobile,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Conteneur d'entreposage,entrepot mobile,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Entreposage mobile,location entreposage,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Entreposage mobile,location entreposage,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Entreposage mobile,prix entreposage,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Entreposage mobile,prix entreposage,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Entreposage mobile,prix pour entreposage,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Entreposage mobile,prix pour entreposage,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Entreposage mobile,espace entreposage,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Entreposage mobile,espace entreposage,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Entreposage mobile,cube entreposage prix,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Entreposage mobile,cube entreposage prix,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage st jean sur richelieu,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage st jean sur richelieu,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot st hubert,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot st hubert,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt longueuil,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt longueuil,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement et entreposage,Exact,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement entreposage,Phrase,2.80,,,hand-added
+fr,FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement entreposage,Exact,2.80,,,hand-added

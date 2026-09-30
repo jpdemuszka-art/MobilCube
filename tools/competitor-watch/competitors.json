@@ -1,0 +1,21 @@
+{
+  "competitors": [
+    {"name": "Cubeit", "urls": ["https://cubeit.ca/fr", "https://cubeit.ca/fr/quebec/montreal", "https://cubeit.ca/deals"]},
+    {"name": "PODS", "urls": ["https://www.pods.ca/fr/", "https://www.pods.ca/fr/locations/canada/quebec/montreal", "https://www.pods.ca/fr/promo"]},
+    {"name": "GoCube", "urls": ["https://gocube.com/", "https://gocube.com/entreposage-rive-sud/"]},
+    {"name": "Montreal Mini-Storage", "urls": ["https://www.montrealministorage.com/fr/", "https://www.montrealministorage.com/fr/rive-sud"]},
+    {"name": "Depotium", "urls": ["https://www.depotium.com/fr/"]},
+    {"name": "Access Storage", "urls": ["https://www.accessstorage.ca/fr/"]},
+    {"name": "Public Storage Canada", "urls": ["https://publicstoragecanada.com/fr/"]},
+    {"name": "StorageMart", "urls": ["https://www.storage-mart.com/fr-ca/", "https://www.storage-mart.com/longueuil"]},
+    {"name": "SmartStop", "urls": ["https://smartstopselfstorage.com/fr/"]},
+    {"name": "U-Haul", "urls": ["https://www.uhaul.com/Storage/Montreal-QC/Results/"]},
+    {"name": "Mini-Entrepôts du Tremblay (Boucherville)", "urls": ["https://www.minientrepotdutremblay.com/"]},
+    {"name": "Toyota Montréal-Nord (heated winter car storage)", "urls": ["https://storageauto.ca/products/entreposage-auto-hiver"]},
+    {"name": "MobilCube (you)", "urls": ["https://www.mobilcube.com/fr/", "https://www.mobilcube.com/fr/prix-location/"]}
+  ],
+  "suggest_seeds": {
+    "fr": ["entreposage mobile", "conteneur entreposage", "entreposage voiture hiver", "entreposage auto chauffé", "entreposage moto", "entreposage rive sud", "entreposage longueuil", "entreposage boucherville", "entreposage meubles", "entreposage terrasse"],
+    "en": ["storage container rental", "winter car storage montreal", "heated car storage", "mobile storage montreal"]
+  }
+}

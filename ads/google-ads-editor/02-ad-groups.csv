@@ -3,6 +3,7 @@ FR | Search | Entreposage mobile,Entreposage mobile,Standard,2.80,Enabled
 FR | Search | Entreposage mobile,Conteneur d'entreposage,Standard,2.80,Enabled
 FR | Search | Entreposage mobile,Cube d'entreposage,Standard,2.80,Enabled
 FR | Search | Vehicules hiver,Auto hiver,Standard,2.40,Enabled
+FR | Search | Vehicules hiver,Auto hiver chauffé,Standard,2.40,Enabled
 FR | Search | Vehicules hiver,Voiture collection,Standard,2.40,Enabled
 FR | Search | Vehicules hiver,"Bateau (test, pausé)",Standard,2.40,Paused
 FR | Search | Vehicules hiver,Moto hiver,Standard,1.60,Enabled
@@ -23,6 +24,7 @@ EN | Search | Mobile storage,Portable container,Standard,4.00,Enabled
 EN | Search | Mobile storage,"Self storage alternative (test, paused)",Standard,4.00,Paused
 EN | Search | Mobile storage,Generic geo (paused),Standard,4.00,Paused
 EN | Search | Winter vehicle,Winter car storage,Standard,3.20,Enabled
+EN | Search | Winter vehicle,Heated car storage,Standard,3.20,Enabled
 EN | Search | Winter vehicle,Motorcycle & ATV,Standard,2.00,Enabled
 EN | Search | Winter vehicle,"Boat (test, paused)",Standard,3.20,Paused
 EN | Search | Winter vehicle,Boat & PWC,Standard,3.20,Paused

@@ -5,7 +5,7 @@ This supersedes the budget and bidding sections of docs 02 and 03 for the launch
 ## 1. Bottom line
 
 - **Do not spend a dollar until three site problems are fixed.** The site sometimes serves a "One moment, please…" bot-check page to Google's ad crawler. The tag-manager container has no tags at all, so no conversion can be measured. The About page gives two different addresses.
-- **Fight where competitors are thin, not where they are rich.** Ten companies run Google Ads on generic "entreposage" searches in Montreal. Almost nobody advertises South Shore mobile-container, vehicle-at-home or terrace searches.
+- **Fight where competitors are thin, not where they are rich.** Nine companies run Google Ads on generic "entreposage" searches in Montreal. Almost nobody advertises South Shore mobile-container, vehicle-at-home or terrace searches.
 - **Your price is strong for cars, moving and terraces, and weak for boats and single powersport vehicles.** Boats and jet-skis are paused. Motorcycles and ATVs run at low bids.
 - **Launch on Manual CPC with hard ceilings** that sit at 35–60 % of the break-even cost per click. You cannot overspend on a keyword, and budget moves to what produces calls.
 
@@ -19,7 +19,7 @@ This supersedes the budget and bidding sections of docs 02 and 03 for the launch
 | Transport | 300 $ per movement, 15 km from Boucherville included, then 2 $/km |
 | Other | 200 $ deposit refunded · 150 $ early termination · 250 $ failed delivery · date-change fees 50–250 $ |
 | Delivery constraint | 75 ft straight approach, 14 ft vertical clearance, stable level ground |
-| Warehouse rule | No fuel, solvents or gas cylinders when the unit is stored at the warehouse |
+| Warehouse vehicles | Owner confirmed on 2026-09-30: cars, motorcycles, ATVs and snowmobiles can be stored inside their unit at the heated warehouse. Warehouse plan 289.75 $/mo on 6 months, no transport when the customer drives the vehicle in |
 
 **What the delivery constraint means for targeting.** A 75-ft straight approach rarely exists in front of a Plateau or Rosemont triplex. Residential ads should therefore favour South Shore, east-end, Laval and West Island suburbs, and skip the dense central boroughs. Those boroughs stay in the terrace campaign, because restaurants can load from a street permit or a lot.
 
@@ -31,6 +31,7 @@ This supersedes the budget and bidding sections of docs 02 and 03 for the launch
 | P0 | Tag Manager container GTM-K3G9FKRW contains no tags; GA4 G-640H58NDHN is hard-coded; no Google Ads tag, no conversion linker, no consent setup | Smart Bidding can never learn, and you cannot tell which keyword produced a call | Add the Google Ads tag and conversion linker in GTM, then create the conversions in §7 |
 | P0 | About page shows **1215 rue Volta** and **1250 rue Nobel** (1250 Nobel is J.L. Freeman's office) | Inconsistent address data weakens the Google Business Profile and the location asset, and hurts local-pack rankings | Pick the address customers visit, use it everywhere and on the Business Profile |
 | P1 | The "Obtenir mon prix en 60 s" buttons lead to a form with 10 required fields and reCAPTCHA that ends with "nous vous recontacterons" | The ad promise ("price in 60 s") does not match the page, and long forms lose mobile visitors | Cut the form to name, phone, postal code, project, start month; ads now say "Soumission en 60 secondes" |
+| P1 | FAQ still says fuel, solvents and gas cylinders are forbidden when a unit is at the warehouse | Contradicts the heated vehicle storage ads and will confuse callers | Add one line: vehicles are accepted in their unit at the warehouse |
 | P1 | Delivery page still shows a second block at 395 $ + 3 $/km next to 300 $ + 2 $/km | Price in ad must match the page (Quebec consumer law, Google policy) | Delete the 395 $ block |
 | P1 | 148 pi² vs 160 pi²; 10,000 lb vs 20,000 lb; "ignifuge" (fireproof) | Unprovable claims and contradictions lower trust and invite complaints | One number each; replace "ignifuge" with "acier CORTEN soudé, étanche" |
 | P1 | No reviews yet; site says photos are AI-generated during launch | Lower click-through and conversion than 4.7–4.8★ competitors with thousands of reviews | Real photos of the first deliveries; ask every first customer for a Google review |
@@ -40,28 +41,32 @@ A Booqable rental store (jl-free.booqable.com) exists behind the site but is not
 
 ## 4. Competition: who is actually bidding
 
-I checked each competitor's own site today for Google Ads conversion tags, call tracking, and Meta and Microsoft pixels.
+I read the tags each competitor actually has configured in its Google Tag Manager container today, plus the account IDs on its pages. The free tool in `tools/competitor-watch/` repeats this scan and reports changes.
 
-| Competitor | Google Ads conversion IDs | Call tracking | Meta / Microsoft | Today's hook |
+| Competitor | Google Ads | Website-call tracking | Meta / Microsoft | Today's hook |
 |---|---|---|---|---|
-| Cubeit (StorageVault) | 4 | yes | yes / yes | Free local delivery **ends today** (25 km) |
-| PODS | 2 | yes | yes / yes | "Dernière vente de l'été", code DERNIERE30, up to 30 % |
-| Depotium (StorageVault) | 3, two shared with Cubeit | yes | yes / yes | Vehicle parking pages |
-| Access Storage (StorageVault) | 3, two shared with Cubeit | yes | yes / yes | Winter car storage page |
-| Montreal Mini-Storage | 1 | yes | yes / yes | −50 % on up to 6 months, plus 29 $ + 18 $/mo fees |
-| Public Storage Canada | 1 | yes | yes / yes | Boat and vehicle parking |
-| U-Haul | 1 | yes | — | 1-year price lock |
-| GoCube | tag loaded through GTM | yes | yes / — | Promo banner expired March 31, 2026 |
-| StorageMart, SmartStop | Google Ads tag signals present | yes | yes / yes | Online discounts |
-| Mini-Entrepôts du Tremblay (Boucherville), Mini-Entrepôts Rive-Sud, marinas | none found | — | — | — |
+| Cubeit (StorageVault) | yes, 4 accounts, 7 conversion tags | yes | yes / yes | Free local delivery **ends today** (25 km) |
+| Depotium (StorageVault) | yes, 3 accounts, two shared with Cubeit | yes | yes / yes | Vehicle parking pages |
+| Access Storage (StorageVault) | yes, 3 accounts, remarketing, Floodlight | yes | yes / yes | Winter car storage page |
+| GoCube | yes, 6 conversion tags | yes | yes / no | Promo banner expired March 31, 2026 |
+| PODS | yes, 2 accounts, enhanced conversions | no | yes / yes | "Dernière vente de l'été", code DERNIERE30, up to 30 % |
+| Montreal Mini-Storage | yes, 11 conversion tags | no | yes / yes | −50 % on up to 6 months, plus 29 $ + 18 $/mo fees |
+| Public Storage Canada | yes, enhanced conversions | no | yes / no | Boat and vehicle parking |
+| StorageMart | yes, 4 conversion tags, remarketing | no | yes / yes | Online discounts |
+| U-Haul | yes, 5 conversion tags | no | no / no | 1-year price lock |
+| SmartStop | no Google Ads tag found | no | no / yes | Online discounts |
+| Mini-Entrepôts du Tremblay (Boucherville), Toyota Montréal-Nord winter storage, marinas | none | no | no / no | — |
 
-**What that means:** "entreposage montréal", "mini entrepôt" and "storage montreal" have about ten funded bidders, three of them under one owner sharing accounts. That is where CPCs are highest and where MobilCube's delivered 20 ft unit is least relevant. The South Shore long tail, the mobile-container terms, cars-at-home and terraces have few or no advertisers.
+An earlier version of this table said every competitor had call tracking. That was wrong: every Tag Manager container ships Google library code that mentions call tracking even when nothing is configured. The table above reads only configured tags.
+
+**What that means:** "entreposage montréal", "mini entrepôt" and "storage montreal" have nine funded bidders, three of them under one owner sharing accounts. That is where CPCs are highest and where MobilCube's delivered 20 ft unit is least relevant. The South Shore long tail, the mobile-container terms, cars-at-home and terraces have few or no advertisers.
 
 ## 5. Price position by use case (where to push, where to hold back)
 
 | Use case | Typical alternative, price found | MobilCube, 6 months on-site ≤15 km | Verdict |
 |---|---|---|---|
-| Car, heated dealer garage | Toyota Montréal-Nord underground: 475–555 $/mo | 2,220 $ total ≈ 370 $/mo, at home, 24/7 | **Push** — cheaper than heated indoor, and at home |
+| Car, heated indoor | Toyota Montréal-Nord heated underground parking: 475–555 $/mo | **Heated warehouse: 289.75 $/mo on 6 months, no transport = 1,738.50 $** | **Push hardest**: about 40 % cheaper than the heated alternative, in a locked unit of its own |
+| Car, at home | Kijiji garages 165–350 $/mo | Driveway unit: 2,220 $ total ≈ 370 $/mo, 24/7 access | **Push** to people without a garage |
 | Car, outdoor lot | Montreal Mini-Storage parking: 42–146 $/mo promo, 84–292 $ regular + fees; Kijiji garages 165–350 $/mo | ≈ 370 $/mo | **Push to owners of good cars**, not price shoppers; "pas cher" and "cheap" are negatives |
 | Two vehicles, or a car plus summer gear | Two spots or a garage plus a locker | Same 2,220 $ | **Strongest value**; this message leads the vehicle ads |
 | Single motorcycle, ATV, snowmobile | Dealers and lots, often a few hundred $ per season | 2,220 $ | **Low bids only** (cap 2.00 $); sell the "two ATVs plus trailer" and "free your garage" angle |
@@ -77,6 +82,7 @@ Search volumes still need Keyword Planner or a Semrush connector. What I could v
 
 - Mobile container: entreposage mobile (prix) · conteneur d'entreposage à louer · conteneur entreposage mobile · location conteneur entreposage · location cube entreposage · cube entreposage mobile · location conteneur 20 pieds
 - South Shore: entreposage boucherville · entreposage longueuil (prix) · entreposage rive sud (prix) · entreposage brossard · entreposage saint-hubert · entreposage sainte-julie · entreposage varennes · entreposage chambly
+- Heated cars (new group): entreposage auto chauffé · entreposage voiture intérieur · entreposage chauffé · heated car storage montreal · indoor car storage montreal
 - Cars: entreposage voiture hiver (prix) · entreposage auto hiver (prix) · entreposage voiture rive sud · entreposage auto hiver rive sud · entreposage voiture/auto longueuil · entreposage hivernal voiture · remisage voiture hiver
 - English: storage container rental for driveway · storage container rental cost per month · portable storage containers for rent · mobile storage montreal · winter car storage montreal · car storage west island
 - Brand: mobilcube, mobil cube
@@ -90,7 +96,7 @@ Search volumes still need Keyword Planner or a Semrush connector. What I could v
 
 **Tier 3 — paused at launch (built, ready to test)**
 
-- Generic "entreposage montréal", "mini entrepot", "entreposage laval", "storage west island", "storage units near me": about ten chains bid here, and searchers want a nearby locker.
+- Generic "entreposage montréal", "mini entrepot", "entreposage laval", "storage west island", "storage units near me": nine chains bid here, and searchers want a nearby locker.
 - Boats, jet-skis, RVs and trailers: marinas are cheaper, and big boats and RVs do not fit.
 
 **Negatives that matter most (from today's autocomplete):**
@@ -102,7 +108,7 @@ Search volumes still need Keyword Planner or a Semrush connector. What I could v
 - Out-of-area cities appear in every seed, so Québec, Lévis, Saguenay, Sherbrooke, Gatineau, Toronto and others are negatives.
 - Heated vehicle storage is not offered, so chauffé and heated are negatives in the vehicle campaigns only.
 
-**Totals:** 482 keywords are in `ads/google-ads-editor/03-keywords.csv`, 405 enabled and 77 paused. There are 331 shared negatives and 128 campaign negatives, and none blocks an enabled keyword (checked by script).
+**Totals:** 546 keywords are in `ads/google-ads-editor/03-keywords.csv`, 471 enabled and 75 paused, in 34 ad groups. There are 331 shared negatives and 118 campaign negatives, and none blocks an enabled keyword (checked by script).
 
 ## 7. Budget, ceilings and the math that prevents overspending
 
@@ -175,7 +181,7 @@ Consent Mode v2 must be in the same GTM container (Quebec Law 25); the snippet i
 ## 11. What is still an estimate, and how to fix it
 
 - **Search volume and CPC per keyword.** Semrush is connected, but the account has no API units left, so it returned no data. Buying more units at semrush.com/mcp-access would unlock volumes and competitors' paid keywords.
-- **Supermetrics is connected.** Its "Google Ads" and "Google Ads Keyword Planner" sources need a one-time login with the Google account that owns the MobilCube Google Ads account. After that I can pull Google's own keyword volumes, bid ranges and a forecast for this exact keyword list. The same connection lets me read live campaign results and create or update campaigns with you.
+- **Supermetrics is connected to the Mobil Cube Google Ads account (2092450839).** Its Keyword Planner call ignored the Montreal and French filters: city, province and country returned identical numbers, and French terms showed 10 searches or fewer. Google also gives only rough volumes to a new account that has not spent yet. Treat those volumes as unusable. Keyword ideas it pulled from competitor pages were added to the campaigns: louer un conteneur prix, conteneur déménagement prix, location entreposage, prix entreposage, mini entrepôt longueuil and others. Reliable volumes come after a week of spend, or from the Keyword Planner screen with location Montreal and language French.
 - **Mobile page speed.** Google's PageSpeed API quota was exhausted from this environment; run pagespeed.web.dev on the French home page yourself.
 
 ## Sources checked today

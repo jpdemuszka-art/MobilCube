@@ -32,7 +32,7 @@
 ## Decisions only MobilCube can make (blocking for some ads)
 
 0. **Site fixes.** One square-footage number (148 or 160), one delivery price (300 $ + 2 $/km, remove the 395 $ block), one load figure (10 000 lb transport limit, not "20 000 lb"), and replace "ignifuge/fireproof" and "airtight" with "acier CORTEN soudé, étanche".
-1. **Vehicle policy.** On-site (driveway) storage of a car, motorcycle, ATV or snowmobile is safe to advertise now. Warehouse storage of anything with a fuel tank conflicts with the FAQ's ban on flammables; either exclude it or publish a rule (tank ≤ ¼, battery disconnected) before any "entrepôt chauffé" vehicle ad runs.
+1. **Vehicle policy.** Decided on 2026-09-30: vehicles can go in the customer's driveway unit or inside their unit at the heated Boucherville warehouse. Update the site FAQ line that bans fuel at the warehouse so it matches the ads.
 2. **Seasonal offer.** The ads quote the real plans (270 $/mo on 6 months, 300 $ delivery). A packaged "Forfait hiver" (6 months + delivery + pickup at one price) would convert better and is easy to add to the booking platform.
 3. **Terrace dates.** Confirm the 2026 dismantling deadline for the boroughs your restaurant clients are in and put the date in the ad ("avant le 15 novembre").
 4. **Call handling.** Who answers 8:00–20:00, seven days, from October 5 to November 30?

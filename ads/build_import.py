@@ -68,10 +68,28 @@ H_EN_COMMON = ['Prices Published, No Surprises', 'Get a Quote in 60 Seconds', 'D
                'MobilCube | Mobile Storage', 'Montreal, West Island, Laval', 'No Monthly Admin Fees', 'Call Us, We Answer']
 
 RSAS = {
+ 'fr-vehicule-chauffe': dict(
+    pin1='Entreposage auto chauffé', pin2='289,75 $/mois sur 6 mois',
+    heads=['Entrepôt chauffé, Boucherville', 'Votre auto dans son conteneur', 'Aucun transport à payer',
+           'Moto, VTT, motoneige acceptés', 'Fini le sel et la neige', 'Fermé à clé, pour vous seul', 'Accès sur rendez-vous'] + H_FR_COMMON[:2] + H_FR_COMMON[3:],
+    desc=["Déposez votre auto à Boucherville : elle passe l'hiver dans son propre conteneur chauffé.",
+          '289,75 $/mois sur 6 mois, sans frais de transport si vous l\'amenez. Soumission en 60 s.',
+          "Conteneur d'acier fermé à clé, pour vous seul. Auto, moto, VTT ou motoneige acceptés.",
+          'Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond.'],
+    path=('auto', 'chauffe')),
+ 'en-vehicle-heated': dict(
+    pin1='Heated Car Storage', pin2='$289.75/mo on 6 Months',
+    heads=['Heated Warehouse, South Shore', 'Your Car in Its Own Container', 'No Transport Fee to Pay',
+           'Motorcycle, ATV, Snowmobile', 'No Salt, No Snow, No Ice', 'Locked, Just for You', 'Access by Appointment'] + H_EN_COMMON[:2] + H_EN_COMMON[3:],
+    desc=['Drop your car off in Boucherville: it spends winter in its own heated, locked container.',
+          '$289.75/mo on a 6-month plan, no transport fee when you drive it in. Quote in 60 s.',
+          'A locked steel container just for you. Cars, motorcycles, ATVs and snowmobiles welcome.',
+          'Based in Boucherville, off Highways 20 and 30. Call us, we answer.'],
+    path=('car', 'heated')),
  'fr-vehicule': dict(
     pin1='270 $/mois sur 6 mois', pin2='Votre auto à l\'abri cet hiver',
     heads=['Remisage hiver dans l\'entrée', 'Fini le sel et la neige', 'Moto, VTT, motoneige acceptés',
-           'Coffre-fort d\'acier de 20 pi', 'Aucun trajet vers un entrepôt', 'Accès 24/7 dans votre entrée'] + H_FR_COMMON,
+           'Coffre-fort d\'acier de 20 pi', 'Ou en entrepôt chauffé', 'Accès 24/7 dans votre entrée'] + H_FR_COMMON,
     desc=["Conteneur d'acier de 20 pi livré chez vous : votre auto passe l'hiver à l'abri du sel.",
           '270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.',
           'Moto, VTT, motoneige, motomarine ou auto : chargez au sol, accès 24/7 chez vous.',
@@ -135,7 +153,7 @@ RSAS = {
  'en-vehicle': dict(
     pin1='$270/mo on a 6-Month Plan', pin2='Your Car Safe All Winter',
     heads=['Winter Car Storage at Home', 'No Salt, No Snow, No Ice', 'Motorcycle, ATV, Snowmobile',
-           'Steel Vault on Your Driveway', 'Skip the Drive to a Facility', '24/7 Access in Your Driveway'] + H_EN_COMMON,
+           'Steel Vault on Your Driveway', 'Or in Our Heated Warehouse', '24/7 Access in Your Driveway'] + H_EN_COMMON,
     desc=['A 20 ft steel container delivered to your driveway: your car spends the winter inside.',
           '$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.',
           'Motorcycle, ATV, snowmobile, jet ski or car: load at ground level, 24/7 access at home.',
@@ -210,11 +228,11 @@ RSAS = {
 SITELINKS = {
  'fr': [('Tarifs et offres', 'Liberté 350 $/mois', 'Avantage dès 180 $/mois', 'https://www.mobilcube.com/fr/prix-location/'),
         ('Soumission en 60 s', 'Formulaire rapide', 'On vous rappelle vite', 'https://www.mobilcube.com/fr/formulaire-reservation/'),
-        ('Entreposage de véhicules', 'Auto, moto, VTT, motoneige', 'Dans votre entrée', LP['fr-vehicule']),
+        ('Entreposage de véhicules', 'Auto, moto, VTT, motoneige', 'Chez vous ou entrepôt chauffé', LP['fr-vehicule']),
         ('Terrasses et commerces', 'Restaurants, bars, condos', 'Retour au printemps', LP['fr-terrasse'])],
  'en': [('Rates and Offers', 'Freedom $350/mo', 'Advantage from $180/mo', 'https://www.mobilcube.com/en/pricing/'),
         ('Quote in 60 Seconds', 'Short online form', 'We call you back fast', 'https://www.mobilcube.com/en/booking-form/'),
-        ('Vehicle Storage', 'Car, motorcycle, ATV', 'In your own driveway', LP['en-vehicle']),
+        ('Vehicle Storage', 'Car, motorcycle, ATV', 'Driveway or heated warehouse', LP['en-vehicle']),
         ('Patios and Businesses', 'Restaurants, bars, condos', 'Delivered back in spring', LP['en-patio'])],
 }
 CALLOUTS = {
@@ -359,17 +377,24 @@ def map_en(cluster, kw):
 
 kw_rows, kw_list_rows = [], []
 seen = set()
-LP_FOR = {'fr-vehicule-collection': 'fr-vehicule', 'fr-vehicule-powersports': 'fr-vehicule', 'fr-terrasse-condo': 'fr-terrasse',
+LP_FOR = {'fr-vehicule-chauffe': 'fr-vehicule', 'en-vehicle-heated': 'en-vehicle', 'fr-vehicule-collection': 'fr-vehicule', 'fr-vehicule-powersports': 'fr-vehicule', 'fr-terrasse-condo': 'fr-terrasse',
           'fr-mobile-demenagement': 'fr-mobile', 'en-vehicle-powersports': 'en-vehicle', 'en-mobile-moving': 'en-mobile',
           'en-competitors': 'en-mobile', 'fr-marque': 'fr-home', 'fr-concurrents': 'fr-mobile'}
 def lp_url(k):
     return LP[LP_FOR.get(k, k)]
 
-HEATED_RE = re.compile(r'chauff|heated|pneu|tire', re.I)
+# Owner decision 2026-09-30: vehicles may be stored inside a unit at the heated Boucherville warehouse.
+# Heated-storage searches are now wanted; tire-only storage (40-50 $/season elsewhere) stays excluded.
+HEATED_RE = re.compile(r'pneu|\btires?\b', re.I)
+
+HEATED_KW = re.compile(r'chauff|heated|intérieur|interieur|indoor', re.I)
 
 def add_kw(camp, ag, kw, mt, cpc, lp_key, status, lang, est_vol='', est_cpc='', cluster=''):
-    # Vehicles stay in the customer's (unheated) driveway unit: never buy "heated car storage" or tire-storage clicks.
     if ('Vehicules' in camp or 'Winter vehicle' in camp) and HEATED_RE.search(kw): return
+    if camp == 'FR | Search | Vehicules hiver' and ag in ('Auto hiver', 'Voiture collection') and HEATED_KW.search(kw):
+        ag, lp_key = 'Auto hiver chauffé', 'fr-vehicule-chauffe'
+    if camp == 'EN | Search | Winter vehicle' and ag == 'Winter car storage' and HEATED_KW.search(kw):
+        ag, lp_key = 'Heated car storage', 'en-vehicle-heated'
     key = (camp, ag, kw.lower(), mt)
     if key in seen: return
     seen.add(key)
@@ -415,6 +440,14 @@ EXTRA = [
  ('FR | Search | Vehicules hiver', 'Moto hiver', 'fr-vehicule-powersports', 'fr', ['entreposage moto hiver prix', 'entreposage moto rive sud', 'entreposage moto longueuil', 'entreposage moto hiver', 'entreposage hiver moto'], ['Phrase', 'Exact']),
  ('EN | Search | Mobile storage', 'Portable container', 'en-mobile', 'en', ['storage container rental for driveway', 'storage container rental cost per month', 'storage container rental prices', 'portable storage containers for rent', 'storage container rental near me', 'mobile storage units near me', 'moving containers near me', 'moving container rental near me'], ['Phrase', 'Exact']),
  ('EN | Search | Winter vehicle', 'Winter car storage', 'en-vehicle', 'en', ['winter car storage montreal', 'car storage montreal', 'car storage west island', 'winter car storage near me', 'car storage south shore montreal'], ['Phrase', 'Exact']),
+ # --- Added after owner confirmed heated warehouse storage for vehicles ---
+ ('FR | Search | Vehicules hiver', 'Auto hiver chauffé', 'fr-vehicule-chauffe', 'fr', ['entreposage auto chauffé', 'entreposage voiture chauffé', 'entreposage chauffé pour auto', 'entreposage auto hiver chauffé', 'entreposage voiture intérieur', 'entreposage intérieur voiture', 'entreposage auto intérieur chauffé', 'entreposage chauffé pour moto', 'entreposage moto chauffé', 'entreposage chauffé rive sud', 'entreposage chauffé', 'garage chauffé à louer hiver'], ['Phrase', 'Exact']),
+ ('EN | Search | Winter vehicle', 'Heated car storage', 'en-vehicle-heated', 'en', ['heated car storage montreal', 'indoor car storage montreal', 'heated car storage', 'indoor winter car storage', 'heated winter car storage', 'heated motorcycle storage'], ['Phrase', 'Exact']),
+ # --- Keyword Planner ideas from competitor pages (Cubeit Montreal, GoCube Rive-Sud), 2026-09-30 ---
+ ('FR | Search | Entreposage mobile', "Conteneur d'entreposage", 'fr-mobile', 'fr', ['conteneur à louer pour entreposage', 'louer un conteneur prix', 'location container prix', 'conteneur déménagement', 'conteneur déménagement prix', 'entrepot mobile'], ['Phrase', 'Exact']),
+ ('FR | Search | Entreposage mobile', 'Entreposage mobile', 'fr-mobile', 'fr', ['location entreposage', 'prix entreposage', 'prix pour entreposage', 'espace entreposage', 'cube entreposage prix'], ['Phrase', 'Exact']),
+ ('FR | Search | Entreposage mobile', 'Rive-Sud (géo)', 'fr-mobile', 'fr', ['entreposage st jean sur richelieu', 'mini entrepot st hubert', 'mini entrepôt longueuil'], ['Phrase', 'Exact']),
+ ('FR | Search | Entreposage mobile', 'Déménagement & rénovation', 'fr-mobile-demenagement', 'fr', ['déménagement et entreposage', 'déménagement entreposage'], ['Phrase', 'Exact']),
 ]
 
 # Negatives added 2026-09-30 from autocomplete: waste-dumpster rentals dominate "location conteneur", product
@@ -469,6 +502,7 @@ def rsa_for(camp, ag):
     if camp.endswith('Marque'): return 'fr-marque'
     if camp.endswith('Concurrents'): return 'en-competitors' if 'en' in a else 'fr-concurrents'
     if camp.startswith('FR | Search | Vehicules'):
+        if 'chauff' in a: return 'fr-vehicule-chauffe'
         if 'collection' in a: return 'fr-vehicule-collection'
         if a.startswith('auto'): return 'fr-vehicule'
         return 'fr-vehicule-powersports'
@@ -477,6 +511,7 @@ def rsa_for(camp, ag):
     if camp.startswith('FR | Search | Entreposage'):
         return 'fr-mobile-demenagement' if 'ménagement' in a else 'fr-mobile'
     if camp.startswith('EN | Search | Winter'):
+        if 'heated' in a: return 'en-vehicle-heated'
         return 'en-vehicle' if 'car' in a else 'en-vehicle-powersports'
     if camp.startswith('EN | Search | Commercial'): return 'en-patio'
     if camp.startswith('EN | Search | Mobile'): return 'en-mobile'
@@ -519,7 +554,7 @@ w('05-negative-keyword-lists.csv', ['Negative Keyword List', 'Keyword', 'Criteri
 
 camp_neg = []
 VEH_NEG = ['vr', 'roulotte', 'roulottes', 'motorisé', 'motorisés', 'caravane', 'camping-car', 'ponton', 'pontons', 'voilier', 'yacht', 'rv', 'motorhome', 'camper', 'pontoon', 'sailboat', 'fifth wheel', 'stationnement', 'parking', 'saaq', 'assurance', 'insurance', 'pneus d\'hiver', 'winter tires', 'antigel', 'huile', 'mécanique', 'mechanic',
-           'chauffé', 'chauffée', 'chauffe', 'heated', 'intérieur chauffé', 'pneu', 'pneus', 'tire', 'tires']
+           'pneu', 'pneus', 'tire', 'tires']
 for c in ['FR | Search | Vehicules hiver', 'EN | Search | Winter vehicle']:
     for n in VEH_NEG: camp_neg.append([c, n, 'Negative Phrase'])
 TER_NEG = ['achat', 'acheter', 'à vendre', 'a vendre', 'vente', 'buy', 'for sale', 'ikea', 'costco', 'canadian tire', 'rona', 'housse', 'cover', 'toile', 'construction de terrasse', 'deck builder', 'permis', 'permit', 'emploi', 'job']
