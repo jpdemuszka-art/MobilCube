@@ -7,7 +7,7 @@ A complete, import-ready Google Ads program for MobilCube (mobile self-storage, 
 | Folder | What is inside |
 |---|---|
 | `docs/` | Competitive analysis with sources, the strategy, budget and forecast, seasonal calendar, wizard answers, Quebec compliance rules |
-| `ads/google-ads-editor/` | Nine CSVs to bulk-import 8 campaigns, 32 ad groups, 546 keywords (471 enabled), 34 responsive search ads, 331 shared negatives and all assets with Google Ads Editor |
+| `ads/google-ads-editor/` | Nine CSVs to bulk-import 8 campaigns, 34 ad groups, 546 keywords (471 enabled), 34 responsive search ads, 331 shared negatives and all assets with Google Ads Editor |
 | `ads/keywords/`, `ads/negatives/`, `ads/copy/` | Full keyword universe (FR + EN, with estimated volumes and CPCs), negative lists, the ad copy deck |
 | `ads/build_import.py` | Regenerates everything above and refuses copy that breaks Google's character limits |
 | `landing/` | Bilingual (French-first) landing pages per segment: winter vehicles, commercial terraces, mobile storage, plus hub, thank-you and Law 25 privacy pages |
