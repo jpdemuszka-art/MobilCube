@@ -6,14 +6,16 @@ You are in the flow that starts with "Describe your business to get better campa
 
 Paste the French version if the wizard's campaign language is French (recommended for the first campaign), the English version for the English campaign. Do not paste both into one campaign.
 
-### French (1,907 characters)
+### French (1948 characters)
 
 ```
-MobilCube est une entreprise d'entreposage mobile basée à Boucherville, sur la Rive-Sud de Montréal. Nous livrons un conteneur d'entreposage en acier CORTEN de 20 pieds (environ 160 pi², 1 165 pi³, soit le contenu d'un appartement 5 ½) directement dans l'entrée du client ou sur son site commercial, partout dans le Grand Montréal (Longueuil, Brossard, Saint-Hubert, Sainte-Julie, Varennes, Montréal, Laval, Rive-Nord) et ailleurs au Québec. Le client charge au niveau du sol, à son rythme, sans double manutention. Il garde ensuite l'unité chez lui avec accès 24 h sur 24, ou nous la transportons dans notre entrepôt chauffé et sécurisé de Boucherville.
+MobilCube est une entreprise d'entreposage mobile basée à Boucherville, sur la Rive-Sud de Montréal. Nous livrons un conteneur d'entreposage en acier CORTEN de 20 pieds (environ 160 pi², 1 165 pi³, assez pour le contenu d'un 5 et demi) directement dans l'entrée du client ou sur son site commercial, partout dans le Grand Montréal (Boucherville, Longueuil, Brossard, Saint-Hubert, Sainte-Julie, Varennes, Montréal, Laval) et ailleurs au Québec. Le client charge au niveau du sol, à son rythme, sans double manutention. Il garde ensuite le conteneur chez lui avec accès 24 h sur 24, ou nous le transportons dans notre entrepôt chauffé et sécurisé de Boucherville.
 
-Nos prix sont affichés : 350 $ par mois sans engagement, ou 300 $, 270 $, 220 $ et 180 $ par mois avec engagement de 3, 6, 12 ou 24 mois; entreposage en entrepôt chauffé à 19,75 $ de plus par mois; livraison ou ramassage 300 $ par déplacement, 15 km inclus à partir de Boucherville. Réservation et prix exact en ligne en moins de 60 secondes, sans créer de compte. Dépôt de 200 $ remboursé après inspection. Aucun frais d'administration mensuel.
+Nos prix sont affichés : 350 $ par mois sans engagement, ou 300 $, 270 $, 220 $ et 180 $ par mois avec un engagement de 3, 6, 12 ou 24 mois. Entreposage à l'entrepôt chauffé : 19,75 $ de plus par mois. Livraison ou ramassage : 300 $ par déplacement, 15 km inclus à partir de Boucherville, puis 2 $ du km. Soumission en ligne en 60 secondes. Dépôt de 200 $ remboursé. Aucun frais d'administration mensuel.
 
-Services : entreposage mobile résidentiel (déménagement, rénovation, sinistre), entreposage hivernal de véhicules dans votre entrée (voiture, voiture de collection, moto, VTT, motoneige, motomarine, remorque), entreposage saisonnier pour commerces (mobilier de terrasse de restaurants, bars, cafés et hôtels, chauffe-terrasses, parasols, bacs à fleurs, mobilier de piscine de condos, surplus d'inventaire), conteneurs de chantier pour entrepreneurs, logistique de plateaux de tournage. Service en français et en anglais. Ce qui nous distingue des autres : un seul grand conteneur de 20 pieds au lieu de plusieurs petits cubes, des prix publiés, un entrepôt chauffé sur la Rive-Sud, l'accès 24/7 à vos biens chez vous et la possibilité d'entreposer un véhicule, ce que la plupart des concurrents refusent.
+Services : entreposage mobile résidentiel (déménagement, rénovation, sinistre); entreposage de véhicules pour l'hiver, dans votre entrée ou dans votre propre conteneur à notre entrepôt chauffé (voiture, voiture de collection, moto, VTT, motoneige, remorque), dès 289,75 $ par mois sur 6 mois, sans frais de transport si vous l'amenez vous-même; entreposage saisonnier pour commerces (mobilier de terrasse de restaurants, bars, cafés et hôtels, chauffe-terrasses, parasols, mobilier de piscine de condos, surplus d'inventaire); conteneurs de chantier pour entrepreneurs. Service en français et en anglais.
+
+Ce qui nous distingue : un seul grand conteneur de 20 pieds au lieu de plusieurs petits cubes, des prix publiés, un entrepôt chauffé sur la Rive-Sud, l'accès 24/7 à vos biens chez vous et la possibilité d'entreposer un véhicule, ce que la plupart des concurrents refusent.
 ```
 
 ### English (1,668 characters)
@@ -26,7 +28,7 @@ Our prices are published: $350 per month with no commitment, or $300, $270, $220
 Services: residential mobile storage (moving, renovation, post-disaster), winter vehicle storage in your own driveway (cars, collector cars, motorcycles, ATVs, snowmobiles, personal watercraft, trailers), seasonal storage for businesses (restaurant, bar, café and hotel patio furniture, patio heaters, umbrellas, planters, condo pool furniture, inventory overflow), jobsite containers for contractors, film-set logistics. Service in French and English. What sets us apart: one large 20-foot container instead of several small cubes, published prices, a heated warehouse on the South Shore, 24/7 access to your belongings at home, and the ability to store a vehicle, which most competitors refuse.
 ```
 
-Why this replaces your draft: it removes claims that need proof ("fireproof", "airtight", "revolutionize"), adds the words people actually search (entreposage mobile, conteneur, hiver, moto, VTT, terrasse, Rive-Sud, Longueuil, Brossard), states the prices Google can turn into assets, and names the four differentiators competitors cannot copy. Keep "160 sq ft" only after you settle the 148 vs 160 inconsistency on the site.
+Why this replaces your draft: it removes claims that need proof ("fireproof", "airtight", "rodent-proof", "marine-grade fortress", "revolutionize"), adds the words people actually search (entreposage mobile, conteneur, hiver, moto, VTT, terrasse, Rive-Sud, Longueuil, Brossard), states the prices Google can turn into assets, and names the four differentiators competitors cannot copy. Keep "160 sq ft" only after you settle the 148 vs 160 inconsistency on the site.
 
 ## Screen 1 — "What specific products or services are you advertising?" (up to 20)
 
@@ -40,18 +42,18 @@ remisage voiture de collection
 entreposage moto hiver
 entreposage VTT
 entreposage motoneige
-entreposage motomarine
+entreposage auto chauffé
 entreposage mobilier de terrasse
 entreposage saisonnier commercial
 entreposage d'inventaire
 conteneur de chantier
 entreposage déménagement
 entreposage rénovation
-entreposage chauffé Boucherville
+entrepôt chauffé Rive-Sud
 entreposage Rive-Sud
-entreposage Longueuil Brossard
-entreposage Montréal
-entreposage Laval
+entreposage Longueuil
+entreposage Brossard
+entreposage Boucherville
 ```
 
 English campaign:
