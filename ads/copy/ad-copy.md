@@ -485,7 +485,7 @@ Path: /compare/prices
 - Soumission en 60 s — Formulaire rapide / On vous rappelle vite → https://www.mobilcube.com/fr/formulaire-reservation/
 - Entreposage de véhicules — Auto, moto, VTT, motoneige / Chez vous ou entrepôt chauffé → https://www.mobilcube.com/fr/prix-location/
 - Terrasses et commerces — Restaurants, bars, condos / Retour au printemps → https://www.mobilcube.com/fr/cas-usage/
-- Callouts: Entrepôt chauffé · Accès 24/7 sur place · Prix affichés · Dépôt remboursé · Rive-Sud, Montréal, Laval · Soumission en ligne
+- Callouts: Entrepôt chauffé · Accès 24/7 sur place · Prix affichés · Dépôt remboursé · Rive-Sud, Montréal, Laval · Chez vous ou en entrepôt
 - Snippet Services: Auto, Moto, VTT, Terrasse, Déménagement, Rénovation, Chantier
 
 ### EN
@@ -493,6 +493,6 @@ Path: /compare/prices
 - Quote in 60 Seconds — Short online form / We call you back fast → https://www.mobilcube.com/en/booking-form/
 - Vehicle Storage — Car, motorcycle, ATV / Driveway or heated warehouse → https://www.mobilcube.com/en/pricing/
 - Patios and Businesses — Restaurants, bars, condos / Delivered back in spring → https://www.mobilcube.com/en/use-cases/
-- Callouts: Heated warehouse · 24/7 on-site access · Published prices · Deposit refunded · Greater Montreal delivery · Online quote
+- Callouts: Heated warehouse · 24/7 on-site access · Published prices · Deposit refunded · Greater Montreal delivery · Home or warehouse storage
 - Snippet Services: Car, Motorcycle, ATV, Patio, Moving, Renovation, Jobsite
 

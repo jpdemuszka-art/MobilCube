@@ -238,8 +238,8 @@ SITELINKS = {
         ('Patios and Businesses', 'Restaurants, bars, condos', 'Delivered back in spring', LP['en-patio'])],
 }
 CALLOUTS = {
- 'fr': ['Entrepôt chauffé', 'Accès 24/7 sur place', 'Prix affichés', 'Dépôt remboursé', 'Rive-Sud, Montréal, Laval', 'Soumission en ligne'],
- 'en': ['Heated warehouse', '24/7 on-site access', 'Published prices', 'Deposit refunded', 'Greater Montreal delivery', 'Online quote'],
+ 'fr': ['Entrepôt chauffé', 'Accès 24/7 sur place', 'Prix affichés', 'Dépôt remboursé', 'Rive-Sud, Montréal, Laval', 'Chez vous ou en entrepôt'],
+ 'en': ['Heated warehouse', '24/7 on-site access', 'Published prices', 'Deposit refunded', 'Greater Montreal delivery', 'Home or warehouse storage'],
 }
 SNIPPETS = {
  'fr': ('Services', ['Auto', 'Moto', 'VTT', 'Terrasse', 'Déménagement', 'Rénovation', 'Chantier']),
