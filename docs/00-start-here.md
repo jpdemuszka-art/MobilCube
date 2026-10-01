@@ -6,6 +6,7 @@
 
 ## Read in this order
 
+- `09-summary-what-was-done.md`: **start here.** The whole project on one page: the competitor analysis, the keyword choice, the 8 campaigns now paused in the Google Ads account, and the results to expect.
 0. `08-launch-analysis-2026-09-30.md` — **the launch plan at 5,000 $/month**: site blockers found on launch day, who is bidding today, price position by use case, verified keywords, bid ceilings and break-even math. It supersedes the budget and bidding parts of 02 and 03.
 1. `01-competitive-analysis.md` — who you are up against, with prices and sources
 2. `02-google-ads-strategy.md` — campaigns, keywords, copy rules, settings, bidding roadmap

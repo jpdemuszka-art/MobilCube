@@ -2,8 +2,11 @@
 """Turn the Google Ads Editor CSVs into one API payload per campaign (ads/api-specs/*.json).
 
 These payloads create the campaigns, paused, in the Mobil Cube Google Ads account (2092450839)
-through the Supermetrics connector (manage_campaign). Field names were checked against the API on
-2026-10-01: sitelinks take "url"; campaigns are always created paused. Run after ads/build_import.py:
+through the Supermetrics connector (manage_campaign). Each file is the exact manage_campaign
+create payload (minus ds_id/account_id); "after_create" holds what needs a second, update call once
+ids exist: the ad schedule and which ad groups stay paused. Field names were checked against the API
+on 2026-10-01: sitelinks take "url", the call asset goes in "calls", the RSA goes in ads[].creative,
+campaigns and new ad groups/ads are always created paused. Run after ads/build_import.py:
 
     python3 ads/build_import.py && python3 ads/build_api_specs.py
 """
@@ -71,9 +74,9 @@ for c in campaigns:
                       for s in sitelinks if s['Campaign'] == name],
         'callouts': [x['Callout text'] for x in callouts if x['Campaign'] == name],
         'structured_snippets': [{'header': x['Header'], 'values': x['Values'].split(';')} for x in snippets if x['Campaign'] == name],
-        'call': {'phone_number': '+14506416498', 'country_code': 'CA'},
+        'calls': [{'phone_number': '+14506416498', 'country_code': 'CA'}],
     }
-    groups = []
+    groups, paused = [], []
     for g in adgroups:
         if g['Campaign'] != name: continue
         ag = g['Ad Group']
@@ -82,39 +85,39 @@ for c in campaigns:
         ad = next(r for r in rsas if r['Campaign'] == name and r['Ad Group'] == ag)
         groups.append({
             'name': ag,
-            'status_after_create': 'PAUSED' if g['Ad Group Status'] == 'Paused' else 'ENABLED',
-            'cpc_bid': float(g['Max CPC']),
-            'keywords': kws,
-            'ad': {
+            'platform_settings': {'type': 'SEARCH_STANDARD', 'cpc_bid': float(g['Max CPC'])},
+            'targeting': {'keywords': kws},
+            'ads': [{
                 'name': f'RSA | {ag}',
-                'headlines': [ad[f'Headline {i}'] for i in range(1, 16)],
-                'pinned': {'HEADLINE_1': ad['Headline 1'], 'HEADLINE_2': ad['Headline 2']},
-                'descriptions': [ad[f'Description {i}'] for i in range(1, 5)],
-                'path1': ad['Path 1'], 'path2': ad['Path 2'],
-                'final_urls': [ad['Final URL']],
-            },
+                'creative': {
+                    'headlines': [ad[f'Headline {i}'] for i in range(1, 16)],
+                    'descriptions': [ad[f'Description {i}'] for i in range(1, 5)],
+                    'final_urls': [ad['Final URL']],
+                    'path1': ad['Path 1'], 'path2': ad['Path 2'],
+                },
+            }],
         })
+        if g['Ad Group Status'] == 'Paused':
+            paused.append(ag)
     spec = {
-        'campaign': {
-            'name': name,
-            'budget_amount': float(c['Budget']), 'budget_type': 'DAILY',
-            'bidding_strategy': 'MANUAL_CPC',
-            'platform_settings': {'campaign_type': 'SEARCH', 'geo_target_type': 'PRESENCE',
-                                  'network_settings': {'search': True, 'display': False}},
-            'contains_eu_political_ads': False,
-            'url_tags': URL_TAGS,
-        },
+        'name': name,
+        'budget_amount': float(c['Budget']), 'budget_type': 'DAILY',
+        'bidding_strategy': 'MANUAL_CPC',
+        'platform_settings': {'campaign_type': 'SEARCH', 'geo_target_type': 'PRESENCE',
+                              'network_settings': {'search': True, 'display': False}},
+        'contains_eu_political_ads': False,
+        'url_tags': URL_TAGS,
         'targeting': {'location_details': geo_for(name), 'negative_keywords': list(negs.values())},
-        'ad_schedule': schedule_for(name),
         'extensions': ext,
         'ad_groups': groups,
+        'after_create': {'ad_schedule': schedule_for(name), 'keep_paused': paused},
     }
     slug = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
     path = os.path.join(OUT, f'{slug}.json')
     json.dump(spec, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     index.append({'campaign': name, 'file': os.path.relpath(path, ROOT), 'ad_groups': len(groups),
-                  'keywords': sum(len(g['keywords']) for g in groups), 'negatives': len(negs),
-                  'paused_ad_groups': [g['name'] for g in groups if g['status_after_create'] == 'PAUSED']})
+                  'keywords': sum(len(g['targeting']['keywords']) for g in groups), 'negatives': len(negs),
+                  'paused_ad_groups': paused})
 json.dump(index, open(os.path.join(OUT, 'index.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 for i in index:
     print(f"{i['campaign']:40s} groups={i['ad_groups']:2d} kw={i['keywords']:3d} neg={i['negatives']:3d} paused={i['paused_ad_groups']}")

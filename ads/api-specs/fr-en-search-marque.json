@@ -1,20 +1,18 @@
 {
- "campaign": {
-  "name": "FR+EN | Search | Marque",
-  "budget_amount": 3.0,
-  "budget_type": "DAILY",
-  "bidding_strategy": "MANUAL_CPC",
-  "platform_settings": {
-   "campaign_type": "SEARCH",
-   "geo_target_type": "PRESENCE",
-   "network_settings": {
-    "search": true,
-    "display": false
-   }
-  },
-  "contains_eu_political_ads": false,
-  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ "name": "FR+EN | Search | Marque",
+ "budget_amount": 3.0,
+ "budget_type": "DAILY",
+ "bidding_strategy": "MANUAL_CPC",
+ "platform_settings": {
+  "campaign_type": "SEARCH",
+  "geo_target_type": "PRESENCE",
+  "network_settings": {
+   "search": true,
+   "display": false
+  }
  },
+ "contains_eu_political_ads": false,
+ "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}",
  "targeting": {
   "location_details": [
    {
@@ -1259,43 +1257,6 @@
    }
   ]
  },
- "ad_schedule": [
-  {
-   "day_of_week": "MONDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "TUESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "WEDNESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "THURSDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "FRIDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SATURDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SUNDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  }
- ],
  "extensions": {
   "sitelinks": [
    {
@@ -1345,143 +1306,189 @@
     ]
    }
   ],
-  "call": {
-   "phone_number": "+14506416498",
-   "country_code": "CA"
-  }
+  "calls": [
+   {
+    "phone_number": "+14506416498",
+    "country_code": "CA"
+   }
+  ]
  },
  "ad_groups": [
   {
    "name": "MobilCube",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 1.2,
-   "keywords": [
-    {
-     "text": "mobilcube",
-     "match_type": "EXACT",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobil cube",
-     "match_type": "EXACT",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobil cube",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube boucherville",
-     "match_type": "EXACT",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube boucherville",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube prix",
-     "match_type": "EXACT",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube avis",
-     "match_type": "EXACT",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube avis",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube storage",
-     "match_type": "EXACT",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube reviews",
-     "match_type": "EXACT",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobilcube reviews",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobil cube montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 1.2
-    },
-    {
-     "text": "mobil cube montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.2
-    }
-   ],
-   "ad": {
-    "name": "RSA | MobilCube",
-    "headlines": [
-     "MobilCube | Site officiel",
-     "Réservez votre MobilCube",
-     "Conteneur livré chez vous",
-     "Conteneur de 20 pi livré",
-     "Entrepôt chauffé, Boucherville",
-     "Chez vous ou à notre entrepôt",
-     "Accès 24/7 dans votre entrée",
-     "Dès 180 $/mois (24 mois)",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "MobilCube | Site officiel",
-     "HEADLINE_2": "Réservez votre MobilCube"
-    },
-    "descriptions": [
-     "Site officiel MobilCube : prix affichés, soumission en ligne, livraison Grand Montréal.",
-     "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-     "Conteneur d'acier CORTEN de 20 pi, 160 pi². Chez vous ou dans notre entrepôt chauffé.",
-     "Questions ? Appelez-nous : on répond en français et en anglais."
-    ],
-    "path1": "officiel",
-    "path2": "reservation",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 1.2
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "mobilcube",
+      "match_type": "EXACT",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobil cube",
+      "match_type": "EXACT",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobil cube",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube boucherville",
+      "match_type": "EXACT",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube boucherville",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube prix",
+      "match_type": "EXACT",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube avis",
+      "match_type": "EXACT",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube avis",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube storage",
+      "match_type": "EXACT",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube reviews",
+      "match_type": "EXACT",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobilcube reviews",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobil cube montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 1.2
+     },
+     {
+      "text": "mobil cube montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.2
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | MobilCube",
+     "creative": {
+      "headlines": [
+       "MobilCube | Site officiel",
+       "Réservez votre MobilCube",
+       "Conteneur livré chez vous",
+       "Conteneur de 20 pi livré",
+       "Entrepôt chauffé, Boucherville",
+       "Chez vous ou à notre entrepôt",
+       "Accès 24/7 dans votre entrée",
+       "Dès 180 $/mois (24 mois)",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Site officiel MobilCube : prix affichés, soumission en ligne, livraison Grand Montréal.",
+       "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
+       "Conteneur d'acier CORTEN de 20 pi, 160 pi². Chez vous ou dans notre entrepôt chauffé.",
+       "Questions ? Appelez-nous : on répond en français et en anglais."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/"
+      ],
+      "path1": "officiel",
+      "path2": "reservation"
+     }
+    }
+   ]
   }
- ]
+ ],
+ "after_create": {
+  "ad_schedule": [
+   {
+    "day_of_week": "MONDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "TUESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "WEDNESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "THURSDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "FRIDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SATURDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SUNDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   }
+  ],
+  "keep_paused": []
+ }
 }

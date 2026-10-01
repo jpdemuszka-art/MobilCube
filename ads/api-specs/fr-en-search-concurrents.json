@@ -1,20 +1,18 @@
 {
- "campaign": {
-  "name": "FR+EN | Search | Concurrents",
-  "budget_amount": 8.0,
-  "budget_type": "DAILY",
-  "bidding_strategy": "MANUAL_CPC",
-  "platform_settings": {
-   "campaign_type": "SEARCH",
-   "geo_target_type": "PRESENCE",
-   "network_settings": {
-    "search": true,
-    "display": false
-   }
-  },
-  "contains_eu_political_ads": false,
-  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ "name": "FR+EN | Search | Concurrents",
+ "budget_amount": 8.0,
+ "budget_type": "DAILY",
+ "bidding_strategy": "MANUAL_CPC",
+ "platform_settings": {
+  "campaign_type": "SEARCH",
+  "geo_target_type": "PRESENCE",
+  "network_settings": {
+   "search": true,
+   "display": false
+  }
  },
+ "contains_eu_political_ads": false,
+ "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}",
  "targeting": {
   "location_details": [
    {
@@ -1271,43 +1269,6 @@
    }
   ]
  },
- "ad_schedule": [
-  {
-   "day_of_week": "MONDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "TUESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "WEDNESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "THURSDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "FRIDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SATURDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SUNDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  }
- ],
  "extensions": {
   "sitelinks": [
    {
@@ -1357,230 +1318,280 @@
     ]
    }
   ],
-  "call": {
-   "phone_number": "+14506416498",
-   "country_code": "CA"
-  }
+  "calls": [
+   {
+    "phone_number": "+14506416498",
+    "country_code": "CA"
+   }
+  ]
  },
  "ad_groups": [
   {
    "name": "Competitors EN",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 2.0,
-   "keywords": [
-    {
-     "text": "pods montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "pods montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "pods storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "pods cost montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "cubeit montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "cubeit storage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "gocube montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "go cube storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "go cube storage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "u-box montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "uhaul storage containers",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "bigsteelbox montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 1.8
-    },
-    {
-     "text": "depotium car storage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "public storage montreal car storage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.5
-    }
-   ],
-   "ad": {
-    "name": "RSA | Competitors EN",
-    "headlines": [
-     "Compare: Prices Published",
-     "A Local Alternative",
-     "20 ft, Not Small Cubes",
-     "Your Vehicle Is Welcome",
-     "Heated Warehouse, South Shore",
-     "20 ft Container Delivered",
-     "At Home or in Our Warehouse",
-     "From $180/mo (24 Months)",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Compare: Prices Published",
-     "HEADLINE_2": "A Local Alternative"
-    },
-    "descriptions": [
-     "Before you book elsewhere: prices published, a 20 ft container, and your car is welcome.",
-     "$350/mo no commitment, $270/mo on 6 months. Delivery $300 per movement, 15 km included.",
-     "Boucherville company. Heated South Shore warehouse, delivery across Montreal and Laval.",
-     "Prices published on our site and an online quote in 60 seconds."
-    ],
-    "path1": "compare",
-    "path2": "prices",
-    "final_urls": [
-     "https://www.mobilcube.com/en/pricing/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.0
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "pods montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "pods montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "pods storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "pods cost montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "cubeit montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "cubeit storage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "gocube montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "go cube storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "go cube storage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "u-box montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "uhaul storage containers",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "bigsteelbox montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 1.8
+     },
+     {
+      "text": "depotium car storage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "public storage montreal car storage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.5
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Competitors EN",
+     "creative": {
+      "headlines": [
+       "Compare: Prices Published",
+       "A Local Alternative",
+       "20 ft, Not Small Cubes",
+       "Your Vehicle Is Welcome",
+       "Heated Warehouse, South Shore",
+       "20 ft Container Delivered",
+       "At Home or in Our Warehouse",
+       "From $180/mo (24 Months)",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees",
+       "Call Us, We Answer"
+      ],
+      "descriptions": [
+       "Before you book elsewhere: prices published, a 20 ft container, and your car is welcome.",
+       "$350/mo no commitment, $270/mo on 6 months. Delivery $300 per movement, 15 km included.",
+       "Boucherville company. Heated South Shore warehouse, delivery across Montreal and Laval.",
+       "Prices published on our site and an online quote in 60 seconds."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/pricing/"
+      ],
+      "path1": "compare",
+      "path2": "prices"
+     }
+    }
+   ]
   },
   {
    "name": "Concurrents FR",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 1.6,
-   "keywords": [
-    {
-     "text": "pods montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "pods entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "conteneur pods",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "pods prix",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "cubeit montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "cubeit prix",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "cube it entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "gocube prix",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "go cube montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "gocube entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "u-box montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "ubox entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "bigsteelbox montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    }
-   ],
-   "ad": {
-    "name": "RSA | Concurrents FR",
-    "headlines": [
-     "Compare: Prices Published",
-     "A Local Alternative",
-     "20 ft, Not Small Cubes",
-     "Your Vehicle Is Welcome",
-     "Heated Warehouse, South Shore",
-     "20 ft Container Delivered",
-     "At Home or in Our Warehouse",
-     "From $180/mo (24 Months)",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Compare: Prices Published",
-     "HEADLINE_2": "A Local Alternative"
-    },
-    "descriptions": [
-     "Before you book elsewhere: prices published, a 20 ft container, and your car is welcome.",
-     "$350/mo no commitment, $270/mo on 6 months. Delivery $300 per movement, 15 km included.",
-     "Boucherville company. Heated South Shore warehouse, delivery across Montreal and Laval.",
-     "Prices published on our site and an online quote in 60 seconds."
-    ],
-    "path1": "compare",
-    "path2": "prices",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 1.6
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "pods montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "pods entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "conteneur pods",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "pods prix",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "cubeit montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "cubeit prix",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "cube it entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "gocube prix",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "go cube montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "gocube entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "u-box montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "ubox entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "bigsteelbox montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Concurrents FR",
+     "creative": {
+      "headlines": [
+       "Comparez : prix affichés",
+       "Une alternative locale",
+       "20 pi au lieu de petits cubes",
+       "Votre véhicule accepté",
+       "Entrepôt chauffé, Boucherville",
+       "Conteneur de 20 pi livré",
+       "Chez vous ou à notre entrepôt",
+       "Dès 180 $/mois (24 mois)",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Avant de réserver ailleurs : prix affichés, conteneur de 20 pi et véhicule accepté.",
+       "350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus.",
+       "Entreprise de Boucherville. Entrepôt chauffé sur la Rive-Sud, livraison Montréal et Laval.",
+       "Prix affichés sur le site et soumission en ligne en 60 secondes."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "comparez",
+      "path2": "prix"
+     }
+    }
+   ]
   }
- ]
+ ],
+ "after_create": {
+  "ad_schedule": [
+   {
+    "day_of_week": "MONDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "TUESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "WEDNESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "THURSDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "FRIDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SATURDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SUNDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   }
+  ],
+  "keep_paused": []
+ }
 }

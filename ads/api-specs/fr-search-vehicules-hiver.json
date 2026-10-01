@@ -1,20 +1,18 @@
 {
- "campaign": {
-  "name": "FR | Search | Vehicules hiver",
-  "budget_amount": 45.0,
-  "budget_type": "DAILY",
-  "bidding_strategy": "MANUAL_CPC",
-  "platform_settings": {
-   "campaign_type": "SEARCH",
-   "geo_target_type": "PRESENCE",
-   "network_settings": {
-    "search": true,
-    "display": false
-   }
-  },
-  "contains_eu_political_ads": false,
-  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ "name": "FR | Search | Vehicules hiver",
+ "budget_amount": 45.0,
+ "budget_type": "DAILY",
+ "bidding_strategy": "MANUAL_CPC",
+ "platform_settings": {
+  "campaign_type": "SEARCH",
+  "geo_target_type": "PRESENCE",
+  "network_settings": {
+   "search": true,
+   "display": false
+  }
  },
+ "contains_eu_political_ads": false,
+ "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}",
  "targeting": {
   "location_details": [
    {
@@ -999,43 +997,6 @@
    }
   ]
  },
- "ad_schedule": [
-  {
-   "day_of_week": "MONDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "TUESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "WEDNESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "THURSDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "FRIDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SATURDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SUNDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  }
- ],
  "extensions": {
   "sitelinks": [
    {
@@ -1085,1029 +1046,1110 @@
     ]
    }
   ],
-  "call": {
-   "phone_number": "+14506416498",
-   "country_code": "CA"
-  }
+  "calls": [
+   {
+    "phone_number": "+14506416498",
+    "country_code": "CA"
+   }
+  ]
  },
  "ad_groups": [
   {
    "name": "Auto hiver",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 2.4,
-   "keywords": [
-    {
-     "text": "entreposage voiture hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.25
-    },
-    {
-     "text": "entreposage voiture hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.25
-    },
-    {
-     "text": "entreposage auto hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.25
-    },
-    {
-     "text": "entreposage auto hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.25
-    },
-    {
-     "text": "entreposage hivernal voiture",
-     "match_type": "EXACT",
-     "cpc_bid": 2.25
-    },
-    {
-     "text": "entreposage véhicule hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "entreposage voiture montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.7
-    },
-    {
-     "text": "entreposage auto montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.7
-    },
-    {
-     "text": "entreposage voiture laval",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage voiture rive-sud",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage voiture ancienne",
-     "match_type": "EXACT",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "remisage voiture hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "remisage auto",
-     "match_type": "EXACT",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "garage à louer hiver voiture",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "où entreposer sa voiture l'hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.57
-    },
-    {
-     "text": "prix entreposage voiture hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage décapotable hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "entreposage voiture sport hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "entreposage VUS hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "entreposage camion hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "entreposage kayak hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 1.35
-    },
-    {
-     "text": "entreposage véhicule récréatif",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "entreposage véhicules récréatifs montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage hiver voiture laval",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage auto hiver rive-sud",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto hiver rive-sud",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture hiver longueuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture hiver longueuil",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture hiver brossard",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture hiver brossard",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "remisage auto hiver montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "remisage auto hiver montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "où entreposer sa voiture l'hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage véhicule hiver boucherville",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage véhicule hiver boucherville",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture hiver prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture hiver prix",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto hiver prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto hiver prix",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "prix entreposage voiture",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "prix entreposage voiture",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture rive sud",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture rive sud",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto rive sud",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto rive sud",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto hiver rive sud",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto hiver rive sud",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture longueuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture longueuil",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto longueuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto longueuil",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture boucherville",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture boucherville",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto boucherville",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto boucherville",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage hivernal voiture",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage hivernal pour auto",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage hivernal pour auto",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "remisage voiture hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "remisage auto hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "remisage auto hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    }
-   ],
-   "ad": {
-    "name": "RSA | Auto hiver",
-    "headlines": [
-     "270 $/mois sur 6 mois",
-     "Votre auto à l'abri cet hiver",
-     "Remisage hiver dans l'entrée",
-     "Fini le sel et la neige",
-     "Moto, VTT, motoneige acceptés",
-     "Coffre-fort d'acier de 20 pi",
-     "Ou en entrepôt chauffé",
-     "Accès 24/7 dans votre entrée",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "270 $/mois sur 6 mois",
-     "HEADLINE_2": "Votre auto à l'abri cet hiver"
-    },
-    "descriptions": [
-     "Conteneur d'acier de 20 pi livré chez vous : votre auto passe l'hiver à l'abri du sel.",
-     "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
-     "Moto, VTT, motoneige, motomarine ou auto : chargez au sol, accès 24/7 chez vous.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "entreposage",
-    "path2": "hiver",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.4
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage voiture hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.25
+     },
+     {
+      "text": "entreposage voiture hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.25
+     },
+     {
+      "text": "entreposage auto hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.25
+     },
+     {
+      "text": "entreposage auto hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.25
+     },
+     {
+      "text": "entreposage hivernal voiture",
+      "match_type": "EXACT",
+      "cpc_bid": 2.25
+     },
+     {
+      "text": "entreposage véhicule hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "entreposage voiture montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.7
+     },
+     {
+      "text": "entreposage auto montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.7
+     },
+     {
+      "text": "entreposage voiture laval",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage voiture rive-sud",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage voiture ancienne",
+      "match_type": "EXACT",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "remisage voiture hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "remisage auto",
+      "match_type": "EXACT",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "garage à louer hiver voiture",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "où entreposer sa voiture l'hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.57
+     },
+     {
+      "text": "prix entreposage voiture hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage décapotable hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "entreposage voiture sport hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "entreposage VUS hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "entreposage camion hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "entreposage kayak hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 1.35
+     },
+     {
+      "text": "entreposage véhicule récréatif",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "entreposage véhicules récréatifs montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage hiver voiture laval",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage auto hiver rive-sud",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto hiver rive-sud",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture hiver longueuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture hiver longueuil",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture hiver brossard",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture hiver brossard",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "remisage auto hiver montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "remisage auto hiver montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "où entreposer sa voiture l'hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage véhicule hiver boucherville",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage véhicule hiver boucherville",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture hiver prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture hiver prix",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto hiver prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto hiver prix",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "prix entreposage voiture",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "prix entreposage voiture",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture rive sud",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture rive sud",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto rive sud",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto rive sud",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto hiver rive sud",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto hiver rive sud",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture longueuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture longueuil",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto longueuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto longueuil",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture boucherville",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture boucherville",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto boucherville",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto boucherville",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage hivernal voiture",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage hivernal pour auto",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage hivernal pour auto",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "remisage voiture hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "remisage auto hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "remisage auto hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Auto hiver",
+     "creative": {
+      "headlines": [
+       "270 $/mois sur 6 mois",
+       "Votre auto à l'abri cet hiver",
+       "Remisage hiver dans l'entrée",
+       "Fini le sel et la neige",
+       "Moto, VTT, motoneige acceptés",
+       "Coffre-fort d'acier de 20 pi",
+       "Ou en entrepôt chauffé",
+       "Accès 24/7 dans votre entrée",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Conteneur d'acier de 20 pi livré chez vous : votre auto passe l'hiver à l'abri du sel.",
+       "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
+       "Moto, VTT, motoneige, motomarine ou auto : chargez au sol, accès 24/7 chez vous.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "entreposage",
+      "path2": "hiver"
+     }
+    }
+   ]
   },
   {
    "name": "Auto hiver chauffé",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 2.4,
-   "keywords": [
-    {
-     "text": "entreposage auto chauffé",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage intérieur voiture",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage auto chauffé",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture chauffé",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture chauffé",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage chauffé pour auto",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage chauffé pour auto",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto hiver chauffé",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto hiver chauffé",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture intérieur",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage voiture intérieur",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage intérieur voiture",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto intérieur chauffé",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage auto intérieur chauffé",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage chauffé pour moto",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage chauffé pour moto",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage moto chauffé",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage moto chauffé",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage chauffé rive sud",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage chauffé rive sud",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage chauffé",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage chauffé",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "garage chauffé à louer hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "garage chauffé à louer hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    }
-   ],
-   "ad": {
-    "name": "RSA | Auto hiver chauffé",
-    "headlines": [
-     "Entreposage auto chauffé",
-     "289,75 $/mois sur 6 mois",
-     "Entrepôt chauffé, Boucherville",
-     "Votre auto dans son conteneur",
-     "Aucun transport à payer",
-     "Moto, VTT, motoneige acceptés",
-     "Fini le sel et la neige",
-     "Fermé à clé, pour vous seul",
-     "Accès sur rendez-vous",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Entreposage auto chauffé",
-     "HEADLINE_2": "289,75 $/mois sur 6 mois"
-    },
-    "descriptions": [
-     "Déposez votre auto à Boucherville : elle passe l'hiver dans son propre conteneur chauffé.",
-     "289,75 $/mois sur 6 mois, sans frais de transport si vous l'amenez. Soumission en 60 s.",
-     "Conteneur d'acier fermé à clé, pour vous seul. Auto, moto, VTT ou motoneige acceptés.",
-     "Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond."
-    ],
-    "path1": "auto",
-    "path2": "chauffe",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.4
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage auto chauffé",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage intérieur voiture",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage auto chauffé",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture chauffé",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture chauffé",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage chauffé pour auto",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage chauffé pour auto",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto hiver chauffé",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto hiver chauffé",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture intérieur",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage voiture intérieur",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage intérieur voiture",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto intérieur chauffé",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage auto intérieur chauffé",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage chauffé pour moto",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage chauffé pour moto",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage moto chauffé",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage moto chauffé",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage chauffé rive sud",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage chauffé rive sud",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage chauffé",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage chauffé",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "garage chauffé à louer hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "garage chauffé à louer hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Auto hiver chauffé",
+     "creative": {
+      "headlines": [
+       "Entreposage auto chauffé",
+       "289,75 $/mois sur 6 mois",
+       "Entrepôt chauffé, Boucherville",
+       "Votre auto dans son conteneur",
+       "Aucun transport à payer",
+       "Moto, VTT, motoneige acceptés",
+       "Fini le sel et la neige",
+       "Fermé à clé, pour vous seul",
+       "Accès sur rendez-vous",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Déposez votre auto à Boucherville : elle passe l'hiver dans son propre conteneur chauffé.",
+       "289,75 $/mois sur 6 mois, sans frais de transport si vous l'amenez. Soumission en 60 s.",
+       "Conteneur d'acier fermé à clé, pour vous seul. Auto, moto, VTT ou motoneige acceptés.",
+       "Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "auto",
+      "path2": "chauffe"
+     }
+    }
+   ]
   },
   {
    "name": "Voiture collection",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 2.4,
-   "keywords": [
-    {
-     "text": "entreposage voiture de collection",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.7
-    },
-    {
-     "text": "entreposage auto de collection hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.7
-    }
-   ],
-   "ad": {
-    "name": "RSA | Voiture collection",
-    "headlines": [
-     "Voiture de collection protégée",
-     "270 $/mois sur 6 mois",
-     "Remisage hiver dans l'entrée",
-     "Fini le sel et la neige",
-     "Coffre-fort d'acier de 20 pi",
-     "Aucun trajet vers un entrepôt",
-     "Accès 24/7 dans votre entrée",
-     "Avant le 1er décembre",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Voiture de collection protégée",
-     "HEADLINE_2": "270 $/mois sur 6 mois"
-    },
-    "descriptions": [
-     "Votre voiture de collection passe l'hiver dans un conteneur d'acier de 20 pi, chez vous.",
-     "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
-     "Porte de 7 pi 5 po, plancher de bois marin, verrouillage renforcé. Chargez à votre rythme.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "remisage",
-    "path2": "collection",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.4
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage voiture de collection",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.7
+     },
+     {
+      "text": "entreposage auto de collection hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.7
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Voiture collection",
+     "creative": {
+      "headlines": [
+       "Voiture de collection protégée",
+       "270 $/mois sur 6 mois",
+       "Remisage hiver dans l'entrée",
+       "Fini le sel et la neige",
+       "Coffre-fort d'acier de 20 pi",
+       "Aucun trajet vers un entrepôt",
+       "Accès 24/7 dans votre entrée",
+       "Avant le 1er décembre",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Votre voiture de collection passe l'hiver dans un conteneur d'acier de 20 pi, chez vous.",
+       "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
+       "Porte de 7 pi 5 po, plancher de bois marin, verrouillage renforcé. Chargez à votre rythme.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "remisage",
+      "path2": "collection"
+     }
+    }
+   ]
   },
   {
    "name": "Bateau (test, pausé)",
-   "status_after_create": "PAUSED",
-   "cpc_bid": 2.4,
-   "keywords": [
-    {
-     "text": "entreposage bateau",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.25
-    },
-    {
-     "text": "entreposage bateau hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.25
-    },
-    {
-     "text": "entreposage bateau hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.25
-    },
-    {
-     "text": "entreposage bateau intérieur",
-     "match_type": "EXACT",
-     "cpc_bid": 2.25
-    },
-    {
-     "text": "entreposage bateau rive-sud",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage bateau montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "hivernage bateau",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "hivernage bateau entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "entreposage bateau laval",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    }
-   ],
-   "ad": {
-    "name": "RSA | Bateau (test, pausé)",
-    "headlines": [
-     "Moto, VTT, motoneige acceptés",
-     "270 $/mois sur 6 mois",
-     "Remisage hiver dans l'entrée",
-     "Fini le sel et la neige",
-     "Coffre-fort d'acier de 20 pi",
-     "2 VTT et la remorque entrent",
-     "Accès 24/7 dans votre entrée",
-     "Libérez votre garage",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Moto, VTT, motoneige acceptés",
-     "HEADLINE_2": "270 $/mois sur 6 mois"
-    },
-    "descriptions": [
-     "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
-     "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
-     "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "entreposage",
-    "path2": "vtt-moto",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.4
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage bateau",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.25
+     },
+     {
+      "text": "entreposage bateau hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.25
+     },
+     {
+      "text": "entreposage bateau hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.25
+     },
+     {
+      "text": "entreposage bateau intérieur",
+      "match_type": "EXACT",
+      "cpc_bid": 2.25
+     },
+     {
+      "text": "entreposage bateau rive-sud",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage bateau montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "hivernage bateau",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "hivernage bateau entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "entreposage bateau laval",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Bateau (test, pausé)",
+     "creative": {
+      "headlines": [
+       "Moto, VTT, motoneige acceptés",
+       "270 $/mois sur 6 mois",
+       "Remisage hiver dans l'entrée",
+       "Fini le sel et la neige",
+       "Coffre-fort d'acier de 20 pi",
+       "2 VTT et la remorque entrent",
+       "Accès 24/7 dans votre entrée",
+       "Libérez votre garage",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
+       "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
+       "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "entreposage",
+      "path2": "vtt-moto"
+     }
+    }
+   ]
   },
   {
    "name": "Moto hiver",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 1.6,
-   "keywords": [
-    {
-     "text": "entreposage moto hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.0
-    },
-    {
-     "text": "entreposage moto hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.0
-    },
-    {
-     "text": "entreposage moto montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.0
-    },
-    {
-     "text": "remisage moto",
-     "match_type": "EXACT",
-     "cpc_bid": 2.0
-    },
-    {
-     "text": "entreposage motocyclette",
-     "match_type": "EXACT",
-     "cpc_bid": 2.0
-    },
-    {
-     "text": "entreposage moto hiver prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "entreposage moto hiver prix",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "entreposage moto rive sud",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "entreposage moto rive sud",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "entreposage moto longueuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "entreposage moto longueuil",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "entreposage hiver moto",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.6
-    },
-    {
-     "text": "entreposage hiver moto",
-     "match_type": "EXACT",
-     "cpc_bid": 1.6
-    }
-   ],
-   "ad": {
-    "name": "RSA | Moto hiver",
-    "headlines": [
-     "Moto, VTT, motoneige acceptés",
-     "270 $/mois sur 6 mois",
-     "Remisage hiver dans l'entrée",
-     "Fini le sel et la neige",
-     "Coffre-fort d'acier de 20 pi",
-     "2 VTT et la remorque entrent",
-     "Accès 24/7 dans votre entrée",
-     "Libérez votre garage",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Moto, VTT, motoneige acceptés",
-     "HEADLINE_2": "270 $/mois sur 6 mois"
-    },
-    "descriptions": [
-     "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
-     "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
-     "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "entreposage",
-    "path2": "vtt-moto",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 1.6
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage moto hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.0
+     },
+     {
+      "text": "entreposage moto hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.0
+     },
+     {
+      "text": "entreposage moto montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.0
+     },
+     {
+      "text": "remisage moto",
+      "match_type": "EXACT",
+      "cpc_bid": 2.0
+     },
+     {
+      "text": "entreposage motocyclette",
+      "match_type": "EXACT",
+      "cpc_bid": 2.0
+     },
+     {
+      "text": "entreposage moto hiver prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage moto hiver prix",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage moto rive sud",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage moto rive sud",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage moto longueuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage moto longueuil",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage hiver moto",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage hiver moto",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Moto hiver",
+     "creative": {
+      "headlines": [
+       "Moto, VTT, motoneige acceptés",
+       "270 $/mois sur 6 mois",
+       "Remisage hiver dans l'entrée",
+       "Fini le sel et la neige",
+       "Coffre-fort d'acier de 20 pi",
+       "2 VTT et la remorque entrent",
+       "Accès 24/7 dans votre entrée",
+       "Libérez votre garage",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
+       "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
+       "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "entreposage",
+      "path2": "vtt-moto"
+     }
+    }
+   ]
   },
   {
    "name": "VTT",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 1.6,
-   "keywords": [
-    {
-     "text": "entreposage VTT",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.57
-    },
-    {
-     "text": "entreposage VTT hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 1.57
-    },
-    {
-     "text": "entreposage quad",
-     "match_type": "EXACT",
-     "cpc_bid": 1.57
-    },
-    {
-     "text": "entreposage côte à côte",
-     "match_type": "EXACT",
-     "cpc_bid": 1.57
-    }
-   ],
-   "ad": {
-    "name": "RSA | VTT",
-    "headlines": [
-     "Moto, VTT, motoneige acceptés",
-     "270 $/mois sur 6 mois",
-     "Remisage hiver dans l'entrée",
-     "Fini le sel et la neige",
-     "Coffre-fort d'acier de 20 pi",
-     "2 VTT et la remorque entrent",
-     "Accès 24/7 dans votre entrée",
-     "Libérez votre garage",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Moto, VTT, motoneige acceptés",
-     "HEADLINE_2": "270 $/mois sur 6 mois"
-    },
-    "descriptions": [
-     "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
-     "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
-     "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "entreposage",
-    "path2": "vtt-moto",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 1.6
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage VTT",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.57
+     },
+     {
+      "text": "entreposage VTT hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 1.57
+     },
+     {
+      "text": "entreposage quad",
+      "match_type": "EXACT",
+      "cpc_bid": 1.57
+     },
+     {
+      "text": "entreposage côte à côte",
+      "match_type": "EXACT",
+      "cpc_bid": 1.57
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | VTT",
+     "creative": {
+      "headlines": [
+       "Moto, VTT, motoneige acceptés",
+       "270 $/mois sur 6 mois",
+       "Remisage hiver dans l'entrée",
+       "Fini le sel et la neige",
+       "Coffre-fort d'acier de 20 pi",
+       "2 VTT et la remorque entrent",
+       "Accès 24/7 dans votre entrée",
+       "Libérez votre garage",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
+       "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
+       "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "entreposage",
+      "path2": "vtt-moto"
+     }
+    }
+   ]
   },
   {
    "name": "Motoneige",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 1.6,
-   "keywords": [
-    {
-     "text": "entreposage motoneige",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.57
-    },
-    {
-     "text": "entreposage motoneige été",
-     "match_type": "EXACT",
-     "cpc_bid": 1.57
-    }
-   ],
-   "ad": {
-    "name": "RSA | Motoneige",
-    "headlines": [
-     "Moto, VTT, motoneige acceptés",
-     "270 $/mois sur 6 mois",
-     "Remisage hiver dans l'entrée",
-     "Fini le sel et la neige",
-     "Coffre-fort d'acier de 20 pi",
-     "2 VTT et la remorque entrent",
-     "Accès 24/7 dans votre entrée",
-     "Libérez votre garage",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Moto, VTT, motoneige acceptés",
-     "HEADLINE_2": "270 $/mois sur 6 mois"
-    },
-    "descriptions": [
-     "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
-     "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
-     "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "entreposage",
-    "path2": "vtt-moto",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 1.6
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage motoneige",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.57
+     },
+     {
+      "text": "entreposage motoneige été",
+      "match_type": "EXACT",
+      "cpc_bid": 1.57
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Motoneige",
+     "creative": {
+      "headlines": [
+       "Moto, VTT, motoneige acceptés",
+       "270 $/mois sur 6 mois",
+       "Remisage hiver dans l'entrée",
+       "Fini le sel et la neige",
+       "Coffre-fort d'acier de 20 pi",
+       "2 VTT et la remorque entrent",
+       "Accès 24/7 dans votre entrée",
+       "Libérez votre garage",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
+       "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
+       "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "entreposage",
+      "path2": "vtt-moto"
+     }
+    }
+   ]
   },
   {
    "name": "Remorque & équipement",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 1.4,
-   "keywords": [
-    {
-     "text": "entreposage remorque",
-     "match_type": "PHRASE",
-     "cpc_bid": 1.75
-    },
-    {
-     "text": "entreposage remorque hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 1.75
-    }
-   ],
-   "ad": {
-    "name": "RSA | Remorque & équipement",
-    "headlines": [
-     "Moto, VTT, motoneige acceptés",
-     "270 $/mois sur 6 mois",
-     "Remisage hiver dans l'entrée",
-     "Fini le sel et la neige",
-     "Coffre-fort d'acier de 20 pi",
-     "2 VTT et la remorque entrent",
-     "Accès 24/7 dans votre entrée",
-     "Libérez votre garage",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Moto, VTT, motoneige acceptés",
-     "HEADLINE_2": "270 $/mois sur 6 mois"
-    },
-    "descriptions": [
-     "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
-     "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
-     "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "entreposage",
-    "path2": "vtt-moto",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 1.4
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage remorque",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.75
+     },
+     {
+      "text": "entreposage remorque hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 1.75
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Remorque & équipement",
+     "creative": {
+      "headlines": [
+       "Moto, VTT, motoneige acceptés",
+       "270 $/mois sur 6 mois",
+       "Remisage hiver dans l'entrée",
+       "Fini le sel et la neige",
+       "Coffre-fort d'acier de 20 pi",
+       "2 VTT et la remorque entrent",
+       "Accès 24/7 dans votre entrée",
+       "Libérez votre garage",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
+       "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
+       "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "entreposage",
+      "path2": "vtt-moto"
+     }
+    }
+   ]
   },
   {
    "name": "Motomarine & petit bateau",
-   "status_after_create": "PAUSED",
-   "cpc_bid": 2.4,
-   "keywords": [
-    {
-     "text": "entreposage motomarine",
-     "match_type": "EXACT",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "entreposage motomarine hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage motomarine hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage sea-doo hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage sea-doo hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage jet ski montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage jet ski montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage petit bateau hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage petit bateau hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage chaloupe hiver",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.4
-    },
-    {
-     "text": "entreposage chaloupe hiver",
-     "match_type": "EXACT",
-     "cpc_bid": 2.4
-    }
-   ],
-   "ad": {
-    "name": "RSA | Motomarine & petit bateau",
-    "headlines": [
-     "Moto, VTT, motoneige acceptés",
-     "270 $/mois sur 6 mois",
-     "Remisage hiver dans l'entrée",
-     "Fini le sel et la neige",
-     "Coffre-fort d'acier de 20 pi",
-     "2 VTT et la remorque entrent",
-     "Accès 24/7 dans votre entrée",
-     "Libérez votre garage",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Moto, VTT, motoneige acceptés",
-     "HEADLINE_2": "270 $/mois sur 6 mois"
-    },
-    "descriptions": [
-     "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
-     "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
-     "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "entreposage",
-    "path2": "vtt-moto",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.4
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage motomarine",
+      "match_type": "EXACT",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "entreposage motomarine hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage motomarine hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage sea-doo hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage sea-doo hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage jet ski montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage jet ski montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage petit bateau hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage petit bateau hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage chaloupe hiver",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.4
+     },
+     {
+      "text": "entreposage chaloupe hiver",
+      "match_type": "EXACT",
+      "cpc_bid": 2.4
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Motomarine & petit bateau",
+     "creative": {
+      "headlines": [
+       "Moto, VTT, motoneige acceptés",
+       "270 $/mois sur 6 mois",
+       "Remisage hiver dans l'entrée",
+       "Fini le sel et la neige",
+       "Coffre-fort d'acier de 20 pi",
+       "2 VTT et la remorque entrent",
+       "Accès 24/7 dans votre entrée",
+       "Libérez votre garage",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Moto, VTT, motoneige, motomarine : conteneur d'acier de 20 pi livré chez vous cet hiver.",
+       "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
+       "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "entreposage",
+      "path2": "vtt-moto"
+     }
+    }
+   ]
   }
- ]
+ ],
+ "after_create": {
+  "ad_schedule": [
+   {
+    "day_of_week": "MONDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "TUESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "WEDNESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "THURSDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "FRIDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SATURDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SUNDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   }
+  ],
+  "keep_paused": [
+   "Bateau (test, pausé)",
+   "Motomarine & petit bateau"
+  ]
+ }
 }

@@ -2,6 +2,8 @@
 
 A complete, import-ready Google Ads program for MobilCube (mobile self-storage, Boucherville / Greater Montreal), built on a competitive analysis of the Montreal storage market done on 2026-09-26.
 
+**The 8 campaigns are built, paused, in the Mobil Cube Google Ads account (2092450839).** Everything done so far, and the results to expect, is in [`docs/09-summary-what-was-done.md`](docs/09-summary-what-was-done.md).
+
 **Launching now? Read [`docs/08-launch-analysis-2026-09-30.md`](docs/08-launch-analysis-2026-09-30.md) first** (5,000 $/month plan, site blockers, competitor ad scan, verified keywords). Then [`docs/00-start-here.md`](docs/00-start-here.md). In the Google Ads campaign wizard, use [`docs/05-campaign-wizard-answers.md`](docs/05-campaign-wizard-answers.md).
 
 | Folder | What is inside |
@@ -10,6 +12,7 @@ A complete, import-ready Google Ads program for MobilCube (mobile self-storage, 
 | `ads/google-ads-editor/` | Nine CSVs to bulk-import 8 campaigns, 34 ad groups, 546 keywords (471 enabled), 34 responsive search ads, 331 shared negatives and all assets with Google Ads Editor |
 | `ads/keywords/`, `ads/negatives/`, `ads/copy/` | Full keyword universe (FR + EN, with estimated volumes and CPCs), negative lists, the ad copy deck |
 | `ads/build_import.py` | Regenerates everything above and refuses copy that breaks Google's character limits |
+| `ads/api-specs/`, `ads/build_api_specs.py` | The same 8 campaigns as the payloads uploaded to the Google Ads account through the Supermetrics connector |
 | `landing/` | Bilingual (French-first) landing pages per segment: winter vehicles, commercial terraces, mobile storage, plus hub, thank-you and Law 25 privacy pages |
 | `tracking/` | Google tag with Consent Mode v2, consent banner, conversion events, offline-conversion template, call-tracking setup |
 | `scripts/google-ads/` | Five Google Ads Scripts: seasonal budget pacer, weather trigger, search-term miner, call-quality report, impression-share guard |

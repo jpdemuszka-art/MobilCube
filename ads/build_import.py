@@ -134,7 +134,7 @@ RSAS = {
     path=('entreposage', 'commercial')),
  'fr-mobile': dict(
     pin1='Entreposage mobile Rive-Sud', pin2='Un seul conteneur, 160 pi²',
-    heads=['Le contenu d\'un 5 ½ entier', 'Chargez à votre rythme', 'Chez vous ou à notre entrepôt',
+    heads=['Assez grand pour un 5 et demi', 'Chargez à votre rythme', 'Chez vous ou à notre entrepôt',
            'Dès 180 $/mois (24 mois)', 'Entrepôt chauffé, Boucherville', 'Accès 24/7 dans votre entrée'] + H_FR_COMMON,
     desc=["Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
           '350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.',
@@ -144,7 +144,7 @@ RSAS = {
  'fr-mobile-demenagement': dict(
     pin1='Déménagez sans camion', pin2='Un seul conteneur, 160 pi²',
     heads=['Rénovation : meubles à l\'abri', 'Chargez à votre rythme', 'Chez vous ou à notre entrepôt',
-           'Zéro double manutention', 'Le contenu d\'un 5 ½ entier', 'Dès 180 $/mois (24 mois)'] + H_FR_COMMON,
+           'Zéro double manutention', 'Assez grand pour un 5 et demi', 'Dès 180 $/mois (24 mois)'] + H_FR_COMMON,
     desc=['On livre le conteneur, vous chargez à votre rythme, on le déplace à la nouvelle adresse.',
           '350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus.',
           "Rénovation ? Vos meubles restent chez vous, à l'abri de la poussière, accessibles 24/7.",
@@ -500,7 +500,7 @@ for row in kw_list_rows:
 def rsa_for(camp, ag):
     a = ag.lower()
     if camp.endswith('Marque'): return 'fr-marque'
-    if camp.endswith('Concurrents'): return 'en-competitors' if 'en' in a else 'fr-concurrents'
+    if camp.endswith('Concurrents'): return 'en-competitors' if a.startswith('competitors') else 'fr-concurrents'
     if camp.startswith('FR | Search | Vehicules'):
         if 'chauff' in a: return 'fr-vehicule-chauffe'
         if 'collection' in a: return 'fr-vehicule-collection'

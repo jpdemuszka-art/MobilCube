@@ -106,7 +106,7 @@ Search volumes still need Keyword Planner or a Semrush connector. What I could v
 - "entreposage vtt" pulls French mountain-bike clubs, so club and vélo are negatives.
 - "remisage voiture saaq" is paperwork, so saaq is a negative.
 - Out-of-area cities appear in every seed, so Québec, Lévis, Saguenay, Sherbrooke, Gatineau, Toronto and others are negatives.
-- Heated vehicle storage is not offered, so chauffé and heated are negatives in the vehicle campaigns only.
+- Heated vehicle storage is offered at the Boucherville warehouse, so "chauffé" and "heated" are keywords (own ad groups), not negatives. Only tire storage is excluded.
 
 **Totals:** 546 keywords are in `ads/google-ads-editor/03-keywords.csv`, 471 enabled and 75 paused, in 34 ad groups. There are 331 shared negatives and 118 campaign negatives, and none blocks an enabled keyword (checked by script).
 

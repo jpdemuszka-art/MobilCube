@@ -1,20 +1,18 @@
 {
- "campaign": {
-  "name": "EN | Search | Mobile storage",
-  "budget_amount": 15.0,
-  "budget_type": "DAILY",
-  "bidding_strategy": "MANUAL_CPC",
-  "platform_settings": {
-   "campaign_type": "SEARCH",
-   "geo_target_type": "PRESENCE",
-   "network_settings": {
-    "search": true,
-    "display": false
-   }
-  },
-  "contains_eu_political_ads": false,
-  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ "name": "EN | Search | Mobile storage",
+ "budget_amount": 15.0,
+ "budget_type": "DAILY",
+ "bidding_strategy": "MANUAL_CPC",
+ "platform_settings": {
+  "campaign_type": "SEARCH",
+  "geo_target_type": "PRESENCE",
+  "network_settings": {
+   "search": true,
+   "display": false
+  }
  },
+ "contains_eu_political_ads": false,
+ "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}",
  "targeting": {
   "location_details": [
    {
@@ -507,43 +505,6 @@
    }
   ]
  },
- "ad_schedule": [
-  {
-   "day_of_week": "MONDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "TUESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "WEDNESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "THURSDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "FRIDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SATURDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SUNDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  }
- ],
  "extensions": {
   "sitelinks": [
    {
@@ -593,599 +554,660 @@
     ]
    }
   ],
-  "call": {
-   "phone_number": "+14506416498",
-   "country_code": "CA"
-  }
+  "calls": [
+   {
+    "phone_number": "+14506416498",
+    "country_code": "CA"
+   }
+  ]
  },
  "ad_groups": [
   {
    "name": "Mobile storage",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 4.0,
-   "keywords": [
-    {
-     "text": "mobile storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "mobile storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "mobile storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage cube rental",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage cube rental",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage cube montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage cube montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage cube delivered",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "self storage alternative delivered",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.95
-    },
-    {
-     "text": "mobile storage west island",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "mobile storage west island",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage container rental west island",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage container rental west island",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    }
-   ],
-   "ad": {
-    "name": "RSA | Mobile storage",
-    "headlines": [
-     "Mobile Storage Montreal",
-     "One Container, 160 sq ft",
-     "Fits a Whole 5 ½ Apartment",
-     "Load at Your Own Pace",
-     "At Home or in Our Warehouse",
-     "From $180/mo (24 Months)",
-     "Heated Warehouse, South Shore",
-     "24/7 Access in Your Driveway",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Mobile Storage Montreal",
-     "HEADLINE_2": "One Container, 160 sq ft"
-    },
-    "descriptions": [
-     "A 20 ft steel container (160 sq ft) delivered to you. Load at ground level, at your pace.",
-     "$350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300.",
-     "Keep it in your driveway or send it to our heated Boucherville warehouse. Quote in 60 s.",
-     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
-    ],
-    "path1": "mobile",
-    "path2": "storage",
-    "final_urls": [
-     "https://www.mobilcube.com/en/pricing/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 4.0
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "mobile storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "mobile storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "mobile storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage cube rental",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage cube rental",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage cube montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage cube montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage cube delivered",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "self storage alternative delivered",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.95
+     },
+     {
+      "text": "mobile storage west island",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "mobile storage west island",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage container rental west island",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage container rental west island",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Mobile storage",
+     "creative": {
+      "headlines": [
+       "Mobile Storage Montreal",
+       "One Container, 160 sq ft",
+       "Fits a Whole 5 ½ Apartment",
+       "Load at Your Own Pace",
+       "At Home or in Our Warehouse",
+       "From $180/mo (24 Months)",
+       "Heated Warehouse, South Shore",
+       "24/7 Access in Your Driveway",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees",
+       "Call Us, We Answer"
+      ],
+      "descriptions": [
+       "A 20 ft steel container (160 sq ft) delivered to you. Load at ground level, at your pace.",
+       "$350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300.",
+       "Keep it in your driveway or send it to our heated Boucherville warehouse. Quote in 60 s.",
+       "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/pricing/"
+      ],
+      "path1": "mobile",
+      "path2": "storage"
+     }
+    }
+   ]
   },
   {
    "name": "Portable container",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 4.0,
-   "keywords": [
-    {
-     "text": "portable storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "portable storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "portable storage containers",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "portable storage container rental",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "portable storage container rental",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage container rental montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage container rental montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage container rental",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "rent storage container",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage container delivered to your home",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage container delivery",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "moving containers montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "moving containers montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "moving container rental",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "moving and storage containers",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage pods montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage pods montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage pod rental",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage pods",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "on site storage container",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage container in driveway",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "temporary storage container renovation",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage container rental for driveway",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "storage container rental for driveway",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "storage container rental cost per month",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "storage container rental cost per month",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "storage container rental prices",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "storage container rental prices",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "portable storage containers for rent",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "portable storage containers for rent",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "storage container rental near me",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "storage container rental near me",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "mobile storage units near me",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "mobile storage units near me",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "moving containers near me",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "moving containers near me",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "moving container rental near me",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "moving container rental near me",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    }
-   ],
-   "ad": {
-    "name": "RSA | Portable container",
-    "headlines": [
-     "Mobile Storage Montreal",
-     "One Container, 160 sq ft",
-     "Fits a Whole 5 ½ Apartment",
-     "Load at Your Own Pace",
-     "At Home or in Our Warehouse",
-     "From $180/mo (24 Months)",
-     "Heated Warehouse, South Shore",
-     "24/7 Access in Your Driveway",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Mobile Storage Montreal",
-     "HEADLINE_2": "One Container, 160 sq ft"
-    },
-    "descriptions": [
-     "A 20 ft steel container (160 sq ft) delivered to you. Load at ground level, at your pace.",
-     "$350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300.",
-     "Keep it in your driveway or send it to our heated Boucherville warehouse. Quote in 60 s.",
-     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
-    ],
-    "path1": "mobile",
-    "path2": "storage",
-    "final_urls": [
-     "https://www.mobilcube.com/en/pricing/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 4.0
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "portable storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "portable storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "portable storage containers",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "portable storage container rental",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "portable storage container rental",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage container rental montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage container rental montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage container rental",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "rent storage container",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage container delivered to your home",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage container delivery",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "moving containers montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "moving containers montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "moving container rental",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "moving and storage containers",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage pods montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage pods montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage pod rental",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage pods",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "on site storage container",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage container in driveway",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "temporary storage container renovation",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage container rental for driveway",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "storage container rental for driveway",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "storage container rental cost per month",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "storage container rental cost per month",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "storage container rental prices",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "storage container rental prices",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "portable storage containers for rent",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "portable storage containers for rent",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "storage container rental near me",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "storage container rental near me",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "mobile storage units near me",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "mobile storage units near me",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "moving containers near me",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "moving containers near me",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "moving container rental near me",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "moving container rental near me",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Portable container",
+     "creative": {
+      "headlines": [
+       "Mobile Storage Montreal",
+       "One Container, 160 sq ft",
+       "Fits a Whole 5 ½ Apartment",
+       "Load at Your Own Pace",
+       "At Home or in Our Warehouse",
+       "From $180/mo (24 Months)",
+       "Heated Warehouse, South Shore",
+       "24/7 Access in Your Driveway",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees",
+       "Call Us, We Answer"
+      ],
+      "descriptions": [
+       "A 20 ft steel container (160 sq ft) delivered to you. Load at ground level, at your pace.",
+       "$350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300.",
+       "Keep it in your driveway or send it to our heated Boucherville warehouse. Quote in 60 s.",
+       "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/pricing/"
+      ],
+      "path1": "mobile",
+      "path2": "storage"
+     }
+    }
+   ]
   },
   {
    "name": "Self storage alternative (test, paused)",
-   "status_after_create": "PAUSED",
-   "cpc_bid": 4.0,
-   "keywords": [
-    {
-     "text": "storage units near me",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "self storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "heated storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "heated storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    }
-   ],
-   "ad": {
-    "name": "RSA | Self storage alternative (test, paused)",
-    "headlines": [
-     "Mobile Storage Montreal",
-     "One Container, 160 sq ft",
-     "Fits a Whole 5 ½ Apartment",
-     "Load at Your Own Pace",
-     "At Home or in Our Warehouse",
-     "From $180/mo (24 Months)",
-     "Heated Warehouse, South Shore",
-     "24/7 Access in Your Driveway",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Mobile Storage Montreal",
-     "HEADLINE_2": "One Container, 160 sq ft"
-    },
-    "descriptions": [
-     "A 20 ft steel container (160 sq ft) delivered to you. Load at ground level, at your pace.",
-     "$350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300.",
-     "Keep it in your driveway or send it to our heated Boucherville warehouse. Quote in 60 s.",
-     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
-    ],
-    "path1": "mobile",
-    "path2": "storage",
-    "final_urls": [
-     "https://www.mobilcube.com/en/pricing/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 4.0
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "storage units near me",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "self storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "heated storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "heated storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Self storage alternative (test, paused)",
+     "creative": {
+      "headlines": [
+       "Mobile Storage Montreal",
+       "One Container, 160 sq ft",
+       "Fits a Whole 5 ½ Apartment",
+       "Load at Your Own Pace",
+       "At Home or in Our Warehouse",
+       "From $180/mo (24 Months)",
+       "Heated Warehouse, South Shore",
+       "24/7 Access in Your Driveway",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees",
+       "Call Us, We Answer"
+      ],
+      "descriptions": [
+       "A 20 ft steel container (160 sq ft) delivered to you. Load at ground level, at your pace.",
+       "$350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300.",
+       "Keep it in your driveway or send it to our heated Boucherville warehouse. Quote in 60 s.",
+       "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/pricing/"
+      ],
+      "path1": "mobile",
+      "path2": "storage"
+     }
+    }
+   ]
   },
   {
    "name": "Generic geo (paused)",
-   "status_after_create": "PAUSED",
-   "cpc_bid": 4.0,
-   "keywords": [
-    {
-     "text": "storage west island",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage west island",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage pointe claire",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage pointe claire",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage dollard des ormeaux",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage dollard des ormeaux",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage kirkland",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage kirkland",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage beaconsfield",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage beaconsfield",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage westmount",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage westmount",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage ndg",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage ndg",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage lachine",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage lachine",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage vaudreuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage vaudreuil",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage hudson quebec",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage hudson quebec",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage laval",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage laval",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage south shore montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage south shore montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage brossard",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage brossard",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage downtown montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 5.0
-    },
-    {
-     "text": "storage downtown montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 5.0
-    }
-   ],
-   "ad": {
-    "name": "RSA | Generic geo (paused)",
-    "headlines": [
-     "Mobile Storage Montreal",
-     "One Container, 160 sq ft",
-     "Fits a Whole 5 ½ Apartment",
-     "Load at Your Own Pace",
-     "At Home or in Our Warehouse",
-     "From $180/mo (24 Months)",
-     "Heated Warehouse, South Shore",
-     "24/7 Access in Your Driveway",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Mobile Storage Montreal",
-     "HEADLINE_2": "One Container, 160 sq ft"
-    },
-    "descriptions": [
-     "A 20 ft steel container (160 sq ft) delivered to you. Load at ground level, at your pace.",
-     "$350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300.",
-     "Keep it in your driveway or send it to our heated Boucherville warehouse. Quote in 60 s.",
-     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
-    ],
-    "path1": "mobile",
-    "path2": "storage",
-    "final_urls": [
-     "https://www.mobilcube.com/en/pricing/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 4.0
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "storage west island",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage west island",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage pointe claire",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage pointe claire",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage dollard des ormeaux",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage dollard des ormeaux",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage kirkland",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage kirkland",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage beaconsfield",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage beaconsfield",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage westmount",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage westmount",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage ndg",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage ndg",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage lachine",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage lachine",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage vaudreuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage vaudreuil",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage hudson quebec",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage hudson quebec",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage laval",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage laval",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage south shore montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage south shore montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage brossard",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage brossard",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage downtown montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 5.0
+     },
+     {
+      "text": "storage downtown montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 5.0
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Generic geo (paused)",
+     "creative": {
+      "headlines": [
+       "Mobile Storage Montreal",
+       "One Container, 160 sq ft",
+       "Fits a Whole 5 ½ Apartment",
+       "Load at Your Own Pace",
+       "At Home or in Our Warehouse",
+       "From $180/mo (24 Months)",
+       "Heated Warehouse, South Shore",
+       "24/7 Access in Your Driveway",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees",
+       "Call Us, We Answer"
+      ],
+      "descriptions": [
+       "A 20 ft steel container (160 sq ft) delivered to you. Load at ground level, at your pace.",
+       "$350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300.",
+       "Keep it in your driveway or send it to our heated Boucherville warehouse. Quote in 60 s.",
+       "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/pricing/"
+      ],
+      "path1": "mobile",
+      "path2": "storage"
+     }
+    }
+   ]
   }
- ]
+ ],
+ "after_create": {
+  "ad_schedule": [
+   {
+    "day_of_week": "MONDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "TUESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "WEDNESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "THURSDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "FRIDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SATURDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SUNDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   }
+  ],
+  "keep_paused": [
+   "Self storage alternative (test, paused)",
+   "Generic geo (paused)"
+  ]
+ }
 }

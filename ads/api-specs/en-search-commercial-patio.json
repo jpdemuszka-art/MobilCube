@@ -1,20 +1,18 @@
 {
- "campaign": {
-  "name": "EN | Search | Commercial patio",
-  "budget_amount": 4.0,
-  "budget_type": "DAILY",
-  "bidding_strategy": "MANUAL_CPC",
-  "platform_settings": {
-   "campaign_type": "SEARCH",
-   "geo_target_type": "PRESENCE",
-   "network_settings": {
-    "search": true,
-    "display": false
-   }
-  },
-  "contains_eu_political_ads": false,
-  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ "name": "EN | Search | Commercial patio",
+ "budget_amount": 4.0,
+ "budget_type": "DAILY",
+ "bidding_strategy": "MANUAL_CPC",
+ "platform_settings": {
+  "campaign_type": "SEARCH",
+  "geo_target_type": "PRESENCE",
+  "network_settings": {
+   "search": true,
+   "display": false
+  }
  },
+ "contains_eu_political_ads": false,
+ "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}",
  "targeting": {
   "location_details": [
    {
@@ -583,33 +581,6 @@
    }
   ]
  },
- "ad_schedule": [
-  {
-   "day_of_week": "MONDAY",
-   "start_hour": 7,
-   "end_hour": 19
-  },
-  {
-   "day_of_week": "TUESDAY",
-   "start_hour": 7,
-   "end_hour": 19
-  },
-  {
-   "day_of_week": "WEDNESDAY",
-   "start_hour": 7,
-   "end_hour": 19
-  },
-  {
-   "day_of_week": "THURSDAY",
-   "start_hour": 7,
-   "end_hour": 19
-  },
-  {
-   "day_of_week": "FRIDAY",
-   "start_hour": 7,
-   "end_hour": 19
-  }
- ],
  "extensions": {
   "sitelinks": [
    {
@@ -659,255 +630,295 @@
     ]
    }
   ],
-  "call": {
-   "phone_number": "+14506416498",
-   "country_code": "CA"
-  }
+  "calls": [
+   {
+    "phone_number": "+14506416498",
+    "country_code": "CA"
+   }
+  ]
  },
  "ad_groups": [
   {
    "name": "Patio furniture",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 3.2,
-   "keywords": [
-    {
-     "text": "patio furniture storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "patio furniture storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "patio furniture storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "restaurant terrace storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "restaurant patio furniture storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "hotel patio storage winter",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "store patio heaters winter",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "restaurant patio storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "restaurant patio storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "terrace furniture winter storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "terrace furniture winter storage",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "patio heater storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "patio heater storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "where to store patio furniture montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "where to store patio furniture montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    }
-   ],
-   "ad": {
-    "name": "RSA | Patio furniture",
-    "headlines": [
-     "Patio Packed Away in a Day",
-     "Restaurants, Bars, Hotels",
-     "Tables, Chairs, Heaters",
-     "Delivered Back in Spring",
-     "On Site or Heated Storage",
-     "Simple Business Invoicing",
-     "Seasonal Business Storage",
-     "Book Before the Deadline",
-     "Heated Warehouse, South Shore",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Patio Packed Away in a Day",
-     "HEADLINE_2": "Restaurants, Bars, Hotels"
-    },
-    "descriptions": [
-     "A 20 ft container delivered to your door: tables, chairs, umbrellas and heaters go in.",
-     "Keep the container on site or send it to our heated Boucherville warehouse until spring.",
-     "$289.75/mo on a 6-month heated plan, transport $300 per movement. Quote in 60 seconds.",
-     "Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline."
-    ],
-    "path1": "patio",
-    "path2": "storage",
-    "final_urls": [
-     "https://www.mobilcube.com/en/use-cases/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 3.2
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "patio furniture storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "patio furniture storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "patio furniture storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "restaurant terrace storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "restaurant patio furniture storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "hotel patio storage winter",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "store patio heaters winter",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "restaurant patio storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "restaurant patio storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "terrace furniture winter storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "terrace furniture winter storage",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "patio heater storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "patio heater storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "where to store patio furniture montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "where to store patio furniture montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Patio furniture",
+     "creative": {
+      "headlines": [
+       "Patio Packed Away in a Day",
+       "Restaurants, Bars, Hotels",
+       "Tables, Chairs, Heaters",
+       "Delivered Back in Spring",
+       "On Site or Heated Storage",
+       "Simple Business Invoicing",
+       "Seasonal Business Storage",
+       "Book Before the Deadline",
+       "Heated Warehouse, South Shore",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees"
+      ],
+      "descriptions": [
+       "A 20 ft container delivered to your door: tables, chairs, umbrellas and heaters go in.",
+       "Keep the container on site or send it to our heated Boucherville warehouse until spring.",
+       "$289.75/mo on a 6-month heated plan, transport $300 per movement. Quote in 60 seconds.",
+       "Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/use-cases/"
+      ],
+      "path1": "patio",
+      "path2": "storage"
+     }
+    }
+   ]
   },
   {
    "name": "Business seasonal",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 3.2,
-   "keywords": [
-    {
-     "text": "commercial seasonal storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "commercial seasonal storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "seasonal storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "seasonal storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "business storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "business storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "commercial storage container rental montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "commercial storage container rental montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "inventory storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "inventory storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "storage container for business",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "jobsite storage container rental montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "jobsite storage container rental montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "landscaping equipment winter storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "condo storage container rental",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "film production storage container montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "office renovation storage container",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    }
-   ],
-   "ad": {
-    "name": "RSA | Business seasonal",
-    "headlines": [
-     "Patio Packed Away in a Day",
-     "Restaurants, Bars, Hotels",
-     "Tables, Chairs, Heaters",
-     "Delivered Back in Spring",
-     "On Site or Heated Storage",
-     "Simple Business Invoicing",
-     "Seasonal Business Storage",
-     "Book Before the Deadline",
-     "Heated Warehouse, South Shore",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Patio Packed Away in a Day",
-     "HEADLINE_2": "Restaurants, Bars, Hotels"
-    },
-    "descriptions": [
-     "A 20 ft container delivered to your door: tables, chairs, umbrellas and heaters go in.",
-     "Keep the container on site or send it to our heated Boucherville warehouse until spring.",
-     "$289.75/mo on a 6-month heated plan, transport $300 per movement. Quote in 60 seconds.",
-     "Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline."
-    ],
-    "path1": "patio",
-    "path2": "storage",
-    "final_urls": [
-     "https://www.mobilcube.com/en/use-cases/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 3.2
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "commercial seasonal storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "commercial seasonal storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "seasonal storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "seasonal storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "business storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "business storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "commercial storage container rental montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "commercial storage container rental montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "inventory storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "inventory storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "storage container for business",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "jobsite storage container rental montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "jobsite storage container rental montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "landscaping equipment winter storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "condo storage container rental",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "film production storage container montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "office renovation storage container",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Business seasonal",
+     "creative": {
+      "headlines": [
+       "Patio Packed Away in a Day",
+       "Restaurants, Bars, Hotels",
+       "Tables, Chairs, Heaters",
+       "Delivered Back in Spring",
+       "On Site or Heated Storage",
+       "Simple Business Invoicing",
+       "Seasonal Business Storage",
+       "Book Before the Deadline",
+       "Heated Warehouse, South Shore",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees"
+      ],
+      "descriptions": [
+       "A 20 ft container delivered to your door: tables, chairs, umbrellas and heaters go in.",
+       "Keep the container on site or send it to our heated Boucherville warehouse until spring.",
+       "$289.75/mo on a 6-month heated plan, transport $300 per movement. Quote in 60 seconds.",
+       "Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/use-cases/"
+      ],
+      "path1": "patio",
+      "path2": "storage"
+     }
+    }
+   ]
   }
- ]
+ ],
+ "after_create": {
+  "ad_schedule": [
+   {
+    "day_of_week": "MONDAY",
+    "start_hour": 7,
+    "end_hour": 19
+   },
+   {
+    "day_of_week": "TUESDAY",
+    "start_hour": 7,
+    "end_hour": 19
+   },
+   {
+    "day_of_week": "WEDNESDAY",
+    "start_hour": 7,
+    "end_hour": 19
+   },
+   {
+    "day_of_week": "THURSDAY",
+    "start_hour": 7,
+    "end_hour": 19
+   },
+   {
+    "day_of_week": "FRIDAY",
+    "start_hour": 7,
+    "end_hour": 19
+   }
+  ],
+  "keep_paused": []
+ }
 }

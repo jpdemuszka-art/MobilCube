@@ -1,20 +1,18 @@
 {
- "campaign": {
-  "name": "EN | Search | Winter vehicle",
-  "budget_amount": 12.0,
-  "budget_type": "DAILY",
-  "bidding_strategy": "MANUAL_CPC",
-  "platform_settings": {
-   "campaign_type": "SEARCH",
-   "geo_target_type": "PRESENCE",
-   "network_settings": {
-    "search": true,
-    "display": false
-   }
-  },
-  "contains_eu_political_ads": false,
-  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ "name": "EN | Search | Winter vehicle",
+ "budget_amount": 12.0,
+ "budget_type": "DAILY",
+ "bidding_strategy": "MANUAL_CPC",
+ "platform_settings": {
+  "campaign_type": "SEARCH",
+  "geo_target_type": "PRESENCE",
+  "network_settings": {
+   "search": true,
+   "display": false
+  }
  },
+ "contains_eu_political_ads": false,
+ "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}",
  "targeting": {
   "location_details": [
    {
@@ -627,43 +625,6 @@
    }
   ]
  },
- "ad_schedule": [
-  {
-   "day_of_week": "MONDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "TUESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "WEDNESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "THURSDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "FRIDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SATURDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SUNDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  }
- ],
  "extensions": {
   "sitelinks": [
    {
@@ -713,486 +674,551 @@
     ]
    }
   ],
-  "call": {
-   "phone_number": "+14506416498",
-   "country_code": "CA"
-  }
+  "calls": [
+   {
+    "phone_number": "+14506416498",
+    "country_code": "CA"
+   }
+  ]
  },
  "ad_groups": [
   {
    "name": "Winter car storage",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 3.2,
-   "keywords": [
-    {
-     "text": "winter car storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "winter car storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "winter car storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "car storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "car storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "classic car storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "classic car storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "car storage west island",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "car storage west island",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "vehicle storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "vehicle storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "winter vehicle storage near me",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "winter storage for car near me",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "where to store car for winter montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.6
-    },
-    {
-     "text": "car storage cost per month montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "winter car storage west island",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "winter car storage west island",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "winter car storage south shore",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "winter car storage south shore",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "car storage container montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "car storage container montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "where to store car for winter montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "winter car storage near me",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "winter car storage near me",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "car storage south shore montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "car storage south shore montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    }
-   ],
-   "ad": {
-    "name": "RSA | Winter car storage",
-    "headlines": [
-     "$270/mo on a 6-Month Plan",
-     "Your Car Safe All Winter",
-     "Winter Car Storage at Home",
-     "No Salt, No Snow, No Ice",
-     "Motorcycle, ATV, Snowmobile",
-     "Steel Vault on Your Driveway",
-     "Or in Our Heated Warehouse",
-     "24/7 Access in Your Driveway",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "$270/mo on a 6-Month Plan",
-     "HEADLINE_2": "Your Car Safe All Winter"
-    },
-    "descriptions": [
-     "A 20 ft steel container delivered to your driveway: your car spends the winter inside.",
-     "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
-     "Motorcycle, ATV, snowmobile, jet ski or car: load at ground level, 24/7 access at home.",
-     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
-    ],
-    "path1": "storage",
-    "path2": "winter",
-    "final_urls": [
-     "https://www.mobilcube.com/en/pricing/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 3.2
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "winter car storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "winter car storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "winter car storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "car storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "car storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "classic car storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "classic car storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "car storage west island",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "car storage west island",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "vehicle storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "vehicle storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "winter vehicle storage near me",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "winter storage for car near me",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "where to store car for winter montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.6
+     },
+     {
+      "text": "car storage cost per month montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "winter car storage west island",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "winter car storage west island",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "winter car storage south shore",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "winter car storage south shore",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "car storage container montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "car storage container montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "where to store car for winter montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "winter car storage near me",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "winter car storage near me",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "car storage south shore montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "car storage south shore montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Winter car storage",
+     "creative": {
+      "headlines": [
+       "$270/mo on a 6-Month Plan",
+       "Your Car Safe All Winter",
+       "Winter Car Storage at Home",
+       "No Salt, No Snow, No Ice",
+       "Motorcycle, ATV, Snowmobile",
+       "Steel Vault on Your Driveway",
+       "Or in Our Heated Warehouse",
+       "24/7 Access in Your Driveway",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees",
+       "Call Us, We Answer"
+      ],
+      "descriptions": [
+       "A 20 ft steel container delivered to your driveway: your car spends the winter inside.",
+       "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+       "Motorcycle, ATV, snowmobile, jet ski or car: load at ground level, 24/7 access at home.",
+       "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/pricing/"
+      ],
+      "path1": "storage",
+      "path2": "winter"
+     }
+    }
+   ]
   },
   {
    "name": "Heated car storage",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 3.2,
-   "keywords": [
-    {
-     "text": "indoor car storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "indoor car storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "heated car storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "heated car storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "heated car storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "heated car storage",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "indoor winter car storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "indoor winter car storage",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "heated winter car storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "heated winter car storage",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "heated motorcycle storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.2
-    },
-    {
-     "text": "heated motorcycle storage",
-     "match_type": "EXACT",
-     "cpc_bid": 3.2
-    }
-   ],
-   "ad": {
-    "name": "RSA | Heated car storage",
-    "headlines": [
-     "Heated Car Storage",
-     "$289.75/mo on 6 Months",
-     "Heated Warehouse, South Shore",
-     "Your Car in Its Own Container",
-     "No Transport Fee to Pay",
-     "Motorcycle, ATV, Snowmobile",
-     "No Salt, No Snow, No Ice",
-     "Locked, Just for You",
-     "Access by Appointment",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Heated Car Storage",
-     "HEADLINE_2": "$289.75/mo on 6 Months"
-    },
-    "descriptions": [
-     "Drop your car off in Boucherville: it spends winter in its own heated, locked container.",
-     "$289.75/mo on a 6-month plan, no transport fee when you drive it in. Quote in 60 s.",
-     "A locked steel container just for you. Cars, motorcycles, ATVs and snowmobiles welcome.",
-     "Based in Boucherville, off Highways 20 and 30. Call us, we answer."
-    ],
-    "path1": "car",
-    "path2": "heated",
-    "final_urls": [
-     "https://www.mobilcube.com/en/pricing/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 3.2
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "indoor car storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "indoor car storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "heated car storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "heated car storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "heated car storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "heated car storage",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "indoor winter car storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "indoor winter car storage",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "heated winter car storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "heated winter car storage",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "heated motorcycle storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.2
+     },
+     {
+      "text": "heated motorcycle storage",
+      "match_type": "EXACT",
+      "cpc_bid": 3.2
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Heated car storage",
+     "creative": {
+      "headlines": [
+       "Heated Car Storage",
+       "$289.75/mo on 6 Months",
+       "Heated Warehouse, South Shore",
+       "Your Car in Its Own Container",
+       "No Transport Fee to Pay",
+       "Motorcycle, ATV, Snowmobile",
+       "No Salt, No Snow, No Ice",
+       "Locked, Just for You",
+       "Access by Appointment",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees",
+       "Call Us, We Answer"
+      ],
+      "descriptions": [
+       "Drop your car off in Boucherville: it spends winter in its own heated, locked container.",
+       "$289.75/mo on a 6-month plan, no transport fee when you drive it in. Quote in 60 s.",
+       "A locked steel container just for you. Cars, motorcycles, ATVs and snowmobiles welcome.",
+       "Based in Boucherville, off Highways 20 and 30. Call us, we answer."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/pricing/"
+      ],
+      "path1": "car",
+      "path2": "heated"
+     }
+    }
+   ]
   },
   {
    "name": "Motorcycle & ATV",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 2.0,
-   "keywords": [
-    {
-     "text": "motorcycle winter storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "motorcycle winter storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "motorcycle storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "motorcycle storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "atv storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "atv storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "snowmobile storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.5
-    },
-    {
-     "text": "snowmobile storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.5
-    }
-   ],
-   "ad": {
-    "name": "RSA | Motorcycle & ATV",
-    "headlines": [
-     "Motorcycle, ATV, Snowmobile",
-     "$270/mo on a 6-Month Plan",
-     "Winter Storage at Home",
-     "No Salt, No Snow, No Ice",
-     "Steel Vault on Your Driveway",
-     "Two ATVs and the Trailer Fit",
-     "24/7 Access in Your Driveway",
-     "Free Up Your Garage",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Motorcycle, ATV, Snowmobile",
-     "HEADLINE_2": "$270/mo on a 6-Month Plan"
-    },
-    "descriptions": [
-     "Motorcycle, ATV, snowmobile, jet ski: 20 ft steel container delivered to you for winter.",
-     "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
-     "1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace.",
-     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
-    ],
-    "path1": "storage",
-    "path2": "atv-moto",
-    "final_urls": [
-     "https://www.mobilcube.com/en/pricing/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.0
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "motorcycle winter storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "motorcycle winter storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "motorcycle storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "motorcycle storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "atv storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "atv storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "snowmobile storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.5
+     },
+     {
+      "text": "snowmobile storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.5
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Motorcycle & ATV",
+     "creative": {
+      "headlines": [
+       "Motorcycle, ATV, Snowmobile",
+       "$270/mo on a 6-Month Plan",
+       "Winter Storage at Home",
+       "No Salt, No Snow, No Ice",
+       "Steel Vault on Your Driveway",
+       "Two ATVs and the Trailer Fit",
+       "24/7 Access in Your Driveway",
+       "Free Up Your Garage",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees",
+       "Call Us, We Answer"
+      ],
+      "descriptions": [
+       "Motorcycle, ATV, snowmobile, jet ski: 20 ft steel container delivered to you for winter.",
+       "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+       "1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace.",
+       "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/pricing/"
+      ],
+      "path1": "storage",
+      "path2": "atv-moto"
+     }
+    }
+   ]
   },
   {
    "name": "Boat (test, paused)",
-   "status_after_create": "PAUSED",
-   "cpc_bid": 3.2,
-   "keywords": [
-    {
-     "text": "boat storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "boat storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "winter boat storage",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "boat storage west island",
-     "match_type": "PHRASE",
-     "cpc_bid": 4.0
-    },
-    {
-     "text": "boat storage west island",
-     "match_type": "EXACT",
-     "cpc_bid": 4.0
-    }
-   ],
-   "ad": {
-    "name": "RSA | Boat (test, paused)",
-    "headlines": [
-     "Motorcycle, ATV, Snowmobile",
-     "$270/mo on a 6-Month Plan",
-     "Winter Storage at Home",
-     "No Salt, No Snow, No Ice",
-     "Steel Vault on Your Driveway",
-     "Two ATVs and the Trailer Fit",
-     "24/7 Access in Your Driveway",
-     "Free Up Your Garage",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Motorcycle, ATV, Snowmobile",
-     "HEADLINE_2": "$270/mo on a 6-Month Plan"
-    },
-    "descriptions": [
-     "Motorcycle, ATV, snowmobile, jet ski: 20 ft steel container delivered to you for winter.",
-     "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
-     "1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace.",
-     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
-    ],
-    "path1": "storage",
-    "path2": "atv-moto",
-    "final_urls": [
-     "https://www.mobilcube.com/en/pricing/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 3.2
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "boat storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "boat storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "winter boat storage",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "boat storage west island",
+      "match_type": "PHRASE",
+      "cpc_bid": 4.0
+     },
+     {
+      "text": "boat storage west island",
+      "match_type": "EXACT",
+      "cpc_bid": 4.0
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Boat (test, paused)",
+     "creative": {
+      "headlines": [
+       "Motorcycle, ATV, Snowmobile",
+       "$270/mo on a 6-Month Plan",
+       "Winter Storage at Home",
+       "No Salt, No Snow, No Ice",
+       "Steel Vault on Your Driveway",
+       "Two ATVs and the Trailer Fit",
+       "24/7 Access in Your Driveway",
+       "Free Up Your Garage",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees",
+       "Call Us, We Answer"
+      ],
+      "descriptions": [
+       "Motorcycle, ATV, snowmobile, jet ski: 20 ft steel container delivered to you for winter.",
+       "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+       "1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace.",
+       "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/pricing/"
+      ],
+      "path1": "storage",
+      "path2": "atv-moto"
+     }
+    }
+   ]
   },
   {
    "name": "Boat & PWC",
-   "status_after_create": "PAUSED",
-   "cpc_bid": 3.2,
-   "keywords": [
-    {
-     "text": "jet ski storage montreal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.38
-    },
-    {
-     "text": "jet ski storage montreal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.38
-    }
-   ],
-   "ad": {
-    "name": "RSA | Boat & PWC",
-    "headlines": [
-     "Motorcycle, ATV, Snowmobile",
-     "$270/mo on a 6-Month Plan",
-     "Winter Storage at Home",
-     "No Salt, No Snow, No Ice",
-     "Steel Vault on Your Driveway",
-     "Two ATVs and the Trailer Fit",
-     "24/7 Access in Your Driveway",
-     "Free Up Your Garage",
-     "Prices Published, No Surprises",
-     "Get a Quote in 60 Seconds",
-     "Delivery $300, 15 km Included",
-     "MobilCube | Mobile Storage",
-     "Montreal, West Island, Laval",
-     "No Monthly Admin Fees",
-     "Call Us, We Answer"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Motorcycle, ATV, Snowmobile",
-     "HEADLINE_2": "$270/mo on a 6-Month Plan"
-    },
-    "descriptions": [
-     "Motorcycle, ATV, snowmobile, jet ski: 20 ft steel container delivered to you for winter.",
-     "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
-     "1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace.",
-     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
-    ],
-    "path1": "storage",
-    "path2": "atv-moto",
-    "final_urls": [
-     "https://www.mobilcube.com/en/pricing/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 3.2
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "jet ski storage montreal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.38
+     },
+     {
+      "text": "jet ski storage montreal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.38
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Boat & PWC",
+     "creative": {
+      "headlines": [
+       "Motorcycle, ATV, Snowmobile",
+       "$270/mo on a 6-Month Plan",
+       "Winter Storage at Home",
+       "No Salt, No Snow, No Ice",
+       "Steel Vault on Your Driveway",
+       "Two ATVs and the Trailer Fit",
+       "24/7 Access in Your Driveway",
+       "Free Up Your Garage",
+       "Prices Published, No Surprises",
+       "Get a Quote in 60 Seconds",
+       "Delivery $300, 15 km Included",
+       "MobilCube | Mobile Storage",
+       "Montreal, West Island, Laval",
+       "No Monthly Admin Fees",
+       "Call Us, We Answer"
+      ],
+      "descriptions": [
+       "Motorcycle, ATV, snowmobile, jet ski: 20 ft steel container delivered to you for winter.",
+       "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+       "1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace.",
+       "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/en/pricing/"
+      ],
+      "path1": "storage",
+      "path2": "atv-moto"
+     }
+    }
+   ]
   }
- ]
+ ],
+ "after_create": {
+  "ad_schedule": [
+   {
+    "day_of_week": "MONDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "TUESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "WEDNESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "THURSDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "FRIDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SATURDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SUNDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   }
+  ],
+  "keep_paused": [
+   "Boat (test, paused)",
+   "Boat & PWC"
+  ]
+ }
 }

@@ -204,7 +204,7 @@ Path: /entreposage/commercial
 **Pinned 2:** Un seul conteneur, 160 pi²
 
 Headlines:
-- Le contenu d'un 5 ½ entier (26)
+- Assez grand pour un 5 et demi (29)
 - Chargez à votre rythme (22)
 - Chez vous ou à notre entrepôt (29)
 - Dès 180 $/mois (24 mois) (24)
@@ -236,7 +236,7 @@ Headlines:
 - Chargez à votre rythme (22)
 - Chez vous ou à notre entrepôt (29)
 - Zéro double manutention (23)
-- Le contenu d'un 5 ½ entier (26)
+- Assez grand pour un 5 et demi (29)
 - Dès 180 $/mois (24 mois) (24)
 - Prix affichés, zéro surprise (28)
 - Soumission en 60 secondes (25)

@@ -1,20 +1,18 @@
 {
- "campaign": {
-  "name": "FR | Search | Entreposage mobile",
-  "budget_amount": 50.0,
-  "budget_type": "DAILY",
-  "bidding_strategy": "MANUAL_CPC",
-  "platform_settings": {
-   "campaign_type": "SEARCH",
-   "geo_target_type": "PRESENCE",
-   "network_settings": {
-    "search": true,
-    "display": false
-   }
-  },
-  "contains_eu_political_ads": false,
-  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ "name": "FR | Search | Entreposage mobile",
+ "budget_amount": 50.0,
+ "budget_type": "DAILY",
+ "bidding_strategy": "MANUAL_CPC",
+ "platform_settings": {
+  "campaign_type": "SEARCH",
+  "geo_target_type": "PRESENCE",
+  "network_settings": {
+   "search": true,
+   "display": false
+  }
  },
+ "contains_eu_political_ads": false,
+ "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}",
  "targeting": {
   "location_details": [
    {
@@ -895,43 +893,6 @@
    }
   ]
  },
- "ad_schedule": [
-  {
-   "day_of_week": "MONDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "TUESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "WEDNESDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "THURSDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "FRIDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SATURDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  },
-  {
-   "day_of_week": "SUNDAY",
-   "start_hour": 6,
-   "end_hour": 23
-  }
- ],
  "extensions": {
   "sitelinks": [
    {
@@ -981,1118 +942,1186 @@
     ]
    }
   ],
-  "call": {
-   "phone_number": "+14506416498",
-   "country_code": "CA"
-  }
+  "calls": [
+   {
+    "phone_number": "+14506416498",
+    "country_code": "CA"
+   }
+  ]
  },
  "ad_groups": [
   {
    "name": "Entreposage mobile",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 2.8,
-   "keywords": [
-    {
-     "text": "entreposage mobile",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage mobile",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage mobile montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entrepôt mobile",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entrepôt mobile",
-     "match_type": "EXACT",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entrepot mobile",
-     "match_type": "EXACT",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "location entrepôt mobile",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "mini entrepôt mobile",
-     "match_type": "EXACT",
-     "cpc_bid": 2.93
-    },
-    {
-     "text": "entreposage livré à domicile",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage à domicile",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage près de moi",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage près de chez moi",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "service d'entreposage montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "location d'entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "espace d'entreposage à louer",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "mini entrepôt montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage sécurisé chauffé",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.93
-    },
-    {
-     "text": "entreposage mobile laval",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage mobile rive-sud",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "conteneur entreposage laval",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "conteneur entreposage rive-sud",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage mobile prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage mobile prix",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage mobile rive-sud",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage mobile longueuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage mobile longueuil",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage mobile boucherville",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage mobile boucherville",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "location entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "location entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "prix entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "prix entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "prix pour entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "prix pour entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "espace entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "espace entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "cube entreposage prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "cube entreposage prix",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    }
-   ],
-   "ad": {
-    "name": "RSA | Entreposage mobile",
-    "headlines": [
-     "Entreposage mobile Rive-Sud",
-     "Un seul conteneur, 160 pi²",
-     "Le contenu d'un 5 ½ entier",
-     "Chargez à votre rythme",
-     "Chez vous ou à notre entrepôt",
-     "Dès 180 $/mois (24 mois)",
-     "Entrepôt chauffé, Boucherville",
-     "Accès 24/7 dans votre entrée",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Entreposage mobile Rive-Sud",
-     "HEADLINE_2": "Un seul conteneur, 160 pi²"
-    },
-    "descriptions": [
-     "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
-     "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-     "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "mobile",
-    "path2": "rive-sud",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.8
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage mobile",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage mobile montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entrepôt mobile",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entrepôt mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entrepot mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "location entrepôt mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "mini entrepôt mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.93
+     },
+     {
+      "text": "entreposage livré à domicile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage à domicile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage près de moi",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage près de chez moi",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "service d'entreposage montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "location d'entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "espace d'entreposage à louer",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "mini entrepôt montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage sécurisé chauffé",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.93
+     },
+     {
+      "text": "entreposage mobile laval",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage mobile rive-sud",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "conteneur entreposage laval",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "conteneur entreposage rive-sud",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage mobile prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage mobile prix",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage mobile rive-sud",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage mobile longueuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage mobile longueuil",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage mobile boucherville",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage mobile boucherville",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "prix entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "prix entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "prix pour entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "prix pour entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "espace entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "espace entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "cube entreposage prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "cube entreposage prix",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Entreposage mobile",
+     "creative": {
+      "headlines": [
+       "Entreposage mobile Rive-Sud",
+       "Un seul conteneur, 160 pi²",
+       "Assez grand pour un 5 et demi",
+       "Chargez à votre rythme",
+       "Chez vous ou à notre entrepôt",
+       "Dès 180 $/mois (24 mois)",
+       "Entrepôt chauffé, Boucherville",
+       "Accès 24/7 dans votre entrée",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
+       "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
+       "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "mobile",
+      "path2": "rive-sud"
+     }
+    }
+   ]
   },
   {
    "name": "Conteneur d'entreposage",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 2.8,
-   "keywords": [
-    {
-     "text": "conteneur d'entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "location conteneur entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "location conteneur entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "location de conteneur d'entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "conteneur entreposage montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "conteneur d'entreposage livré",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.93
-    },
-    {
-     "text": "conteneur de rangement extérieur location",
-     "match_type": "EXACT",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "conteneur d'entreposage à louer",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur d'entreposage à louer",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur entreposage à louer",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur entreposage à louer",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur entreposage mobile",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur entreposage mobile",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur d'entreposage mobile",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur d'entreposage mobile",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "location conteneur d'entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "location conteneur d'entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "location conteneur 20 pieds",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "location conteneur 20 pieds",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur 20 pieds à louer",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur 20 pieds à louer",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "location conteneur maritime 20 pieds",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "location conteneur maritime 20 pieds",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur à louer pour entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur à louer pour entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "louer un conteneur prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "louer un conteneur prix",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "location container prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "location container prix",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur déménagement",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur déménagement",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur déménagement prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "conteneur déménagement prix",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entrepot mobile",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entrepot mobile",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    }
-   ],
-   "ad": {
-    "name": "RSA | Conteneur d'entreposage",
-    "headlines": [
-     "Entreposage mobile Rive-Sud",
-     "Un seul conteneur, 160 pi²",
-     "Le contenu d'un 5 ½ entier",
-     "Chargez à votre rythme",
-     "Chez vous ou à notre entrepôt",
-     "Dès 180 $/mois (24 mois)",
-     "Entrepôt chauffé, Boucherville",
-     "Accès 24/7 dans votre entrée",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Entreposage mobile Rive-Sud",
-     "HEADLINE_2": "Un seul conteneur, 160 pi²"
-    },
-    "descriptions": [
-     "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
-     "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-     "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "mobile",
-    "path2": "rive-sud",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.8
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "conteneur d'entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "location conteneur entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "location conteneur entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "location de conteneur d'entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "conteneur entreposage montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "conteneur d'entreposage livré",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.93
+     },
+     {
+      "text": "conteneur de rangement extérieur location",
+      "match_type": "EXACT",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "conteneur d'entreposage à louer",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur d'entreposage à louer",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur entreposage à louer",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur entreposage à louer",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur entreposage mobile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur entreposage mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur d'entreposage mobile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur d'entreposage mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location conteneur d'entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location conteneur d'entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location conteneur 20 pieds",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location conteneur 20 pieds",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur 20 pieds à louer",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur 20 pieds à louer",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location conteneur maritime 20 pieds",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location conteneur maritime 20 pieds",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur à louer pour entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur à louer pour entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "louer un conteneur prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "louer un conteneur prix",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location container prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location container prix",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur déménagement",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur déménagement",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur déménagement prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "conteneur déménagement prix",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entrepot mobile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entrepot mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Conteneur d'entreposage",
+     "creative": {
+      "headlines": [
+       "Entreposage mobile Rive-Sud",
+       "Un seul conteneur, 160 pi²",
+       "Assez grand pour un 5 et demi",
+       "Chargez à votre rythme",
+       "Chez vous ou à notre entrepôt",
+       "Dès 180 $/mois (24 mois)",
+       "Entrepôt chauffé, Boucherville",
+       "Accès 24/7 dans votre entrée",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
+       "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
+       "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "mobile",
+      "path2": "rive-sud"
+     }
+    }
+   ]
   },
   {
    "name": "Cube d'entreposage",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 2.8,
-   "keywords": [
-    {
-     "text": "cube d'entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "cube d'entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "cube entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "location cube entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "cube de rangement mobile",
-     "match_type": "EXACT",
-     "cpc_bid": 2.02
-    },
-    {
-     "text": "location cube entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "cube entreposage mobile",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "cube entreposage mobile",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "cube entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    }
-   ],
-   "ad": {
-    "name": "RSA | Cube d'entreposage",
-    "headlines": [
-     "Entreposage mobile Rive-Sud",
-     "Un seul conteneur, 160 pi²",
-     "Le contenu d'un 5 ½ entier",
-     "Chargez à votre rythme",
-     "Chez vous ou à notre entrepôt",
-     "Dès 180 $/mois (24 mois)",
-     "Entrepôt chauffé, Boucherville",
-     "Accès 24/7 dans votre entrée",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Entreposage mobile Rive-Sud",
-     "HEADLINE_2": "Un seul conteneur, 160 pi²"
-    },
-    "descriptions": [
-     "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
-     "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-     "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "mobile",
-    "path2": "rive-sud",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.8
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "cube d'entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "cube d'entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "cube entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "location cube entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "cube de rangement mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.02
+     },
+     {
+      "text": "location cube entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "cube entreposage mobile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "cube entreposage mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "cube entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Cube d'entreposage",
+     "creative": {
+      "headlines": [
+       "Entreposage mobile Rive-Sud",
+       "Un seul conteneur, 160 pi²",
+       "Assez grand pour un 5 et demi",
+       "Chargez à votre rythme",
+       "Chez vous ou à notre entrepôt",
+       "Dès 180 $/mois (24 mois)",
+       "Entrepôt chauffé, Boucherville",
+       "Accès 24/7 dans votre entrée",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
+       "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
+       "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "mobile",
+      "path2": "rive-sud"
+     }
+    }
+   ]
   },
   {
    "name": "Déménagement & rénovation",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 2.8,
-   "keywords": [
-    {
-     "text": "déménagement et entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage déménagement montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "conteneur déménagement",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "conteneur de déménagement montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage pendant rénovation",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage meubles rénovation",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage temporaire",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entreposage temporaire montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage court terme",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.93
-    },
-    {
-     "text": "entreposage meubles montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage entre deux déménagements",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage sinistre dégât d'eau",
-     "match_type": "EXACT",
-     "cpc_bid": 2.48
-    },
-    {
-     "text": "entreposage meuble prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage meuble prix",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage meubles",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage meubles",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage meubles montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage déménagement",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage déménagement",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage pendant rénovation",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage meubles rénovation",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage meubles longueuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage meubles longueuil",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "déménagement et entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "déménagement entreposage",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "déménagement entreposage",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    }
-   ],
-   "ad": {
-    "name": "RSA | Déménagement & rénovation",
-    "headlines": [
-     "Déménagez sans camion",
-     "Un seul conteneur, 160 pi²",
-     "Rénovation : meubles à l'abri",
-     "Chargez à votre rythme",
-     "Chez vous ou à notre entrepôt",
-     "Zéro double manutention",
-     "Le contenu d'un 5 ½ entier",
-     "Dès 180 $/mois (24 mois)",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Déménagez sans camion",
-     "HEADLINE_2": "Un seul conteneur, 160 pi²"
-    },
-    "descriptions": [
-     "On livre le conteneur, vous chargez à votre rythme, on le déplace à la nouvelle adresse.",
-     "350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus.",
-     "Rénovation ? Vos meubles restent chez vous, à l'abri de la poussière, accessibles 24/7.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "demenagement",
-    "path2": "conteneur",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.8
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "déménagement et entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage déménagement montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "conteneur déménagement",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "conteneur de déménagement montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage pendant rénovation",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage meubles rénovation",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage temporaire",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entreposage temporaire montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage court terme",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.93
+     },
+     {
+      "text": "entreposage meubles montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage entre deux déménagements",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage sinistre dégât d'eau",
+      "match_type": "EXACT",
+      "cpc_bid": 2.48
+     },
+     {
+      "text": "entreposage meuble prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage meuble prix",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage meubles",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage meubles",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage meubles montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage déménagement",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage déménagement",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage pendant rénovation",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage meubles rénovation",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage meubles longueuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage meubles longueuil",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "déménagement et entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "déménagement entreposage",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "déménagement entreposage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Déménagement & rénovation",
+     "creative": {
+      "headlines": [
+       "Déménagez sans camion",
+       "Un seul conteneur, 160 pi²",
+       "Rénovation : meubles à l'abri",
+       "Chargez à votre rythme",
+       "Chez vous ou à notre entrepôt",
+       "Zéro double manutention",
+       "Assez grand pour un 5 et demi",
+       "Dès 180 $/mois (24 mois)",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "On livre le conteneur, vous chargez à votre rythme, on le déplace à la nouvelle adresse.",
+       "350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus.",
+       "Rénovation ? Vos meubles restent chez vous, à l'abri de la poussière, accessibles 24/7.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "demenagement",
+      "path2": "conteneur"
+     }
+    }
+   ]
   },
   {
    "name": "Géo Montréal, Laval, couronnes (pausé)",
-   "status_after_create": "PAUSED",
-   "cpc_bid": 2.8,
-   "keywords": [
-    {
-     "text": "entreposage laval",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage rive-nord",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entreposage terrebonne",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entreposage repentigny",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entreposage châteauguay",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entreposage vaudreuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entreposage west island",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage pointe-claire",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage dollard-des-ormeaux",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage kirkland",
-     "match_type": "EXACT",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage laurentides",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.7
-    },
-    {
-     "text": "entreposage saint-jérôme",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.93
-    },
-    {
-     "text": "entreposage blainville",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entreposage mascouche",
-     "match_type": "EXACT",
-     "cpc_bid": 2.93
-    },
-    {
-     "text": "entreposage mirabel",
-     "match_type": "EXACT",
-     "cpc_bid": 2.7
-    }
-   ],
-   "ad": {
-    "name": "RSA | Géo Montréal, Laval, couronnes (pausé)",
-    "headlines": [
-     "Entreposage mobile Rive-Sud",
-     "Un seul conteneur, 160 pi²",
-     "Le contenu d'un 5 ½ entier",
-     "Chargez à votre rythme",
-     "Chez vous ou à notre entrepôt",
-     "Dès 180 $/mois (24 mois)",
-     "Entrepôt chauffé, Boucherville",
-     "Accès 24/7 dans votre entrée",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Entreposage mobile Rive-Sud",
-     "HEADLINE_2": "Un seul conteneur, 160 pi²"
-    },
-    "descriptions": [
-     "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
-     "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-     "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "mobile",
-    "path2": "rive-sud",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.8
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage laval",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage rive-nord",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entreposage terrebonne",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entreposage repentigny",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entreposage châteauguay",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entreposage vaudreuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entreposage west island",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage pointe-claire",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage dollard-des-ormeaux",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage kirkland",
+      "match_type": "EXACT",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage laurentides",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.7
+     },
+     {
+      "text": "entreposage saint-jérôme",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.93
+     },
+     {
+      "text": "entreposage blainville",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entreposage mascouche",
+      "match_type": "EXACT",
+      "cpc_bid": 2.93
+     },
+     {
+      "text": "entreposage mirabel",
+      "match_type": "EXACT",
+      "cpc_bid": 2.7
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Géo Montréal, Laval, couronnes (pausé)",
+     "creative": {
+      "headlines": [
+       "Entreposage mobile Rive-Sud",
+       "Un seul conteneur, 160 pi²",
+       "Assez grand pour un 5 et demi",
+       "Chargez à votre rythme",
+       "Chez vous ou à notre entrepôt",
+       "Dès 180 $/mois (24 mois)",
+       "Entrepôt chauffé, Boucherville",
+       "Accès 24/7 dans votre entrée",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
+       "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
+       "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "mobile",
+      "path2": "rive-sud"
+     }
+    }
+   ]
   },
   {
    "name": "Rive-Sud (géo)",
-   "status_after_create": "ENABLED",
-   "cpc_bid": 2.8,
-   "keywords": [
-    {
-     "text": "entreposage longueuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage brossard",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage rive-sud",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage boucherville",
-     "match_type": "PHRASE",
-     "cpc_bid": 3.5
-    },
-    {
-     "text": "entreposage sainte-julie",
-     "match_type": "EXACT",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entreposage saint-hubert",
-     "match_type": "EXACT",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entreposage candiac",
-     "match_type": "EXACT",
-     "cpc_bid": 3.15
-    },
-    {
-     "text": "entreposage boucherville",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage à boucherville",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage à boucherville",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "mini entreposage boucherville",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "mini entreposage boucherville",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage longueuil",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage longueuil prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage longueuil prix",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "mini entreposage longueuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "mini entreposage longueuil",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage rive sud",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage rive sud",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage rive sud prix",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage rive sud prix",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage rive sud de montréal",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage rive sud de montréal",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage brossard",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "mini entreposage brossard",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "mini entreposage brossard",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage saint-hubert",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage sainte-julie",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage varennes",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage varennes",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage chambly",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage chambly",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage saint-bruno",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage saint-bruno",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage saint-lambert",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage saint-lambert",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage la prairie",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage la prairie",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage candiac",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage beloeil",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage beloeil",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage st jean sur richelieu",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "entreposage st jean sur richelieu",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "mini entrepot st hubert",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "mini entrepot st hubert",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "mini entrepôt longueuil",
-     "match_type": "PHRASE",
-     "cpc_bid": 2.8
-    },
-    {
-     "text": "mini entrepôt longueuil",
-     "match_type": "EXACT",
-     "cpc_bid": 2.8
-    }
-   ],
-   "ad": {
-    "name": "RSA | Rive-Sud (géo)",
-    "headlines": [
-     "Entreposage mobile Rive-Sud",
-     "Un seul conteneur, 160 pi²",
-     "Le contenu d'un 5 ½ entier",
-     "Chargez à votre rythme",
-     "Chez vous ou à notre entrepôt",
-     "Dès 180 $/mois (24 mois)",
-     "Entrepôt chauffé, Boucherville",
-     "Accès 24/7 dans votre entrée",
-     "Prix affichés, zéro surprise",
-     "Soumission en 60 secondes",
-     "Livraison 300 $, 15 km inclus",
-     "MobilCube | Entreposage mobile",
-     "Rive-Sud, Montréal et Laval",
-     "Aucun frais d'administration",
-     "Appelez : réponse immédiate"
-    ],
-    "pinned": {
-     "HEADLINE_1": "Entreposage mobile Rive-Sud",
-     "HEADLINE_2": "Un seul conteneur, 160 pi²"
-    },
-    "descriptions": [
-     "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
-     "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-     "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
-     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
-    ],
-    "path1": "mobile",
-    "path2": "rive-sud",
-    "final_urls": [
-     "https://www.mobilcube.com/fr/prix-location/"
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.8
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "entreposage longueuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage brossard",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage rive-sud",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage boucherville",
+      "match_type": "PHRASE",
+      "cpc_bid": 3.5
+     },
+     {
+      "text": "entreposage sainte-julie",
+      "match_type": "EXACT",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entreposage saint-hubert",
+      "match_type": "EXACT",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entreposage candiac",
+      "match_type": "EXACT",
+      "cpc_bid": 3.15
+     },
+     {
+      "text": "entreposage boucherville",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage à boucherville",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage à boucherville",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage boucherville",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage boucherville",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage longueuil",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage longueuil prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage longueuil prix",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage longueuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage longueuil",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage rive sud",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage rive sud",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage rive sud prix",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage rive sud prix",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage rive sud de montréal",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage rive sud de montréal",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage brossard",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage brossard",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage brossard",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage saint-hubert",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage sainte-julie",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage varennes",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage varennes",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage chambly",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage chambly",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage saint-bruno",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage saint-bruno",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage saint-lambert",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage saint-lambert",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage la prairie",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage la prairie",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage candiac",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage beloeil",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage beloeil",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage st jean sur richelieu",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "entreposage st jean sur richelieu",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepot st hubert",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepot st hubert",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepôt longueuil",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepôt longueuil",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     }
     ]
-   }
+   },
+   "ads": [
+    {
+     "name": "RSA | Rive-Sud (géo)",
+     "creative": {
+      "headlines": [
+       "Entreposage mobile Rive-Sud",
+       "Un seul conteneur, 160 pi²",
+       "Assez grand pour un 5 et demi",
+       "Chargez à votre rythme",
+       "Chez vous ou à notre entrepôt",
+       "Dès 180 $/mois (24 mois)",
+       "Entrepôt chauffé, Boucherville",
+       "Accès 24/7 dans votre entrée",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Entreposage mobile",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
+       "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
+       "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "mobile",
+      "path2": "rive-sud"
+     }
+    }
+   ]
   }
- ]
+ ],
+ "after_create": {
+  "ad_schedule": [
+   {
+    "day_of_week": "MONDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "TUESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "WEDNESDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "THURSDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "FRIDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SATURDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   },
+   {
+    "day_of_week": "SUNDAY",
+    "start_hour": 6,
+    "end_hour": 23
+   }
+  ],
+  "keep_paused": [
+   "Géo Montréal, Laval, couronnes (pausé)"
+  ]
+ }
 }
