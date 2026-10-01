@@ -1,14 +1,16 @@
 # MobilCube Google Ads: what was done and what to expect
 
-Prepared October 1, 2026. This file sums up the whole project in one place: the competitor analysis, how the keywords were chosen, what is now in your Google Ads account, and the results you can expect. Details sit in the other files in `docs/`.
+Prepared October 1, 2026; updated the same day after the campaigns were rebuilt in the new account with mini-storage ads. This file sums up the whole project in one place: the competitor analysis, how the keywords were chosen, what is now in your Google Ads account, and the results you can expect. Details sit in the other files in `docs/`.
 
 ## 1. In one minute
 
-- **8 Search campaigns are built in your Google Ads account (Mobil Cube, 209-245-0839), all paused.** Together they hold 34 ad groups, 546 keywords and 34 ads, with sitelinks, callouts, a call button, schedules and negative keywords. Nothing spends until you turn a campaign on.
+- **8 Search campaigns are built in your new Google Ads account (MobilCube, 194-768-4780, info@mobilcube.com), all paused.** Together they hold 35 ad groups, 571 keywords and 35 ads, with sitelinks, callouts, a call button, schedules and negative keywords. Nothing spends until you turn a campaign on.
+- **The ads sell mobile mini-storage ("mini-entreposage mobile"), not containers.** Every ad says the unit is delivered to the customer's door. It then stays there with 24/7 access, or MobilCube stores it in its heated Boucherville warehouse, as PODS does.
 - **Total budget: 149 $ a day, about 4,530 $ a month.** That leaves about 470 $ of your 5,000 $ for weather and deadline boosts.
-- **The strategy:** fight where competitors are thin, not where they are strong. Nine companies already pay for "entreposage Montréal"-type searches. Almost nobody advertises South Shore mobile containers, cars stored at home or in a heated unit, or restaurant terraces. Those are your first targets.
+- **The strategy:** fight where competitors are thin, not where they are strong. Nine companies already pay for "entreposage Montréal"-type searches. Almost nobody advertises mobile mini-storage on the South Shore, cars stored at home or in a heated unit, or restaurant terraces. Those are your first targets.
+- **The first account (Mobil Cube, 209-245-0839) still holds the first 8 paused campaigns.** Remove them yourself (section 8): that account is no longer reachable from the current connection.
 - **Expected first month:** about 1,500–2,000 clicks, 45–100 leads (calls and quote forms) and 14–30 bookings, worth roughly 25,000–55,000 $ in first-season revenue. These are estimates; real numbers come after two weeks of spend.
-- **Before you turn anything on:** fix the three site problems in section 8. Without conversion tracking, Google cannot tell which keyword brings calls, and you cannot either.
+- **Before you turn anything on:** fix the first three items in section 8. Without conversion tracking, Google cannot tell which keyword brings calls, and you cannot either.
 
 ## 2. What MobilCube sells (checked on mobilcube.com)
 
@@ -20,6 +22,7 @@ Prepared October 1, 2026. This file sums up the whole project in one place: the 
 | Delivery | 300 $ per movement, 15 km included, then 2 $/km |
 | Vehicles | Accepted in the unit at the customer's home or inside the unit at the heated warehouse |
 | Deposit | 200 $, refunded |
+| How the ads describe it | A private mini-storage unit ("mini-entrepôt privé"), delivered, loaded at ground level, then kept at the customer's place or stored at the heated warehouse |
 
 ## 3. Competitor analysis
 
@@ -71,11 +74,11 @@ Cubeit, Depotium and Access belong to the same owner and share ad accounts. All 
 
 | Tier | What | Status | Why |
 |---|---|---|---|
-| 1 | Mobile containers ("entreposage mobile", "conteneur d'entreposage à louer", "location cube entreposage"), South Shore towns ("entreposage boucherville / longueuil / brossard / rive sud"), cars ("entreposage voiture hiver", "entreposage auto chauffé"), English equivalents, your brand | On, highest bids | High intent, few advertisers |
+| 1 | Mobile mini-storage ("mini entreposage mobile", "mini entrepôt livré", "mini entreposage à domicile", "mobile mini storage"), mobile storage and containers ("entreposage mobile", "conteneur d'entreposage à louer", "location cube entreposage"), South Shore towns ("entreposage boucherville / longueuil / brossard / rive sud"), cars ("entreposage voiture hiver", "entreposage auto chauffé"), English equivalents, your brand | On, highest bids | High intent, few advertisers |
 | 2 | Moving and renovation, motorcycles, ATVs and snowmobiles, terraces and commercial, competitor names ("pods montréal", "cubeit prix") | On, lower bids | Good intent but lower value, or high value but rare searches |
 | 3 | Generic city searches ("entreposage laval", "storage west island", "storage units near me"), boats and jet-skis | Built but paused | Nine chains bid there, or the offer does not fit |
 
-**Result:** 546 keywords; 471 are on and 75 sit in paused ad groups, ready to test.
+**Result:** 571 keywords; 496 are on and 75 sit in paused ad groups, ready to test. 25 mini-storage keywords were added for the new positioning: 17 French ones in their own ad group, "Mini-entreposage mobile", and 8 English ones in "Mobile storage". "Mobile mini storage" can also be a search for the competitor Mobile Mini, so check it in the first week's search terms.
 
 **Negative keywords (searches that will never show your ad):** 331 shared plus 118 per campaign. Examples:
 
@@ -93,17 +96,21 @@ A script checked that no negative blocks one of your own keywords.
 
 ## 5. What is in your Google Ads account now (all paused)
 
-| Campaign | Daily budget | Where it shows | When | Ad groups | Keywords |
-|---|---|---|---|---|---|
-| FR, Entreposage mobile | 50 $ | 45 km around Boucherville | Every day, 6:00–23:00 | 6 (1 paused) | 171 |
-| FR, Véhicules hiver | 45 $ | 45 km around Boucherville | Every day, 6:00–23:00 | 9 (2 paused: boats) | 128 |
-| FR, Terrasse commercial | 12 $ | Montréal, Longueuil, Laval, Brossard, Boucherville | Mon–Fri, 7:00–19:00 | 5 | 33 |
-| EN, Mobile storage | 15 $ | 45 km around Boucherville | Every day, 6:00–23:00 | 4 (2 paused) | 84 |
-| EN, Winter vehicle | 12 $ | 45 km around Boucherville | Every day, 6:00–23:00 | 5 (2 paused: boats) | 53 |
-| EN, Commercial patio | 4 $ | Same 5 cities as FR terrace | Mon–Fri, 7:00–19:00 | 2 | 32 |
-| FR+EN, Marque (your brand) | 3 $ | Province of Quebec | Every day, 6:00–23:00 | 1 | 18 |
-| FR+EN, Concurrents (competitor names) | 8 $ | 45 km around Boucherville | Every day, 6:00–23:00 | 2 | 27 |
-| **Total** | **149 $/day** | | | **34** | **546** |
+Account MobilCube, 194-768-4780. Each campaign was read back from Google after the upload and matches the files in `ads/api-specs/`: keywords, bids, negatives, ad text and assets.
+
+| Campaign | Campaign ID | Daily budget | Where it shows | When | Ad groups | Keywords |
+|---|---|---|---|---|---|---|
+| FR, Entreposage mobile | 24315225772 | 50 $ | 45 km around Boucherville | Every day, 6:00–23:00 | 7 (1 paused) | 188 |
+| FR, Véhicules hiver | 24304113837 | 45 $ | 45 km around Boucherville | Every day, 6:00–23:00 | 9 (2 paused: boats) | 128 |
+| FR, Terrasse commercial | 24315194773 | 12 $ | Montréal, Longueuil, Laval, Brossard, Boucherville | Mon–Fri, 7:00–19:00 | 5 | 33 |
+| EN, Mobile storage | 24304083066 | 15 $ | 45 km around Boucherville | Every day, 6:00–23:00 | 4 (2 paused) | 92 |
+| EN, Winter vehicle | 24304069128 | 12 $ | 45 km around Boucherville | Every day, 6:00–23:00 | 5 (2 paused: boats) | 53 |
+| EN, Commercial patio | 24315098317 | 4 $ | Same 5 cities as FR terrace | Mon–Fri, 7:00–19:00 | 2 | 32 |
+| FR+EN, Marque (your brand) | 24315068830 | 3 $ | Province of Quebec | Every day, 6:00–23:00 | 1 | 18 |
+| FR+EN, Concurrents (competitor names) | 24303994035 | 8 $ | 45 km around Boucherville | Every day, 6:00–23:00 | 2 | 27 |
+| **Total** | | **149 $/day** | | | **35** | **571** |
+
+The account also holds "MobilCube" (24303770370), the Smart campaign the setup wizard created. It is paused. Leave it paused or remove it: it would compete with the Search campaigns for the same searches.
 
 **Every campaign has:**
 
@@ -119,10 +126,12 @@ French campaigns carry French ads, English campaigns English ads.
 
 **Turning a campaign on:** in Google Ads, set the campaign to "Enabled". Its ad groups and ads are already on, except the paused tests (boats, generic city searches).
 
-**Two problems found and fixed during the upload:**
+**Problems found and fixed during the uploads:**
 
 - The French competitor ad group had English ads, because of a bug in the file generator. It now has French ads.
 - Google refused the French headline "Le contenu d'un 5 ½ entier". It was replaced by "Assez grand pour un 5 et demi".
+- In the new account Google also refused the English headline "Fits a Whole 5 ½ Apartment". It was replaced by "Room for a Whole Apartment". Avoid the "½" sign in future ads.
+- The first English headline, "Mobile Mini-Storage Montreal", became "Mini-Storage in Montreal", because Mobile Mini is a competitor's brand name.
 
 ## 6. Bids and budget: why you will not overspend
 
@@ -173,13 +182,14 @@ The break-even assumes 5 % of clicks become a lead and 30 % of leads book. Even 
 **Must fix (P0):**
 
 1. **Bot-check page.** The site sometimes shows a "One moment, please…" page to Google's ad checker and to visitors. Turn it off, or allow Google's crawlers, in your hosting panel. Otherwise ads can be refused for "destination not working".
-2. **Conversion tracking.** Your Tag Manager container is empty. Add the Google Ads tag (AW-18092496528) and the conversion linker. Then create the conversions:
+2. **Conversion tracking.** Your Tag Manager container is empty. Create the conversions in the new account first:
    - calls from ads, 45 s or longer;
    - calls from the website;
    - quote form sent.
 
-   Then remove the unused "Achat" conversion. The setup is in `tracking/README.md`.
+   Then add the new account's Google tag (AW-…, shown in Google Ads under Goals → Conversions → Google tag) and the conversion linker to Tag Manager. Do not use AW-18092496528: it belongs to the first account. The setup is in `tracking/README.md`.
 3. **One address.** The About page shows both 1215 rue Volta and 1250 rue Nobel. Use one everywhere, including Google Business Profile.
+4. **Clean up the first account (209-245-0839).** Remove its 8 paused campaigns, so that nobody turns on a copy by mistake. In that account, select all campaigns, then Edit → Remove. Paused campaigns cost nothing, so this can wait a few days.
 
 **Should fix (P1):**
 

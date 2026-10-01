@@ -2,14 +2,14 @@
 
 A complete, import-ready Google Ads program for MobilCube (mobile self-storage, Boucherville / Greater Montreal), built on a competitive analysis of the Montreal storage market done on 2026-09-26.
 
-**The 8 campaigns are built, paused, in the Mobil Cube Google Ads account (2092450839).** Everything done so far, and the results to expect, is in [`docs/09-summary-what-was-done.md`](docs/09-summary-what-was-done.md).
+**The 8 campaigns are built, paused, in the MobilCube Google Ads account (194-768-4780), with mini-storage ads.** Everything done so far, and the results to expect, is in [`docs/09-summary-what-was-done.md`](docs/09-summary-what-was-done.md).
 
 **Launching now? Read [`docs/08-launch-analysis-2026-09-30.md`](docs/08-launch-analysis-2026-09-30.md) first** (5,000 $/month plan, site blockers, competitor ad scan, verified keywords). Then [`docs/00-start-here.md`](docs/00-start-here.md). In the Google Ads campaign wizard, use [`docs/05-campaign-wizard-answers.md`](docs/05-campaign-wizard-answers.md).
 
 | Folder | What is inside |
 |---|---|
 | `docs/` | Competitive analysis with sources, the strategy, budget and forecast, seasonal calendar, wizard answers, Quebec compliance rules |
-| `ads/google-ads-editor/` | Nine CSVs to bulk-import 8 campaigns, 34 ad groups, 546 keywords (471 enabled), 34 responsive search ads, 331 shared negatives and all assets with Google Ads Editor |
+| `ads/google-ads-editor/` | Nine CSVs to bulk-import 8 campaigns, 35 ad groups, 571 keywords (496 enabled), 35 responsive search ads, 331 shared negatives and all assets with Google Ads Editor |
 | `ads/keywords/`, `ads/negatives/`, `ads/copy/` | Full keyword universe (FR + EN, with estimated volumes and CPCs), negative lists, the ad copy deck |
 | `ads/build_import.py` | Regenerates everything above and refuses copy that breaks Google's character limits |
 | `ads/api-specs/`, `ads/build_api_specs.py` | The same 8 campaigns as the payloads uploaded to the Google Ads account through the Supermetrics connector |

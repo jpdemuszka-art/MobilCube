@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Turn the Google Ads Editor CSVs into one API payload per campaign (ads/api-specs/*.json).
 
-These payloads create the campaigns, paused, in the Mobil Cube Google Ads account (2092450839)
+These payloads create the campaigns, paused, in the MobilCube Google Ads account (1947684780)
 through the Supermetrics connector (manage_campaign). Each file is the exact manage_campaign
 create payload (minus ds_id/account_id); "after_create" holds what needs a second, update call once
 ids exist: the ad schedule and which ad groups stay paused. Field names were checked against the API

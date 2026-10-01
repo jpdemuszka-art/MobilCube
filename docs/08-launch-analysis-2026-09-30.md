@@ -108,7 +108,7 @@ Search volumes still need Keyword Planner or a Semrush connector. What I could v
 - Out-of-area cities appear in every seed, so Québec, Lévis, Saguenay, Sherbrooke, Gatineau, Toronto and others are negatives.
 - Heated vehicle storage is offered at the Boucherville warehouse, so "chauffé" and "heated" are keywords (own ad groups), not negatives. Only tire storage is excluded.
 
-**Totals:** 546 keywords are in `ads/google-ads-editor/03-keywords.csv`, 471 enabled and 75 paused, in 34 ad groups. There are 331 shared negatives and 118 campaign negatives, and none blocks an enabled keyword (checked by script).
+**Totals:** 571 keywords are in `ads/google-ads-editor/03-keywords.csv`, 496 enabled and 75 paused, in 35 ad groups (updated October 1 with the mini-storage keywords). There are 331 shared negatives and 118 campaign negatives, and none blocks an enabled keyword (checked by script).
 
 ## 7. Budget, ceilings and the math that prevents overspending
 
@@ -181,7 +181,7 @@ Consent Mode v2 must be in the same GTM container (Quebec Law 25); the snippet i
 ## 11. What is still an estimate, and how to fix it
 
 - **Search volume and CPC per keyword.** Semrush is connected, but the account has no API units left, so it returned no data. Buying more units at semrush.com/mcp-access would unlock volumes and competitors' paid keywords.
-- **Supermetrics is connected to the Mobil Cube Google Ads account (2092450839).** Its Keyword Planner call ignored the Montreal and French filters: city, province and country returned identical numbers, and French terms showed 10 searches or fewer. Google also gives only rough volumes to a new account that has not spent yet. Treat those volumes as unusable. Keyword ideas it pulled from competitor pages were added to the campaigns: louer un conteneur prix, conteneur déménagement prix, location entreposage, prix entreposage, mini entrepôt longueuil and others. Reliable volumes come after a week of spend, or from the Keyword Planner screen with location Montreal and language French.
+- **Supermetrics was connected to the first Google Ads account (Mobil Cube, 2092450839); the campaigns now live in 194-768-4780.** Its Keyword Planner call ignored the Montreal and French filters: city, province and country returned identical numbers, and French terms showed 10 searches or fewer. Google also gives only rough volumes to a new account that has not spent yet. Treat those volumes as unusable. Keyword ideas it pulled from competitor pages were added to the campaigns: louer un conteneur prix, conteneur déménagement prix, location entreposage, prix entreposage, mini entrepôt longueuil and others. Reliable volumes come after a week of spend, or from the Keyword Planner screen with location Montreal and language French.
 - **Mobile page speed.** Google's PageSpeed API quota was exhausted from this environment; run pagespeed.web.dev on the French home page yourself.
 
 ## Sources checked today
