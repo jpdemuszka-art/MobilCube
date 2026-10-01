@@ -340,14 +340,14 @@ Path: /patio/storage
 
 ## en-mobile
 
-**Pinned 1:** Mobile Mini-Storage Montreal  
+**Pinned 1:** Mini-Storage in Montreal  
 **Pinned 2:** Delivered, Loaded, Stored
 
 Headlines:
 - Private Unit, 160 sq ft (23)
 - At Home or in Our Warehouse (27)
 - We Store It for You (19)
-- Fits a Whole 5 ½ Apartment (26)
+- Room for a Whole Apartment (26)
 - From $180/mo (24 Months) (24)
 - Heated Warehouse, South Shore (29)
 - Prices Published, No Surprises (30)
@@ -376,7 +376,7 @@ Headlines:
 - Load at Your Own Pace (21)
 - At Home or in Our Warehouse (27)
 - Zero Double Handling (20)
-- Fits a Whole 5 ½ Apartment (26)
+- Room for a Whole Apartment (26)
 - From $180/mo (24 Months) (24)
 - Prices Published, No Surprises (30)
 - Get a Quote in 60 Seconds (25)

@@ -181,9 +181,9 @@ RSAS = {
           'Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline.'],
     path=('patio', 'storage')),
  'en-mobile': dict(
-    pin1='Mobile Mini-Storage Montreal', pin2='Delivered, Loaded, Stored',
+    pin1='Mini-Storage in Montreal', pin2='Delivered, Loaded, Stored',
     heads=['Private Unit, 160 sq ft', 'At Home or in Our Warehouse', 'We Store It for You',
-           'Fits a Whole 5 ½ Apartment', 'From $180/mo (24 Months)', 'Heated Warehouse, South Shore'] + H_EN_COMMON,
+           'Room for a Whole Apartment', 'From $180/mo (24 Months)', 'Heated Warehouse, South Shore'] + H_EN_COMMON,
     desc=['A private 160 sq ft steel mini-storage unit delivered to you. Load at your own pace.',
           'Keep it at home with 24/7 access, or we store it in our heated Boucherville warehouse.',
           '$350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300.',
@@ -192,7 +192,7 @@ RSAS = {
  'en-mobile-moving': dict(
     pin1='Move Without a Truck', pin2='Mini-Storage at Your Door',
     heads=['Renovating? Furniture Safe', 'Load at Your Own Pace', 'At Home or in Our Warehouse',
-           'Zero Double Handling', 'Fits a Whole 5 ½ Apartment', 'From $180/mo (24 Months)'] + H_EN_COMMON,
+           'Zero Double Handling', 'Room for a Whole Apartment', 'From $180/mo (24 Months)'] + H_EN_COMMON,
     desc=['We deliver your mini-storage unit, you load it, we move it to your new address.',
           '$350/mo no commitment, $270/mo on 6 months. Delivery $300 per movement, 15 km included.',
           'Renovating? Your furniture stays home, dust-free and accessible 24/7.',
