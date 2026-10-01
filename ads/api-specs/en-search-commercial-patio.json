@@ -1,0 +1,913 @@
+{
+ "campaign": {
+  "name": "EN | Search | Commercial patio",
+  "budget_amount": 4.0,
+  "budget_type": "DAILY",
+  "bidding_strategy": "MANUAL_CPC",
+  "platform_settings": {
+   "campaign_type": "SEARCH",
+   "geo_target_type": "PRESENCE",
+   "network_settings": {
+    "search": true,
+    "display": false
+   }
+  },
+  "contains_eu_political_ads": false,
+  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ },
+ "targeting": {
+  "location_details": [
+   {
+    "type": "city",
+    "key": "1002604",
+    "name": "Montreal",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002585",
+    "name": "Longueuil",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002579",
+    "name": "Laval",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002513",
+    "name": "Brossard",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002509",
+    "name": "Boucherville",
+    "country": "CA"
+   }
+  ],
+  "negative_keywords": [
+   {
+    "text": "storage box",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage bin",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage bins",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "plastic",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tote",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "totes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ikea",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "walmart",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "canadian tire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "home depot",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "amazon",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "costco",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shelf",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shelving",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cabinet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "closet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "organizer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "deck box",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage bench",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "patio cover",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "furniture cover",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shed",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sheds",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "garage kit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "carport",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cloud",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "icloud",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "google drive",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "iphone",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "android",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "phone",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gb",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tb",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ssd",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hard drive",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "nas",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dropbox",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "battery storage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "solar",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "for sale",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "buy",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "used",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sea can",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "seacan",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conex",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shipping container home",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container home",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container house",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "40 ft",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "40ft",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "flat pack",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "jobs",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "job",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "careers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hiring",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "salary",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "diy",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "how to build",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "plans",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ideas",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "reddit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "wiki",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "definition",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "moving truck",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "truck rental",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "van rental",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "movers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "moving company",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "packers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "junk removal",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dumpster",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "auction",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "auctions",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage wars",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "parking",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "marina",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dock",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "boat lift",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "winterization",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shrink wrap",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "detailing",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mechanic",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ontario",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "toronto",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ottawa",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "quebec city",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vancouver",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "calgary",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "kirkland wa",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "washington",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hudson ny",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hudson ohio",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "usa",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "free",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cheapest",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "craigslist",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "kijiji",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "facebook marketplace",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "junk",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "waste",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bin rental",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "princess auto",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rack",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "lift",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cart",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bins",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shelves",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "with lids",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "app",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "azure",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "arc raiders",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cheap",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "edmonton",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "winnipeg",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "alberta",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "auckland",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "adelaide",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "achat",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "acheter",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "à vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "a vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vente",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rona",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "housse",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cover",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "toile",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "construction de terrasse",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "deck builder",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "permis",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "permit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "emploi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mobilcube",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "mobil cube",
+    "match_type": "EXACT"
+   }
+  ]
+ },
+ "ad_schedule": [
+  {
+   "day_of_week": "MONDAY",
+   "start_hour": 7,
+   "end_hour": 19
+  },
+  {
+   "day_of_week": "TUESDAY",
+   "start_hour": 7,
+   "end_hour": 19
+  },
+  {
+   "day_of_week": "WEDNESDAY",
+   "start_hour": 7,
+   "end_hour": 19
+  },
+  {
+   "day_of_week": "THURSDAY",
+   "start_hour": 7,
+   "end_hour": 19
+  },
+  {
+   "day_of_week": "FRIDAY",
+   "start_hour": 7,
+   "end_hour": 19
+  }
+ ],
+ "extensions": {
+  "sitelinks": [
+   {
+    "link_text": "Rates and Offers",
+    "description1": "Freedom $350/mo",
+    "description2": "Advantage from $180/mo",
+    "url": "https://www.mobilcube.com/en/pricing/"
+   },
+   {
+    "link_text": "Quote in 60 Seconds",
+    "description1": "Short online form",
+    "description2": "We call you back fast",
+    "url": "https://www.mobilcube.com/en/booking-form/"
+   },
+   {
+    "link_text": "Vehicle Storage",
+    "description1": "Car, motorcycle, ATV",
+    "description2": "Driveway or heated warehouse",
+    "url": "https://www.mobilcube.com/en/pricing/"
+   },
+   {
+    "link_text": "Patios and Businesses",
+    "description1": "Restaurants, bars, condos",
+    "description2": "Delivered back in spring",
+    "url": "https://www.mobilcube.com/en/use-cases/"
+   }
+  ],
+  "callouts": [
+   "Heated warehouse",
+   "24/7 on-site access",
+   "Published prices",
+   "Deposit refunded",
+   "Greater Montreal delivery",
+   "Online quote"
+  ],
+  "structured_snippets": [
+   {
+    "header": "Services",
+    "values": [
+     "Car",
+     "Motorcycle",
+     "ATV",
+     "Patio",
+     "Moving",
+     "Renovation",
+     "Jobsite"
+    ]
+   }
+  ],
+  "call": {
+   "phone_number": "+14506416498",
+   "country_code": "CA"
+  }
+ },
+ "ad_groups": [
+  {
+   "name": "Patio furniture",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 3.2,
+   "keywords": [
+    {
+     "text": "patio furniture storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "patio furniture storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "patio furniture storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "restaurant terrace storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "restaurant patio furniture storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "hotel patio storage winter",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "store patio heaters winter",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "restaurant patio storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "restaurant patio storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "terrace furniture winter storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "terrace furniture winter storage",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "patio heater storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "patio heater storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "where to store patio furniture montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "where to store patio furniture montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    }
+   ],
+   "ad": {
+    "name": "RSA | Patio furniture",
+    "headlines": [
+     "Patio Packed Away in a Day",
+     "Restaurants, Bars, Hotels",
+     "Tables, Chairs, Heaters",
+     "Delivered Back in Spring",
+     "On Site or Heated Storage",
+     "Simple Business Invoicing",
+     "Seasonal Business Storage",
+     "Book Before the Deadline",
+     "Heated Warehouse, South Shore",
+     "Prices Published, No Surprises",
+     "Get a Quote in 60 Seconds",
+     "Delivery $300, 15 km Included",
+     "MobilCube | Mobile Storage",
+     "Montreal, West Island, Laval",
+     "No Monthly Admin Fees"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Patio Packed Away in a Day",
+     "HEADLINE_2": "Restaurants, Bars, Hotels"
+    },
+    "descriptions": [
+     "A 20 ft container delivered to your door: tables, chairs, umbrellas and heaters go in.",
+     "Keep the container on site or send it to our heated Boucherville warehouse until spring.",
+     "$289.75/mo on a 6-month heated plan, transport $300 per movement. Quote in 60 seconds.",
+     "Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline."
+    ],
+    "path1": "patio",
+    "path2": "storage",
+    "final_urls": [
+     "https://www.mobilcube.com/en/use-cases/"
+    ]
+   }
+  },
+  {
+   "name": "Business seasonal",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 3.2,
+   "keywords": [
+    {
+     "text": "commercial seasonal storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "commercial seasonal storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "seasonal storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "seasonal storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "business storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "business storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "commercial storage container rental montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "commercial storage container rental montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "inventory storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "inventory storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "storage container for business",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "jobsite storage container rental montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "jobsite storage container rental montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "landscaping equipment winter storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "condo storage container rental",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "film production storage container montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "office renovation storage container",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    }
+   ],
+   "ad": {
+    "name": "RSA | Business seasonal",
+    "headlines": [
+     "Patio Packed Away in a Day",
+     "Restaurants, Bars, Hotels",
+     "Tables, Chairs, Heaters",
+     "Delivered Back in Spring",
+     "On Site or Heated Storage",
+     "Simple Business Invoicing",
+     "Seasonal Business Storage",
+     "Book Before the Deadline",
+     "Heated Warehouse, South Shore",
+     "Prices Published, No Surprises",
+     "Get a Quote in 60 Seconds",
+     "Delivery $300, 15 km Included",
+     "MobilCube | Mobile Storage",
+     "Montreal, West Island, Laval",
+     "No Monthly Admin Fees"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Patio Packed Away in a Day",
+     "HEADLINE_2": "Restaurants, Bars, Hotels"
+    },
+    "descriptions": [
+     "A 20 ft container delivered to your door: tables, chairs, umbrellas and heaters go in.",
+     "Keep the container on site or send it to our heated Boucherville warehouse until spring.",
+     "$289.75/mo on a 6-month heated plan, transport $300 per movement. Quote in 60 seconds.",
+     "Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline."
+    ],
+    "path1": "patio",
+    "path2": "storage",
+    "final_urls": [
+     "https://www.mobilcube.com/en/use-cases/"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,1198 @@
+{
+ "campaign": {
+  "name": "EN | Search | Winter vehicle",
+  "budget_amount": 12.0,
+  "budget_type": "DAILY",
+  "bidding_strategy": "MANUAL_CPC",
+  "platform_settings": {
+   "campaign_type": "SEARCH",
+   "geo_target_type": "PRESENCE",
+   "network_settings": {
+    "search": true,
+    "display": false
+   }
+  },
+  "contains_eu_political_ads": false,
+  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ },
+ "targeting": {
+  "location_details": [
+   {
+    "type": "custom_location",
+    "key": "",
+    "name": "1215 rue Volta, Boucherville (45 km)",
+    "latitude": 45.5685,
+    "longitude": -73.4441,
+    "radius": 45,
+    "distance_unit": "kilometer",
+    "country": "CA"
+   }
+  ],
+  "negative_keywords": [
+   {
+    "text": "storage box",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage bin",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage bins",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "plastic",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tote",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "totes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ikea",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "walmart",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "canadian tire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "home depot",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "amazon",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "costco",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shelf",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shelving",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cabinet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "closet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "organizer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "deck box",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage bench",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "patio cover",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "furniture cover",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shed",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sheds",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "garage kit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "carport",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cloud",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "icloud",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "google drive",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "iphone",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "android",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "phone",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gb",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tb",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ssd",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hard drive",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "nas",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dropbox",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "battery storage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "solar",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "for sale",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "buy",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "used",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sea can",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "seacan",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conex",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shipping container home",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container home",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container house",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "40 ft",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "40ft",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "flat pack",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "jobs",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "job",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "careers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hiring",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "salary",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "diy",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "how to build",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "plans",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ideas",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "reddit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "wiki",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "definition",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "moving truck",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "truck rental",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "van rental",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "movers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "moving company",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "packers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "junk removal",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dumpster",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "auction",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "auctions",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage wars",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "parking",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "marina",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dock",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "boat lift",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "winterization",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shrink wrap",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "detailing",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mechanic",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ontario",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "toronto",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ottawa",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "quebec city",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vancouver",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "calgary",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "kirkland wa",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "washington",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hudson ny",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hudson ohio",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "usa",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "free",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cheapest",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "craigslist",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "kijiji",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "facebook marketplace",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "junk",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "waste",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bin rental",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "princess auto",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rack",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "lift",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cart",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bins",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shelves",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "with lids",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "app",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "azure",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "arc raiders",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cheap",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "edmonton",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "winnipeg",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "alberta",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "auckland",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "adelaide",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vr",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "roulotte",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "roulottes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "motorisé",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "motorisés",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "caravane",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "camping-car",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ponton",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pontons",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "voilier",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "yacht",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rv",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "motorhome",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "camper",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pontoon",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sailboat",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "fifth wheel",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "stationnement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "saaq",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "assurance",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "insurance",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pneus d'hiver",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "winter tires",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "antigel",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "huile",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mécanique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pneu",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pneus",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tires",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mobilcube",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "mobil cube",
+    "match_type": "EXACT"
+   }
+  ]
+ },
+ "ad_schedule": [
+  {
+   "day_of_week": "MONDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "TUESDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "WEDNESDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "THURSDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "FRIDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "SATURDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "SUNDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  }
+ ],
+ "extensions": {
+  "sitelinks": [
+   {
+    "link_text": "Rates and Offers",
+    "description1": "Freedom $350/mo",
+    "description2": "Advantage from $180/mo",
+    "url": "https://www.mobilcube.com/en/pricing/"
+   },
+   {
+    "link_text": "Quote in 60 Seconds",
+    "description1": "Short online form",
+    "description2": "We call you back fast",
+    "url": "https://www.mobilcube.com/en/booking-form/"
+   },
+   {
+    "link_text": "Vehicle Storage",
+    "description1": "Car, motorcycle, ATV",
+    "description2": "Driveway or heated warehouse",
+    "url": "https://www.mobilcube.com/en/pricing/"
+   },
+   {
+    "link_text": "Patios and Businesses",
+    "description1": "Restaurants, bars, condos",
+    "description2": "Delivered back in spring",
+    "url": "https://www.mobilcube.com/en/use-cases/"
+   }
+  ],
+  "callouts": [
+   "Heated warehouse",
+   "24/7 on-site access",
+   "Published prices",
+   "Deposit refunded",
+   "Greater Montreal delivery",
+   "Online quote"
+  ],
+  "structured_snippets": [
+   {
+    "header": "Services",
+    "values": [
+     "Car",
+     "Motorcycle",
+     "ATV",
+     "Patio",
+     "Moving",
+     "Renovation",
+     "Jobsite"
+    ]
+   }
+  ],
+  "call": {
+   "phone_number": "+14506416498",
+   "country_code": "CA"
+  }
+ },
+ "ad_groups": [
+  {
+   "name": "Winter car storage",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 3.2,
+   "keywords": [
+    {
+     "text": "winter car storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "winter car storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "winter car storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "car storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "car storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "classic car storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "classic car storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "car storage west island",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "car storage west island",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "vehicle storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "vehicle storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "winter vehicle storage near me",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "winter storage for car near me",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "where to store car for winter montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.6
+    },
+    {
+     "text": "car storage cost per month montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "winter car storage west island",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "winter car storage west island",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "winter car storage south shore",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "winter car storage south shore",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "car storage container montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "car storage container montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "where to store car for winter montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "winter car storage near me",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "winter car storage near me",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "car storage south shore montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "car storage south shore montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    }
+   ],
+   "ad": {
+    "name": "RSA | Winter car storage",
+    "headlines": [
+     "$270/mo on a 6-Month Plan",
+     "Your Car Safe All Winter",
+     "Winter Car Storage at Home",
+     "No Salt, No Snow, No Ice",
+     "Motorcycle, ATV, Snowmobile",
+     "Steel Vault on Your Driveway",
+     "Or in Our Heated Warehouse",
+     "24/7 Access in Your Driveway",
+     "Prices Published, No Surprises",
+     "Get a Quote in 60 Seconds",
+     "Delivery $300, 15 km Included",
+     "MobilCube | Mobile Storage",
+     "Montreal, West Island, Laval",
+     "No Monthly Admin Fees",
+     "Call Us, We Answer"
+    ],
+    "pinned": {
+     "HEADLINE_1": "$270/mo on a 6-Month Plan",
+     "HEADLINE_2": "Your Car Safe All Winter"
+    },
+    "descriptions": [
+     "A 20 ft steel container delivered to your driveway: your car spends the winter inside.",
+     "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+     "Motorcycle, ATV, snowmobile, jet ski or car: load at ground level, 24/7 access at home.",
+     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+    ],
+    "path1": "storage",
+    "path2": "winter",
+    "final_urls": [
+     "https://www.mobilcube.com/en/pricing/"
+    ]
+   }
+  },
+  {
+   "name": "Heated car storage",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 3.2,
+   "keywords": [
+    {
+     "text": "indoor car storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "indoor car storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "heated car storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "heated car storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "heated car storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "heated car storage",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "indoor winter car storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "indoor winter car storage",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "heated winter car storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "heated winter car storage",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "heated motorcycle storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.2
+    },
+    {
+     "text": "heated motorcycle storage",
+     "match_type": "EXACT",
+     "cpc_bid": 3.2
+    }
+   ],
+   "ad": {
+    "name": "RSA | Heated car storage",
+    "headlines": [
+     "Heated Car Storage",
+     "$289.75/mo on 6 Months",
+     "Heated Warehouse, South Shore",
+     "Your Car in Its Own Container",
+     "No Transport Fee to Pay",
+     "Motorcycle, ATV, Snowmobile",
+     "No Salt, No Snow, No Ice",
+     "Locked, Just for You",
+     "Access by Appointment",
+     "Prices Published, No Surprises",
+     "Get a Quote in 60 Seconds",
+     "MobilCube | Mobile Storage",
+     "Montreal, West Island, Laval",
+     "No Monthly Admin Fees",
+     "Call Us, We Answer"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Heated Car Storage",
+     "HEADLINE_2": "$289.75/mo on 6 Months"
+    },
+    "descriptions": [
+     "Drop your car off in Boucherville: it spends winter in its own heated, locked container.",
+     "$289.75/mo on a 6-month plan, no transport fee when you drive it in. Quote in 60 s.",
+     "A locked steel container just for you. Cars, motorcycles, ATVs and snowmobiles welcome.",
+     "Based in Boucherville, off Highways 20 and 30. Call us, we answer."
+    ],
+    "path1": "car",
+    "path2": "heated",
+    "final_urls": [
+     "https://www.mobilcube.com/en/pricing/"
+    ]
+   }
+  },
+  {
+   "name": "Motorcycle & ATV",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 2.0,
+   "keywords": [
+    {
+     "text": "motorcycle winter storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.5
+    },
+    {
+     "text": "motorcycle winter storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 2.5
+    },
+    {
+     "text": "motorcycle storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.5
+    },
+    {
+     "text": "motorcycle storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 2.5
+    },
+    {
+     "text": "atv storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.5
+    },
+    {
+     "text": "atv storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 2.5
+    },
+    {
+     "text": "snowmobile storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.5
+    },
+    {
+     "text": "snowmobile storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 2.5
+    }
+   ],
+   "ad": {
+    "name": "RSA | Motorcycle & ATV",
+    "headlines": [
+     "Motorcycle, ATV, Snowmobile",
+     "$270/mo on a 6-Month Plan",
+     "Winter Storage at Home",
+     "No Salt, No Snow, No Ice",
+     "Steel Vault on Your Driveway",
+     "Two ATVs and the Trailer Fit",
+     "24/7 Access in Your Driveway",
+     "Free Up Your Garage",
+     "Prices Published, No Surprises",
+     "Get a Quote in 60 Seconds",
+     "Delivery $300, 15 km Included",
+     "MobilCube | Mobile Storage",
+     "Montreal, West Island, Laval",
+     "No Monthly Admin Fees",
+     "Call Us, We Answer"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Motorcycle, ATV, Snowmobile",
+     "HEADLINE_2": "$270/mo on a 6-Month Plan"
+    },
+    "descriptions": [
+     "Motorcycle, ATV, snowmobile, jet ski: 20 ft steel container delivered to you for winter.",
+     "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+     "1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace.",
+     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+    ],
+    "path1": "storage",
+    "path2": "atv-moto",
+    "final_urls": [
+     "https://www.mobilcube.com/en/pricing/"
+    ]
+   }
+  },
+  {
+   "name": "Boat (test, paused)",
+   "status_after_create": "PAUSED",
+   "cpc_bid": 3.2,
+   "keywords": [
+    {
+     "text": "boat storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "boat storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "winter boat storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "boat storage west island",
+     "match_type": "PHRASE",
+     "cpc_bid": 4.0
+    },
+    {
+     "text": "boat storage west island",
+     "match_type": "EXACT",
+     "cpc_bid": 4.0
+    }
+   ],
+   "ad": {
+    "name": "RSA | Boat (test, paused)",
+    "headlines": [
+     "Motorcycle, ATV, Snowmobile",
+     "$270/mo on a 6-Month Plan",
+     "Winter Storage at Home",
+     "No Salt, No Snow, No Ice",
+     "Steel Vault on Your Driveway",
+     "Two ATVs and the Trailer Fit",
+     "24/7 Access in Your Driveway",
+     "Free Up Your Garage",
+     "Prices Published, No Surprises",
+     "Get a Quote in 60 Seconds",
+     "Delivery $300, 15 km Included",
+     "MobilCube | Mobile Storage",
+     "Montreal, West Island, Laval",
+     "No Monthly Admin Fees",
+     "Call Us, We Answer"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Motorcycle, ATV, Snowmobile",
+     "HEADLINE_2": "$270/mo on a 6-Month Plan"
+    },
+    "descriptions": [
+     "Motorcycle, ATV, snowmobile, jet ski: 20 ft steel container delivered to you for winter.",
+     "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+     "1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace.",
+     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+    ],
+    "path1": "storage",
+    "path2": "atv-moto",
+    "final_urls": [
+     "https://www.mobilcube.com/en/pricing/"
+    ]
+   }
+  },
+  {
+   "name": "Boat & PWC",
+   "status_after_create": "PAUSED",
+   "cpc_bid": 3.2,
+   "keywords": [
+    {
+     "text": "jet ski storage montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.38
+    },
+    {
+     "text": "jet ski storage montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 3.38
+    }
+   ],
+   "ad": {
+    "name": "RSA | Boat & PWC",
+    "headlines": [
+     "Motorcycle, ATV, Snowmobile",
+     "$270/mo on a 6-Month Plan",
+     "Winter Storage at Home",
+     "No Salt, No Snow, No Ice",
+     "Steel Vault on Your Driveway",
+     "Two ATVs and the Trailer Fit",
+     "24/7 Access in Your Driveway",
+     "Free Up Your Garage",
+     "Prices Published, No Surprises",
+     "Get a Quote in 60 Seconds",
+     "Delivery $300, 15 km Included",
+     "MobilCube | Mobile Storage",
+     "Montreal, West Island, Laval",
+     "No Monthly Admin Fees",
+     "Call Us, We Answer"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Motorcycle, ATV, Snowmobile",
+     "HEADLINE_2": "$270/mo on a 6-Month Plan"
+    },
+    "descriptions": [
+     "Motorcycle, ATV, snowmobile, jet ski: 20 ft steel container delivered to you for winter.",
+     "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+     "1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace.",
+     "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
+    ],
+    "path1": "storage",
+    "path2": "atv-moto",
+    "final_urls": [
+     "https://www.mobilcube.com/en/pricing/"
+    ]
+   }
+  }
+ ]
+}

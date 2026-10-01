@@ -1,0 +1,77 @@
+[
+ {
+  "campaign": "FR | Search | Entreposage mobile",
+  "file": "api-specs/fr-search-entreposage-mobile.json",
+  "ad_groups": 6,
+  "keywords": 171,
+  "negatives": 216,
+  "paused_ad_groups": [
+   "Géo Montréal, Laval, couronnes (pausé)"
+  ]
+ },
+ {
+  "campaign": "FR | Search | Vehicules hiver",
+  "file": "api-specs/fr-search-vehicules-hiver.json",
+  "ad_groups": 9,
+  "keywords": 128,
+  "negatives": 242,
+  "paused_ad_groups": [
+   "Bateau (test, pausé)",
+   "Motomarine & petit bateau"
+  ]
+ },
+ {
+  "campaign": "FR | Search | Terrasse commercial",
+  "file": "api-specs/fr-search-terrasse-commercial.json",
+  "ad_groups": 5,
+  "keywords": 33,
+  "negatives": 223,
+  "paused_ad_groups": []
+ },
+ {
+  "campaign": "EN | Search | Mobile storage",
+  "file": "api-specs/en-search-mobile-storage.json",
+  "ad_groups": 4,
+  "keywords": 84,
+  "negatives": 119,
+  "paused_ad_groups": [
+   "Self storage alternative (test, paused)",
+   "Generic geo (paused)"
+  ]
+ },
+ {
+  "campaign": "EN | Search | Winter vehicle",
+  "file": "api-specs/en-search-winter-vehicle.json",
+  "ad_groups": 5,
+  "keywords": 53,
+  "negatives": 149,
+  "paused_ad_groups": [
+   "Boat (test, paused)",
+   "Boat & PWC"
+  ]
+ },
+ {
+  "campaign": "EN | Search | Commercial patio",
+  "file": "api-specs/en-search-commercial-patio.json",
+  "ad_groups": 2,
+  "keywords": 32,
+  "negatives": 133,
+  "paused_ad_groups": []
+ },
+ {
+  "campaign": "FR+EN | Search | Marque",
+  "file": "api-specs/fr-en-search-marque.json",
+  "ad_groups": 1,
+  "keywords": 18,
+  "negatives": 308,
+  "paused_ad_groups": []
+ },
+ {
+  "campaign": "FR+EN | Search | Concurrents",
+  "file": "api-specs/fr-en-search-concurrents.json",
+  "ad_groups": 2,
+  "keywords": 27,
+  "negatives": 310,
+  "paused_ad_groups": []
+ }
+]

@@ -1,0 +1,1404 @@
+{
+ "campaign": {
+  "name": "FR | Search | Terrasse commercial",
+  "budget_amount": 12.0,
+  "budget_type": "DAILY",
+  "bidding_strategy": "MANUAL_CPC",
+  "platform_settings": {
+   "campaign_type": "SEARCH",
+   "geo_target_type": "PRESENCE",
+   "network_settings": {
+    "search": true,
+    "display": false
+   }
+  },
+  "contains_eu_political_ads": false,
+  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ },
+ "targeting": {
+  "location_details": [
+   {
+    "type": "city",
+    "key": "1002604",
+    "name": "Montreal",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002585",
+    "name": "Longueuil",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002579",
+    "name": "Laval",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002513",
+    "name": "Brossard",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002509",
+    "name": "Boucherville",
+    "country": "CA"
+   }
+  ],
+  "negative_keywords": [
+   {
+    "text": "emploi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "emplois",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "job",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "jobs",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "carrière",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "carrières",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "salaire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "offre d'emploi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "recrutement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "embauche",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cariste",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "commis d'entrepôt",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "technicien",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "poste",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gratuit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gratuite",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gratuitement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "don",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "donner",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "à vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "a vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vente",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "acheter",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "achat",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "usagé",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "usagée",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "occasion",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "kijiji",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "lespac",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "marketplace",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "facebook marketplace",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container maritime",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conteneur 40 pieds",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conteneur sea can",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "seacan",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "prix d'un conteneur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ikea",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "canadian tire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "costco",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "home depot",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rona",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "walmart",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "amazon",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "wayfair",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "structube",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bureau en gros",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "plan",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "plans",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "diy",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "fabriquer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "construire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "construction d'un",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "soi-même",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bricolage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tutoriel",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "comment faire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "définition",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "signification",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "synonyme",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "traduction",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "anglais",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "c'est quoi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "wikipedia",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cours",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "formation",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "loi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "règlement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "normes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "norme",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "code du bâtiment",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "toronto",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ottawa",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gatineau",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ville de québec",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "québec city",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "quebec city",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "lévis",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sherbrooke",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "trois-rivières",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "saguenay",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "chicoutimi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rimouski",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "drummondville",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "granby",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "france",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "paris",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "belgique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "lyon",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "marseille",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "logiciel",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "système de gestion",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "wms",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gestion d'inventaire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "données",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cloud",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "nuage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "informatique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "disque dur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "stockage de données",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "batterie",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "stockage d'énergie",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "énergie",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "logistique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "3pl",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "palettes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "palettisation",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "distribution",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entrepôt frigorifique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "réfrigéré",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "congelé",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "chambre froide",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sous douane",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "douane",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "industriel à louer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entrepôt à louer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entrepôt à vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pi2 à louer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "étagère",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "étagères",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "garde-robe",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "armoire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bac",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bacs",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "boîte de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cabanon",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "remise à vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "abri tempo",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "abri d'auto",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "housse",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bâche",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "toile",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "moteur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "antigel",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entoilage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mise au rancart",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "changement d'huile",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mécanique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "réparation",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "enchère",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "enchères",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "encan",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage wars",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "guerre des entrepôts",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "reddit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "youtube",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "film",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "série",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "assurance",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "réclamation",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "faillite",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "avis de recherche",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vin",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cave à vin",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "armes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "chien",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "chat",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "garderie",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pneus",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entreposage de pneus",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "u-haul",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "uhaul",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "cubeit",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "gocube",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "go cube",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "pods",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "public storage",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "depotium",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "entrepôt public",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "déchet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "déchets",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dechet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dechets",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "verges",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "verge",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "benne",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bennes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vidange",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rebuts",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "usagés",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "saaq",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "definition",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "club",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vélo",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "velo",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pneu",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "herger",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "palette",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tunisie",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "maroc",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "genève",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "suisse",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "levis",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "trois rivieres",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "victoriaville",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "joliette",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rouyn",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pas cher",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rack",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "support",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "lift",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "organisateur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "princess auto",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bac de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bacs de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "meuble de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "boite de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "étagère de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "idée rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "idées rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rangement garage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "afrique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "expédition",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conteneur maritime à vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conteneur maritime usagé",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "buy",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "for sale",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cover",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "construction de terrasse",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "deck builder",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "permis",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "permit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mobilcube",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "mobil cube",
+    "match_type": "EXACT"
+   }
+  ]
+ },
+ "ad_schedule": [
+  {
+   "day_of_week": "MONDAY",
+   "start_hour": 7,
+   "end_hour": 19
+  },
+  {
+   "day_of_week": "TUESDAY",
+   "start_hour": 7,
+   "end_hour": 19
+  },
+  {
+   "day_of_week": "WEDNESDAY",
+   "start_hour": 7,
+   "end_hour": 19
+  },
+  {
+   "day_of_week": "THURSDAY",
+   "start_hour": 7,
+   "end_hour": 19
+  },
+  {
+   "day_of_week": "FRIDAY",
+   "start_hour": 7,
+   "end_hour": 19
+  }
+ ],
+ "extensions": {
+  "sitelinks": [
+   {
+    "link_text": "Tarifs et offres",
+    "description1": "Liberté 350 $/mois",
+    "description2": "Avantage dès 180 $/mois",
+    "url": "https://www.mobilcube.com/fr/prix-location/"
+   },
+   {
+    "link_text": "Soumission en 60 s",
+    "description1": "Formulaire rapide",
+    "description2": "On vous rappelle vite",
+    "url": "https://www.mobilcube.com/fr/formulaire-reservation/"
+   },
+   {
+    "link_text": "Entreposage de véhicules",
+    "description1": "Auto, moto, VTT, motoneige",
+    "description2": "Chez vous ou entrepôt chauffé",
+    "url": "https://www.mobilcube.com/fr/prix-location/"
+   },
+   {
+    "link_text": "Terrasses et commerces",
+    "description1": "Restaurants, bars, condos",
+    "description2": "Retour au printemps",
+    "url": "https://www.mobilcube.com/fr/cas-usage/"
+   }
+  ],
+  "callouts": [
+   "Entrepôt chauffé",
+   "Accès 24/7 sur place",
+   "Prix affichés",
+   "Dépôt remboursé",
+   "Rive-Sud, Montréal, Laval",
+   "Soumission en ligne"
+  ],
+  "structured_snippets": [
+   {
+    "header": "Services",
+    "values": [
+     "Auto",
+     "Moto",
+     "VTT",
+     "Terrasse",
+     "Déménagement",
+     "Rénovation",
+     "Chantier"
+    ]
+   }
+  ],
+  "call": {
+   "phone_number": "+14506416498",
+   "country_code": "CA"
+  }
+ },
+ "ad_groups": [
+  {
+   "name": "Mobilier de terrasse",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 2.8,
+   "keywords": [
+    {
+     "text": "entreposage mobilier de terrasse",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.02
+    },
+    {
+     "text": "entreposage terrasse hiver",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.02
+    },
+    {
+     "text": "entreposage mobilier extérieur",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.02
+    },
+    {
+     "text": "entreposage meubles de patio",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.02
+    },
+    {
+     "text": "entreposage mobilier de jardin",
+     "match_type": "EXACT",
+     "cpc_bid": 2.02
+    },
+    {
+     "text": "entreposage parasols chauffe-terrasse",
+     "match_type": "EXACT",
+     "cpc_bid": 2.02
+    },
+    {
+     "text": "conteneur entreposage chantier",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.15
+    },
+    {
+     "text": "entreposage matériel événementiel",
+     "match_type": "EXACT",
+     "cpc_bid": 2.02
+    },
+    {
+     "text": "entreposage archives documents montréal",
+     "match_type": "EXACT",
+     "cpc_bid": 3.5
+    }
+   ],
+   "ad": {
+    "name": "RSA | Mobilier de terrasse",
+    "headlines": [
+     "Terrasse rangée en une journée",
+     "Restaurants, bars, hôtels",
+     "Tables, chaises, parasols",
+     "Retour livré au printemps",
+     "Conteneur sur place ou chauffé",
+     "Facturation entreprise simple",
+     "Entreposage saisonnier pro",
+     "Réservez avant la date limite",
+     "Entrepôt chauffé, Boucherville",
+     "Prix affichés, zéro surprise",
+     "Soumission en 60 secondes",
+     "Livraison 300 $, 15 km inclus",
+     "MobilCube | Entreposage mobile",
+     "Rive-Sud, Montréal et Laval",
+     "Aucun frais d'administration"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Terrasse rangée en une journée",
+     "HEADLINE_2": "Restaurants, bars, hôtels"
+    },
+    "descriptions": [
+     "Conteneur de 20 pi devant votre commerce : tables, chaises, parasols et chauffe-terrasses.",
+     "Gardez le conteneur sur place ou confiez-le à notre entrepôt chauffé jusqu'au printemps.",
+     "289,75 $/mois sur 6 mois en entrepôt chauffé, transport 300 $ par déplacement. Devis 60 s.",
+     "Restaurants, bars, cafés, hôtels : videz votre terrasse avant la date limite du quartier."
+    ],
+    "path1": "terrasse",
+    "path2": "commerce",
+    "final_urls": [
+     "https://www.mobilcube.com/fr/cas-usage/"
+    ]
+   }
+  },
+  {
+   "name": "Restaurant & bar",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 2.8,
+   "keywords": [
+    {
+     "text": "entreposage terrasse restaurant",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.02
+    },
+    {
+     "text": "entreposage pour restaurant",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.48
+    },
+    {
+     "text": "entreposage hôtel mobilier",
+     "match_type": "EXACT",
+     "cpc_bid": 2.02
+    },
+    {
+     "text": "entreposage terrasse restaurant montréal",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "entreposage terrasse restaurant montréal",
+     "match_type": "EXACT",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "rangement terrasse restaurant hiver",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "rangement terrasse restaurant hiver",
+     "match_type": "EXACT",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "entreposage mobilier restaurant",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "entreposage mobilier restaurant",
+     "match_type": "EXACT",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "entreposage chauffe-terrasse",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "entreposage chauffe-terrasse",
+     "match_type": "EXACT",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "où entreposer mobilier de terrasse",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "où entreposer mobilier de terrasse",
+     "match_type": "EXACT",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "entreposage terrasse bar",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.8
+    },
+    {
+     "text": "entreposage terrasse bar",
+     "match_type": "EXACT",
+     "cpc_bid": 2.8
+    }
+   ],
+   "ad": {
+    "name": "RSA | Restaurant & bar",
+    "headlines": [
+     "Terrasse rangée en une journée",
+     "Restaurants, bars, hôtels",
+     "Tables, chaises, parasols",
+     "Retour livré au printemps",
+     "Conteneur sur place ou chauffé",
+     "Facturation entreprise simple",
+     "Entreposage saisonnier pro",
+     "Réservez avant la date limite",
+     "Entrepôt chauffé, Boucherville",
+     "Prix affichés, zéro surprise",
+     "Soumission en 60 secondes",
+     "Livraison 300 $, 15 km inclus",
+     "MobilCube | Entreposage mobile",
+     "Rive-Sud, Montréal et Laval",
+     "Aucun frais d'administration"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Terrasse rangée en une journée",
+     "HEADLINE_2": "Restaurants, bars, hôtels"
+    },
+    "descriptions": [
+     "Conteneur de 20 pi devant votre commerce : tables, chaises, parasols et chauffe-terrasses.",
+     "Gardez le conteneur sur place ou confiez-le à notre entrepôt chauffé jusqu'au printemps.",
+     "289,75 $/mois sur 6 mois en entrepôt chauffé, transport 300 $ par déplacement. Devis 60 s.",
+     "Restaurants, bars, cafés, hôtels : videz votre terrasse avant la date limite du quartier."
+    ],
+    "path1": "terrasse",
+    "path2": "commerce",
+    "final_urls": [
+     "https://www.mobilcube.com/fr/cas-usage/"
+    ]
+   }
+  },
+  {
+   "name": "Commercial saisonnier & inventaire",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 2.8,
+   "keywords": [
+    {
+     "text": "entreposage commercial montréal",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.5
+    },
+    {
+     "text": "entreposage pour entreprise",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.15
+    },
+    {
+     "text": "entreposage saisonnier",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.48
+    },
+    {
+     "text": "entreposage saisonnier commercial",
+     "match_type": "EXACT",
+     "cpc_bid": 2.48
+    },
+    {
+     "text": "entreposage inventaire",
+     "match_type": "PHRASE",
+     "cpc_bid": 2.93
+    },
+    {
+     "text": "entreposage inventaire commerce de détail",
+     "match_type": "EXACT",
+     "cpc_bid": 2.93
+    },
+    {
+     "text": "conteneur entreposage commercial",
+     "match_type": "PHRASE",
+     "cpc_bid": 3.15
+    }
+   ],
+   "ad": {
+    "name": "RSA | Commercial saisonnier & inventaire",
+    "headlines": [
+     "Entreposage saisonnier pro",
+     "Conteneur sur place ou chauffé",
+     "Mobilier de piscine, bacs, BBQ",
+     "Retour livré au printemps",
+     "Facturation entreprise simple",
+     "Un seul conteneur, 160 pi²",
+     "Entrepôt chauffé, Boucherville",
+     "Surplus d'inventaire à l'abri",
+     "Prix affichés, zéro surprise",
+     "Soumission en 60 secondes",
+     "Livraison 300 $, 15 km inclus",
+     "MobilCube | Entreposage mobile",
+     "Rive-Sud, Montréal et Laval",
+     "Aucun frais d'administration",
+     "Appelez : réponse immédiate"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Entreposage saisonnier pro",
+     "HEADLINE_2": "Conteneur sur place ou chauffé"
+    },
+    "descriptions": [
+     "Condos, paysagistes, commerces : conteneur de 20 pi pour meubles, bacs et équipement.",
+     "Gardez le conteneur sur place ou confiez-le à notre entrepôt chauffé jusqu'au printemps.",
+     "289,75 $/mois sur 6 mois en entrepôt chauffé, transport 300 $ par déplacement. Devis 60 s.",
+     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+    ],
+    "path1": "entreposage",
+    "path2": "commercial",
+    "final_urls": [
+     "https://www.mobilcube.com/fr/cas-usage/"
+    ]
+   }
+  },
+  {
+   "name": "Paysagiste & équipement",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 2.8,
+   "keywords": [
+    {
+     "text": "entreposage équipement paysagement",
+     "match_type": "EXACT",
+     "cpc_bid": 2.02
+    }
+   ],
+   "ad": {
+    "name": "RSA | Paysagiste & équipement",
+    "headlines": [
+     "Entreposage saisonnier pro",
+     "Conteneur sur place ou chauffé",
+     "Mobilier de piscine, bacs, BBQ",
+     "Retour livré au printemps",
+     "Facturation entreprise simple",
+     "Un seul conteneur, 160 pi²",
+     "Entrepôt chauffé, Boucherville",
+     "Surplus d'inventaire à l'abri",
+     "Prix affichés, zéro surprise",
+     "Soumission en 60 secondes",
+     "Livraison 300 $, 15 km inclus",
+     "MobilCube | Entreposage mobile",
+     "Rive-Sud, Montréal et Laval",
+     "Aucun frais d'administration",
+     "Appelez : réponse immédiate"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Entreposage saisonnier pro",
+     "HEADLINE_2": "Conteneur sur place ou chauffé"
+    },
+    "descriptions": [
+     "Condos, paysagistes, commerces : conteneur de 20 pi pour meubles, bacs et équipement.",
+     "Gardez le conteneur sur place ou confiez-le à notre entrepôt chauffé jusqu'au printemps.",
+     "289,75 $/mois sur 6 mois en entrepôt chauffé, transport 300 $ par déplacement. Devis 60 s.",
+     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+    ],
+    "path1": "entreposage",
+    "path2": "commercial",
+    "final_urls": [
+     "https://www.mobilcube.com/fr/cas-usage/"
+    ]
+   }
+  },
+  {
+   "name": "Hôtel & condo",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 2.8,
+   "keywords": [
+    {
+     "text": "entreposage condo mobilier commun",
+     "match_type": "EXACT",
+     "cpc_bid": 2.02
+    }
+   ],
+   "ad": {
+    "name": "RSA | Hôtel & condo",
+    "headlines": [
+     "Entreposage saisonnier pro",
+     "Conteneur sur place ou chauffé",
+     "Mobilier de piscine, bacs, BBQ",
+     "Retour livré au printemps",
+     "Facturation entreprise simple",
+     "Un seul conteneur, 160 pi²",
+     "Entrepôt chauffé, Boucherville",
+     "Surplus d'inventaire à l'abri",
+     "Prix affichés, zéro surprise",
+     "Soumission en 60 secondes",
+     "Livraison 300 $, 15 km inclus",
+     "MobilCube | Entreposage mobile",
+     "Rive-Sud, Montréal et Laval",
+     "Aucun frais d'administration",
+     "Appelez : réponse immédiate"
+    ],
+    "pinned": {
+     "HEADLINE_1": "Entreposage saisonnier pro",
+     "HEADLINE_2": "Conteneur sur place ou chauffé"
+    },
+    "descriptions": [
+     "Condos, paysagistes, commerces : conteneur de 20 pi pour meubles, bacs et équipement.",
+     "Gardez le conteneur sur place ou confiez-le à notre entrepôt chauffé jusqu'au printemps.",
+     "289,75 $/mois sur 6 mois en entrepôt chauffé, transport 300 $ par déplacement. Devis 60 s.",
+     "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+    ],
+    "path1": "entreposage",
+    "path2": "commercial",
+    "final_urls": [
+     "https://www.mobilcube.com/fr/cas-usage/"
+    ]
+   }
+  }
+ ]
+}

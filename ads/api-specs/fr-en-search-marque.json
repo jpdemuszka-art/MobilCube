@@ -1,0 +1,1487 @@
+{
+ "campaign": {
+  "name": "FR+EN | Search | Marque",
+  "budget_amount": 3.0,
+  "budget_type": "DAILY",
+  "bidding_strategy": "MANUAL_CPC",
+  "platform_settings": {
+   "campaign_type": "SEARCH",
+   "geo_target_type": "PRESENCE",
+   "network_settings": {
+    "search": true,
+    "display": false
+   }
+  },
+  "contains_eu_political_ads": false,
+  "url_tags": "utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}"
+ },
+ "targeting": {
+  "location_details": [
+   {
+    "type": "region",
+    "key": "20123",
+    "name": "Quebec",
+    "country": "CA"
+   }
+  ],
+  "negative_keywords": [
+   {
+    "text": "emploi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "emplois",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "job",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "jobs",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "carrière",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "carrières",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "salaire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "offre d'emploi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "recrutement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "embauche",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cariste",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "commis d'entrepôt",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "technicien",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "poste",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gratuit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gratuite",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gratuitement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "don",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "donner",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "à vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "a vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vente",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "acheter",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "achat",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "usagé",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "usagée",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "occasion",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "kijiji",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "lespac",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "marketplace",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "facebook marketplace",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container maritime",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conteneur 40 pieds",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conteneur sea can",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "seacan",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "prix d'un conteneur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ikea",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "canadian tire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "costco",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "home depot",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rona",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "walmart",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "amazon",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "wayfair",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "structube",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bureau en gros",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "plan",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "plans",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "diy",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "fabriquer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "construire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "construction d'un",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "soi-même",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bricolage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tutoriel",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "comment faire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "définition",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "signification",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "synonyme",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "traduction",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "anglais",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "c'est quoi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "wikipedia",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cours",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "formation",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "loi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "règlement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "normes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "norme",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "code du bâtiment",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "toronto",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ottawa",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gatineau",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ville de québec",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "québec city",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "quebec city",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "lévis",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sherbrooke",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "trois-rivières",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "saguenay",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "chicoutimi",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rimouski",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "drummondville",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "granby",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "france",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "paris",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "belgique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "lyon",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "marseille",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "logiciel",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "système de gestion",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "wms",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gestion d'inventaire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "données",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cloud",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "nuage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "informatique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "disque dur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "stockage de données",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "batterie",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "stockage d'énergie",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "énergie",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "logistique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "3pl",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "palettes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "palettisation",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "distribution",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entrepôt frigorifique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "réfrigéré",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "congelé",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "chambre froide",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sous douane",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "douane",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "industriel à louer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entrepôt à louer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entrepôt à vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pi2 à louer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "étagère",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "étagères",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "garde-robe",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "armoire",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bac",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bacs",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "boîte de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cabanon",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "remise à vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "abri tempo",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "abri d'auto",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "housse",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bâche",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "toile",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "moteur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "antigel",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entoilage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mise au rancart",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "changement d'huile",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mécanique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "réparation",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "enchère",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "enchères",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "encan",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage wars",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "guerre des entrepôts",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "reddit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "youtube",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "film",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "série",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "assurance",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "réclamation",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "faillite",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "avis de recherche",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vin",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cave à vin",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "armes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "chien",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "chat",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "garderie",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pneus",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entreposage de pneus",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "u-haul",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "uhaul",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "cubeit",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "gocube",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "go cube",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "pods",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "public storage",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "depotium",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "entrepôt public",
+    "match_type": "EXACT"
+   },
+   {
+    "text": "storage box",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage bin",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage bins",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "plastic",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tote",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "totes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shelf",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shelving",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cabinet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "closet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "organizer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "deck box",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "storage bench",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "patio cover",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "furniture cover",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shed",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sheds",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "garage kit",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "carport",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "icloud",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "google drive",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "iphone",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "android",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "phone",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "gb",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tb",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ssd",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hard drive",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "nas",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dropbox",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "battery storage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "solar",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "for sale",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "buy",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "used",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sea can",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conex",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shipping container home",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container home",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container house",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "40 ft",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "40ft",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "flat pack",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "careers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hiring",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "salary",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "how to build",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ideas",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "wiki",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "definition",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "moving truck",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "truck rental",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "van rental",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "movers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "moving company",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "packers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "junk removal",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dumpster",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "auction",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "auctions",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "parking",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "marina",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dock",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "boat lift",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "winterization",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shrink wrap",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "detailing",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "mechanic",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "ontario",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vancouver",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "calgary",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "kirkland wa",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "washington",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hudson ny",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "hudson ohio",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "usa",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "free",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cheapest",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "craigslist",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "déchet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "déchets",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dechet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "dechets",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "verges",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "verge",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "benne",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bennes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vidange",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rebuts",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "usagés",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "saaq",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "club",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vélo",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "velo",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pneu",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "herger",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "palette",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "tunisie",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "maroc",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "genève",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "suisse",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "levis",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "trois rivieres",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "victoriaville",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "joliette",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rouyn",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "pas cher",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rack",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "support",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "lift",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "organisateur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "princess auto",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bac de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bacs de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "meuble de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "boite de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "étagère de rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "idée rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "idées rangement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "rangement garage",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "afrique",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "expédition",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conteneur maritime à vendre",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "conteneur maritime usagé",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "junk",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "waste",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bin rental",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cart",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bins",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shelves",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "with lids",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "app",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "azure",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "arc raiders",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "cheap",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "edmonton",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "winnipeg",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "alberta",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "auckland",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "adelaide",
+    "match_type": "PHRASE"
+   }
+  ]
+ },
+ "ad_schedule": [
+  {
+   "day_of_week": "MONDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "TUESDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "WEDNESDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "THURSDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "FRIDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "SATURDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  },
+  {
+   "day_of_week": "SUNDAY",
+   "start_hour": 6,
+   "end_hour": 23
+  }
+ ],
+ "extensions": {
+  "sitelinks": [
+   {
+    "link_text": "Tarifs et offres",
+    "description1": "Liberté 350 $/mois",
+    "description2": "Avantage dès 180 $/mois",
+    "url": "https://www.mobilcube.com/fr/prix-location/"
+   },
+   {
+    "link_text": "Soumission en 60 s",
+    "description1": "Formulaire rapide",
+    "description2": "On vous rappelle vite",
+    "url": "https://www.mobilcube.com/fr/formulaire-reservation/"
+   },
+   {
+    "link_text": "Entreposage de véhicules",
+    "description1": "Auto, moto, VTT, motoneige",
+    "description2": "Chez vous ou entrepôt chauffé",
+    "url": "https://www.mobilcube.com/fr/prix-location/"
+   },
+   {
+    "link_text": "Terrasses et commerces",
+    "description1": "Restaurants, bars, condos",
+    "description2": "Retour au printemps",
+    "url": "https://www.mobilcube.com/fr/cas-usage/"
+   }
+  ],
+  "callouts": [
+   "Entrepôt chauffé",
+   "Accès 24/7 sur place",
+   "Prix affichés",
+   "Dépôt remboursé",
+   "Rive-Sud, Montréal, Laval",
+   "Soumission en ligne"
+  ],
+  "structured_snippets": [
+   {
+    "header": "Services",
+    "values": [
+     "Auto",
+     "Moto",
+     "VTT",
+     "Terrasse",
+     "Déménagement",
+     "Rénovation",
+     "Chantier"
+    ]
+   }
+  ],
+  "call": {
+   "phone_number": "+14506416498",
+   "country_code": "CA"
+  }
+ },
+ "ad_groups": [
+  {
+   "name": "MobilCube",
+   "status_after_create": "ENABLED",
+   "cpc_bid": 1.2,
+   "keywords": [
+    {
+     "text": "mobilcube",
+     "match_type": "EXACT",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube",
+     "match_type": "PHRASE",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobil cube",
+     "match_type": "EXACT",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobil cube",
+     "match_type": "PHRASE",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube boucherville",
+     "match_type": "EXACT",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube boucherville",
+     "match_type": "PHRASE",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube prix",
+     "match_type": "EXACT",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube prix",
+     "match_type": "PHRASE",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube avis",
+     "match_type": "EXACT",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube avis",
+     "match_type": "PHRASE",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube entreposage",
+     "match_type": "EXACT",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube entreposage",
+     "match_type": "PHRASE",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube storage",
+     "match_type": "EXACT",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube storage",
+     "match_type": "PHRASE",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube reviews",
+     "match_type": "EXACT",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobilcube reviews",
+     "match_type": "PHRASE",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobil cube montreal",
+     "match_type": "EXACT",
+     "cpc_bid": 1.2
+    },
+    {
+     "text": "mobil cube montreal",
+     "match_type": "PHRASE",
+     "cpc_bid": 1.2
+    }
+   ],
+   "ad": {
+    "name": "RSA | MobilCube",
+    "headlines": [
+     "MobilCube | Site officiel",
+     "Réservez votre MobilCube",
+     "Conteneur livré chez vous",
+     "Conteneur de 20 pi livré",
+     "Entrepôt chauffé, Boucherville",
+     "Chez vous ou à notre entrepôt",
+     "Accès 24/7 dans votre entrée",
+     "Dès 180 $/mois (24 mois)",
+     "Prix affichés, zéro surprise",
+     "Soumission en 60 secondes",
+     "Livraison 300 $, 15 km inclus",
+     "MobilCube | Entreposage mobile",
+     "Rive-Sud, Montréal et Laval",
+     "Aucun frais d'administration",
+     "Appelez : réponse immédiate"
+    ],
+    "pinned": {
+     "HEADLINE_1": "MobilCube | Site officiel",
+     "HEADLINE_2": "Réservez votre MobilCube"
+    },
+    "descriptions": [
+     "Site officiel MobilCube : prix affichés, soumission en ligne, livraison Grand Montréal.",
+     "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
+     "Conteneur d'acier CORTEN de 20 pi, 160 pi². Chez vous ou dans notre entrepôt chauffé.",
+     "Questions ? Appelez-nous : on répond en français et en anglais."
+    ],
+    "path1": "officiel",
+    "path2": "reservation",
+    "final_urls": [
+     "https://www.mobilcube.com/fr/"
+    ]
+   }
+  }
+ ]
+}

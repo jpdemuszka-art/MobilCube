@@ -1,0 +1,120 @@
+#!/usr/bin/env python3
+"""Turn the Google Ads Editor CSVs into one API payload per campaign (ads/api-specs/*.json).
+
+These payloads create the campaigns, paused, in the Mobil Cube Google Ads account (2092450839)
+through the Supermetrics connector (manage_campaign). Field names were checked against the API on
+2026-10-01: sitelinks take "url"; campaigns are always created paused. Run after ads/build_import.py:
+
+    python3 ads/build_import.py && python3 ads/build_api_specs.py
+"""
+import csv, json, os, re
+from collections import OrderedDict, defaultdict
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+SRC = os.path.join(ROOT, 'google-ads-editor')
+OUT = os.path.join(ROOT, 'api-specs')
+os.makedirs(OUT, exist_ok=True)
+
+def rows(name):
+    return list(csv.DictReader(open(os.path.join(SRC, name), encoding='utf-8-sig')))
+
+WAREHOUSE = {'type': 'custom_location', 'key': '', 'name': '1215 rue Volta, Boucherville (45 km)',
+             'latitude': 45.5685, 'longitude': -73.4441, 'radius': 45, 'distance_unit': 'kilometer', 'country': 'CA'}
+CITY = lambda key, name: {'type': 'city', 'key': key, 'name': name, 'country': 'CA'}
+TERRACE_GEO = [CITY('1002604', 'Montreal'), CITY('1002585', 'Longueuil'), CITY('1002579', 'Laval'),
+               CITY('1002513', 'Brossard'), CITY('1002509', 'Boucherville')]
+QUEBEC = [{'type': 'region', 'key': '20123', 'name': 'Quebec', 'country': 'CA'}]
+
+def geo_for(campaign):
+    if 'Marque' in campaign: return QUEBEC
+    if 'Terrasse' in campaign or 'Commercial patio' in campaign: return TERRACE_GEO
+    return [WAREHOUSE]
+
+def schedule_for(campaign):
+    if 'Terrasse' in campaign or 'Commercial patio' in campaign:
+        days = ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY']
+        return [{'day_of_week': d, 'start_hour': 7, 'end_hour': 19} for d in days]
+    days = ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+    return [{'day_of_week': d, 'start_hour': 6, 'end_hour': 23} for d in days]
+
+MT = {'Exact': 'EXACT', 'Phrase': 'PHRASE', 'Broad': 'BROAD', 'Negative Exact': 'EXACT', 'Negative Phrase': 'PHRASE', 'Negative Broad': 'BROAD'}
+URL_TAGS = 'utm_source=google&utm_medium=cpc&utm_campaign={campaignid}&utm_content={adgroupid}&utm_term={keyword}'
+
+campaigns = rows('01-campaigns.csv')
+adgroups = rows('02-ad-groups.csv')
+keywords = rows('03-keywords.csv')
+rsas = rows('04-responsive-search-ads.csv')
+shared_neg = rows('05-negative-keyword-lists.csv')
+camp_neg = rows('06-campaign-negatives.csv')
+sitelinks = rows('07-sitelinks.csv')
+callouts = rows('08-callouts.csv')
+snippets = rows('09-structured-snippets.csv')
+
+def lists_for(c):
+    if c.startswith('FR |'): return {'Negatives - FR'}
+    if c.startswith('EN |'): return {'Negatives - EN'}
+    return {'Negatives - FR', 'Negatives - EN'}
+
+index = []
+for c in campaigns:
+    name = c['Campaign']
+    negs = OrderedDict()
+    for n in shared_neg:
+        if n['Negative Keyword List'] in lists_for(name):
+            negs[(n['Keyword'].lower(), MT[n['Criterion Type']])] = {'text': n['Keyword'], 'match_type': MT[n['Criterion Type']]}
+    for n in camp_neg:
+        if n['Campaign'] == name:
+            negs[(n['Keyword'].lower(), MT[n['Criterion Type']])] = {'text': n['Keyword'], 'match_type': MT[n['Criterion Type']]}
+    ext = {
+        'sitelinks': [{'link_text': s['Sitelink text'], 'description1': s['Sitelink description 1'],
+                       'description2': s['Sitelink description 2'], 'url': s['Sitelink final URL']}
+                      for s in sitelinks if s['Campaign'] == name],
+        'callouts': [x['Callout text'] for x in callouts if x['Campaign'] == name],
+        'structured_snippets': [{'header': x['Header'], 'values': x['Values'].split(';')} for x in snippets if x['Campaign'] == name],
+        'call': {'phone_number': '+14506416498', 'country_code': 'CA'},
+    }
+    groups = []
+    for g in adgroups:
+        if g['Campaign'] != name: continue
+        ag = g['Ad Group']
+        kws = [{'text': k['Keyword'], 'match_type': MT[k['Criterion Type']], 'cpc_bid': float(k['Max CPC'])}
+               for k in keywords if k['Campaign'] == name and k['Ad Group'] == ag]
+        ad = next(r for r in rsas if r['Campaign'] == name and r['Ad Group'] == ag)
+        groups.append({
+            'name': ag,
+            'status_after_create': 'PAUSED' if g['Ad Group Status'] == 'Paused' else 'ENABLED',
+            'cpc_bid': float(g['Max CPC']),
+            'keywords': kws,
+            'ad': {
+                'name': f'RSA | {ag}',
+                'headlines': [ad[f'Headline {i}'] for i in range(1, 16)],
+                'pinned': {'HEADLINE_1': ad['Headline 1'], 'HEADLINE_2': ad['Headline 2']},
+                'descriptions': [ad[f'Description {i}'] for i in range(1, 5)],
+                'path1': ad['Path 1'], 'path2': ad['Path 2'],
+                'final_urls': [ad['Final URL']],
+            },
+        })
+    spec = {
+        'campaign': {
+            'name': name,
+            'budget_amount': float(c['Budget']), 'budget_type': 'DAILY',
+            'bidding_strategy': 'MANUAL_CPC',
+            'platform_settings': {'campaign_type': 'SEARCH', 'geo_target_type': 'PRESENCE',
+                                  'network_settings': {'search': True, 'display': False}},
+            'contains_eu_political_ads': False,
+            'url_tags': URL_TAGS,
+        },
+        'targeting': {'location_details': geo_for(name), 'negative_keywords': list(negs.values())},
+        'ad_schedule': schedule_for(name),
+        'extensions': ext,
+        'ad_groups': groups,
+    }
+    slug = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
+    path = os.path.join(OUT, f'{slug}.json')
+    json.dump(spec, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    index.append({'campaign': name, 'file': os.path.relpath(path, ROOT), 'ad_groups': len(groups),
+                  'keywords': sum(len(g['keywords']) for g in groups), 'negatives': len(negs),
+                  'paused_ad_groups': [g['name'] for g in groups if g['status_after_create'] == 'PAUSED']})
+json.dump(index, open(os.path.join(OUT, 'index.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+for i in index:
+    print(f"{i['campaign']:40s} groups={i['ad_groups']:2d} kw={i['keywords']:3d} neg={i['negatives']:3d} paused={i['paused_ad_groups']}")
