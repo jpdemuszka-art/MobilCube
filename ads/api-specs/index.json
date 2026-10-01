@@ -2,8 +2,8 @@
  {
   "campaign": "FR | Search | Entreposage mobile",
   "file": "api-specs/fr-search-entreposage-mobile.json",
-  "ad_groups": 6,
-  "keywords": 171,
+  "ad_groups": 7,
+  "keywords": 188,
   "negatives": 216,
   "paused_ad_groups": [
    "Géo Montréal, Laval, couronnes (pausé)"
@@ -32,7 +32,7 @@
   "campaign": "EN | Search | Mobile storage",
   "file": "api-specs/en-search-mobile-storage.json",
   "ad_groups": 4,
-  "keywords": 84,
+  "keywords": 92,
   "negatives": 119,
   "paused_ad_groups": [
    "Self storage alternative (test, paused)",

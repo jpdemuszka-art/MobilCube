@@ -994,11 +994,6 @@
       "cpc_bid": 3.5
      },
      {
-      "text": "mini entrepôt mobile",
-      "match_type": "EXACT",
-      "cpc_bid": 2.93
-     },
-     {
       "text": "entreposage livré à domicile",
       "match_type": "PHRASE",
       "cpc_bid": 2.48
@@ -1160,32 +1155,32 @@
      "name": "RSA | Entreposage mobile",
      "creative": {
       "headlines": [
-       "Entreposage mobile Rive-Sud",
-       "Un seul conteneur, 160 pi²",
-       "Assez grand pour un 5 et demi",
-       "Chargez à votre rythme",
+       "Mini-entreposage mobile",
+       "Livré, rempli, entreposé",
+       "Mini-entrepôt privé de 160 pi²",
        "Chez vous ou à notre entrepôt",
+       "On l'entrepose pour vous",
+       "Assez grand pour un 5 et demi",
        "Dès 180 $/mois (24 mois)",
        "Entrepôt chauffé, Boucherville",
-       "Accès 24/7 dans votre entrée",
        "Prix affichés, zéro surprise",
        "Soumission en 60 secondes",
        "Livraison 300 $, 15 km inclus",
-       "MobilCube | Entreposage mobile",
+       "MobilCube | Mini-entreposage",
        "Rive-Sud, Montréal et Laval",
        "Aucun frais d'administration",
        "Appelez : réponse immédiate"
       ],
       "descriptions": [
-       "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
+       "Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme.",
+       "Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé.",
        "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-       "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
        "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
       ],
       "final_urls": [
        "https://www.mobilcube.com/fr/prix-location/"
       ],
-      "path1": "mobile",
+      "path1": "mini-entrepot",
       "path2": "rive-sud"
      }
     }
@@ -1381,32 +1376,32 @@
      "name": "RSA | Conteneur d'entreposage",
      "creative": {
       "headlines": [
-       "Entreposage mobile Rive-Sud",
-       "Un seul conteneur, 160 pi²",
-       "Assez grand pour un 5 et demi",
-       "Chargez à votre rythme",
+       "Mini-entreposage mobile",
+       "Livré, rempli, entreposé",
+       "Mini-entrepôt privé de 160 pi²",
        "Chez vous ou à notre entrepôt",
+       "On l'entrepose pour vous",
+       "Assez grand pour un 5 et demi",
        "Dès 180 $/mois (24 mois)",
        "Entrepôt chauffé, Boucherville",
-       "Accès 24/7 dans votre entrée",
        "Prix affichés, zéro surprise",
        "Soumission en 60 secondes",
        "Livraison 300 $, 15 km inclus",
-       "MobilCube | Entreposage mobile",
+       "MobilCube | Mini-entreposage",
        "Rive-Sud, Montréal et Laval",
        "Aucun frais d'administration",
        "Appelez : réponse immédiate"
       ],
       "descriptions": [
-       "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
+       "Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme.",
+       "Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé.",
        "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-       "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
        "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
       ],
       "final_urls": [
        "https://www.mobilcube.com/fr/prix-location/"
       ],
-      "path1": "mobile",
+      "path1": "mini-entrepot",
       "path2": "rive-sud"
      }
     }
@@ -1472,32 +1467,168 @@
      "name": "RSA | Cube d'entreposage",
      "creative": {
       "headlines": [
-       "Entreposage mobile Rive-Sud",
-       "Un seul conteneur, 160 pi²",
-       "Assez grand pour un 5 et demi",
-       "Chargez à votre rythme",
+       "Mini-entreposage mobile",
+       "Livré, rempli, entreposé",
+       "Mini-entrepôt privé de 160 pi²",
        "Chez vous ou à notre entrepôt",
+       "On l'entrepose pour vous",
+       "Assez grand pour un 5 et demi",
        "Dès 180 $/mois (24 mois)",
        "Entrepôt chauffé, Boucherville",
-       "Accès 24/7 dans votre entrée",
        "Prix affichés, zéro surprise",
        "Soumission en 60 secondes",
        "Livraison 300 $, 15 km inclus",
-       "MobilCube | Entreposage mobile",
+       "MobilCube | Mini-entreposage",
        "Rive-Sud, Montréal et Laval",
        "Aucun frais d'administration",
        "Appelez : réponse immédiate"
       ],
       "descriptions": [
-       "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
+       "Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme.",
+       "Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé.",
        "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-       "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
        "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
       ],
       "final_urls": [
        "https://www.mobilcube.com/fr/prix-location/"
       ],
-      "path1": "mobile",
+      "path1": "mini-entrepot",
+      "path2": "rive-sud"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Mini-entreposage mobile",
+   "platform_settings": {
+    "type": "SEARCH_STANDARD",
+    "cpc_bid": 2.8
+   },
+   "targeting": {
+    "keywords": [
+     {
+      "text": "mini entrepôt mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.93
+     },
+     {
+      "text": "mini entreposage mobile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepôt mobile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepot mobile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepot mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepôt livré",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepôt livré",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage livré",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage livré",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage à domicile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entreposage à domicile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepôt à domicile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepôt à domicile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepôt portatif",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "mini entrepôt portatif",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location mini entrepôt mobile",
+      "match_type": "PHRASE",
+      "cpc_bid": 2.8
+     },
+     {
+      "text": "location mini entrepôt mobile",
+      "match_type": "EXACT",
+      "cpc_bid": 2.8
+     }
+    ]
+   },
+   "ads": [
+    {
+     "name": "RSA | Mini-entreposage mobile",
+     "creative": {
+      "headlines": [
+       "Mini-entreposage mobile",
+       "Livré, rempli, entreposé",
+       "Mini-entrepôt privé de 160 pi²",
+       "Chez vous ou à notre entrepôt",
+       "On l'entrepose pour vous",
+       "Assez grand pour un 5 et demi",
+       "Dès 180 $/mois (24 mois)",
+       "Entrepôt chauffé, Boucherville",
+       "Prix affichés, zéro surprise",
+       "Soumission en 60 secondes",
+       "Livraison 300 $, 15 km inclus",
+       "MobilCube | Mini-entreposage",
+       "Rive-Sud, Montréal et Laval",
+       "Aucun frais d'administration",
+       "Appelez : réponse immédiate"
+      ],
+      "descriptions": [
+       "Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme.",
+       "Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé.",
+       "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
+       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+      ],
+      "final_urls": [
+       "https://www.mobilcube.com/fr/prix-location/"
+      ],
+      "path1": "mini-entrepot",
       "path2": "rive-sud"
      }
     }
@@ -1649,7 +1780,7 @@
      "creative": {
       "headlines": [
        "Déménagez sans camion",
-       "Un seul conteneur, 160 pi²",
+       "Mini-entrepôt livré chez vous",
        "Rénovation : meubles à l'abri",
        "Chargez à votre rythme",
        "Chez vous ou à notre entrepôt",
@@ -1659,13 +1790,13 @@
        "Prix affichés, zéro surprise",
        "Soumission en 60 secondes",
        "Livraison 300 $, 15 km inclus",
-       "MobilCube | Entreposage mobile",
+       "MobilCube | Mini-entreposage",
        "Rive-Sud, Montréal et Laval",
        "Aucun frais d'administration",
        "Appelez : réponse immédiate"
       ],
       "descriptions": [
-       "On livre le conteneur, vous chargez à votre rythme, on le déplace à la nouvelle adresse.",
+       "On livre votre mini-entrepôt, vous le remplissez, on le déplace à votre nouvelle adresse.",
        "350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus.",
        "Rénovation ? Vos meubles restent chez vous, à l'abri de la poussière, accessibles 24/7.",
        "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
@@ -1674,7 +1805,7 @@
        "https://www.mobilcube.com/fr/prix-location/"
       ],
       "path1": "demenagement",
-      "path2": "conteneur"
+      "path2": "mini-entrepot"
      }
     }
    ]
@@ -1769,32 +1900,32 @@
      "name": "RSA | Géo Montréal, Laval, couronnes (pausé)",
      "creative": {
       "headlines": [
-       "Entreposage mobile Rive-Sud",
-       "Un seul conteneur, 160 pi²",
-       "Assez grand pour un 5 et demi",
-       "Chargez à votre rythme",
+       "Mini-entreposage mobile",
+       "Livré, rempli, entreposé",
+       "Mini-entrepôt privé de 160 pi²",
        "Chez vous ou à notre entrepôt",
+       "On l'entrepose pour vous",
+       "Assez grand pour un 5 et demi",
        "Dès 180 $/mois (24 mois)",
        "Entrepôt chauffé, Boucherville",
-       "Accès 24/7 dans votre entrée",
        "Prix affichés, zéro surprise",
        "Soumission en 60 secondes",
        "Livraison 300 $, 15 km inclus",
-       "MobilCube | Entreposage mobile",
+       "MobilCube | Mini-entreposage",
        "Rive-Sud, Montréal et Laval",
        "Aucun frais d'administration",
        "Appelez : réponse immédiate"
       ],
       "descriptions": [
-       "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
+       "Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme.",
+       "Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé.",
        "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-       "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
        "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
       ],
       "final_urls": [
        "https://www.mobilcube.com/fr/prix-location/"
       ],
-      "path1": "mobile",
+      "path1": "mini-entrepot",
       "path2": "rive-sud"
      }
     }
@@ -2050,32 +2181,32 @@
      "name": "RSA | Rive-Sud (géo)",
      "creative": {
       "headlines": [
-       "Entreposage mobile Rive-Sud",
-       "Un seul conteneur, 160 pi²",
-       "Assez grand pour un 5 et demi",
-       "Chargez à votre rythme",
+       "Mini-entreposage mobile",
+       "Livré, rempli, entreposé",
+       "Mini-entrepôt privé de 160 pi²",
        "Chez vous ou à notre entrepôt",
+       "On l'entrepose pour vous",
+       "Assez grand pour un 5 et demi",
        "Dès 180 $/mois (24 mois)",
        "Entrepôt chauffé, Boucherville",
-       "Accès 24/7 dans votre entrée",
        "Prix affichés, zéro surprise",
        "Soumission en 60 secondes",
        "Livraison 300 $, 15 km inclus",
-       "MobilCube | Entreposage mobile",
+       "MobilCube | Mini-entreposage",
        "Rive-Sud, Montréal et Laval",
        "Aucun frais d'administration",
        "Appelez : réponse immédiate"
       ],
       "descriptions": [
-       "Conteneur d'acier de 20 pi (160 pi²) livré chez vous. Chargez au sol, à votre rythme.",
+       "Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme.",
+       "Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé.",
        "350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.",
-       "Gardez-le dans votre entrée ou envoyez-le à notre entrepôt chauffé. Soumission en 60 s.",
        "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
       ],
       "final_urls": [
        "https://www.mobilcube.com/fr/prix-location/"
       ],
-      "path1": "mobile",
+      "path1": "mini-entrepot",
       "path2": "rive-sud"
      }
     }

@@ -16,7 +16,7 @@ FR | Search | Entreposage mobile,Entreposage mobile,entrepôt mobile,Phrase,3.15
 FR | Search | Entreposage mobile,Entreposage mobile,entrepôt mobile,Exact,3.15,https://www.mobilcube.com/fr/prix-location/,Enabled
 FR | Search | Entreposage mobile,Entreposage mobile,entrepot mobile,Exact,3.15,https://www.mobilcube.com/fr/prix-location/,Enabled
 FR | Search | Entreposage mobile,Entreposage mobile,location entrepôt mobile,Exact,3.50,https://www.mobilcube.com/fr/prix-location/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,mini entrepôt mobile,Exact,2.93,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt mobile,Exact,2.93,https://www.mobilcube.com/fr/prix-location/,Enabled
 FR | Search | Entreposage mobile,Entreposage mobile,entreposage livré à domicile,Phrase,2.48,https://www.mobilcube.com/fr/prix-location/,Enabled
 FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur d'entreposage livré,Phrase,2.93,https://www.mobilcube.com/fr/prix-location/,Enabled
 FR | Search | Entreposage mobile,Entreposage mobile,entreposage à domicile,Phrase,2.48,https://www.mobilcube.com/fr/prix-location/,Enabled
@@ -545,3 +545,28 @@ FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt longueuil,Exact,
 FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement et entreposage,Exact,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
 FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement entreposage,Phrase,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
 FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement entreposage,Exact,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage mobile,Phrase,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage mobile,Exact,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt mobile,Phrase,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepot mobile,Phrase,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepot mobile,Exact,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt livré,Phrase,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt livré,Exact,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage livré,Phrase,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage livré,Exact,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage à domicile,Phrase,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage à domicile,Exact,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt à domicile,Phrase,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt à domicile,Exact,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt portatif,Phrase,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt portatif,Exact,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,location mini entrepôt mobile,Phrase,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,location mini entrepôt mobile,Exact,2.80,https://www.mobilcube.com/fr/prix-location/,Enabled
+EN | Search | Mobile storage,Mobile storage,mobile mini storage,Phrase,4.00,https://www.mobilcube.com/en/pricing/,Enabled
+EN | Search | Mobile storage,Mobile storage,mobile mini storage,Exact,4.00,https://www.mobilcube.com/en/pricing/,Enabled
+EN | Search | Mobile storage,Mobile storage,mini storage delivered,Phrase,4.00,https://www.mobilcube.com/en/pricing/,Enabled
+EN | Search | Mobile storage,Mobile storage,mini storage delivered,Exact,4.00,https://www.mobilcube.com/en/pricing/,Enabled
+EN | Search | Mobile storage,Mobile storage,mini storage unit delivered,Phrase,4.00,https://www.mobilcube.com/en/pricing/,Enabled
+EN | Search | Mobile storage,Mobile storage,mini storage unit delivered,Exact,4.00,https://www.mobilcube.com/en/pricing/,Enabled
+EN | Search | Mobile storage,Mobile storage,portable mini storage,Phrase,4.00,https://www.mobilcube.com/en/pricing/,Enabled
+EN | Search | Mobile storage,Mobile storage,portable mini storage,Exact,4.00,https://www.mobilcube.com/en/pricing/,Enabled
