@@ -6,16 +6,18 @@ You are in the flow that starts with "Describe your business to get better campa
 
 Paste the French version if the wizard's campaign language is French (recommended for the first campaign), the English version for the English campaign. Do not paste both into one campaign.
 
-### French (1948 characters)
+### French (2117 characters), "mini-entreposage mobile" positioning
 
 ```
-MobilCube est une entreprise d'entreposage mobile basée à Boucherville, sur la Rive-Sud de Montréal. Nous livrons un conteneur d'entreposage en acier CORTEN de 20 pieds (environ 160 pi², 1 165 pi³, assez pour le contenu d'un 5 et demi) directement dans l'entrée du client ou sur son site commercial, partout dans le Grand Montréal (Boucherville, Longueuil, Brossard, Saint-Hubert, Sainte-Julie, Varennes, Montréal, Laval) et ailleurs au Québec. Le client charge au niveau du sol, à son rythme, sans double manutention. Il garde ensuite le conteneur chez lui avec accès 24 h sur 24, ou nous le transportons dans notre entrepôt chauffé et sécurisé de Boucherville.
+MobilCube, c'est le mini-entreposage mobile de la Rive-Sud : un mini-entrepôt privé que nous livrons directement chez vous, à Boucherville, Longueuil, Brossard, Saint-Hubert, Sainte-Julie, Varennes, Montréal, Laval et ailleurs au Québec. Plus besoin de louer un camion ni de faire des allers-retours vers un centre de mini-entreposage : votre unité arrive dans votre entrée ou devant votre commerce, vous la remplissez au niveau du sol, à votre rythme, puis vous la gardez chez vous avec accès 24 h sur 24, ou nous l'entreposons pour vous dans notre entrepôt chauffé et sécurisé de Boucherville.
+
+Chaque unité MobilCube offre environ 160 pi² (1 165 pi³) d'espace privé et verrouillable, en acier CORTEN, assez pour le contenu d'un 5 et demi. Un seul grand mini-entrepôt remplace plusieurs petits casiers ou cubes.
 
 Nos prix sont affichés : 350 $ par mois sans engagement, ou 300 $, 270 $, 220 $ et 180 $ par mois avec un engagement de 3, 6, 12 ou 24 mois. Entreposage à l'entrepôt chauffé : 19,75 $ de plus par mois. Livraison ou ramassage : 300 $ par déplacement, 15 km inclus à partir de Boucherville, puis 2 $ du km. Soumission en ligne en 60 secondes. Dépôt de 200 $ remboursé. Aucun frais d'administration mensuel.
 
-Services : entreposage mobile résidentiel (déménagement, rénovation, sinistre); entreposage de véhicules pour l'hiver, dans votre entrée ou dans votre propre conteneur à notre entrepôt chauffé (voiture, voiture de collection, moto, VTT, motoneige, remorque), dès 289,75 $ par mois sur 6 mois, sans frais de transport si vous l'amenez vous-même; entreposage saisonnier pour commerces (mobilier de terrasse de restaurants, bars, cafés et hôtels, chauffe-terrasses, parasols, mobilier de piscine de condos, surplus d'inventaire); conteneurs de chantier pour entrepreneurs. Service en français et en anglais.
+Pour qui : les familles qui déménagent ou rénovent; les propriétaires qui veulent libérer leur garage ou leur sous-sol; l'entreposage d'hiver de véhicules (voiture, voiture de collection, moto, VTT, motoneige, remorque), chez vous ou dans votre propre unité à notre entrepôt chauffé, dès 289,75 $ par mois sur 6 mois, sans frais de transport si vous l'amenez vous-même; les restaurants, bars, cafés et hôtels qui rangent leur mobilier de terrasse pour l'hiver; les commerces qui ont un surplus d'inventaire; les entrepreneurs qui ont besoin d'un espace sécurisé sur le chantier. Service en français et en anglais.
 
-Ce qui nous distingue : un seul grand conteneur de 20 pieds au lieu de plusieurs petits cubes, des prix publiés, un entrepôt chauffé sur la Rive-Sud, l'accès 24/7 à vos biens chez vous et la possibilité d'entreposer un véhicule, ce que la plupart des concurrents refusent.
+Ce qui nous distingue des centres de mini-entreposage : le mini-entrepôt vient à vous, les prix sont publiés, vous avez accès à vos biens 24/7 chez vous, notre entrepôt chauffé est sur la Rive-Sud et vous pouvez y entreposer un véhicule, ce que la plupart des concurrents refusent.
 ```
 
 ### English (1,668 characters)
@@ -34,26 +36,26 @@ Why this replaces your draft: it removes claims that need proof ("fireproof", "a
 
 French campaign:
 ```
+mini-entreposage mobile
+mini-entrepôt livré à domicile
+location mini-entrepôt
 entreposage mobile
-conteneur d'entreposage livré
-location de conteneur 20 pieds
-entreposage hiver voiture
+mini-entreposage Rive-Sud
+mini-entreposage Boucherville
+mini-entreposage Longueuil
+mini-entreposage Brossard
+entreposage auto chauffé
+entreposage voiture hiver
 remisage voiture de collection
 entreposage moto hiver
 entreposage VTT
 entreposage motoneige
-entreposage auto chauffé
 entreposage mobilier de terrasse
 entreposage saisonnier commercial
 entreposage d'inventaire
-conteneur de chantier
 entreposage déménagement
 entreposage rénovation
 entrepôt chauffé Rive-Sud
-entreposage Rive-Sud
-entreposage Longueuil
-entreposage Brossard
-entreposage Boucherville
 ```
 
 English campaign:
