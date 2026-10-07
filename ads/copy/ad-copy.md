@@ -25,7 +25,7 @@ Headlines:
 Descriptions:
 - Déposez votre auto à Boucherville : elle passe l'hiver dans son mini-entrepôt chauffé. (86)
 - Auto 160 $/mois, moto 80 $/mois, sur 6 mois. Aucun transport à payer si vous l'amenez. (86)
-- Mini-entrepôt d'acier fermé à clé, pour vous seul. Auto, moto, VTT, motoneige acceptés. (87)
+- Mini-entrepôt mobile fermé à clé, pour vous seul. Auto, moto, VTT, motoneige acceptés. (86)
 - Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond. (73)
 
 Path: /auto/chauffe
@@ -79,7 +79,7 @@ Headlines:
 - Appelez : réponse immédiate (27)
 
 Descriptions:
-- Un mini-entrepôt d'acier livré chez vous : votre auto passe l'hiver à l'abri du sel. (84)
+- Un mini-entrepôt mobile livré chez vous : votre auto passe l'hiver à l'abri du sel. (83)
 - 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (83)
 - Moto, VTT, motoneige, motomarine ou auto : chargez au sol, accès 24/7 chez vous. (80)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
@@ -107,7 +107,7 @@ Headlines:
 - Appelez : réponse immédiate (27)
 
 Descriptions:
-- Votre voiture de collection passe l'hiver dans un mini-entrepôt d'acier privé, chez vous. (89)
+- Votre voiture de collection passe l'hiver dans un mini-entrepôt mobile privé, chez vous. (88)
 - 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (83)
 - Porte de 7 pi 5 po, plancher de bois marin, verrouillage renforcé. Chargez à votre rythme. (90)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
@@ -191,7 +191,7 @@ Headlines:
 - Appelez : réponse immédiate (27)
 
 Descriptions:
-- Moto, VTT, motoneige, motomarine : un mini-entrepôt d'acier livré chez vous cet hiver. (86)
+- Moto, VTT, motoneige, motomarine : un mini-entrepôt mobile livré chez vous cet hiver. (85)
 - 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (83)
 - 1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol. (84)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
@@ -473,7 +473,7 @@ Headlines:
 Descriptions:
 - Site officiel MobilCube : prix affichés, soumission en ligne, livraison Grand Montréal. (87)
 - 350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $. (90)
-- Mini-entrepôt d'acier CORTEN de 160 pi². Chez vous ou dans notre entrepôt chauffé. (82)
+- Mini-entrepôt mobile de 160 pi². Chez vous ou dans notre entrepôt chauffé. (74)
 - Questions ? Appelez-nous : on répond en français et en anglais. (63)
 
 Path: /officiel/reservation
