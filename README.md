@@ -2,14 +2,14 @@
 
 A complete, import-ready Google Ads program for MobilCube (mobile self-storage, Boucherville / Greater Montreal), built on a competitive analysis of the Montreal storage market done on 2026-09-26.
 
-**The 8 campaigns are built, paused, in the MobilCube Google Ads account (194-768-4780), with mini-storage ads.** Everything done so far, and the results to expect, is in [`docs/09-summary-what-was-done.md`](docs/09-summary-what-was-done.md).
+**The 8 campaigns are live in the MobilCube Google Ads account (194-768-4780).** Everything done so far, and the results to expect, is in [`docs/09-summary-what-was-done.md`](docs/09-summary-what-was-done.md). Its October 7 update covers the keyword clean-up, the 93-city map, the booking-form landing pages and the new vehicle prices. Conversion tracking is in [`docs/10-suivi-conversions.md`](docs/10-suivi-conversions.md), and cross-platform marketing (Google retargeting, Meta, Microsoft) in [`docs/11-marketing-multiplateforme.md`](docs/11-marketing-multiplateforme.md).
 
 **Launching now? Read [`docs/08-launch-analysis-2026-09-30.md`](docs/08-launch-analysis-2026-09-30.md) first** (5,000 $/month plan, site blockers, competitor ad scan, verified keywords). Then [`docs/00-start-here.md`](docs/00-start-here.md). In the Google Ads campaign wizard, use [`docs/05-campaign-wizard-answers.md`](docs/05-campaign-wizard-answers.md).
 
 | Folder | What is inside |
 |---|---|
 | `docs/` | Competitive analysis with sources, the strategy, budget and forecast, seasonal calendar, wizard answers, Quebec compliance rules |
-| `ads/google-ads-editor/` | Nine CSVs to bulk-import 8 campaigns, 35 ad groups, 571 keywords (496 enabled), 35 responsive search ads, 331 shared negatives and all assets with Google Ads Editor |
+| `ads/google-ads-editor/` | Nine CSVs to bulk-import 8 campaigns, 38 ad groups, 473 keywords (398 enabled), 38 responsive search ads, 331 shared negatives and all assets with Google Ads Editor |
 | `ads/keywords/`, `ads/negatives/`, `ads/copy/` | Full keyword universe (FR + EN, with estimated volumes and CPCs), negative lists, the ad copy deck |
 | `ads/build_import.py` | Regenerates everything above and refuses copy that breaks Google's character limits |
 | `ads/api-specs/`, `ads/build_api_specs.py` | The same 8 campaigns as the payloads uploaded to the Google Ads account through the Supermetrics connector |

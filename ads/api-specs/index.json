@@ -2,8 +2,8 @@
  {
   "campaign": "FR | Search | Entreposage mobile",
   "file": "api-specs/fr-search-entreposage-mobile.json",
-  "ad_groups": 7,
-  "keywords": 188,
+  "ad_groups": 10,
+  "keywords": 185,
   "negatives": 215,
   "paused_ad_groups": [
    "Géo Montréal, Laval, couronnes (pausé)"
@@ -13,7 +13,7 @@
   "campaign": "FR | Search | Vehicules hiver",
   "file": "api-specs/fr-search-vehicules-hiver.json",
   "ad_groups": 9,
-  "keywords": 128,
+  "keywords": 74,
   "negatives": 241,
   "paused_ad_groups": [
    "Bateau (test, pausé)",
@@ -32,7 +32,7 @@
   "campaign": "EN | Search | Mobile storage",
   "file": "api-specs/en-search-mobile-storage.json",
   "ad_groups": 4,
-  "keywords": 92,
+  "keywords": 104,
   "negatives": 119,
   "paused_ad_groups": [
    "Self storage alternative (test, paused)",
@@ -43,7 +43,7 @@
   "campaign": "EN | Search | Winter vehicle",
   "file": "api-specs/en-search-winter-vehicle.json",
   "ad_groups": 5,
-  "keywords": 53,
+  "keywords": 21,
   "negatives": 149,
   "paused_ad_groups": [
    "Boat (test, paused)",
@@ -54,7 +54,7 @@
   "campaign": "EN | Search | Commercial patio",
   "file": "api-specs/en-search-commercial-patio.json",
   "ad_groups": 2,
-  "keywords": 32,
+  "keywords": 20,
   "negatives": 133,
   "paused_ad_groups": []
  },
@@ -70,7 +70,7 @@
   "campaign": "FR+EN | Search | Concurrents",
   "file": "api-specs/fr-en-search-concurrents.json",
   "ad_groups": 2,
-  "keywords": 27,
+  "keywords": 18,
   "negatives": 309,
   "paused_ad_groups": []
  }

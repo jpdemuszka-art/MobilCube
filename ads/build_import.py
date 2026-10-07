@@ -112,6 +112,17 @@ RSAS = {
           'Porte de 7 pi 5 po, plancher de bois marin, verrouillage renforcé. Chargez à votre rythme.',
           'Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond.'],
     path=('remisage', 'collection')),
+ 'fr-mobile-monteregie': dict(
+    pin1='Mini-entreposage mobile', pin2='Partout en Montérégie',
+    heads=['Livré, rempli, entreposé', 'Mini-entrepôt privé de 160 pi²', 'Chez vous ou à notre entrepôt',
+           'On l\'entrepose pour vous', 'Dès 180 $/mois (24 mois)', 'Entrepôt chauffé, Boucherville',
+           'Prix affichés, zéro surprise', 'Soumission en 60 secondes', 'Livraison 300 $, 15 km inclus',
+           'MobilCube | Mini-entreposage', 'Aucun frais d\'administration', 'Appelez : réponse immédiate', 'Basés à Boucherville'],
+    desc=['Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme.',
+          "Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé.",
+          '350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.',
+          'Basés à Boucherville. Livraison partout en Montérégie. Appelez-nous, on répond.'],
+    path=('mini-entrepot', 'monteregie')),
  'fr-vehicule-moto': dict(
     pin1='Entreposage moto chauffé', pin2='Moto : 80 $/mois sur 6 mois',
     heads=['Entrepôt chauffé, Boucherville', 'Aucun transport à payer', 'Fini le sel et la neige',
@@ -495,6 +506,22 @@ for camp, ag, lp_key, lang, kws, mts in EXTRA:
         for mt in mts:
             add_kw(camp, ag, kw, mt, None, lp_key, 'Enabled', lang, '', '', 'hand-added')
 
+# Keyword clean-up and exact-match expansion from Keyword Planner volumes (2026-10-07, ads/keyword_expansion.py):
+# keywords Google shows at 10 searches/month or fewer are removed (they sit in "Low search volume" and never serve),
+# and exact-match keywords with 20+ searches/month and an affordable top-of-page bid are added.
+EXP_PATH = os.path.join(ROOT, 'keywords', 'expansion-2026-10-07.json')
+if os.path.exists(EXP_PATH):
+    EXP = json.load(open(EXP_PATH, encoding='utf-8'))
+    MT_NAME = {'EXACT': 'Exact', 'PHRASE': 'Phrase'}
+    gone = {(r['campaign'], r['ad_group'], r['text'].lower(), MT_NAME[r['match_type']]) for r in EXP['remove']}
+    keep = [i for i, r in enumerate(kw_rows) if (r[0], r[1], r[2].lower(), r[3]) not in gone]
+    kw_rows = [kw_rows[i] for i in keep]; kw_list_rows = [kw_list_rows[i] for i in keep]
+    for a in EXP['add']:
+        lang = 'en' if a['campaign'].startswith('EN') or a['ad_group'] == 'Competitors EN' else 'fr'
+        kw_rows.append([a['campaign'], a['ad_group'], a['text'], 'Exact', f"{a['cpc_bid']:.2f}", LP[f'{lang}-mobile'], 'Enabled'])
+        kw_list_rows.append([lang, a['campaign'], a['ad_group'], a['text'], 'Exact', f"{a['cpc_bid']:.2f}",
+                             a.get('volume', ''), f"{a.get('low_bid') or ''}-{a.get('high_bid') or ''}", 'planner-2026-10-07'])
+
 # ---------------------------------------------------------------- write CSVs
 def w(name, header, rows):
     p = os.path.join(OUT, name)
@@ -535,6 +562,7 @@ def rsa_for(camp, ag):
     if camp.startswith('FR | Search | Terrasse'):
         return 'fr-terrasse' if ('restaurant' in a or 'mobilier' in a) else 'fr-terrasse-condo'
     if camp.startswith('FR | Search | Entreposage'):
+        if 'montérégie' in a: return 'fr-mobile-monteregie'
         return 'fr-mobile-demenagement' if 'ménagement' in a else 'fr-mobile'
     if camp.startswith('EN | Search | Winter'):
         if 'heated' in a: return 'en-vehicle-heated'

@@ -114,6 +114,34 @@ Descriptions:
 
 Path: /remisage/collection
 
+## fr-mobile-monteregie
+
+**Pinned 1:** Mini-entreposage mobile  
+**Pinned 2:** Partout en Montérégie
+
+Headlines:
+- Livré, rempli, entreposé (24)
+- Mini-entrepôt privé de 160 pi² (30)
+- Chez vous ou à notre entrepôt (29)
+- On l'entrepose pour vous (24)
+- Dès 180 $/mois (24 mois) (24)
+- Entrepôt chauffé, Boucherville (30)
+- Prix affichés, zéro surprise (28)
+- Soumission en 60 secondes (25)
+- Livraison 300 $, 15 km inclus (29)
+- MobilCube | Mini-entreposage (28)
+- Aucun frais d'administration (28)
+- Appelez : réponse immédiate (27)
+- Basés à Boucherville (20)
+
+Descriptions:
+- Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme. (88)
+- Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé. (80)
+- 350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $. (90)
+- Basés à Boucherville. Livraison partout en Montérégie. Appelez-nous, on répond. (79)
+
+Path: /mini-entrepot/monteregie
+
 ## fr-vehicule-moto
 
 **Pinned 1:** Entreposage moto chauffé  

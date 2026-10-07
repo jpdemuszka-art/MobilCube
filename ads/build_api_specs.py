@@ -27,26 +27,13 @@ CITY = lambda key, name: {'type': 'city', 'key': key, 'name': name, 'country': '
 TERRACE_GEO = [CITY('1002604', 'Montreal'), CITY('1002585', 'Longueuil'), CITY('1002579', 'Laval'),
                CITY('1002513', 'Brossard'), CITY('1002509', 'Boucherville')]
 QUEBEC = [{'type': 'region', 'key': '20123', 'name': 'Quebec', 'country': 'CA'}]
-# Montérégie (owner request 2026-10-07). Towns inside the 45 km circle are already covered by WAREHOUSE;
-# these are the Montérégie towns beyond it (Google city targets, looked up with targeting_search).
-MONTEREGIE_OUT = [CITY('1002550', 'Granby'), CITY('1002645', 'Sorel-Tracy'), CITY('1002638', 'Salaberry-de-Valleyfield'),
-                  CITY('1002717', 'Vaudreuil-Dorion'), CITY('1002531', 'Cowansville'), CITY('1002511', 'Bromont'),
-                  CITY('1002487', 'Acton Vale'), CITY('1002545', 'Farnham'), CITY('9224210', 'Saint-Lazare'),
-                  CITY('1002553', 'Hudson'), CITY('9196122', 'Rigaud'), CITY('9047916', 'Pincourt'),
-                  CITY('1002703', 'Sutton'), CITY('1002501', 'Bedford'), CITY('1002648', 'Saint-Alphonse-de-Granby')]
-# Terrace campaigns target towns with restaurant strips, now including the main Montérégie centres.
-TERRACE_MONTEREGIE = [CITY('1002662', 'Saint-Hyacinthe'), CITY('1002666', 'Saint-Jean-sur-Richelieu'), CITY('1002550', 'Granby'),
-                      CITY('1002521', 'Chambly'), CITY('9047846', 'Beloeil'), CITY('1002600', 'Mont-Saint-Hilaire'),
-                      CITY('1002698', 'Sainte-Julie'), CITY('1002516', 'Candiac'), CITY('1002565', 'La Prairie'),
-                      CITY('1002670', 'Saint-Lambert'), CITY('1002716', 'Varennes'), CITY('1002654', 'Saint-Constant'),
-                      CITY('1002717', 'Vaudreuil-Dorion'), CITY('1002638', 'Salaberry-de-Valleyfield'),
-                      CITY('1002645', 'Sorel-Tracy'), CITY('9216451', 'Beauharnois'), CITY('1002511', 'Bromont'),
-                      CITY('1002531', 'Cowansville')]
+# Owner's map (2026-10-07): the 45 km circle is replaced by the municipalities of the drawn zone, the same list for the
+# radius and terrace campaigns. Keys are Google geo target constants found with targeting_search (ads/geo/).
+ZONE = [CITY(c['key'], c['name']) for c in json.load(open(os.path.join(ROOT, 'geo', 'zone-2026-10-07.json'), encoding='utf-8'))['cities']]
 
 def geo_for(campaign):
     if 'Marque' in campaign: return QUEBEC
-    if 'Terrasse' in campaign or 'Commercial patio' in campaign: return TERRACE_GEO + TERRACE_MONTEREGIE
-    return [WAREHOUSE] + MONTEREGIE_OUT
+    return ZONE
 
 def schedule_for(campaign):
     if 'Terrasse' in campaign or 'Commercial patio' in campaign:

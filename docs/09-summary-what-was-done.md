@@ -2,6 +2,25 @@
 
 Prepared October 1, 2026; updated the same day after the campaigns were rebuilt in the new account with mini-storage ads. This file sums up the whole project in one place: the competitor analysis, how the keywords were chosen, what is now in your Google Ads account, and the results you can expect. Details sit in the other files in `docs/`.
 
+## Update of October 7, 2026 (campaigns live)
+
+You switched the campaigns on yourself. Sections 1 to 10 below describe the October 1 build. These are the changes since then, all applied in account 194-768-4780:
+
+- **Keywords cleaned and expanded with real Keyword Planner data.**
+  - **Removed:** 262 keywords that Google reported at 10 searches a month or fewer, which Google would not serve. Brand keywords were kept.
+  - **Added:** 164 exact-match phrases of 20 or more searches a month, about 16,000 searches a month in total. Each bid is capped per ad group (1.50 $ to 3.50 $). 182 other phrases were left out because their low-range bid was above that cap.
+  - **New ad groups:** 3 in FR Entreposage mobile ("Mini-entrepôt", "Grand Montréal (géo)", "Montérégie (géo)"). They were created paused, like everything built for you, and wait for you to turn them on.
+  - **Totals now:** 473 keywords (398 enabled), 38 ad groups, 38 ads. Rules and lists: `ads/keyword_expansion.py`, `ads/keywords/expansion-2026-10-07.json`.
+- **Your map replaces the 45 km radius.**
+  - **Cities:** the 93 cities in `ads/geo/zone-2026-10-07.json` are now targeted in 7 campaigns. They cover Montreal, Laval, the North Shore, Vaudreuil-Soulanges and the Montérégie out to Saint-Hyacinthe, Granby and Valleyfield. Marque keeps all of Quebec.
+  - **Still to do by hand:** the connector can add locations but cannot delete a radius. Remove the old 45 km circle in FR Entreposage mobile, FR Véhicules hiver, EN Mobile storage, EN Winter vehicle and Concurrents. FR Entreposage mobile also has a 1 km test circle around the warehouse; it adds no area, since Boucherville is already targeted, so delete it too.
+  - **Presence:** the setting is on in all 9 campaigns.
+- **Every ad now lands on the booking form:** `/fr/formulaire-reservation/` or `/en/booking-form/`. Sitelinks point to the prices, sizes, vehicles and patios pages.
+- **New winter vehicle prices in the heated warehouse:** car 160 $/month, motorcycle 80 $/month, on a 6-month plan. Storage at home stays 270 $/month. A new French motorcycle ad was added.
+- **Booking conversions are live.** The site now loads GTM-M69QW6VC, which fires "Réservation - formulaire" (AW-18484934240) when the WPForms booking form is sent. Call conversions are still to create: see `docs/10-suivi-conversions.md`.
+- **Patio keywords have almost no measurable search volume.** Consider moving the 16 $/day of the two patio campaigns to retargeting.
+- **Cross-platform marketing (Google retargeting, Facebook and Instagram, Microsoft Advertising):** what to switch on and in what order is in `docs/11-marketing-multiplateforme.md`.
+
 ## 1. In one minute
 
 - **8 Search campaigns are built in your new Google Ads account (MobilCube, 194-768-4780, info@mobilcube.com), all paused.** Together they hold 35 ad groups, 571 keywords and 35 ads, with sitelinks, callouts, a call button, schedules and negative keywords. Nothing spends until you turn a campaign on.

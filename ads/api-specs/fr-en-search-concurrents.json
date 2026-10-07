@@ -16,31 +16,123 @@
  "targeting": {
   "location_details": [
    {
-    "type": "custom_location",
-    "key": "",
-    "name": "1215 rue Volta, Boucherville (45 km)",
-    "latitude": 45.5685,
-    "longitude": -73.4441,
-    "radius": 45,
-    "distance_unit": "kilometer",
+    "type": "city",
+    "key": "1002604",
+    "name": "Montréal",
     "country": "CA"
    },
    {
     "type": "city",
-    "key": "1002550",
-    "name": "Granby",
+    "key": "1002724",
+    "name": "Westmount",
     "country": "CA"
    },
    {
     "type": "city",
-    "key": "1002645",
-    "name": "Sorel-Tracy",
+    "key": "1002541",
+    "name": "Dorval",
     "country": "CA"
    },
    {
     "type": "city",
-    "key": "1002638",
-    "name": "Salaberry-de-Valleyfield",
+    "key": "1002620",
+    "name": "Pointe-Claire",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002559",
+    "name": "Kirkland",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002497",
+    "name": "Beaconsfield",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002692",
+    "name": "Sainte-Anne-de-Bellevue",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002538",
+    "name": "Dollard-des-Ormeaux",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002579",
+    "name": "Laval",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002705",
+    "name": "Terrebonne",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002625",
+    "name": "Repentigny",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002505",
+    "name": "Bois-des-Filion",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002587",
+    "name": "Lorraine",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002633",
+    "name": "Rosemère",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002506",
+    "name": "Boisbriand",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002702",
+    "name": "Sainte-Thérèse",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002504",
+    "name": "Blainville",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002657",
+    "name": "Saint-Eustache",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002535",
+    "name": "Deux-Montagnes",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9047929",
+    "name": "Sainte-Marthe-sur-le-Lac",
     "country": "CA"
    },
    {
@@ -51,26 +143,254 @@
    },
    {
     "type": "city",
-    "key": "1002531",
-    "name": "Cowansville",
+    "key": "9047889",
+    "name": "L'Île-Perrot",
     "country": "CA"
    },
    {
     "type": "city",
-    "key": "1002511",
-    "name": "Bromont",
+    "key": "9222887",
+    "name": "Notre-Dame-de-l'Île-Perrot",
     "country": "CA"
    },
    {
     "type": "city",
-    "key": "1002487",
-    "name": "Acton Vale",
+    "key": "9047916",
+    "name": "Pincourt",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002582",
+    "name": "Les Cèdres",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9216451",
+    "name": "Beauharnois",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002524",
+    "name": "Châteauguay",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002595",
+    "name": "Mercier",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9208343",
+    "name": "Sainte-Martine",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002682",
+    "name": "Saint-Rémi",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9215937",
+    "name": "Saint-Philippe",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002690",
+    "name": "Sainte-Catherine",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002654",
+    "name": "Saint-Constant",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002533",
+    "name": "Delson",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002516",
+    "name": "Candiac",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002565",
+    "name": "La Prairie",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002605",
+    "name": "Napierville",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002585",
+    "name": "Longueuil",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002513",
+    "name": "Brossard",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002670",
+    "name": "Saint-Lambert",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002509",
+    "name": "Boucherville",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002653",
+    "name": "Saint-Bruno-de-Montarville",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002652",
+    "name": "Saint-Basile-le-Grand",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9047846",
+    "name": "Beloeil",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9218768",
+    "name": "Otterburn Park",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002600",
+    "name": "Mont-Saint-Hilaire",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002675",
+    "name": "Saint-Mathieu-de-Beloeil",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002698",
+    "name": "Sainte-Julie",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002716",
+    "name": "Varennes",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9047864",
+    "name": "Contrecoeur",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002519",
+    "name": "Carignan",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002521",
+    "name": "Chambly",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002626",
+    "name": "Richelieu",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9047901",
+    "name": "Marieville",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002666",
+    "name": "Saint-Jean-sur-Richelieu",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9219870",
+    "name": "Rougemont",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9047922",
+    "name": "Saint-Césaire",
     "country": "CA"
    },
    {
     "type": "city",
     "key": "1002545",
     "name": "Farnham",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002678",
+    "name": "Saint-Pie",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002662",
+    "name": "Saint-Hyacinthe",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9218207",
+    "name": "Sainte-Madeleine",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002550",
+    "name": "Granby",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002638",
+    "name": "Salaberry-de-Valleyfield",
     "country": "CA"
    },
    {
@@ -87,32 +407,170 @@
    },
    {
     "type": "city",
-    "key": "9196122",
-    "name": "Rigaud",
+    "key": "1002592",
+    "name": "Mascouche",
     "country": "CA"
    },
    {
     "type": "city",
-    "key": "9047916",
-    "name": "Pincourt",
+    "key": "9047897",
+    "name": "Lavaltrie",
     "country": "CA"
    },
    {
     "type": "city",
-    "key": "1002703",
-    "name": "Sutton",
+    "key": "9197465",
+    "name": "Saint-Sulpice",
     "country": "CA"
    },
    {
     "type": "city",
-    "key": "1002501",
-    "name": "Bedford",
+    "key": "1002599",
+    "name": "Mont-Royal",
     "country": "CA"
    },
    {
     "type": "city",
-    "key": "1002648",
-    "name": "Saint-Alphonse-de-Granby",
+    "key": "1002530",
+    "name": "Côte-Saint-Luc",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9223023",
+    "name": "Montréal-Est",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104446",
+    "name": "Pointe-Calumet",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104305",
+    "name": "Saint-Joseph-du-Lac",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9105163",
+    "name": "Saint-Amable",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104539",
+    "name": "McMasterville",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104108",
+    "name": "Verchères",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104825",
+    "name": "Calixa-Lavallée",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9105211",
+    "name": "Saint-Jean-Baptiste",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104525",
+    "name": "Mont-Saint-Grégoire",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104367",
+    "name": "Saint-Charles-sur-Richelieu",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104353",
+    "name": "Saint-Denis-sur-Richelieu",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104288",
+    "name": "Saint-Marc-sur-Richelieu",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104383",
+    "name": "Saint-Antoine-sur-Richelieu",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104227",
+    "name": "Sainte-Angèle-de-Monnoir",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9105172",
+    "name": "Saint-Blaise-sur-Richelieu",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104223",
+    "name": "Sainte-Anne-de-Sabrevois",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104196",
+    "name": "Sainte-Marie-Madeleine",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104376",
+    "name": "Saint-Bernard-de-Michaudville",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104380",
+    "name": "Saint-Barnabé-Sud",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104638",
+    "name": "La Présentation",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104312",
+    "name": "Saint-Jacques-le-Mineur",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9104269",
+    "name": "Saint-Patrice-de-Sherrington",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9105245",
+    "name": "Saint-Urbain-Premier",
     "country": "CA"
    }
   ],
@@ -1431,64 +1889,59 @@
       "cpc_bid": 2.5
      },
      {
-      "text": "pods storage montreal",
-      "match_type": "EXACT",
-      "cpc_bid": 2.5
-     },
-     {
-      "text": "pods cost montreal",
-      "match_type": "EXACT",
-      "cpc_bid": 2.5
-     },
-     {
-      "text": "cubeit montreal",
-      "match_type": "EXACT",
-      "cpc_bid": 2.48
-     },
-     {
-      "text": "cubeit storage",
-      "match_type": "EXACT",
-      "cpc_bid": 2.48
-     },
-     {
       "text": "gocube montreal",
       "match_type": "EXACT",
       "cpc_bid": 2.48
      },
      {
-      "text": "go cube storage",
-      "match_type": "PHRASE",
-      "cpc_bid": 2.48
+      "text": "u box uhaul",
+      "match_type": "EXACT",
+      "cpc_bid": 1.13
      },
      {
-      "text": "go cube storage",
+      "text": "uhaul ubox",
       "match_type": "EXACT",
-      "cpc_bid": 2.48
+      "cpc_bid": 1.69
      },
      {
-      "text": "u-box montreal",
+      "text": "pods canada",
       "match_type": "EXACT",
-      "cpc_bid": 2.48
+      "cpc_bid": 1.68
      },
      {
-      "text": "uhaul storage containers",
+      "text": "pods rental",
       "match_type": "EXACT",
-      "cpc_bid": 2.48
+      "cpc_bid": 2.29
      },
      {
-      "text": "bigsteelbox montreal",
+      "text": "pods containers",
       "match_type": "EXACT",
-      "cpc_bid": 1.8
+      "cpc_bid": 1.7
      },
      {
-      "text": "depotium car storage",
+      "text": "pods storage",
       "match_type": "EXACT",
-      "cpc_bid": 2.5
+      "cpc_bid": 1.64
      },
      {
-      "text": "public storage montreal car storage",
+      "text": "pods cost",
       "match_type": "EXACT",
-      "cpc_bid": 2.5
+      "cpc_bid": 1.46
+     },
+     {
+      "text": "cube it storage",
+      "match_type": "EXACT",
+      "cpc_bid": 2.12
+     },
+     {
+      "text": "go cube rental",
+      "match_type": "EXACT",
+      "cpc_bid": 2.22
+     },
+     {
+      "text": "ubox container",
+      "match_type": "EXACT",
+      "cpc_bid": 1.99
      }
     ]
    },
@@ -1537,11 +1990,6 @@
    "targeting": {
     "keywords": [
      {
-      "text": "pods montréal",
-      "match_type": "EXACT",
-      "cpc_bid": 1.6
-     },
-     {
       "text": "pods entreposage",
       "match_type": "EXACT",
       "cpc_bid": 1.6
@@ -1552,32 +2000,7 @@
       "cpc_bid": 1.6
      },
      {
-      "text": "pods prix",
-      "match_type": "EXACT",
-      "cpc_bid": 1.6
-     },
-     {
-      "text": "cubeit montréal",
-      "match_type": "EXACT",
-      "cpc_bid": 1.6
-     },
-     {
-      "text": "cubeit prix",
-      "match_type": "EXACT",
-      "cpc_bid": 1.6
-     },
-     {
-      "text": "cube it entreposage",
-      "match_type": "EXACT",
-      "cpc_bid": 1.6
-     },
-     {
       "text": "gocube prix",
-      "match_type": "EXACT",
-      "cpc_bid": 1.6
-     },
-     {
-      "text": "go cube montréal",
       "match_type": "EXACT",
       "cpc_bid": 1.6
      },
@@ -1587,19 +2010,9 @@
       "cpc_bid": 1.6
      },
      {
-      "text": "u-box montréal",
+      "text": "go cube prix",
       "match_type": "EXACT",
-      "cpc_bid": 1.6
-     },
-     {
-      "text": "ubox entreposage",
-      "match_type": "EXACT",
-      "cpc_bid": 1.6
-     },
-     {
-      "text": "bigsteelbox montréal",
-      "match_type": "EXACT",
-      "cpc_bid": 1.6
+      "cpc_bid": 1.99
      }
     ]
    },

@@ -1,0 +1,492 @@
+{
+ "source": "Owner's map, 2026-10-07: municipalities inside the red outline plus Granby, Salaberry-de-Valleyfield, Saint-Lazare, Hudson, Mascouche, Lavaltrie and Saint-Sulpice just outside it. Keys are Google Ads geo target constants (targeting_search).",
+ "cities": [
+  {
+   "key": "1002604",
+   "name": "Montréal",
+   "group": "island"
+  },
+  {
+   "key": "1002724",
+   "name": "Westmount",
+   "group": "island"
+  },
+  {
+   "key": "1002541",
+   "name": "Dorval",
+   "group": "island"
+  },
+  {
+   "key": "1002620",
+   "name": "Pointe-Claire",
+   "group": "island"
+  },
+  {
+   "key": "1002559",
+   "name": "Kirkland",
+   "group": "island"
+  },
+  {
+   "key": "1002497",
+   "name": "Beaconsfield",
+   "group": "island"
+  },
+  {
+   "key": "1002692",
+   "name": "Sainte-Anne-de-Bellevue",
+   "group": "island"
+  },
+  {
+   "key": "1002538",
+   "name": "Dollard-des-Ormeaux",
+   "group": "island"
+  },
+  {
+   "key": "1002579",
+   "name": "Laval",
+   "group": "north"
+  },
+  {
+   "key": "1002705",
+   "name": "Terrebonne",
+   "group": "north"
+  },
+  {
+   "key": "1002625",
+   "name": "Repentigny",
+   "group": "north"
+  },
+  {
+   "key": "1002505",
+   "name": "Bois-des-Filion",
+   "group": "north"
+  },
+  {
+   "key": "1002587",
+   "name": "Lorraine",
+   "group": "north"
+  },
+  {
+   "key": "1002633",
+   "name": "Rosemère",
+   "group": "north"
+  },
+  {
+   "key": "1002506",
+   "name": "Boisbriand",
+   "group": "north"
+  },
+  {
+   "key": "1002702",
+   "name": "Sainte-Thérèse",
+   "group": "north"
+  },
+  {
+   "key": "1002504",
+   "name": "Blainville",
+   "group": "north"
+  },
+  {
+   "key": "1002657",
+   "name": "Saint-Eustache",
+   "group": "north"
+  },
+  {
+   "key": "1002535",
+   "name": "Deux-Montagnes",
+   "group": "north"
+  },
+  {
+   "key": "9047929",
+   "name": "Sainte-Marthe-sur-le-Lac",
+   "group": "north"
+  },
+  {
+   "key": "1002717",
+   "name": "Vaudreuil-Dorion",
+   "group": "west"
+  },
+  {
+   "key": "9047889",
+   "name": "L'Île-Perrot",
+   "group": "west"
+  },
+  {
+   "key": "9222887",
+   "name": "Notre-Dame-de-l'Île-Perrot",
+   "group": "west"
+  },
+  {
+   "key": "9047916",
+   "name": "Pincourt",
+   "group": "west"
+  },
+  {
+   "key": "1002582",
+   "name": "Les Cèdres",
+   "group": "west"
+  },
+  {
+   "key": "9216451",
+   "name": "Beauharnois",
+   "group": "southwest"
+  },
+  {
+   "key": "1002524",
+   "name": "Châteauguay",
+   "group": "southwest"
+  },
+  {
+   "key": "1002595",
+   "name": "Mercier",
+   "group": "southwest"
+  },
+  {
+   "key": "9208343",
+   "name": "Sainte-Martine",
+   "group": "southwest"
+  },
+  {
+   "key": "1002682",
+   "name": "Saint-Rémi",
+   "group": "southwest"
+  },
+  {
+   "key": "9215937",
+   "name": "Saint-Philippe",
+   "group": "southwest"
+  },
+  {
+   "key": "1002690",
+   "name": "Sainte-Catherine",
+   "group": "southwest"
+  },
+  {
+   "key": "1002654",
+   "name": "Saint-Constant",
+   "group": "southwest"
+  },
+  {
+   "key": "1002533",
+   "name": "Delson",
+   "group": "southwest"
+  },
+  {
+   "key": "1002516",
+   "name": "Candiac",
+   "group": "southwest"
+  },
+  {
+   "key": "1002565",
+   "name": "La Prairie",
+   "group": "southwest"
+  },
+  {
+   "key": "1002605",
+   "name": "Napierville",
+   "group": "southwest"
+  },
+  {
+   "key": "1002585",
+   "name": "Longueuil",
+   "group": "southshore"
+  },
+  {
+   "key": "1002513",
+   "name": "Brossard",
+   "group": "southshore"
+  },
+  {
+   "key": "1002670",
+   "name": "Saint-Lambert",
+   "group": "southshore"
+  },
+  {
+   "key": "1002509",
+   "name": "Boucherville",
+   "group": "southshore"
+  },
+  {
+   "key": "1002653",
+   "name": "Saint-Bruno-de-Montarville",
+   "group": "southshore"
+  },
+  {
+   "key": "1002652",
+   "name": "Saint-Basile-le-Grand",
+   "group": "southshore"
+  },
+  {
+   "key": "9047846",
+   "name": "Beloeil",
+   "group": "southshore"
+  },
+  {
+   "key": "9218768",
+   "name": "Otterburn Park",
+   "group": "southshore"
+  },
+  {
+   "key": "1002600",
+   "name": "Mont-Saint-Hilaire",
+   "group": "southshore"
+  },
+  {
+   "key": "1002675",
+   "name": "Saint-Mathieu-de-Beloeil",
+   "group": "southshore"
+  },
+  {
+   "key": "1002698",
+   "name": "Sainte-Julie",
+   "group": "southshore"
+  },
+  {
+   "key": "1002716",
+   "name": "Varennes",
+   "group": "southshore"
+  },
+  {
+   "key": "9047864",
+   "name": "Contrecoeur",
+   "group": "southshore"
+  },
+  {
+   "key": "1002519",
+   "name": "Carignan",
+   "group": "southshore"
+  },
+  {
+   "key": "1002521",
+   "name": "Chambly",
+   "group": "southshore"
+  },
+  {
+   "key": "1002626",
+   "name": "Richelieu",
+   "group": "southshore"
+  },
+  {
+   "key": "9047901",
+   "name": "Marieville",
+   "group": "southshore"
+  },
+  {
+   "key": "1002666",
+   "name": "Saint-Jean-sur-Richelieu",
+   "group": "southshore"
+  },
+  {
+   "key": "9219870",
+   "name": "Rougemont",
+   "group": "southshore"
+  },
+  {
+   "key": "9047922",
+   "name": "Saint-Césaire",
+   "group": "southshore"
+  },
+  {
+   "key": "1002545",
+   "name": "Farnham",
+   "group": "southshore"
+  },
+  {
+   "key": "1002678",
+   "name": "Saint-Pie",
+   "group": "southshore"
+  },
+  {
+   "key": "1002662",
+   "name": "Saint-Hyacinthe",
+   "group": "southshore"
+  },
+  {
+   "key": "9218207",
+   "name": "Sainte-Madeleine",
+   "group": "southshore"
+  },
+  {
+   "key": "1002550",
+   "name": "Granby",
+   "group": "edge"
+  },
+  {
+   "key": "1002638",
+   "name": "Salaberry-de-Valleyfield",
+   "group": "edge"
+  },
+  {
+   "key": "9224210",
+   "name": "Saint-Lazare",
+   "group": "edge"
+  },
+  {
+   "key": "1002553",
+   "name": "Hudson",
+   "group": "edge"
+  },
+  {
+   "key": "1002592",
+   "name": "Mascouche",
+   "group": "edge"
+  },
+  {
+   "key": "9047897",
+   "name": "Lavaltrie",
+   "group": "edge"
+  },
+  {
+   "key": "9197465",
+   "name": "Saint-Sulpice",
+   "group": "edge"
+  },
+  {
+   "key": "1002599",
+   "name": "Mont-Royal",
+   "group": "island"
+  },
+  {
+   "key": "1002530",
+   "name": "Côte-Saint-Luc",
+   "group": "island"
+  },
+  {
+   "key": "9223023",
+   "name": "Montréal-Est",
+   "group": "island"
+  },
+  {
+   "key": "9104446",
+   "name": "Pointe-Calumet",
+   "group": "north"
+  },
+  {
+   "key": "9104305",
+   "name": "Saint-Joseph-du-Lac",
+   "group": "north"
+  },
+  {
+   "key": "9105163",
+   "name": "Saint-Amable",
+   "group": "southshore"
+  },
+  {
+   "key": "9104539",
+   "name": "McMasterville",
+   "group": "southshore"
+  },
+  {
+   "key": "9104108",
+   "name": "Verchères",
+   "group": "southshore"
+  },
+  {
+   "key": "9104825",
+   "name": "Calixa-Lavallée",
+   "group": "southshore"
+  },
+  {
+   "key": "9105211",
+   "name": "Saint-Jean-Baptiste",
+   "group": "southshore"
+  },
+  {
+   "key": "9104525",
+   "name": "Mont-Saint-Grégoire",
+   "group": "southshore"
+  },
+  {
+   "key": "9104367",
+   "name": "Saint-Charles-sur-Richelieu",
+   "group": "southshore"
+  },
+  {
+   "key": "9104353",
+   "name": "Saint-Denis-sur-Richelieu",
+   "group": "southshore"
+  },
+  {
+   "key": "9104288",
+   "name": "Saint-Marc-sur-Richelieu",
+   "group": "southshore"
+  },
+  {
+   "key": "9104383",
+   "name": "Saint-Antoine-sur-Richelieu",
+   "group": "southshore"
+  },
+  {
+   "key": "9104227",
+   "name": "Sainte-Angèle-de-Monnoir",
+   "group": "southshore"
+  },
+  {
+   "key": "9105172",
+   "name": "Saint-Blaise-sur-Richelieu",
+   "group": "southshore"
+  },
+  {
+   "key": "9104223",
+   "name": "Sainte-Anne-de-Sabrevois",
+   "group": "southshore"
+  },
+  {
+   "key": "9104196",
+   "name": "Sainte-Marie-Madeleine",
+   "group": "southshore"
+  },
+  {
+   "key": "9104376",
+   "name": "Saint-Bernard-de-Michaudville",
+   "group": "southshore"
+  },
+  {
+   "key": "9104380",
+   "name": "Saint-Barnabé-Sud",
+   "group": "southshore"
+  },
+  {
+   "key": "9104638",
+   "name": "La Présentation",
+   "group": "southshore"
+  },
+  {
+   "key": "9104312",
+   "name": "Saint-Jacques-le-Mineur",
+   "group": "southwest"
+  },
+  {
+   "key": "9104269",
+   "name": "Saint-Patrice-de-Sherrington",
+   "group": "southwest"
+  },
+  {
+   "key": "9105245",
+   "name": "Saint-Urbain-Premier",
+   "group": "southwest"
+  }
+ ],
+ "no_google_target": [
+  "Hampstead",
+  "Montréal-Ouest",
+  "Baie-D'Urfé",
+  "Senneville",
+  "Charlemagne",
+  "Vaudreuil-sur-le-Lac",
+  "Terrasse-Vaudreuil",
+  "Pointe-des-Cascades",
+  "Léry",
+  "Saint-Isidore",
+  "Saint-Michel",
+  "Saint-Mathieu",
+  "Saint-Paul-de-l'Île-aux-Noix",
+  "Saint-Alexandre",
+  "Sainte-Brigide-d'Iberville",
+  "Ange-Gardien",
+  "Saint-Paul-d'Abbotsford",
+  "Saint-Damase",
+  "Saint-Dominique",
+  "Saint-Jude"
+ ]
+}

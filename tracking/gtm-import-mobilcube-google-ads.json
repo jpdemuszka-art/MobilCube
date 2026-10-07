@@ -237,7 +237,8 @@
         },
         "consentSettings": {
           "consentStatus": "NOT_SET"
-        }
+        },
+        "paused": true
       }
     ],
     "trigger": [
@@ -326,7 +327,7 @@
           {
             "type": "TEMPLATE",
             "key": "value",
-            "value": "AW-REMPLACER"
+            "value": "AW-18484934240"
           }
         ],
         "fingerprint": "0",
@@ -342,7 +343,7 @@
           {
             "type": "TEMPLATE",
             "key": "value",
-            "value": "REMPLACER"
+            "value": "18484934240"
           }
         ],
         "fingerprint": "0",
@@ -358,7 +359,7 @@
           {
             "type": "TEMPLATE",
             "key": "value",
-            "value": "REMPLACER_LABEL_RESERVATION"
+            "value": "cdedCLmly5QdEODspu5E"
           }
         ],
         "fingerprint": "0",
