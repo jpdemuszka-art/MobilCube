@@ -356,10 +356,6 @@
     "match_type": "PHRASE"
    },
    {
-    "text": "granby",
-    "match_type": "PHRASE"
-   },
-   {
     "text": "france",
     "match_type": "PHRASE"
    },

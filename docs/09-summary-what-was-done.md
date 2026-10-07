@@ -19,6 +19,7 @@ Prepared October 1, 2026; updated the same day after the campaigns were rebuilt 
 | Unit | One 20 ft CORTEN steel container, 1,165 cu ft, about 160 sq ft |
 | Rent at your place | 350 $/month with no commitment; 300 / 270 / 220 / 180 $/month on 3 / 6 / 12 / 24 months |
 | Rent at the heated Boucherville warehouse | Same plans + 19.75 $/month (for example 289.75 $/month on 6 months) |
+| Winter vehicles in the heated warehouse (since 2026-10-07) | Car 160 $/month, motorcycle 80 $/month, on 6 months, no transport fee when you drive in |
 | Delivery | 300 $ per movement, 15 km included, then 2 $/km |
 | Vehicles | Accepted in the unit at the customer's home or inside the unit at the heated warehouse |
 | Deposit | 200 $, refunded |
@@ -58,7 +59,8 @@ Cubeit, Depotium and Access belong to the same owner and share ad accounts. All 
 
 | Use | What the customer pays elsewhere | MobilCube | Decision |
 |---|---|---|---|
-| Car, heated indoor | Toyota Montréal-Nord heated parking: 475–555 $/month | 289.75 $/month in a heated unit of its own, about 40 % cheaper | **Push hardest** |
+| Car, heated indoor | Toyota Montréal-Nord heated parking: 475–555 $/month | 160 $/month in the heated warehouse, about 70 % cheaper | **Push hardest** |
+| Motorcycle, heated indoor | Dealers and lots, a few hundred $ a season | 80 $/month in the heated warehouse (480 $ for 6 months) | Push |
 | Car at home | Rented garage: 165–350 $/month | About 370 $/month with 24/7 access | Push to people without a garage |
 | Two vehicles, or a car plus summer gear | Two spots, or a garage plus a locker | Same price for everything | Strongest value, leads the vehicle ads |
 | Moving, renovation | Cubeit and PODS hide prices | 350 $/month + 300 $ delivery | Push all year |

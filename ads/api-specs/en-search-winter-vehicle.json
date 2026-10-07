@@ -24,6 +24,96 @@
     "radius": 45,
     "distance_unit": "kilometer",
     "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002550",
+    "name": "Granby",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002645",
+    "name": "Sorel-Tracy",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002638",
+    "name": "Salaberry-de-Valleyfield",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002717",
+    "name": "Vaudreuil-Dorion",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002531",
+    "name": "Cowansville",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002511",
+    "name": "Bromont",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002487",
+    "name": "Acton Vale",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002545",
+    "name": "Farnham",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9224210",
+    "name": "Saint-Lazare",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002553",
+    "name": "Hudson",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9196122",
+    "name": "Rigaud",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9047916",
+    "name": "Pincourt",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002703",
+    "name": "Sutton",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002501",
+    "name": "Bedford",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002648",
+    "name": "Saint-Alphonse-de-Granby",
+    "country": "CA"
    }
   ],
   "negative_keywords": [

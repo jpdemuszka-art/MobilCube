@@ -4,7 +4,7 @@
   "file": "api-specs/fr-search-entreposage-mobile.json",
   "ad_groups": 7,
   "keywords": 188,
-  "negatives": 216,
+  "negatives": 215,
   "paused_ad_groups": [
    "Géo Montréal, Laval, couronnes (pausé)"
   ]
@@ -14,7 +14,7 @@
   "file": "api-specs/fr-search-vehicules-hiver.json",
   "ad_groups": 9,
   "keywords": 128,
-  "negatives": 242,
+  "negatives": 241,
   "paused_ad_groups": [
    "Bateau (test, pausé)",
    "Motomarine & petit bateau"
@@ -25,7 +25,7 @@
   "file": "api-specs/fr-search-terrasse-commercial.json",
   "ad_groups": 5,
   "keywords": 33,
-  "negatives": 223,
+  "negatives": 222,
   "paused_ad_groups": []
  },
  {
@@ -63,7 +63,7 @@
   "file": "api-specs/fr-en-search-marque.json",
   "ad_groups": 1,
   "keywords": 18,
-  "negatives": 308,
+  "negatives": 307,
   "paused_ad_groups": []
  },
  {
@@ -71,7 +71,7 @@
   "file": "api-specs/fr-en-search-concurrents.json",
   "ad_groups": 2,
   "keywords": 27,
-  "negatives": 310,
+  "negatives": 309,
   "paused_ad_groups": []
  }
 ]

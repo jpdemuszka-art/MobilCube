@@ -1,0 +1,3474 @@
+[
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile montréal",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur d'entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location conteneur entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location conteneur entreposage",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location de conteneur d'entreposage",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur entreposage montréal",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Cube d'entreposage",
+"text": "cube d'entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Cube d'entreposage",
+"text": "cube d'entreposage",
+"match_type": "EXACT",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Cube d'entreposage",
+"text": "cube entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Cube d'entreposage",
+"text": "location cube entreposage",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Cube d'entreposage",
+"text": "cube de rangement mobile",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entrepôt mobile",
+"match_type": "PHRASE",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entrepôt mobile",
+"match_type": "EXACT",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entrepot mobile",
+"match_type": "EXACT",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "location entrepôt mobile",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entrepôt mobile",
+"match_type": "EXACT",
+"cpc_bid": 2.93
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage livré à domicile",
+"match_type": "PHRASE",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur d'entreposage livré",
+"match_type": "PHRASE",
+"cpc_bid": 2.93
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage à domicile",
+"match_type": "PHRASE",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur de rangement extérieur location",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage montréal",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage près de moi",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage près de chez moi",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "service d'entreposage montréal",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "location d'entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "espace d'entreposage à louer",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "mini entrepôt montréal",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage sécurisé chauffé",
+"match_type": "PHRASE",
+"cpc_bid": 2.93
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture hiver",
+"match_type": "PHRASE",
+"cpc_bid": 2.25
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.25
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto hiver",
+"match_type": "PHRASE",
+"cpc_bid": 2.25
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.25
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage hivernal voiture",
+"match_type": "EXACT",
+"cpc_bid": 2.25
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage véhicule hiver",
+"match_type": "PHRASE",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture montréal",
+"match_type": "PHRASE",
+"cpc_bid": 2.7
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto montréal",
+"match_type": "PHRASE",
+"cpc_bid": 2.7
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture laval",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture rive-sud",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage auto chauffé",
+"match_type": "PHRASE",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage intérieur voiture",
+"match_type": "PHRASE",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Voiture collection",
+"text": "entreposage voiture de collection",
+"match_type": "PHRASE",
+"cpc_bid": 2.7
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Voiture collection",
+"text": "entreposage auto de collection hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.7
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture ancienne",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "remisage voiture hiver",
+"match_type": "PHRASE",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "remisage auto",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "garage à louer hiver voiture",
+"match_type": "PHRASE",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "où entreposer sa voiture l'hiver",
+"match_type": "PHRASE",
+"cpc_bid": 1.57
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "prix entreposage voiture hiver",
+"match_type": "PHRASE",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage décapotable hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture sport hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage VUS hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage camion hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto hiver",
+"match_type": "PHRASE",
+"cpc_bid": 2.0
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.0
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto montréal",
+"match_type": "PHRASE",
+"cpc_bid": 2.0
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "remisage moto",
+"match_type": "EXACT",
+"cpc_bid": 2.0
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage motocyclette",
+"match_type": "EXACT",
+"cpc_bid": 2.0
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "VTT",
+"text": "entreposage VTT",
+"match_type": "PHRASE",
+"cpc_bid": 1.57
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "VTT",
+"text": "entreposage VTT hiver",
+"match_type": "EXACT",
+"cpc_bid": 1.57
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "VTT",
+"text": "entreposage quad",
+"match_type": "EXACT",
+"cpc_bid": 1.57
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "VTT",
+"text": "entreposage côte à côte",
+"match_type": "EXACT",
+"cpc_bid": 1.57
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Motoneige",
+"text": "entreposage motoneige",
+"match_type": "PHRASE",
+"cpc_bid": 1.57
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Motoneige",
+"text": "entreposage motoneige été",
+"match_type": "EXACT",
+"cpc_bid": 1.57
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Remorque & équipement",
+"text": "entreposage remorque",
+"match_type": "PHRASE",
+"cpc_bid": 1.75
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Remorque & équipement",
+"text": "entreposage remorque hiver",
+"match_type": "EXACT",
+"cpc_bid": 1.75
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage kayak hiver",
+"match_type": "EXACT",
+"cpc_bid": 1.35
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage véhicule récréatif",
+"match_type": "PHRASE",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage véhicules récréatifs montréal",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Mobilier de terrasse",
+"text": "entreposage mobilier de terrasse",
+"match_type": "PHRASE",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage terrasse restaurant",
+"match_type": "PHRASE",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Mobilier de terrasse",
+"text": "entreposage terrasse hiver",
+"match_type": "PHRASE",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Mobilier de terrasse",
+"text": "entreposage mobilier extérieur",
+"match_type": "PHRASE",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Mobilier de terrasse",
+"text": "entreposage meubles de patio",
+"match_type": "PHRASE",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Mobilier de terrasse",
+"text": "entreposage mobilier de jardin",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Mobilier de terrasse",
+"text": "entreposage parasols chauffe-terrasse",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Commercial saisonnier & inventaire",
+"text": "entreposage commercial montréal",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Commercial saisonnier & inventaire",
+"text": "entreposage pour entreprise",
+"match_type": "PHRASE",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage pour restaurant",
+"match_type": "PHRASE",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Commercial saisonnier & inventaire",
+"text": "entreposage saisonnier",
+"match_type": "PHRASE",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Commercial saisonnier & inventaire",
+"text": "entreposage saisonnier commercial",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Commercial saisonnier & inventaire",
+"text": "entreposage inventaire",
+"match_type": "PHRASE",
+"cpc_bid": 2.93
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Commercial saisonnier & inventaire",
+"text": "entreposage inventaire commerce de détail",
+"match_type": "EXACT",
+"cpc_bid": 2.93
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Commercial saisonnier & inventaire",
+"text": "conteneur entreposage commercial",
+"match_type": "PHRASE",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Mobilier de terrasse",
+"text": "conteneur entreposage chantier",
+"match_type": "PHRASE",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Paysagiste & équipement",
+"text": "entreposage équipement paysagement",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Mobilier de terrasse",
+"text": "entreposage matériel événementiel",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage hôtel mobilier",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Hôtel & condo",
+"text": "entreposage condo mobilier commun",
+"match_type": "EXACT",
+"cpc_bid": 2.02
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Mobilier de terrasse",
+"text": "entreposage archives documents montréal",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "déménagement et entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage déménagement montréal",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "conteneur déménagement",
+"match_type": "PHRASE",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "conteneur de déménagement montréal",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage pendant rénovation",
+"match_type": "PHRASE",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage meubles rénovation",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage temporaire",
+"match_type": "PHRASE",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage temporaire montréal",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage court terme",
+"match_type": "PHRASE",
+"cpc_bid": 2.93
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage meubles montréal",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage entre deux déménagements",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage sinistre dégât d'eau",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile laval",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage longueuil",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage brossard",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage rive-sud",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile rive-sud",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage boucherville",
+"match_type": "PHRASE",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage sainte-julie",
+"match_type": "EXACT",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage saint-hubert",
+"match_type": "EXACT",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage candiac",
+"match_type": "EXACT",
+"cpc_bid": 3.15
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "conteneur entreposage laval",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "conteneur entreposage rive-sud",
+"match_type": "EXACT",
+"cpc_bid": 3.5
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage hiver voiture laval",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mobile storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mobile storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mobile storage",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "portable storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "portable storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "portable storage containers",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "portable storage container rental",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "portable storage container rental",
+"match_type": "EXACT",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental montreal",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental montreal",
+"match_type": "EXACT",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "rent storage container",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container delivered to your home",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container delivery",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "moving containers montreal",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "moving containers montreal",
+"match_type": "EXACT",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "moving container rental",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "moving and storage containers",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage pods montreal",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage pods montreal",
+"match_type": "EXACT",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage pod rental",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage pods",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "storage cube rental",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "storage cube rental",
+"match_type": "EXACT",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "storage cube montreal",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "storage cube montreal",
+"match_type": "EXACT",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "storage cube delivered",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "on site storage container",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container in driveway",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "temporary storage container renovation",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "self storage alternative delivered",
+"match_type": "PHRASE",
+"cpc_bid": 4.95
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mobile storage west island",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mobile storage west island",
+"match_type": "EXACT",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "storage container rental west island",
+"match_type": "PHRASE",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "storage container rental west island",
+"match_type": "EXACT",
+"cpc_bid": 5.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter car storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter car storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter car storage",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "car storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "car storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "indoor car storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "indoor car storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "heated car storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "heated car storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "classic car storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "classic car storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "car storage west island",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "car storage west island",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "vehicle storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "vehicle storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter vehicle storage near me",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Motorcycle & ATV",
+"text": "motorcycle winter storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 2.5
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Motorcycle & ATV",
+"text": "motorcycle winter storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 2.5
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Motorcycle & ATV",
+"text": "motorcycle storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 2.5
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Motorcycle & ATV",
+"text": "motorcycle storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 2.5
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Motorcycle & ATV",
+"text": "atv storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 2.5
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Motorcycle & ATV",
+"text": "atv storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 2.5
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Motorcycle & ATV",
+"text": "snowmobile storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 2.5
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Motorcycle & ATV",
+"text": "snowmobile storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 2.5
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter storage for car near me",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "where to store car for winter montreal",
+"match_type": "PHRASE",
+"cpc_bid": 3.6
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "car storage cost per month montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "patio furniture storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "patio furniture storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "patio furniture storage",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "restaurant terrace storage",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "restaurant patio furniture storage",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "commercial seasonal storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "commercial seasonal storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "seasonal storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "seasonal storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "business storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "business storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "commercial storage container rental montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "commercial storage container rental montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "inventory storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "inventory storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "storage container for business",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "jobsite storage container rental montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "jobsite storage container rental montreal",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "landscaping equipment winter storage",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "hotel patio storage winter",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "condo storage container rental",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "store patio heaters winter",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "film production storage container montreal",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Business seasonal",
+"text": "office renovation storage container",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "pods montreal",
+"match_type": "PHRASE",
+"cpc_bid": 2.5
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "pods montreal",
+"match_type": "EXACT",
+"cpc_bid": 2.5
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "pods storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 2.5
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "pods cost montreal",
+"match_type": "EXACT",
+"cpc_bid": 2.5
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "cubeit montreal",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "cubeit storage",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "gocube montreal",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "go cube storage",
+"match_type": "PHRASE",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "go cube storage",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "u-box montreal",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "uhaul storage containers",
+"match_type": "EXACT",
+"cpc_bid": 2.48
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "bigsteelbox montreal",
+"match_type": "EXACT",
+"cpc_bid": 1.8
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "depotium car storage",
+"match_type": "EXACT",
+"cpc_bid": 2.5
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Competitors EN",
+"text": "public storage montreal car storage",
+"match_type": "EXACT",
+"cpc_bid": 2.5
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube",
+"match_type": "EXACT",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube",
+"match_type": "PHRASE",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobil cube",
+"match_type": "EXACT",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobil cube",
+"match_type": "PHRASE",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube boucherville",
+"match_type": "EXACT",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube boucherville",
+"match_type": "PHRASE",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube prix",
+"match_type": "EXACT",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube prix",
+"match_type": "PHRASE",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube avis",
+"match_type": "EXACT",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube avis",
+"match_type": "PHRASE",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube entreposage",
+"match_type": "EXACT",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube storage",
+"match_type": "EXACT",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube storage",
+"match_type": "PHRASE",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube reviews",
+"match_type": "EXACT",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobilcube reviews",
+"match_type": "PHRASE",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobil cube montreal",
+"match_type": "EXACT",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Marque",
+"ad_group": "MobilCube",
+"text": "mobil cube montreal",
+"match_type": "PHRASE",
+"cpc_bid": 1.2
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "pods montréal",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "pods entreposage",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "conteneur pods",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "pods prix",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "cubeit montréal",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "cubeit prix",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "cube it entreposage",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "gocube prix",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "go cube montréal",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "gocube entreposage",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "u-box montréal",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "ubox entreposage",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR+EN | Search | Concurrents",
+"ad_group": "Concurrents FR",
+"text": "bigsteelbox montréal",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto hiver rive-sud",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto hiver rive-sud",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture hiver longueuil",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture hiver longueuil",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture hiver brossard",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture hiver brossard",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "remisage auto hiver montréal",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "remisage auto hiver montréal",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "où entreposer sa voiture l'hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage véhicule hiver boucherville",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage véhicule hiver boucherville",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage terrasse restaurant montréal",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage terrasse restaurant montréal",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "rangement terrasse restaurant hiver",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "rangement terrasse restaurant hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage mobilier restaurant",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage mobilier restaurant",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage chauffe-terrasse",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage chauffe-terrasse",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "où entreposer mobilier de terrasse",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "où entreposer mobilier de terrasse",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage terrasse bar",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Terrasse commercial",
+"ad_group": "Restaurant & bar",
+"text": "entreposage terrasse bar",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter car storage west island",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter car storage west island",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter car storage south shore",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter car storage south shore",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "car storage container montreal",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "car storage container montreal",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "where to store car for winter montreal",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "restaurant patio storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "restaurant patio storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "terrace furniture winter storage",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "terrace furniture winter storage",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "patio heater storage montreal",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "patio heater storage montreal",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "where to store patio furniture montreal",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Commercial patio",
+"ad_group": "Patio furniture",
+"text": "where to store patio furniture montreal",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile prix",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile prix",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile rive-sud",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile longueuil",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile longueuil",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile boucherville",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "entreposage mobile boucherville",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur d'entreposage à louer",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur d'entreposage à louer",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur entreposage à louer",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur entreposage à louer",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur entreposage mobile",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur entreposage mobile",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur d'entreposage mobile",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur d'entreposage mobile",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location conteneur d'entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location conteneur d'entreposage",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location conteneur 20 pieds",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location conteneur 20 pieds",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur 20 pieds à louer",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur 20 pieds à louer",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location conteneur maritime 20 pieds",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location conteneur maritime 20 pieds",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Cube d'entreposage",
+"text": "location cube entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Cube d'entreposage",
+"text": "cube entreposage mobile",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Cube d'entreposage",
+"text": "cube entreposage mobile",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Cube d'entreposage",
+"text": "cube entreposage",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage boucherville",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage à boucherville",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage à boucherville",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "mini entreposage boucherville",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "mini entreposage boucherville",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage longueuil",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage longueuil prix",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage longueuil prix",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "mini entreposage longueuil",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "mini entreposage longueuil",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage rive sud",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage rive sud",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage rive sud prix",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage rive sud prix",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage rive sud de montréal",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage rive sud de montréal",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage brossard",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "mini entreposage brossard",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "mini entreposage brossard",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage saint-hubert",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage sainte-julie",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage varennes",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage varennes",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage chambly",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage chambly",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage saint-bruno",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage saint-bruno",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage saint-lambert",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage saint-lambert",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage la prairie",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage la prairie",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage candiac",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage beloeil",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage beloeil",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage meuble prix",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage meuble prix",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage meubles",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage meubles",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage meubles montréal",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage déménagement",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage déménagement",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage pendant rénovation",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage meubles rénovation",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage meubles longueuil",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "entreposage meubles longueuil",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture hiver prix",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture hiver prix",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto hiver prix",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto hiver prix",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "prix entreposage voiture",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "prix entreposage voiture",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture rive sud",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture rive sud",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto rive sud",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto rive sud",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto hiver rive sud",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto hiver rive sud",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture longueuil",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture longueuil",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto longueuil",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto longueuil",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture boucherville",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage voiture boucherville",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto boucherville",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage auto boucherville",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage hivernal voiture",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage hivernal pour auto",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "entreposage hivernal pour auto",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "remisage voiture hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "remisage auto hiver",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver",
+"text": "remisage auto hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto hiver prix",
+"match_type": "PHRASE",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto hiver prix",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto rive sud",
+"match_type": "PHRASE",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto rive sud",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto longueuil",
+"match_type": "PHRASE",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto longueuil",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage hiver moto",
+"match_type": "PHRASE",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage hiver moto",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage chauffé pour moto",
+"match_type": "PHRASE",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage chauffé pour moto",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto chauffé",
+"match_type": "PHRASE",
+"cpc_bid": 1.6
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Moto hiver",
+"text": "entreposage moto chauffé",
+"match_type": "EXACT",
+"cpc_bid": 1.6
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental for driveway",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental for driveway",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental cost per month",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental cost per month",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental prices",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental prices",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "portable storage containers for rent",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "portable storage containers for rent",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental near me",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "storage container rental near me",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "mobile storage units near me",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "mobile storage units near me",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "moving containers near me",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "moving containers near me",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "moving container rental near me",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Portable container",
+"text": "moving container rental near me",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter car storage near me",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "winter car storage near me",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "car storage south shore montreal",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Winter car storage",
+"text": "car storage south shore montreal",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage auto chauffé",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage voiture chauffé",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage voiture chauffé",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage chauffé pour auto",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage chauffé pour auto",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage auto hiver chauffé",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage auto hiver chauffé",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage voiture intérieur",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage voiture intérieur",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage intérieur voiture",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage auto intérieur chauffé",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage auto intérieur chauffé",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage chauffé rive sud",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage chauffé rive sud",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage chauffé",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "entreposage chauffé",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "garage chauffé à louer hiver",
+"match_type": "PHRASE",
+"cpc_bid": 2.4
+},
+{
+"campaign": "FR | Search | Vehicules hiver",
+"ad_group": "Auto hiver chauffé",
+"text": "garage chauffé à louer hiver",
+"match_type": "EXACT",
+"cpc_bid": 2.4
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "heated car storage",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "heated car storage",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "indoor winter car storage",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "indoor winter car storage",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "heated winter car storage",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "heated winter car storage",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "heated motorcycle storage",
+"match_type": "PHRASE",
+"cpc_bid": 3.2
+},
+{
+"campaign": "EN | Search | Winter vehicle",
+"ad_group": "Heated car storage",
+"text": "heated motorcycle storage",
+"match_type": "EXACT",
+"cpc_bid": 3.2
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur à louer pour entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur à louer pour entreposage",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "louer un conteneur prix",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "louer un conteneur prix",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location container prix",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "location container prix",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur déménagement",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur déménagement",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur déménagement prix",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "conteneur déménagement prix",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "entrepot mobile",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Conteneur d'entreposage",
+"text": "entrepot mobile",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "location entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "location entreposage",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "prix entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "prix entreposage",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "prix pour entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "prix pour entreposage",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "espace entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "espace entreposage",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "cube entreposage prix",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Entreposage mobile",
+"text": "cube entreposage prix",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage st jean sur richelieu",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "entreposage st jean sur richelieu",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "mini entrepot st hubert",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "mini entrepot st hubert",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "mini entrepôt longueuil",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Rive-Sud (géo)",
+"text": "mini entrepôt longueuil",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "déménagement et entreposage",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "déménagement entreposage",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Déménagement & rénovation",
+"text": "déménagement entreposage",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entreposage mobile",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entreposage mobile",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entrepôt mobile",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entrepot mobile",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entrepot mobile",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entrepôt livré",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entrepôt livré",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entreposage livré",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entreposage livré",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entreposage à domicile",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entreposage à domicile",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entrepôt à domicile",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entrepôt à domicile",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entrepôt portatif",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "mini entrepôt portatif",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "location mini entrepôt mobile",
+"match_type": "PHRASE",
+"cpc_bid": 2.8
+},
+{
+"campaign": "FR | Search | Entreposage mobile",
+"ad_group": "Mini-entreposage mobile",
+"text": "location mini entrepôt mobile",
+"match_type": "EXACT",
+"cpc_bid": 2.8
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mobile mini storage",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mobile mini storage",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mini storage delivered",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mini storage delivered",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mini storage unit delivered",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "mini storage unit delivered",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "portable mini storage",
+"match_type": "PHRASE",
+"cpc_bid": 4.0
+},
+{
+"campaign": "EN | Search | Mobile storage",
+"ad_group": "Mobile storage",
+"text": "portable mini storage",
+"match_type": "EXACT",
+"cpc_bid": 4.0
+}
+]

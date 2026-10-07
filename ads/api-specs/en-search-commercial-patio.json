@@ -44,6 +44,114 @@
     "key": "1002509",
     "name": "Boucherville",
     "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002662",
+    "name": "Saint-Hyacinthe",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002666",
+    "name": "Saint-Jean-sur-Richelieu",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002550",
+    "name": "Granby",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002521",
+    "name": "Chambly",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9047846",
+    "name": "Beloeil",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002600",
+    "name": "Mont-Saint-Hilaire",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002698",
+    "name": "Sainte-Julie",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002516",
+    "name": "Candiac",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002565",
+    "name": "La Prairie",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002670",
+    "name": "Saint-Lambert",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002716",
+    "name": "Varennes",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002654",
+    "name": "Saint-Constant",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002717",
+    "name": "Vaudreuil-Dorion",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002638",
+    "name": "Salaberry-de-Valleyfield",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002645",
+    "name": "Sorel-Tracy",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "9216451",
+    "name": "Beauharnois",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002511",
+    "name": "Bromont",
+    "country": "CA"
+   },
+   {
+    "type": "city",
+    "key": "1002531",
+    "name": "Cowansville",
+    "country": "CA"
    }
   ],
   "negative_keywords": [

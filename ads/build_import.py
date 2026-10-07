@@ -476,7 +476,7 @@ NEG_ADD_FR = ['déchet', 'déchets', 'dechet', 'dechets', 'verges', 'verge', 'be
               'définition', 'definition', 'club', 'vélo', 'velo', 'pneu', 'pneus', 'herger', 'palette', 'palettes',
               'tunisie', 'maroc', 'paris', 'france', 'genève', 'lyon', 'belgique', 'suisse', 'ville de québec', 'québec city',
               'lévis', 'levis', 'saguenay', 'sherbrooke', 'drummondville', 'trois-rivières', 'trois rivieres', 'gatineau',
-              'granby', 'rimouski', 'victoriaville', 'joliette', 'rouyn', 'pas cher', 'gratuit', 'rack', 'support', 'lift',
+              'rimouski', 'victoriaville', 'joliette', 'rouyn', 'pas cher', 'gratuit', 'rack', 'support', 'lift',
               'toile', 'housse', 'étagère', 'organisateur', 'amazon', 'walmart', 'costco', 'canadian tire', 'ikea',
               'home depot', 'rona', 'princess auto', 'emploi', 'emplois', 'job']
 NEG_ADD_EN = ['dumpster', 'junk', 'waste', 'bin rental', 'for sale', 'buy', 'used', 'amazon', 'walmart', 'costco',
@@ -550,7 +550,8 @@ w('04-responsive-search-ads.csv', rsa_header, rsa_rows)
 neg_rows = []
 # Research negatives that turned out to block real rental intent ("location conteneur 20 pieds" is exactly the product;
 # "rangement terrasse restaurant" is a target query). Replaced by narrower product/purchase negatives.
-DROP_NEG = {'conteneur 20 pieds', 'conteneur maritime', 'rangement'}
+# 'granby': Montérégie is in the service area since 2026-10-07.
+DROP_NEG = {'conteneur 20 pieds', 'conteneur maritime', 'rangement', 'granby'}
 NEG_ADD_FR += ['bac de rangement', 'bacs de rangement', 'meuble de rangement', 'boîte de rangement', 'boite de rangement',
                'étagère de rangement', 'idée rangement', 'idées rangement', 'rangement garage', 'afrique', 'expédition',
                'conteneur maritime à vendre', 'conteneur maritime usagé']
