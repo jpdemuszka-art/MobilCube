@@ -1,40 +1,44 @@
 /**
- * One-off: removes every radius (proximity) target from the Search campaigns,
+ * One-off: removes every radius (proximity) target from the account's campaigns,
  * so only the city list stays targeted (93 cities from the owner's map, or
  * all of Quebec for Marque).
  * A campaign is skipped when it has no city or region target left, so a
  * campaign can never end up targeting the whole world.
- * Run once: Preview first (shows what would be removed, changes nothing), then Run.
+ * No selector condition: campaigns are filtered in code, and every step is logged.
+ * Preview logs what would be removed and changes nothing; Run applies it.
  */
-var NAME_CONTAINS = '| Search |';
-
 function main() {
-  var campaigns = AdsApp.campaigns()
-      .withCondition("campaign.status != REMOVED")
-      .withCondition("campaign.name CONTAINS '" + NAME_CONTAINS + "'")
-      .get();
-  var removed = 0;
+  Logger.log('Début du script');
+  var campaigns = AdsApp.campaigns().get();
+  var seen = 0, removed = 0;
   while (campaigns.hasNext()) {
     var campaign = campaigns.next();
+    if (campaign.isRemoved()) continue;
+    seen++;
     var name = campaign.getName();
-    var cities = campaign.targeting().targetedLocations().get().totalNumEntities();
-    var radii = campaign.targeting().targetedProximities().get();
-    if (!radii.hasNext()) {
-      Logger.log(name + ': no radius, ' + cities + ' locations targeted');
+    var radii = [];
+    var it = campaign.targeting().targetedProximities().get();
+    while (it.hasNext()) radii.push(it.next());
+    var places = campaign.targeting().targetedLocations().get().totalNumEntities();
+    Logger.log(name + ' : ' + places + ' villes ou régions, ' + radii.length + ' rayon(s)');
+    if (radii.length === 0) continue;
+    if (places === 0) {
+      Logger.log('  -> ignorée : le rayon est sa seule zone ciblée');
       continue;
     }
-    if (cities === 0) {
-      Logger.log(name + ': SKIPPED, no city targeted, the radius is its only location');
-      continue;
-    }
-    while (radii.hasNext()) {
-      var radius = radii.next();
-      Logger.log(name + ': removing ' + radius.getRadius() + ' ' + radius.getRadiusUnits() +
-          ' around ' + radius.getLatitude() + ', ' + radius.getLongitude() +
-          ' (' + cities + ' locations stay targeted)');
-      radius.remove();
-      removed++;
+    for (var i = 0; i < radii.length; i++) {
+      var label = radii[i].getRadius() + ' ' + radii[i].getRadiusUnits();
+      try {
+        radii[i].remove();
+        removed++;
+        Logger.log('  -> rayon de ' + label + ' retiré');
+      } catch (e) {
+        Logger.log('  -> ERREUR sur le rayon de ' + label + ' : ' + e);
+      }
     }
   }
-  Logger.log('Radius targets removed: ' + removed);
+  Logger.log('Campagnes lues : ' + seen + ' | rayons retirés : ' + removed);
+  if (AdsApp.getExecutionInfo().isPreview()) {
+    Logger.log('MODE APERÇU : rien n\'a été modifié. Cliquez sur « Exécuter » pour appliquer.');
+  }
 }
