@@ -9,11 +9,11 @@ You switched the campaigns on yourself. Sections 1 to 10 below describe the Octo
 - **Keywords cleaned and expanded with real Keyword Planner data.**
   - **Removed:** 262 keywords that Google reported at 10 searches a month or fewer, which Google would not serve. Brand keywords were kept.
   - **Added:** 164 exact-match phrases of 20 or more searches a month, about 16,000 searches a month in total. Each bid is capped per ad group (1.50 $ to 3.50 $). 182 other phrases were left out because their low-range bid was above that cap.
-  - **New ad groups:** 3 in FR Entreposage mobile ("Mini-entrepôt", "Grand Montréal (géo)", "Montérégie (géo)"). They were created paused, like everything built for you, and wait for you to turn them on.
+  - **New ad groups:** 3 in FR Entreposage mobile ("Mini-entrepôt", "Grand Montréal (géo)", "Montérégie (géo)"). They were created paused and turned on at your request on October 7. Google approved their ads.
   - **Totals now:** 473 keywords (398 enabled), 38 ad groups, 38 ads. Rules and lists: `ads/keyword_expansion.py`, `ads/keywords/expansion-2026-10-07.json`.
 - **Your map replaces the 45 km radius.**
   - **Cities:** the 93 cities in `ads/geo/zone-2026-10-07.json` are now targeted in 7 campaigns. They cover Montreal, Laval, the North Shore, Vaudreuil-Soulanges and the Montérégie out to Saint-Hyacinthe, Granby and Valleyfield. Marque keeps all of Quebec.
-  - **Still to do by hand:** the connector can add locations but cannot delete a radius. Remove the old 45 km circle in FR Entreposage mobile, FR Véhicules hiver, EN Mobile storage, EN Winter vehicle and Concurrents. FR Entreposage mobile also has a 1 km test circle around the warehouse; it adds no area, since Boucherville is already targeted, so delete it too.
+  - **Still to do by hand:** the connector can add locations but cannot delete a radius. The old 45 km circle is still on FR Entreposage mobile, FR Véhicules hiver, EN Mobile storage, EN Winter vehicle and Concurrents. FR Entreposage mobile also has a 1 km test circle around the warehouse; it adds no area, since Boucherville is already targeted. Run `scripts/google-ads/remove-radius.js` once to remove them all, or delete them in Campaigns → Locations.
   - **Presence:** the setting is on in all 9 campaigns.
 - **Every ad now lands on the booking form:** `/fr/formulaire-reservation/` or `/en/booking-form/`. Sitelinks point to the prices, sizes, vehicles and patios pages.
 - **New winter vehicle prices in the heated warehouse:** car 160 $/month, motorcycle 80 $/month, on a 6-month plan. Storage at home stays 270 $/month. A new French motorcycle ad was added.

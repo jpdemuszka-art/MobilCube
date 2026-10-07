@@ -10,6 +10,7 @@ All scripts are read-mostly and log what they would change; set `DRY_RUN = false
 | `search-term-miner.js` | Daily 07:00 | Finds search terms with spend and zero conversions over the last 30 days that match a junk pattern (jobs, DIY, buy container, etc.) and adds them to the shared negative list `Negatives - Auto`. Also lists converting search terms not yet in the account so you can promote them to exact match. Emails a report. |
 | `call-quality-report.js` | Weekly Monday | Reports calls by campaign, calls under 30 s (likely wrong numbers or missed), missed calls by hour so you can fix ad schedule and staffing. |
 | `impression-share-guard.js` | Daily 09:00 | For the money ad groups (vehicle + terrace), reports search top impression share and lost IS (budget vs rank), and raises tCPA / budget within bounds when lost IS (budget) exceeds `MAX_LOST_IS_BUDGET` during peak weeks. |
+| `remove-radius.js` | Once, by hand | Removes the old 45 km radius (and any other radius target) from the Search campaigns, so only the city list from the owner's map stays targeted. Skips a campaign that would be left with no location. No `DRY_RUN`: click **Preview** first to see what it removes, then **Run**. |
 
 Notes:
 - Scripts use the current `AdsApp` API (Google Ads scripts). Reports use GAQL.
