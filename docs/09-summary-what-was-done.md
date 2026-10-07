@@ -13,7 +13,7 @@ You switched the campaigns on yourself. Sections 1 to 10 below describe the Octo
   - **Totals now:** 473 keywords (398 enabled), 38 ad groups, 38 ads. Rules and lists: `ads/keyword_expansion.py`, `ads/keywords/expansion-2026-10-07.json`.
 - **Your map replaces the 45 km radius.**
   - **Cities:** the 93 cities in `ads/geo/zone-2026-10-07.json` are now targeted in 7 campaigns. They cover Montreal, Laval, the North Shore, Vaudreuil-Soulanges and the Montérégie out to Saint-Hyacinthe, Granby and Valleyfield. Marque keeps all of Quebec.
-  - **Still to do by hand:** the connector can add locations but cannot delete a radius. The old 45 km circle is still on FR Entreposage mobile, FR Véhicules hiver, EN Mobile storage, EN Winter vehicle and Concurrents. FR Entreposage mobile also has a 1 km test circle around the warehouse; it adds no area, since Boucherville is already targeted. Run `scripts/google-ads/remove-radius.js` once to remove them all, or delete them in Campaigns → Locations.
+  - **Radius removed:** the connector can add locations but cannot delete a radius, so you deleted the 45 km circle (and a 1 km test circle) by hand on October 7. A read-back confirms that the 5 campaigns that had it now target only the 93 cities, with Presence. `scripts/google-ads/remove-radius.js` stays in the repository in case a radius ever needs to go again.
   - **Presence:** the setting is on in all 9 campaigns.
 - **Every ad now lands on the booking form:** `/fr/formulaire-reservation/` or `/en/booking-form/`. Sitelinks point to the prices, sizes, vehicles and patios pages.
 - **New winter vehicle prices in the heated warehouse:** car 160 $/month, motorcycle 80 $/month, on a 6-month plan. Storage at home stays 270 $/month. A new French motorcycle ad was added.
