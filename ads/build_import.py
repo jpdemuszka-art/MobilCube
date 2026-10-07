@@ -28,7 +28,10 @@ if LP_MODE == 'lp':
     }
 else:
     SITE = 'https://www.mobilcube.com'
-    LP = {
+    # Owner decision 2026-10-07: every ad lands on the booking form (quote + phone number on the page). The content
+    # pages below stay reachable through the sitelinks.
+    BOOKING = {'fr': f'{SITE}/fr/formulaire-reservation/', 'en': f'{SITE}/en/booking-form/'}
+    PAGES = {
         'fr-vehicule': f'{SITE}/fr/prix-location/',      # pricing page (hero shows a car stored in a unit)
         'fr-terrasse': f'{SITE}/fr/cas-usage/',          # use cases incl. surplus / seasonal / terrace furniture
         'fr-mobile':   f'{SITE}/fr/prix-location/',
@@ -38,6 +41,9 @@ else:
         'en-mobile':   f'{SITE}/en/pricing/',
         'en-home':     f'{SITE}/en/',
     }
+    LP = {k: BOOKING[k[:2]] for k in PAGES}
+if LP_MODE == 'lp':
+    PAGES = LP
 
 # ---------------------------------------------------------------- campaigns
 # Launch budget: 5,000 $/month. Daily budgets below sum to 149 $/day = ~4,530 $/month; the remaining
@@ -238,13 +244,13 @@ RSAS = {
 
 SITELINKS = {
  'fr': [('Tarifs et offres', 'Liberté 350 $/mois', 'Avantage dès 180 $/mois', 'https://www.mobilcube.com/fr/prix-location/'),
-        ('Soumission en 60 s', 'Formulaire rapide', 'On vous rappelle vite', 'https://www.mobilcube.com/fr/formulaire-reservation/'),
-        ('Entreposage de véhicules', 'Auto, moto, VTT, motoneige', 'Chez vous ou entrepôt chauffé', LP['fr-vehicule']),
-        ('Terrasses et commerces', 'Restaurants, bars, condos', 'Retour au printemps', LP['fr-terrasse'])],
+        ('Dimensions et capacité', 'Mini-entrepôt de 160 pi²', 'Voyez ce qui entre dans 20 pi', 'https://www.mobilcube.com/fr/capacites-stockage/'),
+        ('Entreposage de véhicules', 'Auto 160 $/mois en entrepôt chauffé', 'Moto 80 $/mois, sur 6 mois', PAGES['fr-vehicule']),
+        ('Terrasses et commerces', 'Restaurants, bars, condos', 'Retour au printemps', PAGES['fr-terrasse'])],
  'en': [('Rates and Offers', 'Freedom $350/mo', 'Advantage from $180/mo', 'https://www.mobilcube.com/en/pricing/'),
-        ('Quote in 60 Seconds', 'Short online form', 'We call you back fast', 'https://www.mobilcube.com/en/booking-form/'),
-        ('Vehicle Storage', 'Car, motorcycle, ATV', 'Driveway or heated warehouse', LP['en-vehicle']),
-        ('Patios and Businesses', 'Restaurants, bars, condos', 'Delivered back in spring', LP['en-patio'])],
+        ('Size and Capacity', '160 sq ft private unit', 'See what fits in 20 ft', 'https://www.mobilcube.com/en/capacities/'),
+        ('Vehicle Storage', 'Heated: car $160/mo', 'Motorcycle $80/mo, 6 months', PAGES['en-vehicle']),
+        ('Patios and Businesses', 'Restaurants, bars, condos', 'Delivered back in spring', PAGES['en-patio'])],
 }
 CALLOUTS = {
  'fr': ['Entrepôt chauffé', 'Accès 24/7 sur place', 'Prix affichés', 'Dépôt remboursé', 'Rive-Sud, Montréal, Laval', 'Chez vous ou en entrepôt'],

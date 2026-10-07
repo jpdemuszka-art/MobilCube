@@ -1054,15 +1054,15 @@
     "url": "https://www.mobilcube.com/fr/prix-location/"
    },
    {
-    "link_text": "Soumission en 60 s",
-    "description1": "Formulaire rapide",
-    "description2": "On vous rappelle vite",
-    "url": "https://www.mobilcube.com/fr/formulaire-reservation/"
+    "link_text": "Dimensions et capacité",
+    "description1": "Mini-entrepôt de 160 pi²",
+    "description2": "Voyez ce qui entre dans 20 pi",
+    "url": "https://www.mobilcube.com/fr/capacites-stockage/"
    },
    {
     "link_text": "Entreposage de véhicules",
-    "description1": "Auto, moto, VTT, motoneige",
-    "description2": "Chez vous ou entrepôt chauffé",
+    "description1": "Auto 160 $/mois en entrepôt chauffé",
+    "description2": "Moto 80 $/mois, sur 6 mois",
     "url": "https://www.mobilcube.com/fr/prix-location/"
    },
    {
@@ -1185,7 +1185,7 @@
        "Restaurants, bars, cafés, hôtels : videz votre terrasse avant la date limite du quartier."
       ],
       "final_urls": [
-       "https://www.mobilcube.com/fr/cas-usage/"
+       "https://www.mobilcube.com/fr/formulaire-reservation/"
       ],
       "path1": "terrasse",
       "path2": "commerce"
@@ -1306,7 +1306,7 @@
        "Restaurants, bars, cafés, hôtels : videz votre terrasse avant la date limite du quartier."
       ],
       "final_urls": [
-       "https://www.mobilcube.com/fr/cas-usage/"
+       "https://www.mobilcube.com/fr/formulaire-reservation/"
       ],
       "path1": "terrasse",
       "path2": "commerce"
@@ -1387,7 +1387,7 @@
        "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
       ],
       "final_urls": [
-       "https://www.mobilcube.com/fr/cas-usage/"
+       "https://www.mobilcube.com/fr/formulaire-reservation/"
       ],
       "path1": "entreposage",
       "path2": "commercial"
@@ -1438,7 +1438,7 @@
        "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
       ],
       "final_urls": [
-       "https://www.mobilcube.com/fr/cas-usage/"
+       "https://www.mobilcube.com/fr/formulaire-reservation/"
       ],
       "path1": "entreposage",
       "path2": "commercial"
@@ -1489,7 +1489,7 @@
        "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
       ],
       "final_urls": [
-       "https://www.mobilcube.com/fr/cas-usage/"
+       "https://www.mobilcube.com/fr/formulaire-reservation/"
       ],
       "path1": "entreposage",
       "path2": "commercial"

@@ -604,15 +604,15 @@
     "url": "https://www.mobilcube.com/en/pricing/"
    },
    {
-    "link_text": "Quote in 60 Seconds",
-    "description1": "Short online form",
-    "description2": "We call you back fast",
-    "url": "https://www.mobilcube.com/en/booking-form/"
+    "link_text": "Size and Capacity",
+    "description1": "160 sq ft private unit",
+    "description2": "See what fits in 20 ft",
+    "url": "https://www.mobilcube.com/en/capacities/"
    },
    {
     "link_text": "Vehicle Storage",
-    "description1": "Car, motorcycle, ATV",
-    "description2": "Driveway or heated warehouse",
+    "description1": "Heated: car $160/mo",
+    "description2": "Motorcycle $80/mo, 6 months",
     "url": "https://www.mobilcube.com/en/pricing/"
    },
    {
@@ -795,7 +795,7 @@
        "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
       ],
       "final_urls": [
-       "https://www.mobilcube.com/en/pricing/"
+       "https://www.mobilcube.com/en/booking-form/"
       ],
       "path1": "mini-storage",
       "path2": "montreal"
@@ -1031,7 +1031,7 @@
        "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
       ],
       "final_urls": [
-       "https://www.mobilcube.com/en/pricing/"
+       "https://www.mobilcube.com/en/booking-form/"
       ],
       "path1": "mini-storage",
       "path2": "montreal"
@@ -1102,7 +1102,7 @@
        "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
       ],
       "final_urls": [
-       "https://www.mobilcube.com/en/pricing/"
+       "https://www.mobilcube.com/en/booking-form/"
       ],
       "path1": "mini-storage",
       "path2": "montreal"
@@ -1288,7 +1288,7 @@
        "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
       ],
       "final_urls": [
-       "https://www.mobilcube.com/en/pricing/"
+       "https://www.mobilcube.com/en/booking-form/"
       ],
       "path1": "mini-storage",
       "path2": "montreal"

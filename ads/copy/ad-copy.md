@@ -510,16 +510,16 @@ Path: /compare/prices
 
 ### FR
 - Tarifs et offres — Liberté 350 $/mois / Avantage dès 180 $/mois → https://www.mobilcube.com/fr/prix-location/
-- Soumission en 60 s — Formulaire rapide / On vous rappelle vite → https://www.mobilcube.com/fr/formulaire-reservation/
-- Entreposage de véhicules — Auto, moto, VTT, motoneige / Chez vous ou entrepôt chauffé → https://www.mobilcube.com/fr/prix-location/
+- Dimensions et capacité — Mini-entrepôt de 160 pi² / Voyez ce qui entre dans 20 pi → https://www.mobilcube.com/fr/capacites-stockage/
+- Entreposage de véhicules — Auto 160 $/mois en entrepôt chauffé / Moto 80 $/mois, sur 6 mois → https://www.mobilcube.com/fr/prix-location/
 - Terrasses et commerces — Restaurants, bars, condos / Retour au printemps → https://www.mobilcube.com/fr/cas-usage/
 - Callouts: Entrepôt chauffé · Accès 24/7 sur place · Prix affichés · Dépôt remboursé · Rive-Sud, Montréal, Laval · Chez vous ou en entrepôt
 - Snippet Services: Auto, Moto, VTT, Terrasse, Déménagement, Rénovation, Chantier
 
 ### EN
 - Rates and Offers — Freedom $350/mo / Advantage from $180/mo → https://www.mobilcube.com/en/pricing/
-- Quote in 60 Seconds — Short online form / We call you back fast → https://www.mobilcube.com/en/booking-form/
-- Vehicle Storage — Car, motorcycle, ATV / Driveway or heated warehouse → https://www.mobilcube.com/en/pricing/
+- Size and Capacity — 160 sq ft private unit / See what fits in 20 ft → https://www.mobilcube.com/en/capacities/
+- Vehicle Storage — Heated: car $160/mo / Motorcycle $80/mo, 6 months → https://www.mobilcube.com/en/pricing/
 - Patios and Businesses — Restaurants, bars, condos / Delivered back in spring → https://www.mobilcube.com/en/use-cases/
 - Callouts: Heated warehouse · 24/7 on-site access · Published prices · Deposit refunded · Greater Montreal delivery · Home or warehouse storage
 - Snippet Services: Car, Motorcycle, ATV, Patio, Moving, Renovation, Jobsite

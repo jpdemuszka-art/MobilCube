@@ -1,5 +1,7 @@
 # Tracking setup (calls + forms + Quebec Law 25 consent)
 
+**Account 194-768-4780, 2026-10-07:** the site already loads GTM-K3G9FKRW (empty), GA4 G-640H58NDHN and CookieYes. The booking form is WPForms (AJAX, no thank-you page). Use `gtm-import-mobilcube-google-ads.json` (Google tag, conversion linker, WPForms success listener, booking and phone-click conversions) and follow the French step-by-step in `docs/10-suivi-conversions.md`. The `gtag-snippet.html` route below is the alternative for a site without GTM.
+
 Goal: every call and quote request is a conversion Google Ads can bid on, and nothing fires before consent in Quebec.
 
 ## 1. Conversion actions to create in Google Ads (Goals → Conversions)
