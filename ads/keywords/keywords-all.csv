@@ -464,6 +464,10 @@ fr,FR | Search | Vehicules hiver,Moto hiver,entreposage moto longueuil,Phrase,1.
 fr,FR | Search | Vehicules hiver,Moto hiver,entreposage moto longueuil,Exact,1.60,,,hand-added
 fr,FR | Search | Vehicules hiver,Moto hiver,entreposage hiver moto,Phrase,1.60,,,hand-added
 fr,FR | Search | Vehicules hiver,Moto hiver,entreposage hiver moto,Exact,1.60,,,hand-added
+fr,FR | Search | Vehicules hiver,Moto hiver,entreposage chauffé pour moto,Phrase,1.60,,,hand-added
+fr,FR | Search | Vehicules hiver,Moto hiver,entreposage chauffé pour moto,Exact,1.60,,,hand-added
+fr,FR | Search | Vehicules hiver,Moto hiver,entreposage moto chauffé,Phrase,1.60,,,hand-added
+fr,FR | Search | Vehicules hiver,Moto hiver,entreposage moto chauffé,Exact,1.60,,,hand-added
 en,EN | Search | Mobile storage,Portable container,storage container rental for driveway,Phrase,4.00,,,hand-added
 en,EN | Search | Mobile storage,Portable container,storage container rental for driveway,Exact,4.00,,,hand-added
 en,EN | Search | Mobile storage,Portable container,storage container rental cost per month,Phrase,4.00,,,hand-added
@@ -496,10 +500,6 @@ fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage voiture intéri
 fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage intérieur voiture,Exact,2.40,,,hand-added
 fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto intérieur chauffé,Phrase,2.40,,,hand-added
 fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto intérieur chauffé,Exact,2.40,,,hand-added
-fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé pour moto,Phrase,2.40,,,hand-added
-fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé pour moto,Exact,2.40,,,hand-added
-fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage moto chauffé,Phrase,2.40,,,hand-added
-fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage moto chauffé,Exact,2.40,,,hand-added
 fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé rive sud,Phrase,2.40,,,hand-added
 fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé rive sud,Exact,2.40,,,hand-added
 fr,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé,Phrase,2.40,,,hand-added

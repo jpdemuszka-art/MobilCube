@@ -1380,7 +1380,7 @@
        "Fini le sel et la neige",
        "Moto, VTT, motoneige acceptés",
        "Mini-entrepôt pour votre auto",
-       "Ou en entrepôt chauffé",
+       "Entrepôt chauffé : 160 $/mois",
        "Accès 24/7 dans votre entrée",
        "Prix affichés, zéro surprise",
        "Soumission en 60 secondes",
@@ -1484,26 +1484,6 @@
       "cpc_bid": 2.4
      },
      {
-      "text": "entreposage chauffé pour moto",
-      "match_type": "PHRASE",
-      "cpc_bid": 2.4
-     },
-     {
-      "text": "entreposage chauffé pour moto",
-      "match_type": "EXACT",
-      "cpc_bid": 2.4
-     },
-     {
-      "text": "entreposage moto chauffé",
-      "match_type": "PHRASE",
-      "cpc_bid": 2.4
-     },
-     {
-      "text": "entreposage moto chauffé",
-      "match_type": "EXACT",
-      "cpc_bid": 2.4
-     },
-     {
       "text": "entreposage chauffé rive sud",
       "match_type": "PHRASE",
       "cpc_bid": 2.4
@@ -1541,11 +1521,11 @@
      "creative": {
       "headlines": [
        "Entreposage auto chauffé",
-       "289,75 $/mois sur 6 mois",
+       "Auto : 160 $/mois sur 6 mois",
+       "Moto : 80 $/mois sur 6 mois",
        "Entrepôt chauffé, Boucherville",
        "Votre auto, son mini-entrepôt",
        "Aucun transport à payer",
-       "Moto, VTT, motoneige acceptés",
        "Fini le sel et la neige",
        "Fermé à clé, pour vous seul",
        "Accès sur rendez-vous",
@@ -1558,7 +1538,7 @@
       ],
       "descriptions": [
        "Déposez votre auto à Boucherville : elle passe l'hiver dans son mini-entrepôt chauffé.",
-       "289,75 $/mois sur 6 mois, sans frais de transport si vous l'amenez. Soumission en 60 s.",
+       "Auto 160 $/mois, moto 80 $/mois, sur 6 mois. Aucun transport à payer si vous l'amenez.",
        "Mini-entrepôt d'acier fermé à clé, pour vous seul. Auto, moto, VTT, motoneige acceptés.",
        "Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond."
       ],
@@ -1790,6 +1770,26 @@
       "text": "entreposage hiver moto",
       "match_type": "EXACT",
       "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage chauffé pour moto",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage chauffé pour moto",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage moto chauffé",
+      "match_type": "PHRASE",
+      "cpc_bid": 1.6
+     },
+     {
+      "text": "entreposage moto chauffé",
+      "match_type": "EXACT",
+      "cpc_bid": 1.6
      }
     ]
    },
@@ -1798,13 +1798,13 @@
      "name": "RSA | Moto hiver",
      "creative": {
       "headlines": [
-       "Moto, VTT, motoneige acceptés",
-       "270 $/mois sur 6 mois",
-       "Remisage hiver dans l'entrée",
+       "Entreposage moto chauffé",
+       "Moto : 80 $/mois sur 6 mois",
+       "Entrepôt chauffé, Boucherville",
+       "Aucun transport à payer",
        "Fini le sel et la neige",
-       "Mini-entrepôt livré chez vous",
-       "2 VTT et la remorque entrent",
-       "Accès 24/7 dans votre entrée",
+       "Accès sur rendez-vous",
+       "Ou chez vous : 270 $/mois",
        "Libérez votre garage",
        "Prix affichés, zéro surprise",
        "Soumission en 60 secondes",
@@ -1815,16 +1815,16 @@
        "Appelez : réponse immédiate"
       ],
       "descriptions": [
-       "Moto, VTT, motoneige, motomarine : un mini-entrepôt d'acier livré chez vous cet hiver.",
-       "270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.",
-       "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
-       "Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond."
+       "Déposez votre moto à Boucherville : elle passe l'hiver au chaud, à l'abri du sel.",
+       "80 $/mois sur 6 mois en entrepôt chauffé, sans transport si vous l'amenez. Devis en 60 s.",
+       "Ou un mini-entrepôt livré chez vous : 270 $/mois sur 6 mois, livraison 300 $ (15 km).",
+       "Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond."
       ],
       "final_urls": [
        "https://www.mobilcube.com/fr/prix-location/"
       ],
-      "path1": "entreposage",
-      "path2": "vtt-moto"
+      "path1": "moto",
+      "path2": "chauffe"
      }
     }
    ]

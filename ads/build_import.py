@@ -71,27 +71,27 @@ H_EN_COMMON = ['Prices Published, No Surprises', 'Get a Quote in 60 Seconds', 'D
 # unit delivered to the customer, rather than "conteneur" / "container".
 RSAS = {
  'fr-vehicule-chauffe': dict(
-    pin1='Entreposage auto chauffé', pin2='289,75 $/mois sur 6 mois',
-    heads=['Entrepôt chauffé, Boucherville', 'Votre auto, son mini-entrepôt', 'Aucun transport à payer',
-           'Moto, VTT, motoneige acceptés', 'Fini le sel et la neige', 'Fermé à clé, pour vous seul', 'Accès sur rendez-vous'] + H_FR_COMMON[:2] + H_FR_COMMON[3:],
+    pin1='Entreposage auto chauffé', pin2='Auto : 160 $/mois sur 6 mois',
+    heads=['Moto : 80 $/mois sur 6 mois', 'Entrepôt chauffé, Boucherville', 'Votre auto, son mini-entrepôt', 'Aucun transport à payer',
+           'Fini le sel et la neige', 'Fermé à clé, pour vous seul', 'Accès sur rendez-vous'] + H_FR_COMMON[:2] + H_FR_COMMON[3:],
     desc=["Déposez votre auto à Boucherville : elle passe l'hiver dans son mini-entrepôt chauffé.",
-          '289,75 $/mois sur 6 mois, sans frais de transport si vous l\'amenez. Soumission en 60 s.',
+          'Auto 160 $/mois, moto 80 $/mois, sur 6 mois. Aucun transport à payer si vous l\'amenez.',
           "Mini-entrepôt d'acier fermé à clé, pour vous seul. Auto, moto, VTT, motoneige acceptés.",
           'Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond.'],
     path=('auto', 'chauffe')),
  'en-vehicle-heated': dict(
-    pin1='Heated Car Storage', pin2='$289.75/mo on 6 Months',
+    pin1='Heated Car Storage', pin2='Car: $160/mo on 6 Months',
     heads=['Heated Warehouse, South Shore', 'Your Car, Its Own Mini-Storage', 'No Transport Fee to Pay',
-           'Motorcycle, ATV, Snowmobile', 'No Salt, No Snow, No Ice', 'Locked, Just for You', 'Access by Appointment'] + H_EN_COMMON[:2] + H_EN_COMMON[3:],
+           'Motorcycle: $80/mo, 6 Months', 'No Salt, No Snow, No Ice', 'Locked, Just for You', 'Access by Appointment'] + H_EN_COMMON[:2] + H_EN_COMMON[3:],
     desc=['Drop your car off in Boucherville: it spends winter in its own heated mini-storage unit.',
-          '$289.75/mo on a 6-month plan, no transport fee when you drive it in. Quote in 60 s.',
+          'Car $160/mo, motorcycle $80/mo, on a 6-month plan. No transport fee when you drive in.',
           'A locked steel unit just for you. Cars, motorcycles, ATVs and snowmobiles welcome.',
           'Based in Boucherville, off Highways 20 and 30. Call us, we answer.'],
     path=('car', 'heated')),
  'fr-vehicule': dict(
     pin1='270 $/mois sur 6 mois', pin2='Votre auto à l\'abri cet hiver',
     heads=['Remisage hiver dans l\'entrée', 'Fini le sel et la neige', 'Moto, VTT, motoneige acceptés',
-           'Mini-entrepôt pour votre auto', 'Ou en entrepôt chauffé', 'Accès 24/7 dans votre entrée'] + H_FR_COMMON,
+           'Mini-entrepôt pour votre auto', 'Entrepôt chauffé : 160 $/mois', 'Accès 24/7 dans votre entrée'] + H_FR_COMMON,
     desc=["Un mini-entrepôt d'acier livré chez vous : votre auto passe l'hiver à l'abri du sel.",
           '270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.',
           'Moto, VTT, motoneige, motomarine ou auto : chargez au sol, accès 24/7 chez vous.',
@@ -106,6 +106,15 @@ RSAS = {
           'Porte de 7 pi 5 po, plancher de bois marin, verrouillage renforcé. Chargez à votre rythme.',
           'Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond.'],
     path=('remisage', 'collection')),
+ 'fr-vehicule-moto': dict(
+    pin1='Entreposage moto chauffé', pin2='Moto : 80 $/mois sur 6 mois',
+    heads=['Entrepôt chauffé, Boucherville', 'Aucun transport à payer', 'Fini le sel et la neige',
+           'Accès sur rendez-vous', 'Ou chez vous : 270 $/mois', 'Libérez votre garage'] + H_FR_COMMON,
+    desc=["Déposez votre moto à Boucherville : elle passe l'hiver au chaud, à l'abri du sel.",
+          "80 $/mois sur 6 mois en entrepôt chauffé, sans transport si vous l'amenez. Devis en 60 s.",
+          'Ou un mini-entrepôt livré chez vous : 270 $/mois sur 6 mois, livraison 300 $ (15 km).',
+          'Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond.'],
+    path=('moto', 'chauffe')),
  'fr-vehicule-powersports': dict(
     pin1='Moto, VTT, motoneige acceptés', pin2='270 $/mois sur 6 mois',
     heads=['Remisage hiver dans l\'entrée', 'Fini le sel et la neige', 'Mini-entrepôt livré chez vous',
@@ -155,7 +164,7 @@ RSAS = {
  'en-vehicle': dict(
     pin1='$270/mo on a 6-Month Plan', pin2='Your Car Safe All Winter',
     heads=['Winter Car Storage at Home', 'No Salt, No Snow, No Ice', 'Motorcycle, ATV, Snowmobile',
-           'Mini-Storage in Your Driveway', 'Or in Our Heated Warehouse', '24/7 Access in Your Driveway'] + H_EN_COMMON,
+           'Mini-Storage in Your Driveway', 'Heated Warehouse: $160/mo', '24/7 Access in Your Driveway'] + H_EN_COMMON,
     desc=['A steel mini-storage unit delivered to your driveway: your car spends the winter inside.',
           '$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.',
           'Motorcycle, ATV, snowmobile, jet ski or car: load at ground level, 24/7 access at home.',
@@ -164,10 +173,10 @@ RSAS = {
  'en-vehicle-powersports': dict(
     pin1='Motorcycle, ATV, Snowmobile', pin2='$270/mo on a 6-Month Plan',
     heads=['Winter Storage at Home', 'No Salt, No Snow, No Ice', 'Mini-Storage in Your Driveway',
-           'Two ATVs and the Trailer Fit', '24/7 Access in Your Driveway', 'Free Up Your Garage'] + H_EN_COMMON,
+           'Two ATVs and the Trailer Fit', '24/7 Access in Your Driveway', 'Heated Motorcycle: $80/mo'] + H_EN_COMMON,
     desc=['Motorcycle, ATV, snowmobile, jet ski: a steel mini-storage unit delivered for winter.',
           '$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.',
-          '1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace.',
+          'Motorcycle in our heated Boucherville warehouse: $80/mo on a 6-month plan.',
           'Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer.'],
     path=('storage', 'atv-moto')),
  'en-patio': dict(
@@ -444,11 +453,11 @@ EXTRA = [
  ('FR | Search | Entreposage mobile', 'Rive-Sud (géo)', 'fr-mobile', 'fr', ['entreposage boucherville', 'entreposage à boucherville', 'mini entreposage boucherville', 'entreposage longueuil', 'entreposage longueuil prix', 'mini entreposage longueuil', 'entreposage rive sud', 'entreposage rive sud prix', 'entreposage rive sud de montréal', 'entreposage brossard', 'mini entreposage brossard', 'entreposage saint-hubert', 'entreposage sainte-julie', 'entreposage varennes', 'entreposage chambly', 'entreposage saint-bruno', 'entreposage saint-lambert', 'entreposage la prairie', 'entreposage candiac', 'entreposage beloeil'], ['Phrase', 'Exact']),
  ('FR | Search | Entreposage mobile', 'Déménagement & rénovation', 'fr-mobile-demenagement', 'fr', ['entreposage meuble prix', 'entreposage meubles', 'entreposage meubles montréal', 'entreposage déménagement', 'entreposage pendant rénovation', 'entreposage meubles rénovation', 'entreposage meubles longueuil'], ['Phrase', 'Exact']),
  ('FR | Search | Vehicules hiver', 'Auto hiver', 'fr-vehicule', 'fr', ['entreposage voiture hiver prix', 'entreposage auto hiver prix', 'prix entreposage voiture', 'entreposage voiture rive sud', 'entreposage auto rive sud', 'entreposage auto hiver rive sud', 'entreposage voiture longueuil', 'entreposage auto longueuil', 'entreposage voiture boucherville', 'entreposage auto boucherville', 'entreposage hivernal voiture', 'entreposage hivernal pour auto', 'remisage voiture hiver', 'remisage auto hiver'], ['Phrase', 'Exact']),
- ('FR | Search | Vehicules hiver', 'Moto hiver', 'fr-vehicule-powersports', 'fr', ['entreposage moto hiver prix', 'entreposage moto rive sud', 'entreposage moto longueuil', 'entreposage moto hiver', 'entreposage hiver moto'], ['Phrase', 'Exact']),
+ ('FR | Search | Vehicules hiver', 'Moto hiver', 'fr-vehicule-powersports', 'fr', ['entreposage moto hiver prix', 'entreposage moto rive sud', 'entreposage moto longueuil', 'entreposage moto hiver', 'entreposage hiver moto', 'entreposage chauffé pour moto', 'entreposage moto chauffé'], ['Phrase', 'Exact']),
  ('EN | Search | Mobile storage', 'Portable container', 'en-mobile', 'en', ['storage container rental for driveway', 'storage container rental cost per month', 'storage container rental prices', 'portable storage containers for rent', 'storage container rental near me', 'mobile storage units near me', 'moving containers near me', 'moving container rental near me'], ['Phrase', 'Exact']),
  ('EN | Search | Winter vehicle', 'Winter car storage', 'en-vehicle', 'en', ['winter car storage montreal', 'car storage montreal', 'car storage west island', 'winter car storage near me', 'car storage south shore montreal'], ['Phrase', 'Exact']),
  # --- Added after owner confirmed heated warehouse storage for vehicles ---
- ('FR | Search | Vehicules hiver', 'Auto hiver chauffé', 'fr-vehicule-chauffe', 'fr', ['entreposage auto chauffé', 'entreposage voiture chauffé', 'entreposage chauffé pour auto', 'entreposage auto hiver chauffé', 'entreposage voiture intérieur', 'entreposage intérieur voiture', 'entreposage auto intérieur chauffé', 'entreposage chauffé pour moto', 'entreposage moto chauffé', 'entreposage chauffé rive sud', 'entreposage chauffé', 'garage chauffé à louer hiver'], ['Phrase', 'Exact']),
+ ('FR | Search | Vehicules hiver', 'Auto hiver chauffé', 'fr-vehicule-chauffe', 'fr', ['entreposage auto chauffé', 'entreposage voiture chauffé', 'entreposage chauffé pour auto', 'entreposage auto hiver chauffé', 'entreposage voiture intérieur', 'entreposage intérieur voiture', 'entreposage auto intérieur chauffé', 'entreposage chauffé rive sud', 'entreposage chauffé', 'garage chauffé à louer hiver'], ['Phrase', 'Exact']),
  ('EN | Search | Winter vehicle', 'Heated car storage', 'en-vehicle-heated', 'en', ['heated car storage montreal', 'indoor car storage montreal', 'heated car storage', 'indoor winter car storage', 'heated winter car storage', 'heated motorcycle storage'], ['Phrase', 'Exact']),
  # --- Keyword Planner ideas from competitor pages (Cubeit Montreal, GoCube Rive-Sud), 2026-09-30 ---
  ('FR | Search | Entreposage mobile', "Conteneur d'entreposage", 'fr-mobile', 'fr', ['conteneur à louer pour entreposage', 'louer un conteneur prix', 'location container prix', 'conteneur déménagement', 'conteneur déménagement prix', 'entrepot mobile'], ['Phrase', 'Exact']),
@@ -515,6 +524,7 @@ def rsa_for(camp, ag):
         if 'chauff' in a: return 'fr-vehicule-chauffe'
         if 'collection' in a: return 'fr-vehicule-collection'
         if a.startswith('auto'): return 'fr-vehicule'
+        if a == 'moto hiver': return 'fr-vehicule-moto'
         return 'fr-vehicule-powersports'
     if camp.startswith('FR | Search | Terrasse'):
         return 'fr-terrasse' if ('restaurant' in a or 'mobilier' in a) else 'fr-terrasse-condo'

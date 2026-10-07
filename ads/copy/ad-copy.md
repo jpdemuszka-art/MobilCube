@@ -5,13 +5,13 @@ All headlines ≤ 30 characters, descriptions ≤ 90. Headline 1 and 2 are pinne
 ## fr-vehicule-chauffe
 
 **Pinned 1:** Entreposage auto chauffé  
-**Pinned 2:** 289,75 $/mois sur 6 mois
+**Pinned 2:** Auto : 160 $/mois sur 6 mois
 
 Headlines:
+- Moto : 80 $/mois sur 6 mois (27)
 - Entrepôt chauffé, Boucherville (30)
 - Votre auto, son mini-entrepôt (29)
 - Aucun transport à payer (23)
-- Moto, VTT, motoneige acceptés (29)
 - Fini le sel et la neige (23)
 - Fermé à clé, pour vous seul (27)
 - Accès sur rendez-vous (21)
@@ -24,7 +24,7 @@ Headlines:
 
 Descriptions:
 - Déposez votre auto à Boucherville : elle passe l'hiver dans son mini-entrepôt chauffé. (86)
-- 289,75 $/mois sur 6 mois, sans frais de transport si vous l'amenez. Soumission en 60 s. (87)
+- Auto 160 $/mois, moto 80 $/mois, sur 6 mois. Aucun transport à payer si vous l'amenez. (86)
 - Mini-entrepôt d'acier fermé à clé, pour vous seul. Auto, moto, VTT, motoneige acceptés. (87)
 - Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond. (73)
 
@@ -33,13 +33,13 @@ Path: /auto/chauffe
 ## en-vehicle-heated
 
 **Pinned 1:** Heated Car Storage  
-**Pinned 2:** $289.75/mo on 6 Months
+**Pinned 2:** Car: $160/mo on 6 Months
 
 Headlines:
 - Heated Warehouse, South Shore (29)
 - Your Car, Its Own Mini-Storage (30)
 - No Transport Fee to Pay (23)
-- Motorcycle, ATV, Snowmobile (27)
+- Motorcycle: $80/mo, 6 Months (28)
 - No Salt, No Snow, No Ice (24)
 - Locked, Just for You (20)
 - Access by Appointment (21)
@@ -52,7 +52,7 @@ Headlines:
 
 Descriptions:
 - Drop your car off in Boucherville: it spends winter in its own heated mini-storage unit. (88)
-- $289.75/mo on a 6-month plan, no transport fee when you drive it in. Quote in 60 s. (83)
+- Car $160/mo, motorcycle $80/mo, on a 6-month plan. No transport fee when you drive in. (86)
 - A locked steel unit just for you. Cars, motorcycles, ATVs and snowmobiles welcome. (82)
 - Based in Boucherville, off Highways 20 and 30. Call us, we answer. (66)
 
@@ -68,7 +68,7 @@ Headlines:
 - Fini le sel et la neige (23)
 - Moto, VTT, motoneige acceptés (29)
 - Mini-entrepôt pour votre auto (29)
-- Ou en entrepôt chauffé (22)
+- Entrepôt chauffé : 160 $/mois (29)
 - Accès 24/7 dans votre entrée (28)
 - Prix affichés, zéro surprise (28)
 - Soumission en 60 secondes (25)
@@ -113,6 +113,34 @@ Descriptions:
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
 Path: /remisage/collection
+
+## fr-vehicule-moto
+
+**Pinned 1:** Entreposage moto chauffé  
+**Pinned 2:** Moto : 80 $/mois sur 6 mois
+
+Headlines:
+- Entrepôt chauffé, Boucherville (30)
+- Aucun transport à payer (23)
+- Fini le sel et la neige (23)
+- Accès sur rendez-vous (21)
+- Ou chez vous : 270 $/mois (25)
+- Libérez votre garage (20)
+- Prix affichés, zéro surprise (28)
+- Soumission en 60 secondes (25)
+- Livraison 300 $, 15 km inclus (29)
+- MobilCube | Mini-entreposage (28)
+- Rive-Sud, Montréal et Laval (27)
+- Aucun frais d'administration (28)
+- Appelez : réponse immédiate (27)
+
+Descriptions:
+- Déposez votre moto à Boucherville : elle passe l'hiver au chaud, à l'abri du sel. (81)
+- 80 $/mois sur 6 mois en entrepôt chauffé, sans transport si vous l'amenez. Devis en 60 s. (89)
+- Ou un mini-entrepôt livré chez vous : 270 $/mois sur 6 mois, livraison 300 $ (15 km). (85)
+- Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond. (73)
+
+Path: /moto/chauffe
 
 ## fr-vehicule-powersports
 
@@ -264,7 +292,7 @@ Headlines:
 - No Salt, No Snow, No Ice (24)
 - Motorcycle, ATV, Snowmobile (27)
 - Mini-Storage in Your Driveway (29)
-- Or in Our Heated Warehouse (26)
+- Heated Warehouse: $160/mo (25)
 - 24/7 Access in Your Driveway (28)
 - Prices Published, No Surprises (30)
 - Get a Quote in 60 Seconds (25)
@@ -293,7 +321,7 @@ Headlines:
 - Mini-Storage in Your Driveway (29)
 - Two ATVs and the Trailer Fit (28)
 - 24/7 Access in Your Driveway (28)
-- Free Up Your Garage (19)
+- Heated Motorcycle: $80/mo (25)
 - Prices Published, No Surprises (30)
 - Get a Quote in 60 Seconds (25)
 - Delivery $300, 15 km Included (29)
@@ -305,7 +333,7 @@ Headlines:
 Descriptions:
 - Motorcycle, ATV, snowmobile, jet ski: a steel mini-storage unit delivered for winter. (85)
 - $270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds. (86)
-- 1,165 cu ft: two ATVs, the trailer and the gear fit. Load at ground level, at your pace. (88)
+- Motorcycle in our heated Boucherville warehouse: $80/mo on a 6-month plan. (74)
 - Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer. (87)
 
 Path: /storage/atv-moto
