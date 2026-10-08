@@ -3,8 +3,8 @@
   "campaign": "FR | Search | Entreposage mobile",
   "file": "api-specs/fr-search-entreposage-mobile.json",
   "ad_groups": 10,
-  "keywords": 185,
-  "negatives": 215,
+  "keywords": 183,
+  "negatives": 242,
   "paused_ad_groups": [
    "Géo Montréal, Laval, couronnes (pausé)"
   ]

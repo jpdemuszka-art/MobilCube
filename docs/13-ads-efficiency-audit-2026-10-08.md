@@ -2,6 +2,12 @@
 
 Account 194-768-4780 (Supermetrics `AW` / 1947684780). Data: 2026-10-07 09:00 to 2026-10-08 about 09:05 Montréal time. This was a read-only audit: nothing was changed in the account. All amounts are CAD.
 
+## Applied since the audit
+
+| Date | Fix | What changed in the account | Still open |
+|---|---|---|---|
+| 2026-10-08 | F1 | FR Entreposage mobile > Déménagement & rénovation: the PHRASE keywords "déménagement et entreposage" and "déménagement entreposage" were removed (the connector cannot pause a keyword; re-add them to undo). Their EXACT versions stay. The 27 movers and trucks negatives of list A were added at campaign level (215 → 242 negatives). The 93 cities, budget, bids, schedule and assets were checked unchanged after the write. | The 3 U-Haul entries of list A (`u haul`, `u-haul`, `uhaul`) wait for the owner's U-Haul decision. |
+
 ---
 
 ## 1. Verdict

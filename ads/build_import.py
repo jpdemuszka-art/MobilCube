@@ -522,6 +522,13 @@ if os.path.exists(EXP_PATH):
         kw_list_rows.append([lang, a['campaign'], a['ad_group'], a['text'], 'Exact', f"{a['cpc_bid']:.2f}",
                              a.get('volume', ''), f"{a.get('low_bid') or ''}-{a.get('high_bid') or ''}", 'planner-2026-10-07'])
 
+# Mover traffic (audit 2026-10-08, F1, applied live the same day): the PHRASE versions of these two keywords
+# matched people looking for a mover or a truck. The EXACT versions stay.
+F1_DROP = {('FR | Search | Entreposage mobile', 'Déménagement & rénovation', 'déménagement et entreposage', 'Phrase'),
+           ('FR | Search | Entreposage mobile', 'Déménagement & rénovation', 'déménagement entreposage', 'Phrase')}
+keep = [i for i, r in enumerate(kw_rows) if (r[0], r[1], r[2], r[3]) not in F1_DROP]
+kw_rows = [kw_rows[i] for i in keep]; kw_list_rows = [kw_list_rows[i] for i in keep]
+
 # ---------------------------------------------------------------- write CSVs
 def w(name, header, rows):
     p = os.path.join(OUT, name)
@@ -615,6 +622,13 @@ for c in ['FR | Search | Vehicules hiver', 'EN | Search | Winter vehicle']:
 TER_NEG = ['achat', 'acheter', 'à vendre', 'a vendre', 'vente', 'buy', 'for sale', 'ikea', 'costco', 'canadian tire', 'rona', 'housse', 'cover', 'toile', 'construction de terrasse', 'deck builder', 'permis', 'permit', 'emploi', 'job']
 for c in ['FR | Search | Terrasse commercial', 'EN | Search | Commercial patio']:
     for n in TER_NEG: camp_neg.append([c, n, 'Negative Phrase'])
+# Movers and trucks (audit 2026-10-08, list A, applied live the same day). U-Haul is left to the owner's decision.
+MOVER_NEG = ['déménageur', 'déménageurs', 'demenageur', 'demenageurs', 'compagnie de déménagement', 'compagnie de demenagement',
+             'camion de déménagement', 'camion de demenagement', 'camions de déménagement', 'camions de demenagement',
+             'location camion', 'location de camion', 'location de camions', 'camion à louer', 'camion a louer', 'louer un camion',
+             'déménagement camion', 'demenagement camion', 'uber', 'simulateur', 'longue distance', 'clan panneton',
+             'déménagement tout compris', 'demenagement tout compris', 'déménagement piano', 'demenagement piano', 'déménageur piano']
+for n in MOVER_NEG: camp_neg.append(['FR | Search | Entreposage mobile', n, 'Negative Phrase'])
 BRAND_NEG = ['mobilcube', 'mobil cube']
 for c in CAMPAIGNS:
     if 'Marque' in c: continue

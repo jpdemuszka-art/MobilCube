@@ -1428,6 +1428,114 @@
     "match_type": "PHRASE"
    },
    {
+    "text": "déménageur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "déménageurs",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "demenageur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "demenageurs",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "compagnie de déménagement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "compagnie de demenagement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "camion de déménagement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "camion de demenagement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "camions de déménagement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "camions de demenagement",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "location camion",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "location de camion",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "location de camions",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "camion à louer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "camion a louer",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "louer un camion",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "déménagement camion",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "demenagement camion",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "uber",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "simulateur",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "longue distance",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "clan panneton",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "déménagement tout compris",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "demenagement tout compris",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "déménagement piano",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "demenagement piano",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "déménageur piano",
+    "match_type": "PHRASE"
+   },
+   {
     "text": "mobilcube",
     "match_type": "EXACT"
    },
@@ -2032,11 +2140,6 @@
    "targeting": {
     "keywords": [
      {
-      "text": "déménagement et entreposage",
-      "match_type": "PHRASE",
-      "cpc_bid": 3.5
-     },
-     {
       "text": "conteneur déménagement",
       "match_type": "PHRASE",
       "cpc_bid": 3.15
@@ -2069,11 +2172,6 @@
      {
       "text": "déménagement et entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 2.8
-     },
-     {
-      "text": "déménagement entreposage",
-      "match_type": "PHRASE",
       "cpc_bid": 2.8
      },
      {

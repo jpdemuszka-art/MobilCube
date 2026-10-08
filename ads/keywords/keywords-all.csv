@@ -66,7 +66,6 @@ fr,FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage matériel 
 fr,FR | Search | Terrasse commercial,Restaurant & bar,entreposage hôtel mobilier,Exact,2.02,<10,1.50-3.00,D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire
 fr,FR | Search | Terrasse commercial,Hôtel & condo,entreposage condo mobilier commun,Exact,2.02,<10,1.50-3.00,D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire
 fr,FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage archives documents montréal,Exact,3.50,30-80,3.00-5.00,D. Terrasse / mobilier extérieur / restaurant / commercial / saisonnier / inventaire
-fr,FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement et entreposage,Phrase,3.50,200-400,3.00-5.00,E. Déménagement + entreposage / rénovation
 fr,FR | Search | Entreposage mobile,Déménagement & rénovation,conteneur déménagement,Phrase,3.15,200-400,2.50-4.50,E. Déménagement + entreposage / rénovation
 fr,FR | Search | Entreposage mobile,Déménagement & rénovation,entreposage temporaire,Phrase,3.15,200-400,2.50-4.50,E. Déménagement + entreposage / rénovation
 fr,FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage laval,Phrase,3.50,500-900,3.50-5.50,F. Géo (near-me & villes)
@@ -289,7 +288,6 @@ fr,FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot st hubert,Exac
 fr,FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt longueuil,Phrase,2.80,,,hand-added
 fr,FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt longueuil,Exact,2.80,,,hand-added
 fr,FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement et entreposage,Exact,2.80,,,hand-added
-fr,FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement entreposage,Phrase,2.80,,,hand-added
 fr,FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement entreposage,Exact,2.80,,,hand-added
 fr,FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage mobile,Phrase,2.80,,,hand-added
 fr,FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage mobile,Exact,2.80,,,hand-added
