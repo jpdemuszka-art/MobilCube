@@ -1,6 +1,6 @@
 {
  "name": "FR | Search | Entreposage mobile",
- "budget_amount": 50.0,
+ "budget_amount": 35.0,
  "budget_type": "DAILY",
  "bidding_strategy": "MANUAL_CPC",
  "platform_settings": {
@@ -1536,6 +1536,70 @@
     "match_type": "PHRASE"
    },
    {
+    "text": "roulotte",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "roulottes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vr",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "véhicule récréatif",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vehicule recreatif",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "motorisé",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "caravane",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bateau",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bateaux",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entrepôt commercial",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entrepot commercial",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entrepôt industriel",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "entrepot industriel",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "u haul",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "u-haul",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "uhaul",
+    "match_type": "PHRASE"
+   },
+   {
     "text": "mobilcube",
     "match_type": "EXACT"
    },
@@ -1613,47 +1677,47 @@
      {
       "text": "entreposage mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage mobile",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "entrepôt mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "entrepôt mobile",
       "match_type": "EXACT",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "entrepot mobile",
       "match_type": "EXACT",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage montréal",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "location d'entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "espace d'entreposage à louer",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "mini entrepôt montréal",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage mobile prix",
@@ -1708,7 +1772,7 @@
      {
       "text": "location entreposage mobile",
       "match_type": "EXACT",
-      "cpc_bid": 3.0
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage prix pied carré",
@@ -1718,7 +1782,7 @@
      {
       "text": "entrepot storage",
       "match_type": "EXACT",
-      "cpc_bid": 3.0
+      "cpc_bid": 2.8
      },
      {
       "text": "location espace entreposage",
@@ -1738,7 +1802,7 @@
      {
       "text": "unité entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 3.0
+      "cpc_bid": 2.8
      }
     ]
    },
@@ -1789,22 +1853,22 @@
      {
       "text": "conteneur d'entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "location conteneur entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "location conteneur entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "location de conteneur d'entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "conteneur entreposage mobile",
@@ -1915,22 +1979,22 @@
      {
       "text": "cube d'entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "cube d'entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "cube entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "location cube entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "location cube entreposage",
@@ -2006,7 +2070,7 @@
      {
       "text": "mini entrepôt mobile",
       "match_type": "EXACT",
-      "cpc_bid": 2.93
+      "cpc_bid": 2.8
      },
      {
       "text": "mini entreposage mobile",
@@ -2142,12 +2206,12 @@
      {
       "text": "conteneur déménagement",
       "match_type": "PHRASE",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage temporaire",
       "match_type": "PHRASE",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage meubles",
@@ -2157,11 +2221,6 @@
      {
       "text": "entreposage meubles",
       "match_type": "EXACT",
-      "cpc_bid": 2.8
-     },
-     {
-      "text": "entreposage déménagement",
-      "match_type": "PHRASE",
       "cpc_bid": 2.8
      },
      {
@@ -2374,37 +2433,37 @@
      {
       "text": "entreposage longueuil",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage brossard",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage rive-sud",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage boucherville",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage sainte-julie",
       "match_type": "EXACT",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage saint-hubert",
       "match_type": "EXACT",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage candiac",
       "match_type": "EXACT",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage boucherville",
@@ -2650,12 +2709,12 @@
      {
       "text": "mini entrepôt",
       "match_type": "EXACT",
-      "cpc_bid": 3.0
+      "cpc_bid": 2.8
      },
      {
       "text": "minientrepot",
       "match_type": "EXACT",
-      "cpc_bid": 3.0
+      "cpc_bid": 2.8
      },
      {
       "text": "location mini entrepot",
@@ -2675,7 +2734,7 @@
      {
       "text": "mini entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 3.0
+      "cpc_bid": 2.8
      }
     ]
    },

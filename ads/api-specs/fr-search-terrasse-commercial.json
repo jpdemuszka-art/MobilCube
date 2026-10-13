@@ -1,6 +1,6 @@
 {
  "name": "FR | Search | Terrasse commercial",
- "budget_amount": 12.0,
+ "budget_amount": 5.0,
  "budget_type": "DAILY",
  "bidding_strategy": "MANUAL_CPC",
  "platform_settings": {
@@ -1456,6 +1456,42 @@
     "match_type": "PHRASE"
    },
    {
+    "text": "roulotte",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "roulottes",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vr",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "véhicule récréatif",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "vehicule recreatif",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "motorisé",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "caravane",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bateau",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "bateaux",
+    "match_type": "PHRASE"
+   },
+   {
     "text": "mobilcube",
     "match_type": "EXACT"
    },
@@ -1563,7 +1599,7 @@
      {
       "text": "conteneur entreposage chantier",
       "match_type": "PHRASE",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage matériel événementiel",
@@ -1573,7 +1609,7 @@
      {
       "text": "entreposage archives documents montréal",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.8
      }
     ]
    },
@@ -1745,12 +1781,7 @@
      {
       "text": "entreposage commercial montréal",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
-     },
-     {
-      "text": "entreposage pour entreprise",
-      "match_type": "PHRASE",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage saisonnier",
@@ -1765,17 +1796,17 @@
      {
       "text": "entreposage inventaire",
       "match_type": "PHRASE",
-      "cpc_bid": 2.93
+      "cpc_bid": 2.8
      },
      {
       "text": "entreposage inventaire commerce de détail",
       "match_type": "EXACT",
-      "cpc_bid": 2.93
+      "cpc_bid": 2.8
      },
      {
       "text": "conteneur entreposage commercial",
       "match_type": "PHRASE",
-      "cpc_bid": 3.15
+      "cpc_bid": 2.8
      }
     ]
    },

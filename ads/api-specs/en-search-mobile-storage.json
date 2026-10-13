@@ -1,6 +1,6 @@
 {
  "name": "EN | Search | Mobile storage",
- "budget_amount": 15.0,
+ "budget_amount": 10.0,
  "budget_type": "DAILY",
  "bidding_strategy": "MANUAL_CPC",
  "platform_settings": {
@@ -1044,6 +1044,46 @@
     "match_type": "PHRASE"
    },
    {
+    "text": "shipping container",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "shipping containers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container cost",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container price",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "container prices",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "price for containers",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "40 feet",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "40 foot",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sea container",
+    "match_type": "PHRASE"
+   },
+   {
+    "text": "sea containers",
+    "match_type": "PHRASE"
+   },
+   {
     "text": "mobilcube",
     "match_type": "EXACT"
    },
@@ -1121,7 +1161,7 @@
      {
       "text": "mobile storage",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 3.5
      },
      {
       "text": "mini storage near me",
@@ -1402,42 +1442,42 @@
      {
       "text": "portable storage containers",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 3.5
      },
      {
       "text": "storage container rental",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 3.5
      },
      {
       "text": "rent storage container",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 3.5
      },
      {
       "text": "moving and storage containers",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 3.5
      },
      {
       "text": "storage pods montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 3.5
      },
      {
       "text": "storage pods montreal",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 3.5
      },
      {
       "text": "storage pod rental",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 3.5
      },
      {
       "text": "storage pods",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 3.5
      },
      {
       "text": "transportable storage containers",

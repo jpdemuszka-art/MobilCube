@@ -1,6 +1,6 @@
 {
  "name": "FR+EN | Search | Concurrents",
- "budget_amount": 8.0,
+ "budget_amount": 3.0,
  "budget_type": "DAILY",
  "bidding_strategy": "MANUAL_CPC",
  "platform_settings": {

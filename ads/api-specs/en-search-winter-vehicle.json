@@ -1,6 +1,6 @@
 {
  "name": "EN | Search | Winter vehicle",
- "budget_amount": 12.0,
+ "budget_amount": 8.0,
  "budget_type": "DAILY",
  "bidding_strategy": "MANUAL_CPC",
  "platform_settings": {
@@ -1241,37 +1241,37 @@
      {
       "text": "winter car storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 4.0
+      "cpc_bid": 3.0
      },
      {
       "text": "winter car storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 4.0
+      "cpc_bid": 3.0
      },
      {
       "text": "winter car storage",
       "match_type": "PHRASE",
-      "cpc_bid": 4.0
+      "cpc_bid": 3.0
      },
      {
       "text": "car storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 4.0
+      "cpc_bid": 3.0
      },
      {
       "text": "car storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 4.0
+      "cpc_bid": 3.0
      },
      {
       "text": "winter car storage near me",
       "match_type": "PHRASE",
-      "cpc_bid": 3.2
+      "cpc_bid": 3.0
      },
      {
       "text": "winter car storage near me",
       "match_type": "EXACT",
-      "cpc_bid": 3.2
+      "cpc_bid": 3.0
      },
      {
       "text": "climate controlled car storage",
@@ -1332,12 +1332,12 @@
      {
       "text": "indoor car storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 4.0
+      "cpc_bid": 2.85
      },
      {
       "text": "indoor car storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 4.0
+      "cpc_bid": 2.85
      }
     ]
    },

@@ -1,6 +1,6 @@
 {
  "name": "FR | Search | Vehicules hiver",
- "budget_amount": 45.0,
+ "budget_amount": 30.0,
  "budget_type": "DAILY",
  "bidding_strategy": "MANUAL_CPC",
  "platform_settings": {

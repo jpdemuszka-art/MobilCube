@@ -46,19 +46,21 @@ if LP_MODE == 'lp':
     PAGES = LP
 
 # ---------------------------------------------------------------- campaigns
-# Launch budget: 5,000 $/month. Daily budgets below sum to 149 $/day = ~4,530 $/month; the remaining
-# ~470 $ is headroom for the weather trigger and impression-share guard in scripts/google-ads/.
-# Bidding at launch is Manual CPC: keyword bids below are hard ceilings and location bid adjustments work.
+# Launch budget: 5,000 $/month. Daily budgets at launch summed to 149 $/day = ~4,530 $/month (docs/08).
+# Cut on 2026-10-13 (applied live the same day, docs/14): 2 bookings from about 257 clicks, so the daily budgets
+# below now sum to 96 $/day = ~2,920 $/month. The launch values are in the comments.
+# Bidding is Manual CPC: keyword bids below are hard ceilings and location bid adjustments work.
 CAMPAIGNS = OrderedDict([
-    ('FR | Search | Entreposage mobile',  dict(budget=50, cap=3.50, lang='fr', lp='fr-mobile')),
-    ('FR | Search | Vehicules hiver',     dict(budget=45, cap=3.00, lang='fr', lp='fr-vehicule')),
-    ('FR | Search | Terrasse commercial', dict(budget=12, cap=3.50, lang='fr', lp='fr-terrasse')),
-    ('EN | Search | Mobile storage',      dict(budget=15, cap=5.00, lang='en', lp='en-mobile')),
-    ('EN | Search | Winter vehicle',      dict(budget=12, cap=4.00, lang='en', lp='en-vehicle')),
-    ('EN | Search | Commercial patio',    dict(budget=4,  cap=4.00, lang='en', lp='en-patio')),
+    ('FR | Search | Entreposage mobile',  dict(budget=35, cap=3.50, lang='fr', lp='fr-mobile')),    # launch 50
+    ('FR | Search | Vehicules hiver',     dict(budget=30, cap=3.00, lang='fr', lp='fr-vehicule')),  # launch 45
+    ('FR | Search | Terrasse commercial', dict(budget=5,  cap=3.50, lang='fr', lp='fr-terrasse')),  # launch 12
+    ('EN | Search | Mobile storage',      dict(budget=10, cap=5.00, lang='en', lp='en-mobile')),    # launch 15
+    ('EN | Search | Winter vehicle',      dict(budget=8,  cap=4.00, lang='en', lp='en-vehicle')),   # launch 12
+    ('EN | Search | Commercial patio',    dict(budget=2,  cap=4.00, lang='en', lp='en-patio')),     # launch 4
     ('FR+EN | Search | Marque',           dict(budget=3,  cap=1.50, lang='fr', lp='fr-home')),
-    ('FR+EN | Search | Concurrents',      dict(budget=8,  cap=2.50, lang='fr', lp='fr-mobile')),
+    ('FR+EN | Search | Concurrents',      dict(budget=3,  cap=2.50, lang='fr', lp='fr-mobile')),    # launch 8
 ])
+assert sum(v['budget'] for v in CAMPAIGNS.values()) == 96
 # Per-ad-group ceilings below the campaign cap (single powersport vehicles are cheaper to store at a dealer or
 # marina than in a 20 ft unit, so these clicks are worth less), and groups held back at launch.
 AG_CAP = {'Moto hiver': 2.00, 'VTT': 2.00, 'Motoneige': 2.00, 'Remorque & équipement': 1.75,
@@ -529,6 +531,32 @@ F1_DROP = {('FR | Search | Entreposage mobile', 'Déménagement & rénovation', 
 keep = [i for i, r in enumerate(kw_rows) if (r[0], r[1], r[2], r[3]) not in F1_DROP]
 kw_rows = [kw_rows[i] for i in keep]; kw_list_rows = [kw_list_rows[i] for i in keep]
 
+# Spend cut (2026-10-13, applied live the same day, docs/14). Keyword max CPCs in the enabled ad groups below are
+# capped near the break-even CPC of docs/13 §4c. Paused ad groups and ad-group default bids were not changed in
+# the account, so they are not changed here: cap a paused group before enabling it. Two PHRASE keywords that kept
+# matching off-target searches are removed; their EXACT versions (where they exist) stay.
+CUT_CEIL = OrderedDict([
+    ('FR | Search | Entreposage mobile', (2.80, ["Conteneur d'entreposage", "Cube d'entreposage", 'Mini-entrepôt',
+                                                 'Entreposage mobile', 'Mini-entreposage mobile', 'Rive-Sud (géo)',
+                                                 'Déménagement & rénovation'])),
+    ('FR | Search | Terrasse commercial', (2.80, ['Mobilier de terrasse', 'Commercial saisonnier & inventaire'])),
+    ('EN | Search | Mobile storage', (3.50, ['Mobile storage', 'Portable container'])),
+    ('EN | Search | Winter vehicle', (3.00, ['Winter car storage', 'Heated car storage'])),
+    ('EN | Search | Commercial patio', (3.00, ['Patio furniture', 'Business seasonal'])),
+])
+CUT_CAP = {(c, ag): cap for c, (cap, ags) in CUT_CEIL.items() for ag in ags}
+CUT_CAP[('EN | Search | Winter vehicle', 'Heated car storage')] = 2.85   # heated car break-even 2.88 $
+CUT_DROP = {('FR | Search | Terrasse commercial', 'Commercial saisonnier & inventaire', 'entreposage pour entreprise', 'Phrase'),
+            ('FR | Search | Entreposage mobile', 'Déménagement & rénovation', 'entreposage déménagement', 'Phrase')}
+keep = [i for i, r in enumerate(kw_rows) if (r[0], r[1], r[2], r[3]) not in CUT_DROP]
+assert len(keep) == len(kw_rows) - len(CUT_DROP)
+kw_rows = [kw_rows[i] for i in keep]; kw_list_rows = [kw_list_rows[i] for i in keep]
+for r, l in zip(kw_rows, kw_list_rows):
+    assert (r[0], r[1], r[2], r[3]) == (l[1], l[2], l[3], l[4])
+    cap = CUT_CAP.get((r[0], r[1]))
+    if cap is not None and float(r[4]) > cap: r[4] = l[5] = f'{cap:.2f}'
+assert {(r[0], r[1]) for r in kw_rows} >= set(CUT_CAP)
+
 # ---------------------------------------------------------------- write CSVs
 def w(name, header, rows):
     p = os.path.join(OUT, name)
@@ -538,7 +566,7 @@ def w(name, header, rows):
 
 w('01-campaigns.csv',
   ['Campaign', 'Campaign Type', 'Networks', 'Budget', 'Budget type', 'Bid Strategy Type', 'Max CPC bid limit', 'Location', 'Ad Schedule', 'Campaign Status'],
-  [[c, 'Search', 'Google search', f'{v["budget"]:.2f}', 'Daily', 'Manual CPC', f'{v["cap"]:.2f} (keyword ceiling)', 'set in UI (see docs/08 §4)', 'Mon-Sun 06:00-23:00', 'Paused'] for c, v in CAMPAIGNS.items()])
+  [[c, 'Search', 'Google search', f'{v["budget"]:.2f}', 'Daily', 'Manual CPC', f'{CUT_CEIL[c][0] if c in CUT_CEIL else v["cap"]:.2f} (keyword ceiling)', 'set in UI (see docs/08 §4)', 'Mon-Sun 06:00-23:00', 'Paused'] for c, v in CAMPAIGNS.items()])
 
 ad_groups = OrderedDict()
 for row in kw_rows:
@@ -622,13 +650,31 @@ for c in ['FR | Search | Vehicules hiver', 'EN | Search | Winter vehicle']:
 TER_NEG = ['achat', 'acheter', 'à vendre', 'a vendre', 'vente', 'buy', 'for sale', 'ikea', 'costco', 'canadian tire', 'rona', 'housse', 'cover', 'toile', 'construction de terrasse', 'deck builder', 'permis', 'permit', 'emploi', 'job']
 for c in ['FR | Search | Terrasse commercial', 'EN | Search | Commercial patio']:
     for n in TER_NEG: camp_neg.append([c, n, 'Negative Phrase'])
-# Movers and trucks (audit 2026-10-08, list A, applied live the same day). U-Haul is left to the owner's decision.
+# Movers and trucks (audit 2026-10-08, list A, applied live the same day). The U-Haul entries were added with the
+# spend cut below.
 MOVER_NEG = ['déménageur', 'déménageurs', 'demenageur', 'demenageurs', 'compagnie de déménagement', 'compagnie de demenagement',
              'camion de déménagement', 'camion de demenagement', 'camions de déménagement', 'camions de demenagement',
              'location camion', 'location de camion', 'location de camions', 'camion à louer', 'camion a louer', 'louer un camion',
              'déménagement camion', 'demenagement camion', 'uber', 'simulateur', 'longue distance', 'clan panneton',
              'déménagement tout compris', 'demenagement tout compris', 'déménagement piano', 'demenagement piano', 'déménageur piano']
 for n in MOVER_NEG: camp_neg.append(['FR | Search | Entreposage mobile', n, 'Negative Phrase'])
+# Spend cut (2026-10-13, applied live the same day, docs/14): the waste left in the search terms was shipping-container
+# price searches (EN), RV and boat storage (FR) and warehouse leasing and U-Haul (FR Entreposage mobile).
+RV_NEG = ['roulotte', 'roulottes', 'vr', 'véhicule récréatif', 'vehicule recreatif', 'motorisé', 'caravane', 'bateau', 'bateaux']
+CUT_NEG = {
+    'EN | Search | Mobile storage': ['shipping container', 'shipping containers', 'container cost', 'container price',
+                                     'container prices', 'price for containers', '40 feet', '40 foot', 'sea container',
+                                     'sea containers'],
+    'FR | Search | Terrasse commercial': RV_NEG,
+    'FR | Search | Entreposage mobile': RV_NEG + ['entrepôt commercial', 'entrepot commercial', 'entrepôt industriel',
+                                                  'entrepot industriel', 'u haul', 'u-haul', 'uhaul'],
+}
+for c, ns in CUT_NEG.items():
+    for n in ns:
+        # never add a negative that would block an enabled keyword of that campaign
+        hit = [r[2] for r in kw_rows if r[0] == c and r[6] == 'Enabled' and re.search(r'(^|\s)' + re.escape(n) + r'($|\s)', r[2].lower())]
+        assert not hit, (c, n, hit)
+        camp_neg.append([c, n, 'Negative Phrase'])
 BRAND_NEG = ['mobilcube', 'mobil cube']
 for c in CAMPAIGNS:
     if 'Marque' in c: continue
