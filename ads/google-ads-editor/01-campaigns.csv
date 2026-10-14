@@ -1,9 +1,9 @@
 ﻿Campaign,Campaign Type,Networks,Budget,Budget type,Bid Strategy Type,Max CPC bid limit,Location,Ad Schedule,Campaign Status
-FR | Search | Entreposage mobile,Search,Google search,35.00,Daily,Manual CPC,2.80 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
-FR | Search | Vehicules hiver,Search,Google search,30.00,Daily,Manual CPC,3.00 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
-FR | Search | Terrasse commercial,Search,Google search,5.00,Daily,Manual CPC,2.80 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
-EN | Search | Mobile storage,Search,Google search,10.00,Daily,Manual CPC,3.50 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
-EN | Search | Winter vehicle,Search,Google search,8.00,Daily,Manual CPC,3.00 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
-EN | Search | Commercial patio,Search,Google search,2.00,Daily,Manual CPC,3.00 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
+FR | Search | Entreposage mobile,Search,Google search,35.00,Daily,Manual CPC,2.00 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
+FR | Search | Vehicules hiver,Search,Google search,30.00,Daily,Manual CPC,2.00 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
+FR | Search | Terrasse commercial,Search,Google search,5.00,Daily,Manual CPC,2.00 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
+EN | Search | Mobile storage,Search,Google search,10.00,Daily,Manual CPC,2.00 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
+EN | Search | Winter vehicle,Search,Google search,8.00,Daily,Manual CPC,2.00 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
+EN | Search | Commercial patio,Search,Google search,2.00,Daily,Manual CPC,2.00 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
 FR+EN | Search | Marque,Search,Google search,3.00,Daily,Manual CPC,1.50 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
-FR+EN | Search | Concurrents,Search,Google search,3.00,Daily,Manual CPC,2.50 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused
+FR+EN | Search | Concurrents,Search,Google search,3.00,Daily,Manual CPC,2.00 (keyword ceiling),set in UI (see docs/08 §4),Mon-Sun 06:00-23:00,Paused

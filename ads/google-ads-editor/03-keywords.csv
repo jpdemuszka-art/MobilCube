@@ -1,40 +1,40 @@
 ﻿Campaign,Ad Group,Keyword,Criterion Type,Max CPC,Final URL,Status
-FR | Search | Entreposage mobile,Entreposage mobile,entreposage mobile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,entreposage mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur d'entreposage,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,location conteneur entreposage,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,location conteneur entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,location de conteneur d'entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Cube d'entreposage,cube d'entreposage,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Cube d'entreposage,cube d'entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Cube d'entreposage,cube entreposage,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Cube d'entreposage,location cube entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,entrepôt mobile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,entrepôt mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,entrepot mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,entreposage montréal,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,location d'entreposage,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,espace d'entreposage à louer,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,mini entrepôt montréal,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver,Phrase,2.25,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver,Exact,2.25,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver,Phrase,2.25,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver,Exact,2.25,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage véhicule hiver,Phrase,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage voiture rive-sud,Exact,2.48,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto chauffé,Phrase,2.48,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Voiture collection,entreposage voiture de collection,Phrase,2.70,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Voiture collection,entreposage auto de collection hiver,Exact,2.70,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,remisage auto,Exact,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau,Phrase,2.25,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau hiver,Phrase,2.25,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau hiver,Exact,2.25,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau intérieur,Exact,2.25,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau rive-sud,Exact,2.48,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau montréal,Exact,2.48,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,"Bateau (test, pausé)",hivernage bateau,Phrase,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,"Bateau (test, pausé)",hivernage bateau entreposage,Exact,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,Entreposage mobile,entreposage mobile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,entreposage mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur d'entreposage,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,location conteneur entreposage,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,location conteneur entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,location de conteneur d'entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Cube d'entreposage,cube d'entreposage,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Cube d'entreposage,cube d'entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Cube d'entreposage,cube entreposage,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Cube d'entreposage,location cube entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,entrepôt mobile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,entrepôt mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,entrepot mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,entreposage montréal,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,location d'entreposage,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,espace d'entreposage à louer,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,mini entrepôt montréal,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage véhicule hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage voiture rive-sud,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto chauffé,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Voiture collection,entreposage voiture de collection,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Voiture collection,entreposage auto de collection hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,remisage auto,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau intérieur,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau rive-sud,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau montréal,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,"Bateau (test, pausé)",hivernage bateau,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,"Bateau (test, pausé)",hivernage bateau entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
 FR | Search | Vehicules hiver,Moto hiver,entreposage moto hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Moto hiver,entreposage moto hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Moto hiver,remisage moto,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
@@ -44,131 +44,131 @@ FR | Search | Vehicules hiver,VTT,entreposage quad,Exact,1.57,https://www.mobilc
 FR | Search | Vehicules hiver,VTT,entreposage côte à côte,Exact,1.57,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Motoneige,entreposage motoneige,Phrase,1.57,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Remorque & équipement,entreposage remorque,Phrase,1.75,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage motomarine,Exact,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage mobilier de terrasse,Phrase,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage terrasse restaurant,Phrase,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage terrasse hiver,Phrase,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage mobilier extérieur,Phrase,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage meubles de patio,Phrase,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage mobilier de jardin,Exact,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage parasols chauffe-terrasse,Exact,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,entreposage commercial montréal,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage pour restaurant,Phrase,2.48,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,entreposage saisonnier,Phrase,2.48,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,entreposage saisonnier commercial,Exact,2.48,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,entreposage inventaire,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,entreposage inventaire commerce de détail,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,conteneur entreposage commercial,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Mobilier de terrasse,conteneur entreposage chantier,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Paysagiste & équipement,entreposage équipement paysagement,Exact,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage matériel événementiel,Exact,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage hôtel mobilier,Exact,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Hôtel & condo,entreposage condo mobilier commun,Exact,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage archives documents montréal,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,conteneur déménagement,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,entreposage temporaire,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage laval,Phrase,3.50,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage longueuil,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage brossard,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage rive-sud,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage rive-nord,Phrase,3.15,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage terrebonne,Phrase,3.15,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage repentigny,Phrase,3.15,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage boucherville,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage sainte-julie,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage saint-hubert,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage candiac,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage châteauguay,Phrase,3.15,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage vaudreuil,Phrase,3.15,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage west island,Phrase,3.50,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage pointe-claire,Exact,3.50,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage dollard-des-ormeaux,Exact,3.50,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage kirkland,Exact,3.50,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage laurentides,Phrase,2.70,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage saint-jérôme,Phrase,2.93,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage blainville,Phrase,3.15,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage mascouche,Exact,2.93,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage mirabel,Exact,2.70,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau laval,Exact,2.48,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-EN | Search | Mobile storage,Mobile storage,mobile storage,Phrase,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,portable storage containers,Phrase,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,storage container rental,Phrase,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,rent storage container,Phrase,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,moving and storage containers,Phrase,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,storage pods montreal,Phrase,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,storage pods montreal,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,storage pod rental,Phrase,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,storage pods,Phrase,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,"Self storage alternative (test, paused)",storage units near me,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,"Self storage alternative (test, paused)",self storage montreal,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,"Self storage alternative (test, paused)",storage montreal,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,"Self storage alternative (test, paused)",heated storage montreal,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,"Self storage alternative (test, paused)",heated storage montreal,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage west island,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage west island,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage pointe claire,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage pointe claire,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage dollard des ormeaux,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage dollard des ormeaux,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage kirkland,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage kirkland,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage beaconsfield,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage beaconsfield,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage westmount,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage westmount,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage ndg,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage ndg,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage lachine,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage lachine,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage vaudreuil,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage vaudreuil,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage hudson quebec,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage hudson quebec,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage laval,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage laval,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage south shore montreal,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage south shore montreal,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage brossard,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage brossard,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage downtown montreal,Phrase,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Mobile storage,Generic geo (paused),storage downtown montreal,Exact,5.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Winter vehicle,Winter car storage,winter car storage montreal,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Winter vehicle,Winter car storage,winter car storage montreal,Exact,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Winter vehicle,Winter car storage,winter car storage,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Winter vehicle,Winter car storage,car storage montreal,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Winter vehicle,Winter car storage,car storage montreal,Exact,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Winter vehicle,Heated car storage,indoor car storage montreal,Phrase,2.85,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Winter vehicle,Heated car storage,indoor car storage montreal,Exact,2.85,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Winter vehicle,Motorcycle & ATV,motorcycle storage montreal,Phrase,2.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Winter vehicle,Motorcycle & ATV,motorcycle storage montreal,Exact,2.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Winter vehicle,"Boat (test, paused)",boat storage montreal,Phrase,4.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Winter vehicle,"Boat (test, paused)",boat storage montreal,Exact,4.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Winter vehicle,"Boat (test, paused)",winter boat storage,Phrase,4.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Winter vehicle,"Boat (test, paused)",boat storage west island,Phrase,4.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Winter vehicle,"Boat (test, paused)",boat storage west island,Exact,4.00,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Winter vehicle,Boat & PWC,jet ski storage montreal,Phrase,3.38,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Winter vehicle,Boat & PWC,jet ski storage montreal,Exact,3.38,https://www.mobilcube.com/en/booking-form/,Paused
-EN | Search | Commercial patio,Patio furniture,patio furniture storage,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,commercial seasonal storage montreal,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,commercial seasonal storage montreal,Exact,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,seasonal storage montreal,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,seasonal storage montreal,Exact,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,business storage montreal,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,business storage montreal,Exact,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,commercial storage container rental montreal,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,commercial storage container rental montreal,Exact,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,inventory storage montreal,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,inventory storage montreal,Exact,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,storage container for business,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,jobsite storage container rental montreal,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,jobsite storage container rental montreal,Exact,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,landscaping equipment winter storage,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,condo storage container rental,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,film production storage container montreal,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Commercial patio,Business seasonal,office renovation storage container,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-FR+EN | Search | Concurrents,Competitors EN,pods montreal,Phrase,2.50,https://www.mobilcube.com/en/booking-form/,Enabled
-FR+EN | Search | Concurrents,Competitors EN,pods montreal,Exact,2.50,https://www.mobilcube.com/en/booking-form/,Enabled
-FR+EN | Search | Concurrents,Competitors EN,gocube montreal,Exact,2.48,https://www.mobilcube.com/en/booking-form/,Enabled
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage motomarine,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage mobilier de terrasse,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage terrasse restaurant,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage terrasse hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage mobilier extérieur,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage meubles de patio,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage mobilier de jardin,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage parasols chauffe-terrasse,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,entreposage commercial montréal,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage pour restaurant,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,entreposage saisonnier,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,entreposage saisonnier commercial,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,entreposage inventaire,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,entreposage inventaire commerce de détail,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,conteneur entreposage commercial,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Mobilier de terrasse,conteneur entreposage chantier,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Paysagiste & équipement,entreposage équipement paysagement,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage matériel événementiel,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage hôtel mobilier,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Hôtel & condo,entreposage condo mobilier commun,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Mobilier de terrasse,entreposage archives documents montréal,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,conteneur déménagement,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,entreposage temporaire,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage laval,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage longueuil,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage brossard,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage rive-sud,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage rive-nord,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage terrebonne,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage repentigny,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage boucherville,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage sainte-julie,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage saint-hubert,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage candiac,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage châteauguay,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage vaudreuil,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage west island,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage pointe-claire,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage dollard-des-ormeaux,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage kirkland,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage laurentides,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage saint-jérôme,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage blainville,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage mascouche,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Entreposage mobile,"Géo Montréal, Laval, couronnes (pausé)",entreposage mirabel,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,"Bateau (test, pausé)",entreposage bateau laval,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+EN | Search | Mobile storage,Mobile storage,mobile storage,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,portable storage containers,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,storage container rental,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,rent storage container,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,moving and storage containers,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,storage pods montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,storage pods montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,storage pod rental,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,storage pods,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,"Self storage alternative (test, paused)",storage units near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,"Self storage alternative (test, paused)",self storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,"Self storage alternative (test, paused)",storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,"Self storage alternative (test, paused)",heated storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,"Self storage alternative (test, paused)",heated storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage west island,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage west island,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage pointe claire,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage pointe claire,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage dollard des ormeaux,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage dollard des ormeaux,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage kirkland,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage kirkland,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage beaconsfield,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage beaconsfield,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage westmount,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage westmount,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage ndg,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage ndg,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage lachine,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage lachine,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage vaudreuil,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage vaudreuil,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage hudson quebec,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage hudson quebec,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage laval,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage laval,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage south shore montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage south shore montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage brossard,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage brossard,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage downtown montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Mobile storage,Generic geo (paused),storage downtown montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Winter vehicle,Winter car storage,winter car storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Winter vehicle,Winter car storage,winter car storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Winter vehicle,Winter car storage,winter car storage,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Winter vehicle,Winter car storage,car storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Winter vehicle,Winter car storage,car storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Winter vehicle,Heated car storage,indoor car storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Winter vehicle,Heated car storage,indoor car storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Winter vehicle,Motorcycle & ATV,motorcycle storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Winter vehicle,Motorcycle & ATV,motorcycle storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Winter vehicle,"Boat (test, paused)",boat storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Winter vehicle,"Boat (test, paused)",boat storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Winter vehicle,"Boat (test, paused)",winter boat storage,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Winter vehicle,"Boat (test, paused)",boat storage west island,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Winter vehicle,"Boat (test, paused)",boat storage west island,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Winter vehicle,Boat & PWC,jet ski storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Winter vehicle,Boat & PWC,jet ski storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Paused
+EN | Search | Commercial patio,Patio furniture,patio furniture storage,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,commercial seasonal storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,commercial seasonal storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,seasonal storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,seasonal storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,business storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,business storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,commercial storage container rental montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,commercial storage container rental montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,inventory storage montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,inventory storage montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,storage container for business,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,jobsite storage container rental montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,jobsite storage container rental montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,landscaping equipment winter storage,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,condo storage container rental,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,film production storage container montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Commercial patio,Business seasonal,office renovation storage container,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+FR+EN | Search | Concurrents,Competitors EN,pods montreal,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+FR+EN | Search | Concurrents,Competitors EN,pods montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+FR+EN | Search | Concurrents,Competitors EN,gocube montreal,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 FR+EN | Search | Marque,MobilCube,mobilcube,Exact,1.20,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR+EN | Search | Marque,MobilCube,mobilcube,Phrase,1.20,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR+EN | Search | Marque,MobilCube,mobil cube,Exact,1.20,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
@@ -191,159 +191,159 @@ FR+EN | Search | Concurrents,Concurrents FR,pods entreposage,Exact,1.60,https://
 FR+EN | Search | Concurrents,Concurrents FR,conteneur pods,Exact,1.60,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR+EN | Search | Concurrents,Concurrents FR,gocube prix,Exact,1.60,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR+EN | Search | Concurrents,Concurrents FR,gocube entreposage,Exact,1.60,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive-sud,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive-sud,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage motomarine hiver,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage motomarine hiver,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage sea-doo hiver,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage sea-doo hiver,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage jet ski montréal,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage jet ski montréal,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage petit bateau hiver,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage petit bateau hiver,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage chaloupe hiver,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage chaloupe hiver,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage terrasse restaurant montréal,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage terrasse restaurant montréal,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,rangement terrasse restaurant hiver,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,rangement terrasse restaurant hiver,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage mobilier restaurant,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage mobilier restaurant,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage chauffe-terrasse,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage chauffe-terrasse,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,où entreposer mobilier de terrasse,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,où entreposer mobilier de terrasse,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage terrasse bar,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Terrasse commercial,Restaurant & bar,entreposage terrasse bar,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,entreposage mobile prix,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,entreposage mobile prix,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur entreposage mobile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur entreposage mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Cube d'entreposage,location cube entreposage,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Cube d'entreposage,cube entreposage mobile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Cube d'entreposage,cube entreposage mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Cube d'entreposage,cube entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage boucherville,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage longueuil,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage longueuil prix,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage longueuil prix,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage rive sud,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage rive sud,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage brossard,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage saint-hubert,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage sainte-julie,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage varennes,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage varennes,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage chambly,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage chambly,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage candiac,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage beloeil,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage beloeil,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,entreposage meubles,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,entreposage meubles,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,entreposage déménagement,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver prix,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver prix,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver prix,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver prix,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,prix entreposage voiture,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,prix entreposage voiture,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage voiture rive sud,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage voiture rive sud,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive sud,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive sud,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,remisage auto hiver,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,remisage auto hiver,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive-sud,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive-sud,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage motomarine hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage motomarine hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage sea-doo hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage sea-doo hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage jet ski montréal,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage jet ski montréal,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage petit bateau hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage petit bateau hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage chaloupe hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Vehicules hiver,Motomarine & petit bateau,entreposage chaloupe hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Paused
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage terrasse restaurant montréal,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage terrasse restaurant montréal,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,rangement terrasse restaurant hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,rangement terrasse restaurant hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage mobilier restaurant,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage mobilier restaurant,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage chauffe-terrasse,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage chauffe-terrasse,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,où entreposer mobilier de terrasse,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,où entreposer mobilier de terrasse,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage terrasse bar,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Terrasse commercial,Restaurant & bar,entreposage terrasse bar,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,entreposage mobile prix,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,entreposage mobile prix,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur entreposage mobile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur entreposage mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Cube d'entreposage,location cube entreposage,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Cube d'entreposage,cube entreposage mobile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Cube d'entreposage,cube entreposage mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Cube d'entreposage,cube entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage boucherville,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage longueuil,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage longueuil prix,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage longueuil prix,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage rive sud,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage rive sud,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage brossard,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage saint-hubert,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage sainte-julie,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage varennes,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage varennes,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage chambly,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage chambly,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage candiac,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage beloeil,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage beloeil,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,entreposage meubles,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,entreposage meubles,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,entreposage déménagement,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver prix,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver prix,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver prix,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver prix,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,prix entreposage voiture,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,prix entreposage voiture,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage voiture rive sud,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage voiture rive sud,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive sud,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive sud,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,remisage auto hiver,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,remisage auto hiver,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Moto hiver,entreposage moto hiver prix,Phrase,1.60,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Moto hiver,entreposage moto hiver prix,Exact,1.60,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Moto hiver,entreposage moto rive sud,Phrase,1.60,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Moto hiver,entreposage moto rive sud,Exact,1.60,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-EN | Search | Winter vehicle,Winter car storage,winter car storage near me,Phrase,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Winter vehicle,Winter car storage,winter car storage near me,Exact,3.00,https://www.mobilcube.com/en/booking-form/,Enabled
-FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto chauffé,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé,Phrase,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé,Exact,2.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,louer un conteneur prix,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,louer un conteneur prix,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,location container prix,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,location container prix,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur déménagement,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur déménagement,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,entrepot mobile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,entrepot mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,location entreposage,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,location entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,prix entreposage,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,prix entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,prix pour entreposage,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,prix pour entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,espace entreposage,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,espace entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage st jean sur richelieu,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage st jean sur richelieu,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot st hubert,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot st hubert,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt longueuil,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt longueuil,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement et entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage mobile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt mobile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepot mobile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepot mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt livré,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt livré,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage livré,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage livré,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage à domicile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage à domicile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt à domicile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt à domicile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt portatif,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt portatif,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,location mini entrepôt mobile,Phrase,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entreposage mobile,location mini entrepôt mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entrepôt,mini entrepôt,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entrepôt,minientrepot,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entrepôt,location mini entrepot,Exact,2.41,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+EN | Search | Winter vehicle,Winter car storage,winter car storage near me,Phrase,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Winter vehicle,Winter car storage,winter car storage near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto chauffé,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,louer un conteneur prix,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,louer un conteneur prix,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,location container prix,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,location container prix,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur déménagement,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur déménagement,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,entrepot mobile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,entrepot mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,location entreposage,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,location entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,prix entreposage,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,prix entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,prix pour entreposage,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,prix pour entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,espace entreposage,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,espace entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage st jean sur richelieu,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage st jean sur richelieu,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot st hubert,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot st hubert,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt longueuil,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt longueuil,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement et entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage mobile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt mobile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepot mobile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepot mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt livré,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt livré,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage livré,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage livré,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage à domicile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entreposage à domicile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt à domicile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt à domicile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt portatif,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,mini entrepôt portatif,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,location mini entrepôt mobile,Phrase,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entreposage mobile,location mini entrepôt mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entrepôt,mini entrepôt,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entrepôt,minientrepot,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entrepôt,location mini entrepot,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Mini-entrepôt,mini entrepôt prix,Exact,1.54,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Winter vehicle,Winter car storage,climate controlled car storage,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot longueuil,Exact,2.75,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot longueuil,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage terrebonne,Exact,1.67,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Moto hiver,entreposage moto,Exact,1.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt boucherville,Exact,1.86,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepôt st-hyacinthe,Exact,1.74,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt rive-sud,Exact,2.46,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt rive-sud,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Mini-entrepôt,location mini entrepôt prix,Exact,1.39,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Mini-entrepôt,mini entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Mini-entrepôt,mini entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Auto hiver,entreposage auto,Exact,1.75,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage voiture,Exact,2.34,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposer une voiture,Exact,2.34,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage voiture,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposer une voiture,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Winter vehicle,Motorcycle & ATV,storing motorcycle,Exact,0.90,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,mini storage near me,Exact,3.31,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,mini storage near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),entrepot granby,Exact,1.51,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot rive sud,Exact,2.08,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot rive sud,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage rive-nord,Exact,1.52,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepôt valleyfield,Exact,0.90,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),boucherville entrepot,Exact,2.03,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),boucherville entrepot,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),entreposage granby,Exact,1.07,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepôt granby,Exact,0.98,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepôt contrecoeur,Exact,1.92,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,location entreposage mobile,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,location entreposage mobile,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepôts salaberry,Exact,1.69,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,entreposage dans conteneur,Exact,2.54,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-EN | Search | Mobile storage,Portable container,transportable storage containers,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot st hubert,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,entreposage dans conteneur,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+EN | Search | Mobile storage,Portable container,transportable storage containers,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot st hubert,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôts mercier,Exact,1.39,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage repentigny,Exact,2.50,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage repentigny,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),entreposage marieville,Exact,1.50,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepôt st-jean-sur-richelieu,Exact,1.78,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepôt soulanges,Exact,1.50,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive nord,Exact,2.60,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive nord,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Mobile storage,Portable container,moving and storage services,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Portable container,moving storage services,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entrepot voiture,Exact,2.36,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entrepot voiture,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Winter vehicle,Winter car storage,storage for vehicle,Exact,1.92,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage unit rates,Exact,1.85,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage space prices,Exact,1.85,https://www.mobilcube.com/en/booking-form/,Enabled
@@ -355,49 +355,49 @@ EN | Search | Mobile storage,Mobile storage,storage facility rates,Exact,1.85,ht
 EN | Search | Mobile storage,Mobile storage,storage locker rates,Exact,1.85,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage room rates,Exact,1.85,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,mini storage rates,Exact,1.85,https://www.mobilcube.com/en/booking-form/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,container déménagement,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,container déménagement,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Mobile storage,Mobile storage,cost of storage unit,Exact,1.85,https://www.mobilcube.com/en/booking-form/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement par container,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,déménagement par container,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot brossard,Exact,1.26,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepot napierville,Exact,1.40,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Mobile storage,Mobile storage,price of storage,Exact,1.85,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage facility pricing,Exact,1.85,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage unit price,Exact,1.85,https://www.mobilcube.com/en/booking-form/,Enabled
-FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage mascouche,Exact,2.36,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Montérégie (géo),entreposage valleyfield,Exact,2.50,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage mascouche,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Montérégie (géo),entreposage valleyfield,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),entreposage st-hyacinthe,Exact,1.19,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt brossard,Exact,1.19,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Conteneur d'entreposage,prix location conteneur entreposage,Exact,2.08,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Conteneur d'entreposage,prix location conteneur entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Entreposage mobile,entreposage prix pied carré,Exact,1.74,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage vehicule,Exact,2.12,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposer un véhicule,Exact,2.12,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-EN | Search | Mobile storage,Mobile storage,mobile storage units,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,storage longueuil,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,moving storage containers,Exact,2.78,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,affordable storage near me,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,heated storage near me,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,inexpensive storage near me,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage vehicule,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposer un véhicule,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+EN | Search | Mobile storage,Mobile storage,mobile storage units,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,storage longueuil,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,moving storage containers,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,affordable storage near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,heated storage near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,inexpensive storage near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Commercial patio,Business seasonal,commercial storage units near me,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,heated storage facilities near me,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,container storage,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,containerised storage,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,heated storage facilities near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,container storage,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,containerised storage,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 FR | Search | Vehicules hiver,Auto hiver,entrepot auto,Exact,0.90,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,entrepot storage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,entrepot storage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage blainville,Exact,1.27,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Montérégie (géo),entreposage saint-jean-sur-richelieu,Exact,2.02,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Montérégie (géo),entreposage saint-jean-sur-richelieu,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage st eustache,Exact,1.99,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Mobile storage,Portable container,moving and storage services near me,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot chambly,Exact,1.50,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Cube d'entreposage,entreposage cube prix,Exact,1.72,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-EN | Search | Mobile storage,Portable container,portable storage units,Exact,3.31,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Portable container,portable storage,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,climate controlled storage near me,Exact,2.89,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,climate controlled storage facilities near me,Exact,2.89,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,portable storage units,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,portable storage,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,climate controlled storage near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,climate controlled storage facilities near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage locker cost,Exact,1.46,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage space cost,Exact,1.46,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage facility cost,Exact,1.46,https://www.mobilcube.com/en/booking-form/,Enabled
 FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage st mathieu de beloeil,Exact,1.44,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-EN | Search | Mobile storage,Portable container,portable storage facility,Exact,3.31,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Portable container,portable storage facility,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot candiac,Exact,1.91,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Grand Montréal (géo),entrepot pointe aux trembles,Exact,1.97,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage costs,Exact,1.46,https://www.mobilcube.com/en/booking-form/,Enabled
@@ -408,9 +408,9 @@ FR | Search | Vehicules hiver,Moto hiver,entreposage moto prix,Exact,1.49,https:
 EN | Search | Mobile storage,Portable container,moving storage,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage unit short term,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),entrepot contrecoeur,Exact,1.50,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Montérégie (géo),entrepot saint hyacinthe,Exact,2.38,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Montérégie (géo),entrepot saint hyacinthe,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepot saint jean sur richelieu,Exact,1.92,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,location espace entreposage,Exact,2.47,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,location espace entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Mobile storage,Portable container,mobile storage containers,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,storage solutions near me,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot candiac,Exact,1.42,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
@@ -422,49 +422,49 @@ EN | Search | Mobile storage,Mobile storage,short term storage,Exact,1.50,https:
 EN | Search | Mobile storage,Portable container,storage and moving,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 FR | Search | Entreposage mobile,Entreposage mobile,entreposage intérieur,Exact,1.36,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot mercier,Exact,1.76,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,entrepot pour meuble,Exact,2.36,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,entrepot pour meuble,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Mobile storage,Mobile storage,indoor storage,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,indoor storage facility,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,indoor storage unit,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepot marieville,Exact,1.16,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Montérégie (géo),mini entrepot saint hyacinthe,Exact,1.24,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Entreposage mobile,service d entreposage,Exact,1.54,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Montérégie (géo),entreposage beauharnois,Exact,2.23,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt châteauguay,Exact,2.48,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot ste julie,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Montérégie (géo),entreposage beauharnois,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt châteauguay,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot ste julie,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Moto hiver,entrepot moto,Exact,1.34,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Vehicules hiver,Moto hiver,entreposer moto hiver,Exact,1.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,location conteneur déménagement,Exact,2.68,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Déménagement & rénovation,location container pour demenagement,Exact,2.68,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-EN | Search | Mobile storage,Mobile storage,storage units longueuil,Exact,2.87,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,storage units brossard,Exact,3.50,https://www.mobilcube.com/en/booking-form/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,location conteneur déménagement,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Déménagement & rénovation,location container pour demenagement,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+EN | Search | Mobile storage,Mobile storage,storage units longueuil,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,storage units brossard,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,indoor storage near me,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,storage prices near me,Exact,2.04,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,storage prices near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,long term storage near me,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,indoor storage facility near me,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,storage units and prices near me,Exact,2.04,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,storage units and prices near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Commercial patio,Business seasonal,business storage units near me,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 EN | Search | Mobile storage,Mobile storage,10x10 storage unit price near me,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,mini storage prices near me,Exact,2.04,https://www.mobilcube.com/en/booking-form/,Enabled
-EN | Search | Mobile storage,Mobile storage,storage space prices near me,Exact,2.04,https://www.mobilcube.com/en/booking-form/,Enabled
-FR | Search | Vehicules hiver,Auto hiver,entreposage voiture montreal,Exact,2.60,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+EN | Search | Mobile storage,Mobile storage,mini storage prices near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+EN | Search | Mobile storage,Mobile storage,storage space prices near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+FR | Search | Vehicules hiver,Auto hiver,entreposage voiture montreal,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 EN | Search | Mobile storage,Portable container,residential storage containers,Exact,1.50,https://www.mobilcube.com/en/booking-form/,Enabled
 FR | Search | Vehicules hiver,Auto hiver,entreposage auto laval,Exact,1.94,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage pointe aux trembles,Exact,2.11,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Grand Montréal (géo),entrepot montreal nord,Exact,2.45,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Montérégie (géo),entrepot napierville,Exact,2.50,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot st bruno,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage pointe aux trembles,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Grand Montréal (géo),entrepot montreal nord,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Montérégie (géo),entrepot napierville,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot st bruno,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR | Search | Entreposage mobile,Grand Montréal (géo),mini entrepôt montréal prix,Exact,1.85,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
-EN | Search | Mobile storage,Mobile storage,storage unit price near me,Exact,2.04,https://www.mobilcube.com/en/booking-form/,Enabled
-FR | Search | Entreposage mobile,Entreposage mobile,unité entreposage,Exact,2.80,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
+EN | Search | Mobile storage,Mobile storage,storage unit price near me,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+FR | Search | Entreposage mobile,Entreposage mobile,unité entreposage,Exact,2.00,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled
 FR+EN | Search | Concurrents,Competitors EN,u box uhaul,Exact,1.13,https://www.mobilcube.com/en/booking-form/,Enabled
 FR+EN | Search | Concurrents,Competitors EN,uhaul ubox,Exact,1.69,https://www.mobilcube.com/en/booking-form/,Enabled
 FR+EN | Search | Concurrents,Competitors EN,pods canada,Exact,1.68,https://www.mobilcube.com/en/booking-form/,Enabled
-FR+EN | Search | Concurrents,Competitors EN,pods rental,Exact,2.29,https://www.mobilcube.com/en/booking-form/,Enabled
+FR+EN | Search | Concurrents,Competitors EN,pods rental,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 FR+EN | Search | Concurrents,Competitors EN,pods containers,Exact,1.70,https://www.mobilcube.com/en/booking-form/,Enabled
 FR+EN | Search | Concurrents,Competitors EN,pods storage,Exact,1.64,https://www.mobilcube.com/en/booking-form/,Enabled
 FR+EN | Search | Concurrents,Competitors EN,pods cost,Exact,1.46,https://www.mobilcube.com/en/booking-form/,Enabled
-FR+EN | Search | Concurrents,Competitors EN,cube it storage,Exact,2.12,https://www.mobilcube.com/en/booking-form/,Enabled
-FR+EN | Search | Concurrents,Competitors EN,go cube rental,Exact,2.22,https://www.mobilcube.com/en/booking-form/,Enabled
+FR+EN | Search | Concurrents,Competitors EN,cube it storage,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
+FR+EN | Search | Concurrents,Competitors EN,go cube rental,Exact,2.00,https://www.mobilcube.com/en/booking-form/,Enabled
 FR+EN | Search | Concurrents,Competitors EN,ubox container,Exact,1.99,https://www.mobilcube.com/en/booking-form/,Enabled
 FR+EN | Search | Concurrents,Concurrents FR,go cube prix,Exact,1.99,https://www.mobilcube.com/fr/formulaire-reservation/,Enabled

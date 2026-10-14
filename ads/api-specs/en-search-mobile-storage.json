@@ -1154,19 +1154,19 @@
    "name": "Mobile storage",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 4.0
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "mobile storage",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "mini storage near me",
       "match_type": "EXACT",
-      "cpc_bid": 3.31
+      "cpc_bid": 2.0
      },
      {
       "text": "storage unit rates",
@@ -1241,42 +1241,42 @@
      {
       "text": "mobile storage units",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "storage longueuil",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "affordable storage near me",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "heated storage near me",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "inexpensive storage near me",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "heated storage facilities near me",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "climate controlled storage near me",
       "match_type": "EXACT",
-      "cpc_bid": 2.89
+      "cpc_bid": 2.0
      },
      {
       "text": "climate controlled storage facilities near me",
       "match_type": "EXACT",
-      "cpc_bid": 2.89
+      "cpc_bid": 2.0
      },
      {
       "text": "storage locker cost",
@@ -1341,12 +1341,12 @@
      {
       "text": "storage units longueuil",
       "match_type": "EXACT",
-      "cpc_bid": 2.87
+      "cpc_bid": 2.0
      },
      {
       "text": "storage units brossard",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "indoor storage near me",
@@ -1356,7 +1356,7 @@
      {
       "text": "storage prices near me",
       "match_type": "EXACT",
-      "cpc_bid": 2.04
+      "cpc_bid": 2.0
      },
      {
       "text": "long term storage near me",
@@ -1371,7 +1371,7 @@
      {
       "text": "storage units and prices near me",
       "match_type": "EXACT",
-      "cpc_bid": 2.04
+      "cpc_bid": 2.0
      },
      {
       "text": "10x10 storage unit price near me",
@@ -1381,17 +1381,17 @@
      {
       "text": "mini storage prices near me",
       "match_type": "EXACT",
-      "cpc_bid": 2.04
+      "cpc_bid": 2.0
      },
      {
       "text": "storage space prices near me",
       "match_type": "EXACT",
-      "cpc_bid": 2.04
+      "cpc_bid": 2.0
      },
      {
       "text": "storage unit price near me",
       "match_type": "EXACT",
-      "cpc_bid": 2.04
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1435,54 +1435,54 @@
    "name": "Portable container",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 4.0
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "portable storage containers",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "storage container rental",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "rent storage container",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "moving and storage containers",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "storage pods montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "storage pods montreal",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "storage pod rental",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "storage pods",
       "match_type": "PHRASE",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "transportable storage containers",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "moving and storage services",
@@ -1497,17 +1497,17 @@
      {
       "text": "moving storage containers",
       "match_type": "EXACT",
-      "cpc_bid": 2.78
+      "cpc_bid": 2.0
      },
      {
       "text": "container storage",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "containerised storage",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "moving and storage services near me",
@@ -1517,17 +1517,17 @@
      {
       "text": "portable storage units",
       "match_type": "EXACT",
-      "cpc_bid": 3.31
+      "cpc_bid": 2.0
      },
      {
       "text": "portable storage",
       "match_type": "EXACT",
-      "cpc_bid": 3.5
+      "cpc_bid": 2.0
      },
      {
       "text": "portable storage facility",
       "match_type": "EXACT",
-      "cpc_bid": 3.31
+      "cpc_bid": 2.0
      },
      {
       "text": "moving storage",
@@ -1601,34 +1601,34 @@
    "name": "Self storage alternative (test, paused)",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 4.0
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "storage units near me",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "self storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "heated storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "heated storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1672,149 +1672,149 @@
    "name": "Generic geo (paused)",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 4.0
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "storage west island",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage west island",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage pointe claire",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage pointe claire",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage dollard des ormeaux",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage dollard des ormeaux",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage kirkland",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage kirkland",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage beaconsfield",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage beaconsfield",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage westmount",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage westmount",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage ndg",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage ndg",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage lachine",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage lachine",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage vaudreuil",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage vaudreuil",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage hudson quebec",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage hudson quebec",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage laval",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage laval",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage south shore montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage south shore montreal",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage brossard",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage brossard",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage downtown montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      },
      {
       "text": "storage downtown montreal",
       "match_type": "EXACT",
-      "cpc_bid": 5.0
+      "cpc_bid": 2.0
      }
     ]
    },

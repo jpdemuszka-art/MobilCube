@@ -1881,17 +1881,17 @@
      {
       "text": "pods montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 2.5
+      "cpc_bid": 2.0
      },
      {
       "text": "pods montreal",
       "match_type": "EXACT",
-      "cpc_bid": 2.5
+      "cpc_bid": 2.0
      },
      {
       "text": "gocube montreal",
       "match_type": "EXACT",
-      "cpc_bid": 2.48
+      "cpc_bid": 2.0
      },
      {
       "text": "u box uhaul",
@@ -1911,7 +1911,7 @@
      {
       "text": "pods rental",
       "match_type": "EXACT",
-      "cpc_bid": 2.29
+      "cpc_bid": 2.0
      },
      {
       "text": "pods containers",
@@ -1931,12 +1931,12 @@
      {
       "text": "cube it storage",
       "match_type": "EXACT",
-      "cpc_bid": 2.12
+      "cpc_bid": 2.0
      },
      {
       "text": "go cube rental",
       "match_type": "EXACT",
-      "cpc_bid": 2.22
+      "cpc_bid": 2.0
      },
      {
       "text": "ubox container",

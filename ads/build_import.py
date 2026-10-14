@@ -556,6 +556,11 @@ for r, l in zip(kw_rows, kw_list_rows):
     cap = CUT_CAP.get((r[0], r[1]))
     if cap is not None and float(r[4]) > cap: r[4] = l[5] = f'{cap:.2f}'
 assert {(r[0], r[1]) for r in kw_rows} >= set(CUT_CAP)
+# 2.00 $ ceiling everywhere (owner's request, 2026-10-14, applied live the same day, docs/14 §8): every keyword bid
+# and every ad-group default bid, enabled or paused, in all 8 campaigns.
+MAX_CPC = 2.00
+for r, l in zip(kw_rows, kw_list_rows):
+    if float(r[4]) > MAX_CPC: r[4] = l[5] = f'{MAX_CPC:.2f}'
 
 # ---------------------------------------------------------------- write CSVs
 def w(name, header, rows):
@@ -566,13 +571,13 @@ def w(name, header, rows):
 
 w('01-campaigns.csv',
   ['Campaign', 'Campaign Type', 'Networks', 'Budget', 'Budget type', 'Bid Strategy Type', 'Max CPC bid limit', 'Location', 'Ad Schedule', 'Campaign Status'],
-  [[c, 'Search', 'Google search', f'{v["budget"]:.2f}', 'Daily', 'Manual CPC', f'{CUT_CEIL[c][0] if c in CUT_CEIL else v["cap"]:.2f} (keyword ceiling)', 'set in UI (see docs/08 §4)', 'Mon-Sun 06:00-23:00', 'Paused'] for c, v in CAMPAIGNS.items()])
+  [[c, 'Search', 'Google search', f'{v["budget"]:.2f}', 'Daily', 'Manual CPC', f'{min(CUT_CEIL[c][0] if c in CUT_CEIL else v["cap"], MAX_CPC):.2f} (keyword ceiling)', 'set in UI (see docs/08 §4)', 'Mon-Sun 06:00-23:00', 'Paused'] for c, v in CAMPAIGNS.items()])
 
 ad_groups = OrderedDict()
 for row in kw_rows:
     ad_groups.setdefault((row[0], row[1]), row[6])
 w('02-ad-groups.csv', ['Campaign', 'Ad Group', 'Ad Group Type', 'Max CPC', 'Ad Group Status'],
-  [[c, ag, 'Standard', f'{min(CAMPAIGNS[c]["cap"], AG_CAP.get(ag, 99)) * 0.8:.2f}',
+  [[c, ag, 'Standard', f'{min(min(CAMPAIGNS[c]["cap"], AG_CAP.get(ag, 99)) * 0.8, MAX_CPC):.2f}',
     'Paused' if ('paus' in ag.lower() or ag in PAUSED_AG) else 'Enabled'] for (c, ag) in ad_groups])
 
 w('03-keywords.csv', ['Campaign', 'Ad Group', 'Keyword', 'Criterion Type', 'Max CPC', 'Final URL', 'Status'], kw_rows)

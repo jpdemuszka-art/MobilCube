@@ -1602,114 +1602,114 @@
    "name": "Auto hiver",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 2.4
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage voiture hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 2.25
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage voiture hiver",
       "match_type": "EXACT",
-      "cpc_bid": 2.25
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 2.25
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto hiver",
       "match_type": "EXACT",
-      "cpc_bid": 2.25
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage véhicule hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 2.02
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage voiture rive-sud",
       "match_type": "EXACT",
-      "cpc_bid": 2.48
+      "cpc_bid": 2.0
      },
      {
       "text": "remisage auto",
       "match_type": "EXACT",
-      "cpc_bid": 2.02
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto hiver rive-sud",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto hiver rive-sud",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage voiture hiver prix",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage voiture hiver prix",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto hiver prix",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto hiver prix",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "prix entreposage voiture",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "prix entreposage voiture",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage voiture rive sud",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage voiture rive sud",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto hiver rive sud",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto hiver rive sud",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "remisage auto hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "remisage auto hiver",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto",
@@ -1719,32 +1719,32 @@
      {
       "text": "entreposage voiture",
       "match_type": "EXACT",
-      "cpc_bid": 2.34
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposer une voiture",
       "match_type": "EXACT",
-      "cpc_bid": 2.34
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto hiver rive nord",
       "match_type": "EXACT",
-      "cpc_bid": 2.6
+      "cpc_bid": 2.0
      },
      {
       "text": "entrepot voiture",
       "match_type": "EXACT",
-      "cpc_bid": 2.36
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage vehicule",
       "match_type": "EXACT",
-      "cpc_bid": 2.12
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposer un véhicule",
       "match_type": "EXACT",
-      "cpc_bid": 2.12
+      "cpc_bid": 2.0
      },
      {
       "text": "entrepot auto",
@@ -1754,7 +1754,7 @@
      {
       "text": "entreposage voiture montreal",
       "match_type": "EXACT",
-      "cpc_bid": 2.6
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto laval",
@@ -1803,29 +1803,29 @@
    "name": "Auto hiver chauffé",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 2.4
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage auto chauffé",
       "match_type": "PHRASE",
-      "cpc_bid": 2.48
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto chauffé",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage chauffé",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage chauffé",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1869,19 +1869,19 @@
    "name": "Voiture collection",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 2.4
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage voiture de collection",
       "match_type": "PHRASE",
-      "cpc_bid": 2.7
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage auto de collection hiver",
       "match_type": "EXACT",
-      "cpc_bid": 2.7
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1925,54 +1925,54 @@
    "name": "Bateau (test, pausé)",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 2.4
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage bateau",
       "match_type": "PHRASE",
-      "cpc_bid": 2.25
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage bateau hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 2.25
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage bateau hiver",
       "match_type": "EXACT",
-      "cpc_bid": 2.25
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage bateau intérieur",
       "match_type": "EXACT",
-      "cpc_bid": 2.25
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage bateau rive-sud",
       "match_type": "EXACT",
-      "cpc_bid": 2.48
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage bateau montréal",
       "match_type": "EXACT",
-      "cpc_bid": 2.48
+      "cpc_bid": 2.0
      },
      {
       "text": "hivernage bateau",
       "match_type": "PHRASE",
-      "cpc_bid": 2.02
+      "cpc_bid": 2.0
      },
      {
       "text": "hivernage bateau entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 2.02
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage bateau laval",
       "match_type": "EXACT",
-      "cpc_bid": 2.48
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -2285,64 +2285,64 @@
    "name": "Motomarine & petit bateau",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 2.4
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage motomarine",
       "match_type": "EXACT",
-      "cpc_bid": 2.02
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage motomarine hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage motomarine hiver",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage sea-doo hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage sea-doo hiver",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage jet ski montréal",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage jet ski montréal",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage petit bateau hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage petit bateau hiver",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage chaloupe hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      },
      {
       "text": "entreposage chaloupe hiver",
       "match_type": "EXACT",
-      "cpc_bid": 2.4
+      "cpc_bid": 2.0
      }
     ]
    },
