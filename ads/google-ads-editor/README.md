@@ -9,8 +9,8 @@ Launch plan behind these files: `docs/08-launch-analysis-2026-09-30.md` (5,000 $
 | File | Contents | Editor destination |
 |---|---|---|
 | `01-campaigns.csv` | 8 Search campaigns, paused, daily budgets summing to 96 $/day since the 2026-10-13 spend cut (149 $/day at launch, docs/14), Manual CPC | Campaigns |
-| `02-ad-groups.csv` | 38 themed ad groups, 7 of them paused (Tier 3 tests), default max CPC | Ad groups |
-| `03-keywords.csv` | 469 phrase + exact keywords (394 enabled). Since 2026-10-14 no keyword bid exceeds 2.00 $ (docs/14 §8) | Keywords |
+| `02-ad-groups.csv` | 38 themed ad groups, 7 of them paused (Tier 3 tests), default max CPC (0.50 $ since 2026-10-19) | Ad groups |
+| `03-keywords.csv` | 469 phrase + exact keywords (394 enabled). Since 2026-10-19 every keyword bid is 0.50 $ (docs/14 §9) | Keywords |
 | `04-responsive-search-ads.csv` | One RSA per ad group, 15 headlines (positions 1–2 pinned), 4 descriptions, paths | Responsive search ads |
 | `05-negative-keyword-lists.csv` | Shared lists `Negatives - FR` and `Negatives - EN` (330 terms) | Shared library → Negative keyword lists |
 | `06-campaign-negatives.csv` | Campaign-level negatives (RVs, big boats, heated storage and tires on vehicle campaigns, purchase terms on terrace campaigns, brand on non-brand campaigns) | Campaign negative keywords |

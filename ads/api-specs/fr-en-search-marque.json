@@ -1314,99 +1314,99 @@
    "name": "MobilCube",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 1.2
+    "cpc_bid": 0.5
    },
    "targeting": {
     "keywords": [
      {
       "text": "mobilcube",
       "match_type": "EXACT",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube",
       "match_type": "PHRASE",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobil cube",
       "match_type": "EXACT",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobil cube",
       "match_type": "PHRASE",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube boucherville",
       "match_type": "EXACT",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube boucherville",
       "match_type": "PHRASE",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube prix",
       "match_type": "EXACT",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube prix",
       "match_type": "PHRASE",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube avis",
       "match_type": "EXACT",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube avis",
       "match_type": "PHRASE",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube storage",
       "match_type": "EXACT",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube storage",
       "match_type": "PHRASE",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube reviews",
       "match_type": "EXACT",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobilcube reviews",
       "match_type": "PHRASE",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobil cube montreal",
       "match_type": "EXACT",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      },
      {
       "text": "mobil cube montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 1.2
+      "cpc_bid": 0.5
      }
     ]
    },

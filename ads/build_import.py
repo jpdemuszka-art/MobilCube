@@ -556,9 +556,9 @@ for r, l in zip(kw_rows, kw_list_rows):
     cap = CUT_CAP.get((r[0], r[1]))
     if cap is not None and float(r[4]) > cap: r[4] = l[5] = f'{cap:.2f}'
 assert {(r[0], r[1]) for r in kw_rows} >= set(CUT_CAP)
-# 2.00 $ ceiling everywhere (owner's request, 2026-10-14, applied live the same day, docs/14 §8): every keyword bid
-# and every ad-group default bid, enabled or paused, in all 8 campaigns.
-MAX_CPC = 2.00
+# Max CPC ceiling everywhere (owner's requests, applied live the same day): every keyword bid and every ad-group
+# default bid, enabled or paused, in all 8 campaigns. 2.00 $ on 2026-10-14 (docs/14 §8), 0.50 $ on 2026-10-19 (docs/14 §9).
+MAX_CPC = 0.50
 for r, l in zip(kw_rows, kw_list_rows):
     if float(r[4]) > MAX_CPC: r[4] = l[5] = f'{MAX_CPC:.2f}'
 

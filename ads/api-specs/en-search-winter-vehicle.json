@@ -1234,54 +1234,54 @@
    "name": "Winter car storage",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 2.0
+    "cpc_bid": 0.5
    },
    "targeting": {
     "keywords": [
      {
       "text": "winter car storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "winter car storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "winter car storage",
       "match_type": "PHRASE",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "car storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "car storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "winter car storage near me",
       "match_type": "PHRASE",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "winter car storage near me",
       "match_type": "EXACT",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "climate controlled car storage",
       "match_type": "EXACT",
-      "cpc_bid": 1.5
+      "cpc_bid": 0.5
      },
      {
       "text": "storage for vehicle",
       "match_type": "EXACT",
-      "cpc_bid": 1.92
+      "cpc_bid": 0.5
      }
     ]
    },
@@ -1325,19 +1325,19 @@
    "name": "Heated car storage",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 2.0
+    "cpc_bid": 0.5
    },
    "targeting": {
     "keywords": [
      {
       "text": "indoor car storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "indoor car storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      }
     ]
    },
@@ -1381,24 +1381,24 @@
    "name": "Motorcycle & ATV",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 2.0
+    "cpc_bid": 0.5
    },
    "targeting": {
     "keywords": [
      {
       "text": "motorcycle storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "motorcycle storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "storing motorcycle",
       "match_type": "EXACT",
-      "cpc_bid": 0.9
+      "cpc_bid": 0.5
      }
     ]
    },
@@ -1442,34 +1442,34 @@
    "name": "Boat (test, paused)",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 2.0
+    "cpc_bid": 0.5
    },
    "targeting": {
     "keywords": [
      {
       "text": "boat storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "boat storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "winter boat storage",
       "match_type": "PHRASE",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "boat storage west island",
       "match_type": "PHRASE",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "boat storage west island",
       "match_type": "EXACT",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      }
     ]
    },
@@ -1513,19 +1513,19 @@
    "name": "Boat & PWC",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 2.0
+    "cpc_bid": 0.5
    },
    "targeting": {
     "keywords": [
      {
       "text": "jet ski storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      },
      {
       "text": "jet ski storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 2.0
+      "cpc_bid": 0.5
      }
     ]
    },
