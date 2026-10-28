@@ -557,10 +557,12 @@ for r, l in zip(kw_rows, kw_list_rows):
     if cap is not None and float(r[4]) > cap: r[4] = l[5] = f'{cap:.2f}'
 assert {(r[0], r[1]) for r in kw_rows} >= set(CUT_CAP)
 # Max CPC ceiling everywhere (owner's requests, applied live the same day): every keyword bid and every ad-group
-# default bid, enabled or paused, in all 8 campaigns. 2.00 $ on 2026-10-14 (docs/14 §8), 0.50 $ on 2026-10-19 (docs/14 §9).
-MAX_CPC = 0.50
+# default bid, enabled or paused, in all 8 campaigns. 2.00 $ on 2026-10-14 (docs/14 §8), 0.50 $ on 2026-10-19 (docs/14 §9),
+# 0.75 $ on 2026-10-28 (docs/14 §10). Every launch bid is above 0.75 $, so every bid is now exactly 0.75 $.
+MAX_CPC = 0.75
 for r, l in zip(kw_rows, kw_list_rows):
     if float(r[4]) > MAX_CPC: r[4] = l[5] = f'{MAX_CPC:.2f}'
+assert {r[4] for r in kw_rows} == {f'{MAX_CPC:.2f}'}
 
 # ---------------------------------------------------------------- write CSVs
 def w(name, header, rows):

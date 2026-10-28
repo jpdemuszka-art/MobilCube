@@ -1170,14 +1170,14 @@
    "name": "Patio furniture",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "patio furniture storage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -1221,104 +1221,104 @@
    "name": "Business seasonal",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "commercial seasonal storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "commercial seasonal storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "seasonal storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "seasonal storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "business storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "business storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "commercial storage container rental montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "commercial storage container rental montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "inventory storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "inventory storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "storage container for business",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "jobsite storage container rental montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "jobsite storage container rental montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "landscaping equipment winter storage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "condo storage container rental",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "film production storage container montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "office renovation storage container",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "commercial storage units near me",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "business storage units near me",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },

@@ -1874,74 +1874,74 @@
    "name": "Competitors EN",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "pods montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "pods montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "gocube montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "u box uhaul",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "uhaul ubox",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "pods canada",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "pods rental",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "pods containers",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "pods storage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "pods cost",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "cube it storage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "go cube rental",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "ubox container",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -1985,34 +1985,34 @@
    "name": "Concurrents FR",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "pods entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "conteneur pods",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "gocube prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "gocube entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "go cube prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },

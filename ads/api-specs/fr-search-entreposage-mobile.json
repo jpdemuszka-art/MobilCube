@@ -1670,139 +1670,139 @@
    "name": "Entreposage mobile",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepôt mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepôt mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage montréal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location d'entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "espace d'entreposage à louer",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt montréal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage mobile prix",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage mobile prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "prix entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "prix entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "prix pour entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "prix pour entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "espace entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "espace entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location entreposage mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage prix pied carré",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot storage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location espace entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage intérieur",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "service d entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "unité entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -1846,89 +1846,89 @@
    "name": "Conteneur d'entreposage",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "conteneur d'entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location conteneur entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location conteneur entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location de conteneur d'entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "conteneur entreposage mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "conteneur entreposage mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "louer un conteneur prix",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "louer un conteneur prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location container prix",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location container prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "conteneur déménagement",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "conteneur déménagement",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage dans conteneur",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "prix location conteneur entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -1972,54 +1972,54 @@
    "name": "Cube d'entreposage",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "cube d'entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "cube d'entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "cube entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location cube entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location cube entreposage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "cube entreposage mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "cube entreposage mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "cube entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage cube prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -2063,99 +2063,99 @@
    "name": "Mini-entreposage mobile",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "mini entrepôt mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entreposage mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entreposage mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt livré",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt livré",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entreposage livré",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entreposage livré",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entreposage à domicile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entreposage à domicile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt à domicile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt à domicile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt portatif",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt portatif",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location mini entrepôt mobile",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location mini entrepôt mobile",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -2199,69 +2199,69 @@
    "name": "Déménagement & rénovation",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "conteneur déménagement",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage temporaire",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage meubles",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage meubles",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage déménagement",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "déménagement et entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "déménagement entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "container déménagement",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "déménagement par container",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot pour meuble",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location conteneur déménagement",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location container pour demenagement",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -2305,84 +2305,84 @@
    "name": "Géo Montréal, Laval, couronnes (pausé)",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage laval",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage rive-nord",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage terrebonne",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage repentigny",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage châteauguay",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage vaudreuil",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage west island",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage pointe-claire",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage dollard-des-ormeaux",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage kirkland",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage laurentides",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage saint-jérôme",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage blainville",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage mascouche",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage mirabel",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -2426,239 +2426,239 @@
    "name": "Rive-Sud (géo)",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage longueuil",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage brossard",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage rive-sud",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage boucherville",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage sainte-julie",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage saint-hubert",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage candiac",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage boucherville",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage longueuil",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage longueuil prix",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage longueuil prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage rive sud",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage rive sud",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage brossard",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage saint-hubert",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage sainte-julie",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage varennes",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage varennes",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage chambly",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage chambly",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage candiac",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage beloeil",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage beloeil",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage st jean sur richelieu",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage st jean sur richelieu",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot st hubert",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot st hubert",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt longueuil",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt longueuil",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot longueuil",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt boucherville",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt rive-sud",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot rive sud",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "boucherville entrepot",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot st hubert",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôts mercier",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot brossard",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt brossard",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot chambly",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage st mathieu de beloeil",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot candiac",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot candiac",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot mercier",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt châteauguay",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot ste julie",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot st bruno",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -2702,39 +2702,39 @@
    "name": "Mini-entrepôt",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "mini entrepôt",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "minientrepot",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location mini entrepot",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "location mini entrepôt prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -2778,59 +2778,59 @@
    "name": "Grand Montréal (géo)",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage terrebonne",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage rive-nord",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage repentigny",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage mascouche",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage blainville",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage st eustache",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot pointe aux trembles",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage pointe aux trembles",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot montreal nord",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt montréal prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -2874,129 +2874,129 @@
    "name": "Montérégie (géo)",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "mini entrepôt st-hyacinthe",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot granby",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt valleyfield",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage granby",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt granby",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt contrecoeur",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôts salaberry",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage marieville",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt st-jean-sur-richelieu",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepôt soulanges",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot napierville",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage valleyfield",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage st-hyacinthe",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage saint-jean-sur-richelieu",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage farnham",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage montérégie",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot st dominique",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot contrecoeur",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot saint hyacinthe",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot saint jean sur richelieu",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot marieville",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "mini entrepot saint hyacinthe",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage beauharnois",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entrepot napierville",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },

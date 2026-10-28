@@ -1562,54 +1562,54 @@
    "name": "Mobilier de terrasse",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage mobilier de terrasse",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage terrasse hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage mobilier extérieur",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage meubles de patio",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage mobilier de jardin",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage parasols chauffe-terrasse",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "conteneur entreposage chantier",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage matériel événementiel",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage archives documents montréal",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -1653,84 +1653,84 @@
    "name": "Restaurant & bar",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage terrasse restaurant",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage pour restaurant",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage hôtel mobilier",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage terrasse restaurant montréal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage terrasse restaurant montréal",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "rangement terrasse restaurant hiver",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "rangement terrasse restaurant hiver",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage mobilier restaurant",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage mobilier restaurant",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage chauffe-terrasse",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage chauffe-terrasse",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "où entreposer mobilier de terrasse",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "où entreposer mobilier de terrasse",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage terrasse bar",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage terrasse bar",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -1774,39 +1774,39 @@
    "name": "Commercial saisonnier & inventaire",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage commercial montréal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage saisonnier",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage saisonnier commercial",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage inventaire",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "entreposage inventaire commerce de détail",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      },
      {
       "text": "conteneur entreposage commercial",
       "match_type": "PHRASE",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -1850,14 +1850,14 @@
    "name": "Paysagiste & équipement",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage équipement paysagement",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
@@ -1901,14 +1901,14 @@
    "name": "Hôtel & condo",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.5
+    "cpc_bid": 0.75
    },
    "targeting": {
     "keywords": [
      {
       "text": "entreposage condo mobilier commun",
       "match_type": "EXACT",
-      "cpc_bid": 0.5
+      "cpc_bid": 0.75
      }
     ]
    },
