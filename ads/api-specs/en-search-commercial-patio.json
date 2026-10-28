@@ -1113,8 +1113,8 @@
   "sitelinks": [
    {
     "link_text": "Rates and Offers",
-    "description1": "Freedom $350/mo",
-    "description2": "Advantage from $180/mo",
+    "description1": "Promo: $160/mo",
+    "description2": "Delivery $300, 15 km included",
     "url": "https://www.mobilcube.com/en/pricing/"
    },
    {
@@ -1170,14 +1170,14 @@
    "name": "Patio furniture",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.75
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "patio furniture storage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1205,7 +1205,7 @@
       "descriptions": [
        "A mini-storage unit delivered to your door: tables, chairs, umbrellas and heaters go in.",
        "Keep it on site or send it to our heated Boucherville warehouse until spring.",
-       "$289.75/mo on a 6-month heated plan, transport $300 per movement. Quote in 60 seconds.",
+       "Promo: $160/mo in our heated warehouse, transport $300 per movement. Quote in 60 seconds.",
        "Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline."
       ],
       "final_urls": [
@@ -1221,104 +1221,104 @@
    "name": "Business seasonal",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.75
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "commercial seasonal storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "commercial seasonal storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "seasonal storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "seasonal storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "business storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "business storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "commercial storage container rental montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "commercial storage container rental montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "inventory storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "inventory storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "storage container for business",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "jobsite storage container rental montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "jobsite storage container rental montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "landscaping equipment winter storage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "condo storage container rental",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "film production storage container montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "office renovation storage container",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "commercial storage units near me",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "business storage units near me",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1346,7 +1346,7 @@
       "descriptions": [
        "A mini-storage unit delivered to your door: tables, chairs, umbrellas and heaters go in.",
        "Keep it on site or send it to our heated Boucherville warehouse until spring.",
-       "$289.75/mo on a 6-month heated plan, transport $300 per movement. Quote in 60 seconds.",
+       "Promo: $160/mo in our heated warehouse, transport $300 per movement. Quote in 60 seconds.",
        "Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline."
       ],
       "final_urls": [

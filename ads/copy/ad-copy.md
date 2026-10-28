@@ -60,7 +60,7 @@ Path: /car/heated
 
 ## fr-vehicule
 
-**Pinned 1:** 270 $/mois sur 6 mois  
+**Pinned 1:** Promo : 160 $/mois  
 **Pinned 2:** Votre auto à l'abri cet hiver
 
 Headlines:
@@ -80,7 +80,7 @@ Headlines:
 
 Descriptions:
 - Un mini-entrepôt mobile livré chez vous : votre auto passe l'hiver à l'abri du sel. (83)
-- 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (83)
+- Promo : 160 $/mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (80)
 - Moto, VTT, motoneige, motomarine ou auto : chargez au sol, accès 24/7 chez vous. (80)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
@@ -89,7 +89,7 @@ Path: /entreposage/hiver
 ## fr-vehicule-collection
 
 **Pinned 1:** Voiture de collection protégée  
-**Pinned 2:** 270 $/mois sur 6 mois
+**Pinned 2:** Promo : 160 $/mois
 
 Headlines:
 - Remisage hiver dans l'entrée (28)
@@ -108,7 +108,7 @@ Headlines:
 
 Descriptions:
 - Votre voiture de collection passe l'hiver dans un mini-entrepôt mobile privé, chez vous. (88)
-- 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (83)
+- Promo : 160 $/mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (80)
 - Porte de 7 pi 5 po, plancher de bois marin, verrouillage renforcé. Chargez à votre rythme. (90)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
@@ -124,7 +124,7 @@ Headlines:
 - Mini-entrepôt privé de 160 pi² (30)
 - Chez vous ou à notre entrepôt (29)
 - On l'entrepose pour vous (24)
-- Dès 180 $/mois (24 mois) (24)
+- Promo : 160 $/mois (18)
 - Entrepôt chauffé, Boucherville (30)
 - Prix affichés, zéro surprise (28)
 - Soumission en 60 secondes (25)
@@ -137,7 +137,7 @@ Headlines:
 Descriptions:
 - Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme. (88)
 - Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé. (80)
-- 350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $. (90)
+- Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus. (86)
 - Basés à Boucherville. Livraison partout en Montérégie. Appelez-nous, on répond. (79)
 
 Path: /mini-entrepot/monteregie
@@ -152,7 +152,7 @@ Headlines:
 - Aucun transport à payer (23)
 - Fini le sel et la neige (23)
 - Accès sur rendez-vous (21)
-- Ou chez vous : 270 $/mois (25)
+- Ou chez vous : 160 $/mois (25)
 - Libérez votre garage (20)
 - Prix affichés, zéro surprise (28)
 - Soumission en 60 secondes (25)
@@ -165,7 +165,7 @@ Headlines:
 Descriptions:
 - Déposez votre moto à Boucherville : elle passe l'hiver au chaud, à l'abri du sel. (81)
 - 80 $/mois sur 6 mois en entrepôt chauffé, sans transport si vous l'amenez. Devis en 60 s. (89)
-- Ou un mini-entrepôt livré chez vous : 270 $/mois sur 6 mois, livraison 300 $ (15 km). (85)
+- Ou un mini-entrepôt livré chez vous : 160 $/mois, livraison 300 $ (15 km inclus). (81)
 - Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond. (73)
 
 Path: /moto/chauffe
@@ -173,7 +173,7 @@ Path: /moto/chauffe
 ## fr-vehicule-powersports
 
 **Pinned 1:** Moto, VTT, motoneige acceptés  
-**Pinned 2:** 270 $/mois sur 6 mois
+**Pinned 2:** Promo : 160 $/mois
 
 Headlines:
 - Remisage hiver dans l'entrée (28)
@@ -192,7 +192,7 @@ Headlines:
 
 Descriptions:
 - Moto, VTT, motoneige, motomarine : un mini-entrepôt mobile livré chez vous cet hiver. (85)
-- 270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (83)
+- Promo : 160 $/mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s. (80)
 - 1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol. (84)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
@@ -221,7 +221,7 @@ Headlines:
 Descriptions:
 - Un mini-entrepôt devant votre commerce : tables, chaises, parasols et chauffe-terrasses. (88)
 - Gardez-le sur place ou confiez-le à notre entrepôt chauffé jusqu'au printemps. (78)
-- 289,75 $/mois sur 6 mois en entrepôt chauffé, transport 300 $ par déplacement. Devis 60 s. (90)
+- Promo : 160 $/mois en entrepôt chauffé, transport 300 $ par déplacement. Devis en 60 s. (87)
 - Restaurants, bars, cafés, hôtels : videz votre terrasse avant la date limite du quartier. (89)
 
 Path: /terrasse/commerce
@@ -249,7 +249,7 @@ Headlines:
 Descriptions:
 - Condos, paysagistes, commerces : un mini-entrepôt privé pour meubles, bacs et équipement. (89)
 - Gardez-le sur place ou confiez-le à notre entrepôt chauffé jusqu'au printemps. (78)
-- 289,75 $/mois sur 6 mois en entrepôt chauffé, transport 300 $ par déplacement. Devis 60 s. (90)
+- Promo : 160 $/mois en entrepôt chauffé, transport 300 $ par déplacement. Devis en 60 s. (87)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
 Path: /entreposage/commercial
@@ -264,7 +264,7 @@ Headlines:
 - Chez vous ou à notre entrepôt (29)
 - On l'entrepose pour vous (24)
 - Assez grand pour un 5 et demi (29)
-- Dès 180 $/mois (24 mois) (24)
+- Promo : 160 $/mois (18)
 - Entrepôt chauffé, Boucherville (30)
 - Prix affichés, zéro surprise (28)
 - Soumission en 60 secondes (25)
@@ -277,7 +277,7 @@ Headlines:
 Descriptions:
 - Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme. (88)
 - Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé. (80)
-- 350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $. (90)
+- Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus. (86)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
 Path: /mini-entrepot/rive-sud
@@ -293,7 +293,7 @@ Headlines:
 - Chez vous ou à notre entrepôt (29)
 - Zéro double manutention (23)
 - Assez grand pour un 5 et demi (29)
-- Dès 180 $/mois (24 mois) (24)
+- Promo : 160 $/mois (18)
 - Prix affichés, zéro surprise (28)
 - Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
@@ -304,7 +304,7 @@ Headlines:
 
 Descriptions:
 - On livre votre mini-entrepôt, vous le remplissez, on le déplace à votre nouvelle adresse. (89)
-- 350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus. (81)
+- Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus. (86)
 - Rénovation ? Vos meubles restent chez vous, à l'abri de la poussière, accessibles 24/7. (87)
 - Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond. (83)
 
@@ -312,7 +312,7 @@ Path: /demenagement/mini-entrepot
 
 ## en-vehicle
 
-**Pinned 1:** $270/mo on a 6-Month Plan  
+**Pinned 1:** Promo: $160/mo  
 **Pinned 2:** Your Car Safe All Winter
 
 Headlines:
@@ -332,7 +332,7 @@ Headlines:
 
 Descriptions:
 - A steel mini-storage unit delivered to your driveway: your car spends the winter inside. (88)
-- $270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds. (86)
+- Promo: $160/mo, delivery $300 (15 km included). Online quote in 60 seconds. (75)
 - Motorcycle, ATV, snowmobile, jet ski or car: load at ground level, 24/7 access at home. (87)
 - Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer. (87)
 
@@ -341,7 +341,7 @@ Path: /storage/winter
 ## en-vehicle-powersports
 
 **Pinned 1:** Motorcycle, ATV, Snowmobile  
-**Pinned 2:** $270/mo on a 6-Month Plan
+**Pinned 2:** Promo: $160/mo
 
 Headlines:
 - Winter Storage at Home (22)
@@ -360,7 +360,7 @@ Headlines:
 
 Descriptions:
 - Motorcycle, ATV, snowmobile, jet ski: a steel mini-storage unit delivered for winter. (85)
-- $270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds. (86)
+- Promo: $160/mo, delivery $300 (15 km included). Online quote in 60 seconds. (75)
 - Motorcycle in our heated Boucherville warehouse: $80/mo on a 6-month plan. (74)
 - Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer. (87)
 
@@ -389,7 +389,7 @@ Headlines:
 Descriptions:
 - A mini-storage unit delivered to your door: tables, chairs, umbrellas and heaters go in. (88)
 - Keep it on site or send it to our heated Boucherville warehouse until spring. (77)
-- $289.75/mo on a 6-month heated plan, transport $300 per movement. Quote in 60 seconds. (86)
+- Promo: $160/mo in our heated warehouse, transport $300 per movement. Quote in 60 seconds. (89)
 - Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline. (89)
 
 Path: /patio/storage
@@ -404,7 +404,7 @@ Headlines:
 - At Home or in Our Warehouse (27)
 - We Store It for You (19)
 - Room for a Whole Apartment (26)
-- From $180/mo (24 Months) (24)
+- Promo: $160/mo (14)
 - Heated Warehouse, South Shore (29)
 - Prices Published, No Surprises (30)
 - Get a Quote in 60 Seconds (25)
@@ -417,7 +417,7 @@ Headlines:
 Descriptions:
 - A private 160 sq ft steel mini-storage unit delivered to you. Load at your own pace. (84)
 - Keep it at home with 24/7 access, or we store it in our heated Boucherville warehouse. (86)
-- $350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300. (82)
+- Current promotion: mobile mini-storage unit at $160/mo. Delivery $300, 15 km included. (86)
 - Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer. (87)
 
 Path: /mini-storage/montreal
@@ -433,7 +433,7 @@ Headlines:
 - At Home or in Our Warehouse (27)
 - Zero Double Handling (20)
 - Room for a Whole Apartment (26)
-- From $180/mo (24 Months) (24)
+- Promo: $160/mo (14)
 - Prices Published, No Surprises (30)
 - Get a Quote in 60 Seconds (25)
 - Delivery $300, 15 km Included (29)
@@ -444,7 +444,7 @@ Headlines:
 
 Descriptions:
 - We deliver your mini-storage unit, you load it, we move it to your new address. (79)
-- $350/mo no commitment, $270/mo on 6 months. Delivery $300 per movement, 15 km included. (87)
+- Current promotion: mobile mini-storage unit at $160/mo. Delivery $300, 15 km included. (86)
 - Renovating? Your furniture stays home, dust-free and accessible 24/7. (69)
 - Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer. (87)
 
@@ -461,7 +461,7 @@ Headlines:
 - Entrepôt chauffé, Boucherville (30)
 - Chez vous ou à notre entrepôt (29)
 - Accès 24/7 dans votre entrée (28)
-- Dès 180 $/mois (24 mois) (24)
+- Promo : 160 $/mois (18)
 - Prix affichés, zéro surprise (28)
 - Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
@@ -472,7 +472,7 @@ Headlines:
 
 Descriptions:
 - Site officiel MobilCube : prix affichés, soumission en ligne, livraison Grand Montréal. (87)
-- 350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $. (90)
+- Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus. (86)
 - Mini-entrepôt mobile de 160 pi². Chez vous ou dans notre entrepôt chauffé. (74)
 - Questions ? Appelez-nous : on répond en français et en anglais. (63)
 
@@ -489,7 +489,7 @@ Headlines:
 - Entrepôt chauffé, Boucherville (30)
 - Mini-entrepôt livré chez vous (29)
 - Chez vous ou à notre entrepôt (29)
-- Dès 180 $/mois (24 mois) (24)
+- Promo : 160 $/mois (18)
 - Prix affichés, zéro surprise (28)
 - Soumission en 60 secondes (25)
 - Livraison 300 $, 15 km inclus (29)
@@ -500,7 +500,7 @@ Headlines:
 
 Descriptions:
 - Avant de réserver ailleurs : prix affichés, mini-entrepôt de 160 pi² et véhicule accepté. (89)
-- 350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus. (81)
+- Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus. (86)
 - Entreprise de Boucherville. Entrepôt chauffé sur la Rive-Sud, livraison Montréal et Laval. (90)
 - Prix affichés sur le site et soumission en ligne en 60 secondes. (64)
 
@@ -517,7 +517,7 @@ Headlines:
 - Heated Warehouse, South Shore (29)
 - Mini-Storage Delivered (22)
 - At Home or in Our Warehouse (27)
-- From $180/mo (24 Months) (24)
+- Promo: $160/mo (14)
 - Prices Published, No Surprises (30)
 - Get a Quote in 60 Seconds (25)
 - Delivery $300, 15 km Included (29)
@@ -528,7 +528,7 @@ Headlines:
 
 Descriptions:
 - Before you book elsewhere: prices published, a 160 sq ft unit, and your car is welcome. (87)
-- $350/mo no commitment, $270/mo on 6 months. Delivery $300 per movement, 15 km included. (87)
+- Current promotion: mobile mini-storage unit at $160/mo. Delivery $300, 15 km included. (86)
 - Boucherville company. Heated South Shore warehouse, delivery across Montreal and Laval. (87)
 - Prices published on our site and an online quote in 60 seconds. (63)
 
@@ -537,7 +537,7 @@ Path: /compare/prices
 ## Sitelinks, callouts, snippets
 
 ### FR
-- Tarifs et offres — Liberté 350 $/mois / Avantage dès 180 $/mois → https://www.mobilcube.com/fr/prix-location/
+- Tarifs et offres — Promo : 160 $/mois / Livraison 300 $, 15 km inclus → https://www.mobilcube.com/fr/prix-location/
 - Dimensions et capacité — Mini-entrepôt de 160 pi² / Voyez ce qui entre dans 20 pi → https://www.mobilcube.com/fr/capacites-stockage/
 - Entreposage de véhicules — Auto 160 $/mois en entrepôt chauffé / Moto 80 $/mois, sur 6 mois → https://www.mobilcube.com/fr/prix-location/
 - Terrasses et commerces — Restaurants, bars, condos / Retour au printemps → https://www.mobilcube.com/fr/cas-usage/
@@ -545,7 +545,7 @@ Path: /compare/prices
 - Snippet Services: Auto, Moto, VTT, Terrasse, Déménagement, Rénovation, Chantier
 
 ### EN
-- Rates and Offers — Freedom $350/mo / Advantage from $180/mo → https://www.mobilcube.com/en/pricing/
+- Rates and Offers — Promo: $160/mo / Delivery $300, 15 km included → https://www.mobilcube.com/en/pricing/
 - Size and Capacity — 160 sq ft private unit / See what fits in 20 ft → https://www.mobilcube.com/en/capacities/
 - Vehicle Storage — Heated: car $160/mo / Motorcycle $80/mo, 6 months → https://www.mobilcube.com/en/pricing/
 - Patios and Businesses — Restaurants, bars, condos / Delivered back in spring → https://www.mobilcube.com/en/use-cases/

@@ -1177,8 +1177,8 @@
   "sitelinks": [
    {
     "link_text": "Rates and Offers",
-    "description1": "Freedom $350/mo",
-    "description2": "Advantage from $180/mo",
+    "description1": "Promo: $160/mo",
+    "description2": "Delivery $300, 15 km included",
     "url": "https://www.mobilcube.com/en/pricing/"
    },
    {
@@ -1234,54 +1234,54 @@
    "name": "Winter car storage",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.75
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "winter car storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "winter car storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "winter car storage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "car storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "car storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "winter car storage near me",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "winter car storage near me",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "climate controlled car storage",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "storage for vehicle",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1290,7 +1290,7 @@
      "name": "RSA | Winter car storage",
      "creative": {
       "headlines": [
-       "$270/mo on a 6-Month Plan",
+       "Promo: $160/mo",
        "Your Car Safe All Winter",
        "Winter Car Storage at Home",
        "No Salt, No Snow, No Ice",
@@ -1308,7 +1308,7 @@
       ],
       "descriptions": [
        "A steel mini-storage unit delivered to your driveway: your car spends the winter inside.",
-       "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+       "Promo: $160/mo, delivery $300 (15 km included). Online quote in 60 seconds.",
        "Motorcycle, ATV, snowmobile, jet ski or car: load at ground level, 24/7 access at home.",
        "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
       ],
@@ -1325,19 +1325,19 @@
    "name": "Heated car storage",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.75
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "indoor car storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "indoor car storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1381,24 +1381,24 @@
    "name": "Motorcycle & ATV",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.75
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "motorcycle storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "motorcycle storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "storing motorcycle",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1408,7 +1408,7 @@
      "creative": {
       "headlines": [
        "Motorcycle, ATV, Snowmobile",
-       "$270/mo on a 6-Month Plan",
+       "Promo: $160/mo",
        "Winter Storage at Home",
        "No Salt, No Snow, No Ice",
        "Mini-Storage in Your Driveway",
@@ -1425,7 +1425,7 @@
       ],
       "descriptions": [
        "Motorcycle, ATV, snowmobile, jet ski: a steel mini-storage unit delivered for winter.",
-       "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+       "Promo: $160/mo, delivery $300 (15 km included). Online quote in 60 seconds.",
        "Motorcycle in our heated Boucherville warehouse: $80/mo on a 6-month plan.",
        "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
       ],
@@ -1442,34 +1442,34 @@
    "name": "Boat (test, paused)",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.75
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "boat storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "boat storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "winter boat storage",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "boat storage west island",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "boat storage west island",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1479,7 +1479,7 @@
      "creative": {
       "headlines": [
        "Motorcycle, ATV, Snowmobile",
-       "$270/mo on a 6-Month Plan",
+       "Promo: $160/mo",
        "Winter Storage at Home",
        "No Salt, No Snow, No Ice",
        "Mini-Storage in Your Driveway",
@@ -1496,7 +1496,7 @@
       ],
       "descriptions": [
        "Motorcycle, ATV, snowmobile, jet ski: a steel mini-storage unit delivered for winter.",
-       "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+       "Promo: $160/mo, delivery $300 (15 km included). Online quote in 60 seconds.",
        "Motorcycle in our heated Boucherville warehouse: $80/mo on a 6-month plan.",
        "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
       ],
@@ -1513,19 +1513,19 @@
    "name": "Boat & PWC",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.75
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "jet ski storage montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "jet ski storage montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1535,7 +1535,7 @@
      "creative": {
       "headlines": [
        "Motorcycle, ATV, Snowmobile",
-       "$270/mo on a 6-Month Plan",
+       "Promo: $160/mo",
        "Winter Storage at Home",
        "No Salt, No Snow, No Ice",
        "Mini-Storage in Your Driveway",
@@ -1552,7 +1552,7 @@
       ],
       "descriptions": [
        "Motorcycle, ATV, snowmobile, jet ski: a steel mini-storage unit delivered for winter.",
-       "$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.",
+       "Promo: $160/mo, delivery $300 (15 km included). Online quote in 60 seconds.",
        "Motorcycle in our heated Boucherville warehouse: $80/mo on a 6-month plan.",
        "Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer."
       ],

@@ -97,49 +97,49 @@ RSAS = {
           'Based in Boucherville, off Highways 20 and 30. Call us, we answer.'],
     path=('car', 'heated')),
  'fr-vehicule': dict(
-    pin1='270 $/mois sur 6 mois', pin2='Votre auto à l\'abri cet hiver',
+    pin1='Promo : 160 $/mois', pin2='Votre auto à l\'abri cet hiver',
     heads=['Remisage hiver dans l\'entrée', 'Fini le sel et la neige', 'Moto, VTT, motoneige acceptés',
            'Mini-entrepôt pour votre auto', 'Entrepôt chauffé : 160 $/mois', 'Accès 24/7 dans votre entrée'] + H_FR_COMMON,
     desc=["Un mini-entrepôt mobile livré chez vous : votre auto passe l'hiver à l'abri du sel.",
-          '270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.',
+          'Promo : 160 $/mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.',
           'Moto, VTT, motoneige, motomarine ou auto : chargez au sol, accès 24/7 chez vous.',
           'Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond.'],
     path=('entreposage', 'hiver')),
  'fr-vehicule-collection': dict(
-    pin1='Voiture de collection protégée', pin2='270 $/mois sur 6 mois',
+    pin1='Voiture de collection protégée', pin2='Promo : 160 $/mois',
     heads=['Remisage hiver dans l\'entrée', 'Fini le sel et la neige', 'Mini-entrepôt privé et fermé',
            'Aucun trajet vers un entrepôt', 'Accès 24/7 dans votre entrée', 'Avant le 1er décembre'] + H_FR_COMMON,
     desc=["Votre voiture de collection passe l'hiver dans un mini-entrepôt mobile privé, chez vous.",
-          '270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.',
+          'Promo : 160 $/mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.',
           'Porte de 7 pi 5 po, plancher de bois marin, verrouillage renforcé. Chargez à votre rythme.',
           'Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond.'],
     path=('remisage', 'collection')),
  'fr-mobile-monteregie': dict(
     pin1='Mini-entreposage mobile', pin2='Partout en Montérégie',
     heads=['Livré, rempli, entreposé', 'Mini-entrepôt privé de 160 pi²', 'Chez vous ou à notre entrepôt',
-           'On l\'entrepose pour vous', 'Dès 180 $/mois (24 mois)', 'Entrepôt chauffé, Boucherville',
+           'On l\'entrepose pour vous', 'Promo : 160 $/mois', 'Entrepôt chauffé, Boucherville',
            'Prix affichés, zéro surprise', 'Soumission en 60 secondes', 'Livraison 300 $, 15 km inclus',
            'MobilCube | Mini-entreposage', 'Aucun frais d\'administration', 'Appelez : réponse immédiate', 'Basés à Boucherville'],
     desc=['Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme.',
           "Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé.",
-          '350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.',
+          'Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus.',
           'Basés à Boucherville. Livraison partout en Montérégie. Appelez-nous, on répond.'],
     path=('mini-entrepot', 'monteregie')),
  'fr-vehicule-moto': dict(
     pin1='Entreposage moto chauffé', pin2='Moto : 80 $/mois sur 6 mois',
     heads=['Entrepôt chauffé, Boucherville', 'Aucun transport à payer', 'Fini le sel et la neige',
-           'Accès sur rendez-vous', 'Ou chez vous : 270 $/mois', 'Libérez votre garage'] + H_FR_COMMON,
+           'Accès sur rendez-vous', 'Ou chez vous : 160 $/mois', 'Libérez votre garage'] + H_FR_COMMON,
     desc=["Déposez votre moto à Boucherville : elle passe l'hiver au chaud, à l'abri du sel.",
           "80 $/mois sur 6 mois en entrepôt chauffé, sans transport si vous l'amenez. Devis en 60 s.",
-          'Ou un mini-entrepôt livré chez vous : 270 $/mois sur 6 mois, livraison 300 $ (15 km).',
+          'Ou un mini-entrepôt livré chez vous : 160 $/mois, livraison 300 $ (15 km inclus).',
           'Basés à Boucherville, près de la 20 et de la 30. Appelez-nous, on répond.'],
     path=('moto', 'chauffe')),
  'fr-vehicule-powersports': dict(
-    pin1='Moto, VTT, motoneige acceptés', pin2='270 $/mois sur 6 mois',
+    pin1='Moto, VTT, motoneige acceptés', pin2='Promo : 160 $/mois',
     heads=['Remisage hiver dans l\'entrée', 'Fini le sel et la neige', 'Mini-entrepôt livré chez vous',
            '2 VTT et la remorque entrent', 'Accès 24/7 dans votre entrée', 'Libérez votre garage'] + H_FR_COMMON,
     desc=["Moto, VTT, motoneige, motomarine : un mini-entrepôt mobile livré chez vous cet hiver.",
-          '270 $/mois sur 6 mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.',
+          'Promo : 160 $/mois, livraison 300 $ (15 km inclus). Soumission en ligne en 60 s.',
           "1 165 pi³ : deux VTT, la remorque et l'équipement entrent. Chargez au niveau du sol.",
           'Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond.'],
     path=('entreposage', 'vtt-moto')),
@@ -150,7 +150,7 @@ RSAS = {
            'Entrepôt chauffé, Boucherville'] + H_FR_COMMON[:6],
     desc=['Un mini-entrepôt devant votre commerce : tables, chaises, parasols et chauffe-terrasses.',
           "Gardez-le sur place ou confiez-le à notre entrepôt chauffé jusqu'au printemps.",
-          '289,75 $/mois sur 6 mois en entrepôt chauffé, transport 300 $ par déplacement. Devis 60 s.',
+          'Promo : 160 $/mois en entrepôt chauffé, transport 300 $ par déplacement. Devis en 60 s.',
           'Restaurants, bars, cafés, hôtels : videz votre terrasse avant la date limite du quartier.'],
     path=('terrasse', 'commerce')),
  'fr-terrasse-condo': dict(
@@ -159,42 +159,42 @@ RSAS = {
            'Mini-entrepôt privé de 160 pi²', 'Entrepôt chauffé, Boucherville', 'Surplus d\'inventaire à l\'abri'] + H_FR_COMMON,
     desc=["Condos, paysagistes, commerces : un mini-entrepôt privé pour meubles, bacs et équipement.",
           "Gardez-le sur place ou confiez-le à notre entrepôt chauffé jusqu'au printemps.",
-          '289,75 $/mois sur 6 mois en entrepôt chauffé, transport 300 $ par déplacement. Devis 60 s.',
+          'Promo : 160 $/mois en entrepôt chauffé, transport 300 $ par déplacement. Devis en 60 s.',
           'Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond.'],
     path=('entreposage', 'commercial')),
  'fr-mobile': dict(
     pin1='Mini-entreposage mobile', pin2='Livré, rempli, entreposé',
     heads=['Mini-entrepôt privé de 160 pi²', 'Chez vous ou à notre entrepôt', 'On l\'entrepose pour vous',
-           'Assez grand pour un 5 et demi', 'Dès 180 $/mois (24 mois)', 'Entrepôt chauffé, Boucherville'] + H_FR_COMMON,
+           'Assez grand pour un 5 et demi', 'Promo : 160 $/mois', 'Entrepôt chauffé, Boucherville'] + H_FR_COMMON,
     desc=['Un mini-entrepôt privé de 160 pi² livré chez vous. Remplissez-le au sol, à votre rythme.',
           "Gardez-le chez vous avec accès 24/7, ou on l'entrepose à notre entrepôt chauffé.",
-          '350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.',
+          'Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus.',
           'Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond.'],
     path=('mini-entrepot', 'rive-sud')),
  'fr-mobile-demenagement': dict(
     pin1='Déménagez sans camion', pin2='Mini-entrepôt livré chez vous',
     heads=['Rénovation : meubles à l\'abri', 'Chargez à votre rythme', 'Chez vous ou à notre entrepôt',
-           'Zéro double manutention', 'Assez grand pour un 5 et demi', 'Dès 180 $/mois (24 mois)'] + H_FR_COMMON,
+           'Zéro double manutention', 'Assez grand pour un 5 et demi', 'Promo : 160 $/mois'] + H_FR_COMMON,
     desc=['On livre votre mini-entrepôt, vous le remplissez, on le déplace à votre nouvelle adresse.',
-          '350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus.',
+          'Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus.',
           "Rénovation ? Vos meubles restent chez vous, à l'abri de la poussière, accessibles 24/7.",
           'Basés à Boucherville. Livraison Rive-Sud, Montréal, Laval. Appelez-nous, on répond.'],
     path=('demenagement', 'mini-entrepot')),
  'en-vehicle': dict(
-    pin1='$270/mo on a 6-Month Plan', pin2='Your Car Safe All Winter',
+    pin1='Promo: $160/mo', pin2='Your Car Safe All Winter',
     heads=['Winter Car Storage at Home', 'No Salt, No Snow, No Ice', 'Motorcycle, ATV, Snowmobile',
            'Mini-Storage in Your Driveway', 'Heated Warehouse: $160/mo', '24/7 Access in Your Driveway'] + H_EN_COMMON,
     desc=['A steel mini-storage unit delivered to your driveway: your car spends the winter inside.',
-          '$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.',
+          'Promo: $160/mo, delivery $300 (15 km included). Online quote in 60 seconds.',
           'Motorcycle, ATV, snowmobile, jet ski or car: load at ground level, 24/7 access at home.',
           'Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer.'],
     path=('storage', 'winter')),
  'en-vehicle-powersports': dict(
-    pin1='Motorcycle, ATV, Snowmobile', pin2='$270/mo on a 6-Month Plan',
+    pin1='Motorcycle, ATV, Snowmobile', pin2='Promo: $160/mo',
     heads=['Winter Storage at Home', 'No Salt, No Snow, No Ice', 'Mini-Storage in Your Driveway',
            'Two ATVs and the Trailer Fit', '24/7 Access in Your Driveway', 'Heated Motorcycle: $80/mo'] + H_EN_COMMON,
     desc=['Motorcycle, ATV, snowmobile, jet ski: a steel mini-storage unit delivered for winter.',
-          '$270/mo on a 6-month plan, delivery $300 (15 km included). Online quote in 60 seconds.',
+          'Promo: $160/mo, delivery $300 (15 km included). Online quote in 60 seconds.',
           'Motorcycle in our heated Boucherville warehouse: $80/mo on a 6-month plan.',
           'Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer.'],
     path=('storage', 'atv-moto')),
@@ -205,62 +205,62 @@ RSAS = {
            'Heated Warehouse, South Shore'] + H_EN_COMMON[:6],
     desc=['A mini-storage unit delivered to your door: tables, chairs, umbrellas and heaters go in.',
           'Keep it on site or send it to our heated Boucherville warehouse until spring.',
-          '$289.75/mo on a 6-month heated plan, transport $300 per movement. Quote in 60 seconds.',
+          'Promo: $160/mo in our heated warehouse, transport $300 per movement. Quote in 60 seconds.',
           'Restaurants, bars, cafés, hotels, condos: clear your terrace before the borough deadline.'],
     path=('patio', 'storage')),
  'en-mobile': dict(
     pin1='Mini-Storage in Montreal', pin2='Delivered, Loaded, Stored',
     heads=['Private Unit, 160 sq ft', 'At Home or in Our Warehouse', 'We Store It for You',
-           'Room for a Whole Apartment', 'From $180/mo (24 Months)', 'Heated Warehouse, South Shore'] + H_EN_COMMON,
+           'Room for a Whole Apartment', 'Promo: $160/mo', 'Heated Warehouse, South Shore'] + H_EN_COMMON,
     desc=['A private 160 sq ft steel mini-storage unit delivered to you. Load at your own pace.',
           'Keep it at home with 24/7 access, or we store it in our heated Boucherville warehouse.',
-          '$350/mo no commitment, $270/mo on 6 months, from $180 on 24 months. Delivery $300.',
+          'Current promotion: mobile mini-storage unit at $160/mo. Delivery $300, 15 km included.',
           'Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer.'],
     path=('mini-storage', 'montreal')),
  'en-mobile-moving': dict(
     pin1='Move Without a Truck', pin2='Mini-Storage at Your Door',
     heads=['Renovating? Furniture Safe', 'Load at Your Own Pace', 'At Home or in Our Warehouse',
-           'Zero Double Handling', 'Room for a Whole Apartment', 'From $180/mo (24 Months)'] + H_EN_COMMON,
+           'Zero Double Handling', 'Room for a Whole Apartment', 'Promo: $160/mo'] + H_EN_COMMON,
     desc=['We deliver your mini-storage unit, you load it, we move it to your new address.',
-          '$350/mo no commitment, $270/mo on 6 months. Delivery $300 per movement, 15 km included.',
+          'Current promotion: mobile mini-storage unit at $160/mo. Delivery $300, 15 km included.',
           'Renovating? Your furniture stays home, dust-free and accessible 24/7.',
           'Based in Boucherville. Delivery to Montreal, West Island and Laval. Call us, we answer.'],
     path=('moving', 'mini-storage')),
  'fr-marque': dict(
     pin1='MobilCube | Site officiel', pin2='Réservez votre MobilCube',
     heads=['Mini-entrepôt livré chez vous', 'Mini-entreposage mobile', 'Entrepôt chauffé, Boucherville',
-           'Chez vous ou à notre entrepôt', 'Accès 24/7 dans votre entrée', 'Dès 180 $/mois (24 mois)'] + H_FR_COMMON,
+           'Chez vous ou à notre entrepôt', 'Accès 24/7 dans votre entrée', 'Promo : 160 $/mois'] + H_FR_COMMON,
     desc=['Site officiel MobilCube : prix affichés, soumission en ligne, livraison Grand Montréal.',
-          '350 $/mois sans engagement, 270 $/mois sur 6 mois, dès 180 $ sur 24 mois. Livraison 300 $.',
+          'Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus.',
           "Mini-entrepôt mobile de 160 pi². Chez vous ou dans notre entrepôt chauffé.",
           'Questions ? Appelez-nous : on répond en français et en anglais.'],
     path=('officiel', 'reservation')),
  'fr-concurrents': dict(
     pin1='Comparez : prix affichés', pin2='Une alternative locale',
     heads=['20 pi au lieu de petits cubes', 'Votre véhicule accepté', 'Entrepôt chauffé, Boucherville',
-           'Mini-entrepôt livré chez vous', 'Chez vous ou à notre entrepôt', 'Dès 180 $/mois (24 mois)'] + H_FR_COMMON,
+           'Mini-entrepôt livré chez vous', 'Chez vous ou à notre entrepôt', 'Promo : 160 $/mois'] + H_FR_COMMON,
     desc=['Avant de réserver ailleurs : prix affichés, mini-entrepôt de 160 pi² et véhicule accepté.',
-          '350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus.',
+          'Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus.',
           'Entreprise de Boucherville. Entrepôt chauffé sur la Rive-Sud, livraison Montréal et Laval.',
           'Prix affichés sur le site et soumission en ligne en 60 secondes.'],
     path=('comparez', 'prix')),
  'en-competitors': dict(
     pin1='Compare: Prices Published', pin2='A Local Alternative',
     heads=['20 ft, Not Small Cubes', 'Your Vehicle Is Welcome', 'Heated Warehouse, South Shore',
-           'Mini-Storage Delivered', 'At Home or in Our Warehouse', 'From $180/mo (24 Months)'] + H_EN_COMMON,
+           'Mini-Storage Delivered', 'At Home or in Our Warehouse', 'Promo: $160/mo'] + H_EN_COMMON,
     desc=['Before you book elsewhere: prices published, a 160 sq ft unit, and your car is welcome.',
-          '$350/mo no commitment, $270/mo on 6 months. Delivery $300 per movement, 15 km included.',
+          'Current promotion: mobile mini-storage unit at $160/mo. Delivery $300, 15 km included.',
           'Boucherville company. Heated South Shore warehouse, delivery across Montreal and Laval.',
           'Prices published on our site and an online quote in 60 seconds.'],
     path=('compare', 'prices')),
 }
 
 SITELINKS = {
- 'fr': [('Tarifs et offres', 'Liberté 350 $/mois', 'Avantage dès 180 $/mois', 'https://www.mobilcube.com/fr/prix-location/'),
+ 'fr': [('Tarifs et offres', 'Promo : 160 $/mois', 'Livraison 300 $, 15 km inclus', 'https://www.mobilcube.com/fr/prix-location/'),
         ('Dimensions et capacité', 'Mini-entrepôt de 160 pi²', 'Voyez ce qui entre dans 20 pi', 'https://www.mobilcube.com/fr/capacites-stockage/'),
         ('Entreposage de véhicules', 'Auto 160 $/mois en entrepôt chauffé', 'Moto 80 $/mois, sur 6 mois', PAGES['fr-vehicule']),
         ('Terrasses et commerces', 'Restaurants, bars, condos', 'Retour au printemps', PAGES['fr-terrasse'])],
- 'en': [('Rates and Offers', 'Freedom $350/mo', 'Advantage from $180/mo', 'https://www.mobilcube.com/en/pricing/'),
+ 'en': [('Rates and Offers', 'Promo: $160/mo', 'Delivery $300, 15 km included', 'https://www.mobilcube.com/en/pricing/'),
         ('Size and Capacity', '160 sq ft private unit', 'See what fits in 20 ft', 'https://www.mobilcube.com/en/capacities/'),
         ('Vehicle Storage', 'Heated: car $160/mo', 'Motorcycle $80/mo, 6 months', PAGES['en-vehicle']),
         ('Patios and Businesses', 'Restaurants, bars, condos', 'Delivered back in spring', PAGES['en-patio'])],
@@ -558,10 +558,13 @@ for r, l in zip(kw_rows, kw_list_rows):
 assert {(r[0], r[1]) for r in kw_rows} >= set(CUT_CAP)
 # Max CPC ceiling everywhere (owner's requests, applied live the same day): every keyword bid and every ad-group
 # default bid, enabled or paused, in all 8 campaigns. 2.00 $ on 2026-10-14 (docs/14 §8), 0.50 $ on 2026-10-19 (docs/14 §9),
-# 0.75 $ on 2026-10-28 (docs/14 §10). Every launch bid is above 0.75 $, so every bid is now exactly 0.75 $.
-MAX_CPC = 0.75
+# 0.75 $ then 2.00 $ on 2026-10-28 (docs/14 §10 and §11). Every launch bid is above 2.00 $, so every bid is now exactly 2.00 $.
+# The same day every ad and the pricing sitelinks switched to the 160 $/month promotion (docs/14 §11).
+# The 2026-10-28 request was "2.00 $ on every keyword and every ad-group default", so the earlier per-campaign and
+# per-ad-group caps above (CUT_CAP, AG_CAP, campaign cap) no longer apply: every bid is set to exactly MAX_CPC.
+MAX_CPC = 2.00
 for r, l in zip(kw_rows, kw_list_rows):
-    if float(r[4]) > MAX_CPC: r[4] = l[5] = f'{MAX_CPC:.2f}'
+    r[4] = l[5] = f'{MAX_CPC:.2f}'
 assert {r[4] for r in kw_rows} == {f'{MAX_CPC:.2f}'}
 
 # ---------------------------------------------------------------- write CSVs
@@ -573,13 +576,13 @@ def w(name, header, rows):
 
 w('01-campaigns.csv',
   ['Campaign', 'Campaign Type', 'Networks', 'Budget', 'Budget type', 'Bid Strategy Type', 'Max CPC bid limit', 'Location', 'Ad Schedule', 'Campaign Status'],
-  [[c, 'Search', 'Google search', f'{v["budget"]:.2f}', 'Daily', 'Manual CPC', f'{min(CUT_CEIL[c][0] if c in CUT_CEIL else v["cap"], MAX_CPC):.2f} (keyword ceiling)', 'set in UI (see docs/08 §4)', 'Mon-Sun 06:00-23:00', 'Paused'] for c, v in CAMPAIGNS.items()])
+  [[c, 'Search', 'Google search', f'{v["budget"]:.2f}', 'Daily', 'Manual CPC', f'{MAX_CPC:.2f} (keyword ceiling)', 'set in UI (see docs/08 §4)', 'Mon-Sun 06:00-23:00', 'Paused'] for c, v in CAMPAIGNS.items()])
 
 ad_groups = OrderedDict()
 for row in kw_rows:
     ad_groups.setdefault((row[0], row[1]), row[6])
 w('02-ad-groups.csv', ['Campaign', 'Ad Group', 'Ad Group Type', 'Max CPC', 'Ad Group Status'],
-  [[c, ag, 'Standard', f'{min(min(CAMPAIGNS[c]["cap"], AG_CAP.get(ag, 99)) * 0.8, MAX_CPC):.2f}',
+  [[c, ag, 'Standard', f'{MAX_CPC:.2f}',
     'Paused' if ('paus' in ag.lower() or ag in PAUSED_AG) else 'Enabled'] for (c, ag) in ad_groups])
 
 w('03-keywords.csv', ['Campaign', 'Ad Group', 'Keyword', 'Criterion Type', 'Max CPC', 'Final URL', 'Status'], kw_rows)

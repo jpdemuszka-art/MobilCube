@@ -1817,8 +1817,8 @@
   "sitelinks": [
    {
     "link_text": "Tarifs et offres",
-    "description1": "Liberté 350 $/mois",
-    "description2": "Avantage dès 180 $/mois",
+    "description1": "Promo : 160 $/mois",
+    "description2": "Livraison 300 $, 15 km inclus",
     "url": "https://www.mobilcube.com/fr/prix-location/"
    },
    {
@@ -1874,74 +1874,74 @@
    "name": "Competitors EN",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.75
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "pods montreal",
       "match_type": "PHRASE",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "pods montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "gocube montreal",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "u box uhaul",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "uhaul ubox",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "pods canada",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "pods rental",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "pods containers",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "pods storage",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "pods cost",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "cube it storage",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "go cube rental",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "ubox container",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -1957,7 +1957,7 @@
        "Heated Warehouse, South Shore",
        "Mini-Storage Delivered",
        "At Home or in Our Warehouse",
-       "From $180/mo (24 Months)",
+       "Promo: $160/mo",
        "Prices Published, No Surprises",
        "Get a Quote in 60 Seconds",
        "Delivery $300, 15 km Included",
@@ -1968,7 +1968,7 @@
       ],
       "descriptions": [
        "Before you book elsewhere: prices published, a 160 sq ft unit, and your car is welcome.",
-       "$350/mo no commitment, $270/mo on 6 months. Delivery $300 per movement, 15 km included.",
+       "Current promotion: mobile mini-storage unit at $160/mo. Delivery $300, 15 km included.",
        "Boucherville company. Heated South Shore warehouse, delivery across Montreal and Laval.",
        "Prices published on our site and an online quote in 60 seconds."
       ],
@@ -1985,34 +1985,34 @@
    "name": "Concurrents FR",
    "platform_settings": {
     "type": "SEARCH_STANDARD",
-    "cpc_bid": 0.75
+    "cpc_bid": 2.0
    },
    "targeting": {
     "keywords": [
      {
       "text": "pods entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "conteneur pods",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "gocube prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "gocube entreposage",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      },
      {
       "text": "go cube prix",
       "match_type": "EXACT",
-      "cpc_bid": 0.75
+      "cpc_bid": 2.0
      }
     ]
    },
@@ -2028,7 +2028,7 @@
        "Entrepôt chauffé, Boucherville",
        "Mini-entrepôt livré chez vous",
        "Chez vous ou à notre entrepôt",
-       "Dès 180 $/mois (24 mois)",
+       "Promo : 160 $/mois",
        "Prix affichés, zéro surprise",
        "Soumission en 60 secondes",
        "Livraison 300 $, 15 km inclus",
@@ -2039,7 +2039,7 @@
       ],
       "descriptions": [
        "Avant de réserver ailleurs : prix affichés, mini-entrepôt de 160 pi² et véhicule accepté.",
-       "350 $/mois sans engagement, 270 $/mois sur 6 mois. Livraison 300 $, 15 km inclus.",
+       "Promotion en cours : mini-entrepôt mobile à 160 $/mois. Livraison 300 $, 15 km inclus.",
        "Entreprise de Boucherville. Entrepôt chauffé sur la Rive-Sud, livraison Montréal et Laval.",
        "Prix affichés sur le site et soumission en ligne en 60 secondes."
       ],
