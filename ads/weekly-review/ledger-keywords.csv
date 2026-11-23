@@ -78,3 +78,76 @@ period_start,period_end,campaign,ad_group,keyword,match_type,clicks,cost,convers
 2026-11-02,2026-11-15,FR | Search | Vehicules hiver,Moto hiver,entreposage moto prix,Exact,2,3.94,0
 2026-11-02,2026-11-15,FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage st eustache,Exact,3,5.9,0
 2026-11-02,2026-11-15,FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt longueuil,Phrase,1,1.99,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,location entreposage,Phrase,48,93.34,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver prix,Exact,16,31.53,1
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé,Phrase,13,23.47,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,prix entreposage voiture,Phrase,12,23.32,1
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver,Exact,11,16.42,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,espace entreposage,Phrase,8,14.65,0
+2026-11-16,2026-11-22,EN | Search | Winter vehicle,Winter car storage,winter car storage,Phrase,7,12.60,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,prix entreposage,Phrase,7,13.87,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver,Phrase,7,13.90,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage voiture,Exact,6,11.93,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,location d'entreposage,Phrase,5,9.90,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage terrebonne,Exact,4,7.97,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage boucherville,Phrase,4,6.29,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver prix,Phrase,4,7.98,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Moto hiver,entreposage moto,Exact,4,7.66,0
+2026-11-16,2026-11-22,EN | Search | Winter vehicle,Winter car storage,car storage montreal,Phrase,3,5.93,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Cube d'entreposage,cube entreposage mobile,Phrase,3,6.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage st jean sur richelieu,Phrase,3,5.91,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepot candiac,Exact,3,5.93,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),mini entrepôt rive-sud,Exact,3,5.94,0
+2026-11-16,2026-11-22,EN | Search | Mobile storage,Mobile storage,storage longueuil,Exact,2,3.22,0
+2026-11-16,2026-11-22,EN | Search | Mobile storage,Mobile storage,storage prices near me,Exact,2,3.97,0
+2026-11-16,2026-11-22,EN | Search | Mobile storage,Portable container,moving and storage containers,Phrase,2,4.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Conteneur d'entreposage,conteneur d'entreposage,Phrase,2,3.96,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Cube d'entreposage,cube entreposage,Exact,2,4.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Déménagement & rénovation,entreposage meubles,Phrase,2,3.26,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,location entreposage,Exact,2,3.95,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,prix entreposage,Exact,2,3.63,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,prix pour entreposage,Phrase,2,3.96,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Montérégie (géo),entreposage saint-jean-sur-richelieu,Exact,2,3.95,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Montérégie (géo),entreposage valleyfield,Exact,2,3.84,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Montérégie (géo),mini entrepôt st-jean-sur-richelieu,Exact,2,3.98,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage st jean sur richelieu,Exact,2,3.99,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot mercier,Exact,2,3.99,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage auto,Exact,2,3.96,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive nord,Exact,2,3.98,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver,Exact,2,4.00,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage voiture hiver,Phrase,2,3.97,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Motoneige,entreposage motoneige,Phrase,2,3.99,0
+2026-11-16,2026-11-22,FR+EN | Search | Concurrents,Competitors EN,pods storage,Exact,2,3.96,1
+2026-11-16,2026-11-22,FR+EN | Search | Concurrents,Concurrents FR,go cube prix,Exact,2,3.74,0
+2026-11-16,2026-11-22,EN | Search | Mobile storage,Mobile storage,inexpensive storage near me,Exact,1,1.92,0
+2026-11-16,2026-11-22,EN | Search | Mobile storage,Mobile storage,mobile storage,Phrase,1,1.99,0
+2026-11-16,2026-11-22,EN | Search | Mobile storage,Mobile storage,storage room rates,Exact,1,2.00,0
+2026-11-16,2026-11-22,EN | Search | Mobile storage,Portable container,rent storage container,Phrase,1,2.00,0
+2026-11-16,2026-11-22,EN | Search | Winter vehicle,Winter car storage,winter car storage montreal,Exact,1,2.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,entreposage montréal,Phrase,1,2.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,espace d'entreposage à louer,Phrase,1,2.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,espace entreposage,Exact,1,1.98,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,service d entreposage,Exact,1,1.36,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage rive-nord,Exact,1,2.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Grand Montréal (géo),entreposage st eustache,Exact,1,2.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Montérégie (géo),entreposage farnham,Exact,1,1.99,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Montérégie (géo),entrepot napierville,Exact,1,1.99,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Montérégie (géo),mini entrepot saint jean sur richelieu,Exact,1,1.93,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage beloeil,Exact,1,1.96,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage saint-hubert,Phrase,1,2.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),entreposage varennes,Exact,1,2.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),entrepot st hubert,Exact,1,1.43,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage auto hiver rive-sud,Exact,1,1.97,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage auto laval,Exact,1,1.98,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage vehicule,Exact,1,1.94,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage voiture montreal,Exact,1,1.96,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposage véhicule hiver,Phrase,1,1.89,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposer un véhicule,Exact,1,1.99,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,entreposer une voiture,Exact,1,2.00,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,remisage auto hiver,Phrase,1,1.99,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage auto chauffé,Exact,1,1.93,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver chauffé,entreposage chauffé,Exact,1,2.00,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Moto hiver,entreposage moto rive sud,Exact,1,1.99,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Moto hiver,entrepot moto,Exact,1,1.98,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,VTT,entreposage VTT,Phrase,1,1.93,0
+2026-11-16,2026-11-22,FR+EN | Search | Concurrents,Concurrents FR,pods entreposage,Exact,1,2.00,0

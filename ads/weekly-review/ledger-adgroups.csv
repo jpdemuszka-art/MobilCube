@@ -22,3 +22,26 @@ period_start,period_end,campaign,ad_group,impressions,clicks,cost,conversions
 2026-11-02,2026-11-15,FR | Search | Entreposage mobile,Mini-entreposage mobile,5,0,0.00,0
 2026-11-02,2026-11-15,FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,3,0,0.00,0
 2026-11-02,2026-11-15,FR | Search | Vehicules hiver,Motoneige,2,0,0.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Entreposage mobile,1103,78,150.64,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver,434,72,136.71,2
+2026-11-16,2026-11-22,EN | Search | Mobile storage,Mobile storage,237,7,13.10,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Rive-Sud (géo),207,21,39.44,0
+2026-11-16,2026-11-22,EN | Search | Winter vehicle,Winter car storage,191,11,20.53,0
+2026-11-16,2026-11-22,EN | Search | Mobile storage,Portable container,162,3,6.00,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Auto hiver chauffé,107,15,27.40,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Moto hiver,103,6,11.63,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Montérégie (géo),102,9,17.68,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Mini-entrepôt,61,0,0.00,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Conteneur d'entreposage,48,2,3.96,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Déménagement & rénovation,44,2,3.26,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Grand Montréal (géo),41,6,11.97,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Cube d'entreposage,39,5,10.00,0
+2026-11-16,2026-11-22,EN | Search | Winter vehicle,Motorcycle & ATV,22,0,0.00,0
+2026-11-16,2026-11-22,FR | Search | Terrasse commercial,Commercial saisonnier & inventaire,13,0,0.00,0
+2026-11-16,2026-11-22,FR+EN | Search | Concurrents,Competitors EN,13,2,3.96,1
+2026-11-16,2026-11-22,FR+EN | Search | Concurrents,Concurrents FR,13,3,5.74,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Remorque & équipement,11,0,0.00,0
+2026-11-16,2026-11-22,EN | Search | Winter vehicle,Heated car storage,7,0,0.00,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,Motoneige,5,2,3.99,0
+2026-11-16,2026-11-22,FR | Search | Vehicules hiver,VTT,3,1,1.93,0
+2026-11-16,2026-11-22,FR | Search | Entreposage mobile,Mini-entreposage mobile,2,0,0.00,0
